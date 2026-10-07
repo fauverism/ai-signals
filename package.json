@@ -1,0 +1,24 @@
+{
+  "name": "ai-signal",
+  "version": "0.1.0",
+  "description": "Daily aggregator of AI news, research, tutorials, tools and releases.",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "dedupe": "node scripts/dedupe.js",
+    "rank": "node scripts/rank.js",
+    "build": "node scripts/build.js",
+    "check": "node scripts/validate.js",
+    "verify-sources": "node scripts/verify-sources.js",
+    "daily": "npm run collect && npm run dedupe && npm run rank && npm run build && npm run check"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

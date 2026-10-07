@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/edition.schema.json",
+  "title": "Edition",
+  "description": "data/editions/YYYY-MM-DD.json. data/latest.json is a copy of the newest one.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "generatedAt", "editorNote", "lead", "top", "innovations", "trending", "byCategory", "stats"],
+  "properties": {
+    "date": { "$ref": "common.schema.json#/$defs/editionDate" },
+    "generatedAt": { "$ref": "common.schema.json#/$defs/utcTimestamp" },
+    "editorNote": { "type": "string", "minLength": 1, "maxLength": 600 },
+    "lead": { "$ref": "ranked-item.schema.json" },
+    "top": { "type": "array", "minItems": 5, "maxItems": 5, "items": { "$ref": "ranked-item.schema.json" } },
+    "innovations": { "type": "array", "maxItems": 6, "items": { "$ref": "ranked-item.schema.json" } },
+    "trending": { "type": "array", "maxItems": 6, "items": { "$ref": "cluster.schema.json" } },
+    "byCategory": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["News", "Research", "Tutorials", "Tools & Releases", "Policy & Safety", "Business", "Opinion"],
+      "properties": {
+        "News": { "$ref": "#/$defs/bucket" },
+        "Research": { "$ref": "#/$defs/bucket" },
+        "Tutorials": { "$ref": "#/$defs/bucket" },
+        "Tools & Releases": { "$ref": "#/$defs/bucket" },
+        "Policy & Safety": { "$ref": "#/$defs/bucket" },
+        "Business": { "$ref": "#/$defs/bucket" },
+        "Opinion": { "$ref": "#/$defs/bucket" }
+      }
+    },
+    "stats": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["collected", "afterDedupe", "ranked"],
+      "properties": {
+        "collected": { "type": "integer", "minimum": 0 },
+        "afterDedupe": { "type": "integer", "minimum": 0 },
+        "ranked": { "type": "integer", "minimum": 0 }
+      }
+    }
+  },
+  "$defs": {
+    "bucket": { "type": "array", "maxItems": 10, "items": { "$ref": "ranked-item.schema.json" } }
+  }
+}

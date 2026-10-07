@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/raw-item.schema.json",
+  "title": "RawItem",
+  "description": "One collected link. Metadata only: never article body text (see CLAUDE.md, Copyright).",
+  "type": "object",
+  "$ref": "#/$defs/base",
+  "unevaluatedProperties": false,
+  "$defs": {
+    "base": {
+      "type": "object",
+      "required": ["id", "url", "canonicalUrl", "title", "source", "sourceTier", "categoryHint", "author", "publishedAt", "fetchedAt", "signals"],
+      "properties": {
+        "id": { "description": "sha1 hex of canonicalUrl.", "$ref": "common.schema.json#/$defs/sha1" },
+        "url": { "$ref": "common.schema.json#/$defs/httpUrl" },
+        "canonicalUrl": { "$ref": "common.schema.json#/$defs/httpUrl" },
+        "title": { "type": "string", "minLength": 1, "maxLength": 300 },
+        "source": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "sourceTier": { "type": "integer", "minimum": 1, "maximum": 3 },
+        "categoryHint": { "type": ["string", "null"], "maxLength": 40 },
+        "author": { "type": ["string", "null"], "maxLength": 120 },
+        "publishedAt": { "$ref": "common.schema.json#/$defs/utcTimestamp" },
+        "fetchedAt": { "$ref": "common.schema.json#/$defs/utcTimestamp" },
+        "signals": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["hnPoints", "hnComments", "redditScore", "githubStars", "githubStarsDelta", "crossSourceCount"],
+          "properties": {
+            "hnPoints": { "type": ["integer", "null"], "minimum": 0 },
+            "hnComments": { "type": ["integer", "null"], "minimum": 0 },
+            "redditScore": { "type": ["integer", "null"] },
+            "githubStars": { "type": ["integer", "null"], "minimum": 0 },
+            "githubStarsDelta": { "type": ["integer", "null"] },
+            "crossSourceCount": { "type": "integer", "minimum": 1 }
+          }
+        }
+      }
+    }
+  }
+}

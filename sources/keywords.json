@@ -1,0 +1,14 @@
+{
+  "include": [
+    "ai", "a.i.", "artificial intelligence", "machine learning", "deep learning", "neural network",
+    "llm", "llms", "large language model", "language model", "foundation model", "transformer",
+    "generative", "diffusion model", "fine-tuning", "fine-tune", "rag", "embeddings", "inference",
+    "agentic", "ai agent", "ai agents", "multimodal", "reasoning model", "open-weight", "open weights",
+    "gpt", "chatgpt", "openai", "anthropic", "claude", "gemini", "deepmind", "mistral", "llama",
+    "hugging face", "pytorch", "cuda", "ai safety", "alignment", "ai regulation", "ai act", "copilot"
+  ],
+  "exclude": [
+    "bitcoin", "crypto", "cryptocurrency", "nft", "blockchain", "airdrop", "giveaway", "coupon",
+    "who is hiring", "who wants to be hired", "hiring", "job opening", "promo code", "horoscope"
+  ]
+}

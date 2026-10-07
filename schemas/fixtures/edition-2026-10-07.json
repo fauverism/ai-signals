@@ -1,0 +1,686 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T11:30:00Z",
+  "editorNote": "Open weights dominate the day: Atlas-2 lands with a million-token window, and a new sparse-attention paper suggests long context is getting cheaper to serve. On the policy side, a draft incident-reporting rule is worth reading before the comment window closes.",
+  "lead": {
+    "id": "58098f79bade9ffdc530d85e85e340e7a06b46eb",
+    "url": "https://meridianlabs.example/blog/atlas-2?utm_source=hn",
+    "canonicalUrl": "https://meridianlabs.example/blog/atlas-2",
+    "title": "Atlas-2: an open-weight reasoning model with a 1M-token window",
+    "source": "Meridian Labs Blog",
+    "sourceTier": 1,
+    "categoryHint": "news",
+    "author": "Meridian Labs Research",
+    "publishedAt": "2026-10-06T15:00:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 812,
+      "hnComments": 403,
+      "redditScore": 2950,
+      "githubStars": 15200,
+      "githubStarsDelta": 9800,
+      "crossSourceCount": 6
+    },
+    "scores": {
+      "importance": 9.5,
+      "trend": 9,
+      "novelty": 8,
+      "credibility": 9
+    },
+    "total": 9.1,
+    "category": "News",
+    "tags": [
+      "open-weights",
+      "reasoning",
+      "long-context"
+    ],
+    "summary": "Meridian Labs released Atlas-2, an open-weight reasoning model with a 1M-token context window. Weights, a model card and eval results are published alongside the announcement.",
+    "whyItMatters": "A frontier-class reasoning model anyone can run and fine-tune.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "422c4c9977fed9d2dbda9663ed8d87083b71ad18",
+      "url": "https://papers.example/abs/2610.00417",
+      "canonicalUrl": "https://papers.example/abs/2610.00417",
+      "title": "Sparse Attention That Holds Up Past a Million Tokens",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "research",
+      "author": "Ines Okafor, Daniel Reyes, Wen Zhao",
+      "publishedAt": "2026-10-05T18:30:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 240,
+        "hnComments": 88,
+        "redditScore": 610,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "scores": {
+        "importance": 8,
+        "trend": 7,
+        "novelty": 8.5,
+        "credibility": 8.5
+      },
+      "total": 8,
+      "category": "Research",
+      "tags": [
+        "attention",
+        "long-context"
+      ],
+      "summary": "The authors propose a sparse attention pattern that keeps accuracy steady on inputs beyond a million tokens while cutting memory use. They report results on three long-context benchmarks.",
+      "whyItMatters": "Long context gets cheaper without a quality cliff.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "f0c4492c3893ddcc8efc1a14897c83f2e757eba0",
+      "url": "https://aioffice.example/news/frontier-incident-reporting-draft",
+      "canonicalUrl": "https://aioffice.example/news/frontier-incident-reporting-draft",
+      "title": "Regulator publishes draft guidance on frontier model incident reporting",
+      "source": "AI Office News",
+      "sourceTier": 1,
+      "categoryHint": "policy",
+      "author": null,
+      "publishedAt": "2026-10-06T12:00:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 97,
+        "hnComments": 142,
+        "redditScore": 880,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 4
+      },
+      "scores": {
+        "importance": 8,
+        "trend": 6.5,
+        "novelty": 7,
+        "credibility": 9
+      },
+      "total": 7.6,
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "incident-reporting",
+        "frontier-models"
+      ],
+      "summary": "A national AI office released draft guidance describing when developers of frontier models must report serious incidents. A public comment period is open.",
+      "whyItMatters": "Sets the likely template for incident reporting duties.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "b3d5db3878367e15080931d334891f5578028f81",
+      "url": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+      "canonicalUrl": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+      "title": "Quillbase 2.0 adds on-device vector search",
+      "source": "GitHub Releases",
+      "sourceTier": 2,
+      "categoryHint": "release",
+      "author": null,
+      "publishedAt": "2026-10-06T21:10:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 156,
+        "hnComments": 61,
+        "redditScore": null,
+        "githubStars": 4300,
+        "githubStarsDelta": 1200,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 7,
+        "trend": 7.5,
+        "novelty": 7,
+        "credibility": 8
+      },
+      "total": 7.3,
+      "category": "Tools & Releases",
+      "tags": [
+        "vector-search",
+        "on-device",
+        "database"
+      ],
+      "summary": "Version 2.0 of the Quillbase embedded database adds vector search that runs entirely on the user's device. The release also ships a new query API.",
+      "whyItMatters": "Private retrieval for apps with no server to run.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "6078d03467f2b50f198de7ac6fe35cfe1b7475dd",
+      "url": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m?ref=rss",
+      "canonicalUrl": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m",
+      "title": "Northwind Compute raises $400M to build inference chips",
+      "source": "Daily Finance",
+      "sourceTier": 2,
+      "categoryHint": "business",
+      "author": "Priya Nair",
+      "publishedAt": "2026-10-06T14:20:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 74,
+        "hnComments": 35,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "scores": {
+        "importance": 7,
+        "trend": 6,
+        "novelty": 6,
+        "credibility": 7.5
+      },
+      "total": 6.7,
+      "category": "Business",
+      "tags": [
+        "funding",
+        "inference",
+        "chips"
+      ],
+      "summary": "Northwind Compute announced a $400M round to develop chips designed for serving models rather than training them. The company expects first silicon next year.",
+      "whyItMatters": "Capital keeps flowing to cheaper inference.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "7d10bb4607f337224c378d3346660d5db326c532",
+      "url": "https://learn.example/guides/fine-tune-small-model-laptop",
+      "canonicalUrl": "https://learn.example/guides/fine-tune-small-model-laptop",
+      "title": "Fine-tune a small language model on a laptop in an afternoon",
+      "source": "Learn AI",
+      "sourceTier": 2,
+      "categoryHint": "tutorial",
+      "author": "Marcus Bell",
+      "publishedAt": "2026-10-06T08:45:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 318,
+        "hnComments": 97,
+        "redditScore": 1400,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 7,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "total": 6.4,
+      "category": "Tutorials",
+      "tags": [
+        "fine-tuning",
+        "local",
+        "beginner"
+      ],
+      "summary": "A step-by-step guide to fine-tuning a small language model on consumer hardware, with a worked dataset and training script. It covers memory limits and common failure modes.",
+      "whyItMatters": "A practical on-ramp for hands-on learners.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [
+    {
+      "id": "9aeea09f0348a610533f608b3e83c70eb3905f22",
+      "url": "https://github.example/tessera-dev/tessera",
+      "canonicalUrl": "https://github.example/tessera-dev/tessera",
+      "title": "Tessera: a tiny agent runtime in 900 lines",
+      "source": "GitHub Trending",
+      "sourceTier": 3,
+      "categoryHint": "tool",
+      "author": "tessera-dev",
+      "publishedAt": "2026-10-04T10:00:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 402,
+        "hnComments": 120,
+        "redditScore": null,
+        "githubStars": 6100,
+        "githubStarsDelta": 3400,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 5.5,
+        "trend": 8.5,
+        "novelty": 8,
+        "credibility": 7
+      },
+      "total": 6.9,
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "open-source",
+        "minimal"
+      ],
+      "summary": "Tessera is a compact open-source runtime for tool-using agents, written in about 900 lines. Its small surface area makes the control loop easy to read and modify.",
+      "whyItMatters": "A readable reference for how agent loops work.",
+      "featuredSlot": "innovation",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "e3d7ca0d6e120f5a002d06a5e9df7671c1ffbe0e",
+      "url": "https://papers.example/abs/2610.00892",
+      "canonicalUrl": "https://papers.example/abs/2610.00892",
+      "title": "A Cheaper Test for Benchmark Contamination in Training Data",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "research",
+      "author": "Lucía Ferrer, Tomas Ward",
+      "publishedAt": "2026-10-06T17:00:00Z",
+      "fetchedAt": "2026-10-07T09:00:00Z",
+      "signals": {
+        "hnPoints": 65,
+        "hnComments": 22,
+        "redditScore": 240,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 6.5,
+        "trend": 6,
+        "novelty": 8,
+        "credibility": 8
+      },
+      "total": 6.9,
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "benchmarks",
+        "data"
+      ],
+      "summary": "This paper describes a lightweight way to check whether benchmark questions leaked into a model's training data. It needs no access to the original training set.",
+      "whyItMatters": "Makes benchmark claims easier to audit.",
+      "featuredSlot": "innovation",
+      "previouslyFeatured": false
+    }
+  ],
+  "trending": [
+    {
+      "id": "open-weight-reasoning",
+      "label": "Open-weight reasoning models",
+      "itemIds": [
+        "58098f79bade9ffdc530d85e85e340e7a06b46eb",
+        "bdce090927eec540cea29b92f75e21f2c44fc7e8"
+      ],
+      "leadItemId": "58098f79bade9ffdc530d85e85e340e7a06b46eb",
+      "sources": [
+        "Meridian Labs Blog",
+        "Notes on Models"
+      ]
+    },
+    {
+      "id": "on-device-retrieval",
+      "label": "Local-first retrieval and agents",
+      "itemIds": [
+        "b3d5db3878367e15080931d334891f5578028f81",
+        "9aeea09f0348a610533f608b3e83c70eb3905f22",
+        "7d10bb4607f337224c378d3346660d5db326c532"
+      ],
+      "leadItemId": "b3d5db3878367e15080931d334891f5578028f81",
+      "sources": [
+        "GitHub Releases",
+        "GitHub Trending",
+        "Learn AI"
+      ]
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "58098f79bade9ffdc530d85e85e340e7a06b46eb",
+        "url": "https://meridianlabs.example/blog/atlas-2?utm_source=hn",
+        "canonicalUrl": "https://meridianlabs.example/blog/atlas-2",
+        "title": "Atlas-2: an open-weight reasoning model with a 1M-token window",
+        "source": "Meridian Labs Blog",
+        "sourceTier": 1,
+        "categoryHint": "news",
+        "author": "Meridian Labs Research",
+        "publishedAt": "2026-10-06T15:00:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 812,
+          "hnComments": 403,
+          "redditScore": 2950,
+          "githubStars": 15200,
+          "githubStarsDelta": 9800,
+          "crossSourceCount": 6
+        },
+        "scores": {
+          "importance": 9.5,
+          "trend": 9,
+          "novelty": 8,
+          "credibility": 9
+        },
+        "total": 9.1,
+        "category": "News",
+        "tags": [
+          "open-weights",
+          "reasoning",
+          "long-context"
+        ],
+        "summary": "Meridian Labs released Atlas-2, an open-weight reasoning model with a 1M-token context window. Weights, a model card and eval results are published alongside the announcement.",
+        "whyItMatters": "A frontier-class reasoning model anyone can run and fine-tune.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "422c4c9977fed9d2dbda9663ed8d87083b71ad18",
+        "url": "https://papers.example/abs/2610.00417",
+        "canonicalUrl": "https://papers.example/abs/2610.00417",
+        "title": "Sparse Attention That Holds Up Past a Million Tokens",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "research",
+        "author": "Ines Okafor, Daniel Reyes, Wen Zhao",
+        "publishedAt": "2026-10-05T18:30:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 240,
+          "hnComments": 88,
+          "redditScore": 610,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 8,
+          "trend": 7,
+          "novelty": 8.5,
+          "credibility": 8.5
+        },
+        "total": 8,
+        "category": "Research",
+        "tags": [
+          "attention",
+          "long-context"
+        ],
+        "summary": "The authors propose a sparse attention pattern that keeps accuracy steady on inputs beyond a million tokens while cutting memory use. They report results on three long-context benchmarks.",
+        "whyItMatters": "Long context gets cheaper without a quality cliff.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e3d7ca0d6e120f5a002d06a5e9df7671c1ffbe0e",
+        "url": "https://papers.example/abs/2610.00892",
+        "canonicalUrl": "https://papers.example/abs/2610.00892",
+        "title": "A Cheaper Test for Benchmark Contamination in Training Data",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "research",
+        "author": "Lucía Ferrer, Tomas Ward",
+        "publishedAt": "2026-10-06T17:00:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 65,
+          "hnComments": 22,
+          "redditScore": 240,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6.5,
+          "trend": 6,
+          "novelty": 8,
+          "credibility": 8
+        },
+        "total": 6.9,
+        "category": "Research",
+        "tags": [
+          "evaluation",
+          "benchmarks",
+          "data"
+        ],
+        "summary": "This paper describes a lightweight way to check whether benchmark questions leaked into a model's training data. It needs no access to the original training set.",
+        "whyItMatters": "Makes benchmark claims easier to audit.",
+        "featuredSlot": "innovation",
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "7d10bb4607f337224c378d3346660d5db326c532",
+        "url": "https://learn.example/guides/fine-tune-small-model-laptop",
+        "canonicalUrl": "https://learn.example/guides/fine-tune-small-model-laptop",
+        "title": "Fine-tune a small language model on a laptop in an afternoon",
+        "source": "Learn AI",
+        "sourceTier": 2,
+        "categoryHint": "tutorial",
+        "author": "Marcus Bell",
+        "publishedAt": "2026-10-06T08:45:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 318,
+          "hnComments": 97,
+          "redditScore": 1400,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 7,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 6.4,
+        "category": "Tutorials",
+        "tags": [
+          "fine-tuning",
+          "local",
+          "beginner"
+        ],
+        "summary": "A step-by-step guide to fine-tuning a small language model on consumer hardware, with a worked dataset and training script. It covers memory limits and common failure modes.",
+        "whyItMatters": "A practical on-ramp for hands-on learners.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "b3d5db3878367e15080931d334891f5578028f81",
+        "url": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+        "canonicalUrl": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+        "title": "Quillbase 2.0 adds on-device vector search",
+        "source": "GitHub Releases",
+        "sourceTier": 2,
+        "categoryHint": "release",
+        "author": null,
+        "publishedAt": "2026-10-06T21:10:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 156,
+          "hnComments": 61,
+          "redditScore": null,
+          "githubStars": 4300,
+          "githubStarsDelta": 1200,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 7.5,
+          "novelty": 7,
+          "credibility": 8
+        },
+        "total": 7.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "vector-search",
+          "on-device",
+          "database"
+        ],
+        "summary": "Version 2.0 of the Quillbase embedded database adds vector search that runs entirely on the user's device. The release also ships a new query API.",
+        "whyItMatters": "Private retrieval for apps with no server to run.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9aeea09f0348a610533f608b3e83c70eb3905f22",
+        "url": "https://github.example/tessera-dev/tessera",
+        "canonicalUrl": "https://github.example/tessera-dev/tessera",
+        "title": "Tessera: a tiny agent runtime in 900 lines",
+        "source": "GitHub Trending",
+        "sourceTier": 3,
+        "categoryHint": "tool",
+        "author": "tessera-dev",
+        "publishedAt": "2026-10-04T10:00:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 402,
+          "hnComments": 120,
+          "redditScore": null,
+          "githubStars": 6100,
+          "githubStarsDelta": 3400,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5.5,
+          "trend": 8.5,
+          "novelty": 8,
+          "credibility": 7
+        },
+        "total": 6.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "agents",
+          "open-source",
+          "minimal"
+        ],
+        "summary": "Tessera is a compact open-source runtime for tool-using agents, written in about 900 lines. Its small surface area makes the control loop easy to read and modify.",
+        "whyItMatters": "A readable reference for how agent loops work.",
+        "featuredSlot": "innovation",
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "f0c4492c3893ddcc8efc1a14897c83f2e757eba0",
+        "url": "https://aioffice.example/news/frontier-incident-reporting-draft",
+        "canonicalUrl": "https://aioffice.example/news/frontier-incident-reporting-draft",
+        "title": "Regulator publishes draft guidance on frontier model incident reporting",
+        "source": "AI Office News",
+        "sourceTier": 1,
+        "categoryHint": "policy",
+        "author": null,
+        "publishedAt": "2026-10-06T12:00:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 97,
+          "hnComments": 142,
+          "redditScore": 880,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 8,
+          "trend": 6.5,
+          "novelty": 7,
+          "credibility": 9
+        },
+        "total": 7.6,
+        "category": "Policy & Safety",
+        "tags": [
+          "regulation",
+          "incident-reporting",
+          "frontier-models"
+        ],
+        "summary": "A national AI office released draft guidance describing when developers of frontier models must report serious incidents. A public comment period is open.",
+        "whyItMatters": "Sets the likely template for incident reporting duties.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "6078d03467f2b50f198de7ac6fe35cfe1b7475dd",
+        "url": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m?ref=rss",
+        "canonicalUrl": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m",
+        "title": "Northwind Compute raises $400M to build inference chips",
+        "source": "Daily Finance",
+        "sourceTier": 2,
+        "categoryHint": "business",
+        "author": "Priya Nair",
+        "publishedAt": "2026-10-06T14:20:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 74,
+          "hnComments": 35,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 6,
+          "novelty": 6,
+          "credibility": 7.5
+        },
+        "total": 6.7,
+        "category": "Business",
+        "tags": [
+          "funding",
+          "inference",
+          "chips"
+        ],
+        "summary": "Northwind Compute announced a $400M round to develop chips designed for serving models rather than training them. The company expects first silicon next year.",
+        "whyItMatters": "Capital keeps flowing to cheaper inference.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "bdce090927eec540cea29b92f75e21f2c44fc7e8",
+        "url": "https://notes.example/evals-not-benchmarks",
+        "canonicalUrl": "https://notes.example/evals-not-benchmarks",
+        "title": "Why evals, not benchmarks, decide what ships",
+        "source": "Notes on Models",
+        "sourceTier": 3,
+        "categoryHint": "opinion",
+        "author": "Hana Sato",
+        "publishedAt": "2026-10-05T13:00:00Z",
+        "fetchedAt": "2026-10-07T09:00:00Z",
+        "signals": {
+          "hnPoints": 188,
+          "hnComments": 154,
+          "redditScore": 530,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 5.5,
+          "novelty": 5,
+          "credibility": 6.5
+        },
+        "total": 5.4,
+        "category": "Opinion",
+        "tags": [
+          "evaluation",
+          "product"
+        ],
+        "summary": "The author argues that teams shipping AI products learn more from task-specific evals than from public leaderboards. The essay includes a short checklist for building them.",
+        "whyItMatters": "A useful counterweight to leaderboard chasing.",
+        "featuredSlot": null,
+        "previouslyFeatured": true
+      }
+    ]
+  },
+  "stats": {
+    "collected": 214,
+    "afterDedupe": 168,
+    "ranked": 40
+  }
+}

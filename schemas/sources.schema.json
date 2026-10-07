@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/sources.schema.json",
+  "title": "Sources",
+  "description": "sources/sources.json (and candidates.json): the registry the collector reads.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "name", "type", "url", "tier", "defaultCategory", "enabled", "notes"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+      "name": { "type": "string", "minLength": 1, "maxLength": 80 },
+      "type": { "enum": ["rss", "atom", "api", "html-list"] },
+      "url": { "$ref": "common.schema.json#/$defs/httpUrl" },
+      "tier": { "description": "1 = primary/official, 2 = established press or researchers, 3 = community.", "type": "integer", "minimum": 1, "maximum": 3 },
+      "defaultCategory": { "$ref": "common.schema.json#/$defs/category" },
+      "enabled": { "type": "boolean" },
+      "notes": { "type": "string", "maxLength": 300 }
+    }
+  }
+}

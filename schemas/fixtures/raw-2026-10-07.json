@@ -1,0 +1,122 @@
+[
+  {
+    "id": "58098f79bade9ffdc530d85e85e340e7a06b46eb",
+    "url": "https://meridianlabs.example/blog/atlas-2?utm_source=hn",
+    "canonicalUrl": "https://meridianlabs.example/blog/atlas-2",
+    "title": "Atlas-2: an open-weight reasoning model with a 1M-token window",
+    "source": "Meridian Labs Blog",
+    "sourceTier": 1,
+    "categoryHint": "news",
+    "author": "Meridian Labs Research",
+    "publishedAt": "2026-10-06T15:00:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 812,
+      "hnComments": 403,
+      "redditScore": 2950,
+      "githubStars": 15200,
+      "githubStarsDelta": 9800,
+      "crossSourceCount": 6
+    }
+  },
+  {
+    "id": "422c4c9977fed9d2dbda9663ed8d87083b71ad18",
+    "url": "https://papers.example/abs/2610.00417",
+    "canonicalUrl": "https://papers.example/abs/2610.00417",
+    "title": "Sparse Attention That Holds Up Past a Million Tokens",
+    "source": "arXiv cs.LG",
+    "sourceTier": 1,
+    "categoryHint": "research",
+    "author": "Ines Okafor, Daniel Reyes, Wen Zhao",
+    "publishedAt": "2026-10-05T18:30:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 240,
+      "hnComments": 88,
+      "redditScore": 610,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 3
+    }
+  },
+  {
+    "id": "b3d5db3878367e15080931d334891f5578028f81",
+    "url": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+    "canonicalUrl": "https://github.example/quillbase/quillbase/releases/tag/v2.0.0",
+    "title": "Quillbase 2.0 adds on-device vector search",
+    "source": "GitHub Releases",
+    "sourceTier": 2,
+    "categoryHint": "release",
+    "author": null,
+    "publishedAt": "2026-10-06T21:10:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 156,
+      "hnComments": 61,
+      "redditScore": null,
+      "githubStars": 4300,
+      "githubStarsDelta": 1200,
+      "crossSourceCount": 2
+    }
+  },
+  {
+    "id": "f0c4492c3893ddcc8efc1a14897c83f2e757eba0",
+    "url": "https://aioffice.example/news/frontier-incident-reporting-draft",
+    "canonicalUrl": "https://aioffice.example/news/frontier-incident-reporting-draft",
+    "title": "Regulator publishes draft guidance on frontier model incident reporting",
+    "source": "AI Office News",
+    "sourceTier": 1,
+    "categoryHint": "policy",
+    "author": null,
+    "publishedAt": "2026-10-06T12:00:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 97,
+      "hnComments": 142,
+      "redditScore": 880,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 4
+    }
+  },
+  {
+    "id": "6078d03467f2b50f198de7ac6fe35cfe1b7475dd",
+    "url": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m?ref=rss",
+    "canonicalUrl": "https://dailyfinance.example/2026/10/northwind-compute-raises-400m",
+    "title": "Northwind Compute raises $400M to build inference chips",
+    "source": "Daily Finance",
+    "sourceTier": 2,
+    "categoryHint": "business",
+    "author": "Priya Nair",
+    "publishedAt": "2026-10-06T14:20:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 74,
+      "hnComments": 35,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 3
+    }
+  },
+  {
+    "id": "7d10bb4607f337224c378d3346660d5db326c532",
+    "url": "https://learn.example/guides/fine-tune-small-model-laptop",
+    "canonicalUrl": "https://learn.example/guides/fine-tune-small-model-laptop",
+    "title": "Fine-tune a small language model on a laptop in an afternoon",
+    "source": "Learn AI",
+    "sourceTier": 2,
+    "categoryHint": "tutorial",
+    "author": "Marcus Bell",
+    "publishedAt": "2026-10-06T08:45:00Z",
+    "fetchedAt": "2026-10-07T09:00:00Z",
+    "signals": {
+      "hnPoints": 318,
+      "hnComments": 97,
+      "redditScore": 1400,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 2
+    }
+  }
+]
