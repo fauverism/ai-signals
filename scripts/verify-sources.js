@@ -53,9 +53,15 @@ async function check(entry) {
       if (status !== 200) throw new Error(`HTTP ${status}`);
       const actual = detect(body, contentType);
       if (!actual) throw new Error(`not a valid ${entry.type} (${contentType || 'no content-type'})`);
+      // A feed served as the other feed format is fine; any other mismatch (e.g. a web page at a guessed feed URL) is not.
+      const feedTypes = ['rss', 'atom'];
+      if (actual !== entry.type && !(feedTypes.includes(actual) && feedTypes.includes(entry.type))) {
+        throw new Error(`expected ${entry.type}, got ${actual}`);
+      }
       return { ok: true, actual };
     } catch (e) {
       lastError = e.cause?.code ?? e.message;
+      if (lastError === 'HTTP 429') await new Promise((r) => setTimeout(r, 8000)); // rate limited: back off before the retry
     }
   }
   return { ok: false, reason: lastError };

@@ -4,7 +4,7 @@ Source registry, read by `scripts/collect.js`.
 
 | File | What it is |
 | --- | --- |
-| `sources.json` | The registry: only sources verified to respond with a valid feed. **Generated** by `npm run verify-sources`; not yet created (see below). |
+| `sources.json` | The registry: only sources verified to respond with a valid feed. **Generated** by `npm run verify-sources`; don't edit by hand. |
 | `candidates.json` | Unverified wish list the verifier reads. Edit this, then re-run the verifier. |
 | `keywords.json` | `include` / `exclude` lists that keep community sources (tier 3, and broad feeds) on-topic. |
 
