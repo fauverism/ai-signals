@@ -1,0 +1,612 @@
+[
+  {
+    "id": "openai-news",
+    "name": "OpenAI News",
+    "type": "rss",
+    "url": "https://openai.com/news/rss.xml",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Official announcements and model releases."
+  },
+  {
+    "id": "deepmind-blog",
+    "name": "Google DeepMind Blog",
+    "type": "rss",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "google-ai-blog",
+    "name": "Google AI (The Keyword)",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Product-heavy; the keyword filter helps."
+  },
+  {
+    "id": "google-research",
+    "name": "Google Research Blog",
+    "type": "rss",
+    "url": "https://research.google/blog/rss/",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "microsoft-research",
+    "name": "Microsoft Research",
+    "type": "rss",
+    "url": "https://www.microsoft.com/en-us/research/feed/",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Covers all of MSR, not only AI; keyword filter recommended."
+  },
+  {
+    "id": "nvidia-technical-blog",
+    "name": "NVIDIA Technical Blog",
+    "type": "rss",
+    "url": "https://developer.nvidia.com/blog/feed/",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "aws-ml-blog",
+    "name": "AWS Machine Learning Blog",
+    "type": "rss",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": "Mostly product how-tos."
+  },
+  {
+    "id": "huggingface-blog",
+    "name": "Hugging Face Blog",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "apple-ml-research",
+    "name": "Apple Machine Learning Research",
+    "type": "rss",
+    "url": "https://machinelearning.apple.com/rss.xml",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "bair-blog",
+    "name": "Berkeley AI Research Blog",
+    "type": "rss",
+    "url": "https://bair.berkeley.edu/blog/feed.xml",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Low volume."
+  },
+  {
+    "id": "langchain-blog",
+    "name": "LangChain Blog",
+    "type": "rss",
+    "url": "https://blog.langchain.dev/rss/",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": "Agent tooling releases."
+  },
+  {
+    "id": "cohere-blog",
+    "name": "Cohere Blog",
+    "type": "rss",
+    "url": "https://cohere.com/blog/rss.xml",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Feed URL from memory; may not exist."
+  },
+  {
+    "id": "anthropic-news",
+    "name": "Anthropic News",
+    "type": "html-list",
+    "url": "https://www.anthropic.com/news",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "No official feed known; fallback is scraping the news index page."
+  },
+  {
+    "id": "meta-ai-blog",
+    "name": "Meta AI Blog",
+    "type": "html-list",
+    "url": "https://ai.meta.com/blog/",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "No official feed known; page may be script-rendered."
+  },
+  {
+    "id": "mistral-news",
+    "name": "Mistral AI News",
+    "type": "html-list",
+    "url": "https://mistral.ai/news",
+    "tier": 1,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "No official feed known."
+  },
+  {
+    "id": "arxiv-cs-ai",
+    "name": "arXiv cs.AI",
+    "type": "rss",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "New listings; high volume, rank hard."
+  },
+  {
+    "id": "arxiv-cs-cl",
+    "name": "arXiv cs.CL",
+    "type": "rss",
+    "url": "https://rss.arxiv.org/rss/cs.CL",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "New listings; high volume."
+  },
+  {
+    "id": "arxiv-cs-lg",
+    "name": "arXiv cs.LG",
+    "type": "rss",
+    "url": "https://rss.arxiv.org/rss/cs.LG",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "New listings; very high volume."
+  },
+  {
+    "id": "arxiv-cs-cv",
+    "name": "arXiv cs.CV",
+    "type": "rss",
+    "url": "https://rss.arxiv.org/rss/cs.CV",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "New listings; high volume."
+  },
+  {
+    "id": "hf-daily-papers",
+    "name": "Hugging Face Daily Papers",
+    "type": "rss",
+    "url": "https://jamesg.blog/hf-papers.xml",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Unofficial mirror of huggingface.co/papers; HF has no official feed."
+  },
+  {
+    "id": "verge-ai",
+    "name": "The Verge: AI",
+    "type": "atom",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "techcrunch-ai",
+    "name": "TechCrunch: AI",
+    "type": "rss",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "tier": 2,
+    "defaultCategory": "Business",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "ars-technica-ai",
+    "name": "Ars Technica: AI",
+    "type": "rss",
+    "url": "https://arstechnica.com/ai/feed/",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "wired-ai",
+    "name": "WIRED: AI",
+    "type": "rss",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "mit-tech-review-ai",
+    "name": "MIT Technology Review: AI",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "venturebeat-ai",
+    "name": "VentureBeat: AI",
+    "type": "rss",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "tier": 2,
+    "defaultCategory": "Business",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "ieee-spectrum-ai",
+    "name": "IEEE Spectrum: AI",
+    "type": "rss",
+    "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "zdnet-ai",
+    "name": "ZDNET: AI",
+    "type": "rss",
+    "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "simon-willison",
+    "name": "Simon Willison",
+    "type": "atom",
+    "url": "https://simonwillison.net/atom/everything/",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Very high volume incl. short link posts."
+  },
+  {
+    "id": "import-ai",
+    "name": "Import AI",
+    "type": "rss",
+    "url": "https://importai.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Weekly newsletter."
+  },
+  {
+    "id": "ahead-of-ai",
+    "name": "Ahead of AI (Sebastian Raschka)",
+    "type": "rss",
+    "url": "https://magazine.sebastianraschka.com/feed",
+    "tier": 2,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "interconnects",
+    "name": "Interconnects (Nathan Lambert)",
+    "type": "rss",
+    "url": "https://www.interconnects.ai/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "latent-space",
+    "name": "Latent Space",
+    "type": "rss",
+    "url": "https://www.latent.space/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "one-useful-thing",
+    "name": "One Useful Thing (Ethan Mollick)",
+    "type": "rss",
+    "url": "https://www.oneusefulthing.org/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "lilian-weng",
+    "name": "Lil'Log (Lilian Weng)",
+    "type": "rss",
+    "url": "https://lilianweng.github.io/index.xml",
+    "tier": 2,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Very low volume, high value."
+  },
+  {
+    "id": "zvi-mowshowitz",
+    "name": "Don't Worry About the Vase (Zvi)",
+    "type": "rss",
+    "url": "https://thezvi.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Long weekly roundups."
+  },
+  {
+    "id": "gary-marcus",
+    "name": "Marcus on AI",
+    "type": "rss",
+    "url": "https://garymarcus.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Skeptic viewpoint."
+  },
+  {
+    "id": "pytorch-blog",
+    "name": "PyTorch Blog",
+    "type": "rss",
+    "url": "https://pytorch.org/feed.xml",
+    "tier": 2,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "chip-huyen",
+    "name": "Chip Huyen",
+    "type": "rss",
+    "url": "https://huyenchip.com/feed.xml",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Low volume."
+  },
+  {
+    "id": "eugene-yan",
+    "name": "Eugene Yan",
+    "type": "rss",
+    "url": "https://eugeneyan.com/rss/",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "hamel-husain",
+    "name": "Hamel Husain",
+    "type": "rss",
+    "url": "https://hamel.dev/index.xml",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "LLM evals and applied ML."
+  },
+  {
+    "id": "ml-mastery",
+    "name": "Machine Learning Mastery",
+    "type": "rss",
+    "url": "https://machinelearningmastery.com/blog/feed/",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "fast-ai",
+    "name": "fast.ai",
+    "type": "rss",
+    "url": "https://www.fast.ai/index.xml",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Low volume."
+  },
+  {
+    "id": "towards-data-science",
+    "name": "Towards Data Science",
+    "type": "rss",
+    "url": "https://towardsdatascience.com/feed",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Open publishing; quality varies, rank hard."
+  },
+  {
+    "id": "hn-llm",
+    "name": "Hacker News: LLM",
+    "type": "api",
+    "url": "https://hn.algolia.com/api/v1/search_by_date?query=LLM&tags=story&numericFilters=points%3E20&hitsPerPage=50",
+    "tier": 3,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Algolia API; hits[].points/num_comments feed the HN signals."
+  },
+  {
+    "id": "hn-artificial-intelligence",
+    "name": "Hacker News: artificial intelligence",
+    "type": "api",
+    "url": "https://hn.algolia.com/api/v1/search_by_date?query=artificial%20intelligence&tags=story&numericFilters=points%3E20&hitsPerPage=50",
+    "tier": 3,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Overlaps hn-llm; dedupe handles it."
+  },
+  {
+    "id": "hn-machine-learning",
+    "name": "Hacker News: machine learning",
+    "type": "api",
+    "url": "https://hn.algolia.com/api/v1/search_by_date?query=machine%20learning&tags=story&numericFilters=points%3E20&hitsPerPage=50",
+    "tier": 3,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "github-topic-llm",
+    "name": "GitHub: topic llm",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Allm&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": "Search API stands in for Trending (no official API). Unauthenticated limit is 10 req/min."
+  },
+  {
+    "id": "github-topic-machine-learning",
+    "name": "GitHub: topic machine-learning",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Amachine-learning&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": "See github-topic-llm."
+  },
+  {
+    "id": "github-topic-ai-agents",
+    "name": "GitHub: topic ai-agents",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Aai-agents&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": "See github-topic-llm."
+  },
+  {
+    "id": "reddit-machinelearning",
+    "name": "r/MachineLearning",
+    "type": "rss",
+    "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day",
+    "tier": 3,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Reddit often blocks default user agents; send a descriptive one."
+  },
+  {
+    "id": "reddit-localllama",
+    "name": "r/LocalLLaMA",
+    "type": "rss",
+    "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "reddit-artificial",
+    "name": "r/artificial",
+    "type": "rss",
+    "url": "https://www.reddit.com/r/artificial/top/.rss?t=day",
+    "tier": 3,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Noisy; keyword filter recommended."
+  },
+  {
+    "id": "nist-news",
+    "name": "NIST News",
+    "type": "rss",
+    "url": "https://www.nist.gov/news-events/news/rss.xml",
+    "tier": 1,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": "All NIST news; keyword filter required."
+  },
+  {
+    "id": "cset-georgetown",
+    "name": "CSET (Georgetown)",
+    "type": "rss",
+    "url": "https://cset.georgetown.edu/feed/",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "future-of-life",
+    "name": "Future of Life Institute",
+    "type": "rss",
+    "url": "https://futureoflife.org/feed/",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "alignment-forum",
+    "name": "Alignment Forum",
+    "type": "rss",
+    "url": "https://www.alignmentforum.org/feed.xml",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": "Technical safety research; community-written."
+  },
+  {
+    "id": "epoch-ai",
+    "name": "Epoch AI",
+    "type": "rss",
+    "url": "https://epochai.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "notes": "Data on compute and trends."
+  },
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace Institute",
+    "type": "rss",
+    "url": "https://www.adalovelaceinstitute.org/feed/",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": ""
+  },
+  {
+    "id": "eu-ai-act-newsletter",
+    "name": "EU AI Act Newsletter",
+    "type": "rss",
+    "url": "https://artificialintelligenceact.eu/feed/",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": "Feed URL from memory."
+  },
+  {
+    "id": "stanford-hai",
+    "name": "Stanford HAI News",
+    "type": "rss",
+    "url": "https://hai.stanford.edu/news/rss.xml",
+    "tier": 2,
+    "defaultCategory": "Policy & Safety",
+    "enabled": true,
+    "notes": "Feed URL from memory."
+  }
+]

@@ -29,6 +29,8 @@ function schemaFor(file) {
   if (rel.startsWith('data/raw/') || /^schemas\/fixtures\/raw-/.test(rel)) return 'raw-file';
   if (rel.startsWith('data/editions/') || rel === 'data/latest.json' || /^schemas\/fixtures\/edition-/.test(rel)) return 'edition';
   if (rel === 'data/archive.json') return 'archive';
+  if (rel === 'sources/sources.json' || rel === 'sources/candidates.json') return 'sources';
+  if (rel === 'sources/keywords.json') return 'keywords';
   return null;
 }
 
@@ -44,6 +46,15 @@ function semanticErrors(kind, data, file) {
     data.forEach((item, i) => checkId(item, `[${i}]`));
     return errs;
   }
+  if (kind === 'sources') {
+    const seen = new Set();
+    data.forEach((s, i) => {
+      if (seen.has(s.id)) errs.push(`[${i}]: duplicate id ${s.id}`);
+      seen.add(s.id);
+    });
+    return errs;
+  }
+  if (kind === 'keywords') return errs;
   if (kind === 'archive') {
     for (let i = 1; i < data.length; i++) {
       if (data[i - 1].date <= data[i].date) errs.push(`[${i}]: not newest first / duplicate date ${data[i].date}`);
@@ -106,7 +117,7 @@ async function discover() {
     ...(await listJson(d('data/raw'))),
     ...(await listJson(d('data/editions'))),
   ];
-  for (const f of ['data/latest.json', 'data/archive.json']) {
+  for (const f of ['data/latest.json', 'data/archive.json', 'sources/sources.json', 'sources/candidates.json', 'sources/keywords.json']) {
     if (await readFile(d(f)).then(() => true, () => false)) files.push(d(f));
   }
   return files;
