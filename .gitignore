@@ -147,3 +147,8 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# AI Signal: keep data/logs tracked as a folder, ignore the log files in it
+!data/logs/
+data/logs/*
+!data/logs/README.md

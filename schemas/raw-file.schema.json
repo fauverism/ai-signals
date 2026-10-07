@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/raw-file.schema.json",
+  "title": "RawFile",
+  "description": "data/raw/YYYY-MM-DD.json: an array of RawItem.",
+  "type": "array",
+  "items": { "$ref": "raw-item.schema.json" }
+}

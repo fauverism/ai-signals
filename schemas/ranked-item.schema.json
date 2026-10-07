@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/ranked-item.schema.json",
+  "title": "RankedItem",
+  "description": "RawItem plus Claude's judgment: scores, category, tags, summary.",
+  "type": "object",
+  "$ref": "raw-item.schema.json#/$defs/base",
+  "unevaluatedProperties": false,
+  "required": ["scores", "total", "category", "tags", "summary", "whyItMatters", "featuredSlot", "previouslyFeatured"],
+  "properties": {
+    "scores": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["importance", "trend", "novelty", "credibility"],
+      "properties": {
+        "importance": { "$ref": "common.schema.json#/$defs/score" },
+        "trend": { "$ref": "common.schema.json#/$defs/score" },
+        "novelty": { "$ref": "common.schema.json#/$defs/score" },
+        "credibility": { "$ref": "common.schema.json#/$defs/score" }
+      }
+    },
+    "total": { "$ref": "common.schema.json#/$defs/score" },
+    "category": { "$ref": "common.schema.json#/$defs/category" },
+    "tags": { "type": "array", "maxItems": 8, "uniqueItems": true, "items": { "type": "string", "minLength": 1, "maxLength": 40 } },
+    "summary": { "description": "Original wording, 1-2 sentences.", "type": "string", "minLength": 1, "maxLength": 280 },
+    "whyItMatters": { "type": "string", "minLength": 1, "maxLength": 140 },
+    "featuredSlot": { "enum": ["lead", "top", "innovation", "trending", null] },
+    "previouslyFeatured": { "type": "boolean" }
+  }
+}

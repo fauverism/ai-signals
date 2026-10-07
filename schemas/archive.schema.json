@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/archive.schema.json",
+  "title": "Archive",
+  "description": "data/archive.json: one entry per edition, newest first.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["date", "leadTitle", "count"],
+    "properties": {
+      "date": { "$ref": "common.schema.json#/$defs/editionDate" },
+      "leadTitle": { "type": "string", "minLength": 1, "maxLength": 300 },
+      "count": { "type": "integer", "minimum": 0 }
+    }
+  }
+}
