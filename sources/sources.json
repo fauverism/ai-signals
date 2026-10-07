@@ -52,7 +52,7 @@
   {
     "id": "nvidia-technical-blog",
     "name": "NVIDIA Technical Blog",
-    "type": "rss",
+    "type": "atom",
     "url": "https://developer.nvidia.com/blog/feed/",
     "tier": 1,
     "defaultCategory": "Tools & Releases",
@@ -98,26 +98,6 @@
     "defaultCategory": "Research",
     "enabled": true,
     "notes": "Low volume."
-  },
-  {
-    "id": "langchain-blog",
-    "name": "LangChain Blog",
-    "type": "rss",
-    "url": "https://blog.langchain.dev/rss/",
-    "tier": 1,
-    "defaultCategory": "Tools & Releases",
-    "enabled": true,
-    "notes": "Agent tooling releases."
-  },
-  {
-    "id": "cohere-blog",
-    "name": "Cohere Blog",
-    "type": "rss",
-    "url": "https://cohere.com/blog/rss.xml",
-    "tier": 1,
-    "defaultCategory": "News",
-    "enabled": true,
-    "notes": "Feed URL from memory; may not exist."
   },
   {
     "id": "anthropic-news",
@@ -250,16 +230,6 @@
     "notes": ""
   },
   {
-    "id": "venturebeat-ai",
-    "name": "VentureBeat: AI",
-    "type": "rss",
-    "url": "https://venturebeat.com/category/ai/feed/",
-    "tier": 2,
-    "defaultCategory": "Business",
-    "enabled": true,
-    "notes": ""
-  },
-  {
     "id": "ieee-spectrum-ai",
     "name": "IEEE Spectrum: AI",
     "type": "rss",
@@ -272,7 +242,7 @@
   {
     "id": "zdnet-ai",
     "name": "ZDNET: AI",
-    "type": "rss",
+    "type": "atom",
     "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
     "tier": 2,
     "defaultCategory": "News",
@@ -470,39 +440,9 @@
     "notes": ""
   },
   {
-    "id": "github-topic-llm",
-    "name": "GitHub: topic llm",
-    "type": "api",
-    "url": "https://api.github.com/search/repositories?q=topic%3Allm&sort=updated&order=desc&per_page=50",
-    "tier": 3,
-    "defaultCategory": "Tools & Releases",
-    "enabled": true,
-    "notes": "Search API stands in for Trending (no official API). Unauthenticated limit is 10 req/min."
-  },
-  {
-    "id": "github-topic-machine-learning",
-    "name": "GitHub: topic machine-learning",
-    "type": "api",
-    "url": "https://api.github.com/search/repositories?q=topic%3Amachine-learning&sort=updated&order=desc&per_page=50",
-    "tier": 3,
-    "defaultCategory": "Tools & Releases",
-    "enabled": true,
-    "notes": "See github-topic-llm."
-  },
-  {
-    "id": "github-topic-ai-agents",
-    "name": "GitHub: topic ai-agents",
-    "type": "api",
-    "url": "https://api.github.com/search/repositories?q=topic%3Aai-agents&sort=updated&order=desc&per_page=50",
-    "tier": 3,
-    "defaultCategory": "Tools & Releases",
-    "enabled": true,
-    "notes": "See github-topic-llm."
-  },
-  {
     "id": "reddit-machinelearning",
     "name": "r/MachineLearning",
-    "type": "rss",
+    "type": "atom",
     "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day",
     "tier": 3,
     "defaultCategory": "Research",
@@ -512,7 +452,7 @@
   {
     "id": "reddit-localllama",
     "name": "r/LocalLLaMA",
-    "type": "rss",
+    "type": "atom",
     "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day",
     "tier": 3,
     "defaultCategory": "Tools & Releases",
@@ -522,7 +462,7 @@
   {
     "id": "reddit-artificial",
     "name": "r/artificial",
-    "type": "rss",
+    "type": "atom",
     "url": "https://www.reddit.com/r/artificial/top/.rss?t=day",
     "tier": 3,
     "defaultCategory": "News",
@@ -580,30 +520,10 @@
     "notes": "Data on compute and trends."
   },
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace Institute",
-    "type": "rss",
-    "url": "https://www.adalovelaceinstitute.org/feed/",
-    "tier": 2,
-    "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": ""
-  },
-  {
     "id": "eu-ai-act-newsletter",
     "name": "EU AI Act Newsletter",
     "type": "rss",
     "url": "https://artificialintelligenceact.eu/feed/",
-    "tier": 2,
-    "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": "Feed URL from memory."
-  },
-  {
-    "id": "stanford-hai",
-    "name": "Stanford HAI News",
-    "type": "rss",
-    "url": "https://hai.stanford.edu/news/rss.xml",
     "tier": 2,
     "defaultCategory": "Policy & Safety",
     "enabled": true,
@@ -730,16 +650,6 @@
     "notes": "Daily AI link digest; mostly links to items other sources cover. Feed URL from memory."
   },
   {
-    "id": "whats-up-in-ai",
-    "name": "What's Up in AI",
-    "type": "rss",
-    "url": "https://whatsupinai.beehiiv.com/feed",
-    "tier": 2,
-    "defaultCategory": "News",
-    "enabled": true,
-    "notes": "beehiiv publication; feed path is a guess."
-  },
-  {
     "id": "short-distance",
     "name": "Short Distance",
     "type": "rss",
@@ -768,15 +678,5 @@
     "defaultCategory": "Opinion",
     "enabled": true,
     "notes": "Added by request as a personal interest, not AI-focused. Exempt from keyword filtering."
-  },
-  {
-    "id": "ai-humanist",
-    "name": "The AI Humanist",
-    "type": "rss",
-    "url": "https://ai-humanist.beehiiv.com/feed",
-    "tier": 2,
-    "defaultCategory": "Opinion",
-    "enabled": true,
-    "notes": "Humanist perspective on AI. beehiiv feed path is a guess."
   }
 ]
