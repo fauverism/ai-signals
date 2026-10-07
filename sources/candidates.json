@@ -327,7 +327,7 @@
     "tier": 2,
     "defaultCategory": "News",
     "enabled": true,
-    "notes": ""
+    "notes": "Also requested by the user."
   },
   {
     "id": "one-useful-thing",
@@ -337,7 +337,7 @@
     "tier": 2,
     "defaultCategory": "Opinion",
     "enabled": true,
-    "notes": ""
+    "notes": "Also requested by the user."
   },
   {
     "id": "lilian-weng",
@@ -608,5 +608,175 @@
     "defaultCategory": "Policy & Safety",
     "enabled": true,
     "notes": "Feed URL from memory."
+  },
+  {
+    "id": "ainews-smol",
+    "name": "AINews (swyx)",
+    "type": "rss",
+    "url": "https://news.smol.ai/rss.xml",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Daily AI roundup from the swyx+ainews sender. Feed URL from memory; unverified."
+  },
+  {
+    "id": "understanding-ai",
+    "name": "Understanding AI (Timothy B. Lee)",
+    "type": "rss",
+    "url": "https://understandingai.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "algorithmic-bridge",
+    "name": "The Algorithmic Bridge",
+    "type": "rss",
+    "url": "https://thealgorithmicbridge.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "the-signal",
+    "name": "The Signal",
+    "type": "rss",
+    "url": "https://thesignal.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Handle thesignal; unclear which publication this is. Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "technically",
+    "name": "Technically",
+    "type": "rss",
+    "url": "https://technically.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "pragmatic-engineer",
+    "name": "The Pragmatic Engineer",
+    "type": "rss",
+    "url": "https://newsletter.pragmaticengineer.com/feed",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Software engineering, with frequent AI coverage; keyword filter recommended. Feed URL from memory."
+  },
+  {
+    "id": "bytebytego",
+    "name": "ByteByteGo",
+    "type": "rss",
+    "url": "https://blog.bytebytego.com/feed",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "System design with regular AI topics; keyword filter recommended. Feed URL from memory."
+  },
+  {
+    "id": "refactoring",
+    "name": "Refactoring (Luca Rossi)",
+    "type": "rss",
+    "url": "https://refactoring.fm/feed",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "notes": "Engineering leadership; keyword filter recommended. Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "tech-scoop",
+    "name": "Tech Scoop",
+    "type": "rss",
+    "url": "https://techscoop.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Feed URL inferred from the sender handle in your inbox; unverified."
+  },
+  {
+    "id": "platformer",
+    "name": "Platformer (Casey Newton)",
+    "type": "rss",
+    "url": "https://www.platformer.news/rss/",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Tech and platform policy; keyword filter recommended. Feed URL from memory."
+  },
+  {
+    "id": "wheres-your-ed-at",
+    "name": "Where's Your Ed At (Ed Zitron)",
+    "type": "rss",
+    "url": "https://www.wheresyoured.at/rss/",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Skeptical AI industry commentary. Feed URL from memory."
+  },
+  {
+    "id": "tldr-ai",
+    "name": "TLDR AI",
+    "type": "rss",
+    "url": "https://tldr.tech/api/rss/ai",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "Daily AI link digest; mostly links to items other sources cover. Feed URL from memory."
+  },
+  {
+    "id": "whats-up-in-ai",
+    "name": "What's Up in AI",
+    "type": "rss",
+    "url": "https://whatsupinai.beehiiv.com/feed",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "notes": "beehiiv publication; feed path is a guess."
+  },
+  {
+    "id": "short-distance",
+    "name": "Short Distance",
+    "type": "rss",
+    "url": "https://shortdistance.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Added by request as a personal interest, not AI-focused. Exempt from keyword filtering."
+  },
+  {
+    "id": "more-better-thinking",
+    "name": "More Better Thinking",
+    "type": "rss",
+    "url": "https://morebetterthinking.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Added by request as a personal interest, not AI-focused. Exempt from keyword filtering."
+  },
+  {
+    "id": "michael-pollan",
+    "name": "Michael Pollan",
+    "type": "rss",
+    "url": "https://michaelpollan.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Added by request as a personal interest, not AI-focused. Exempt from keyword filtering."
+  },
+  {
+    "id": "ai-humanist",
+    "name": "The AI Humanist",
+    "type": "rss",
+    "url": "https://ai-humanist.beehiiv.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "notes": "Humanist perspective on AI. beehiiv feed path is a guess."
   }
 ]
