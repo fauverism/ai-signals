@@ -13,49 +13,46 @@
       "category": "News",
       "tags": [
         "chatgpt",
-        "apps",
-        "travel"
+        "apps"
       ],
-      "summary": "OpenAI announces Radisson Hotel Group's hotel search experience inside ChatGPT.",
-      "whyItMatters": "Shows how consumer brands are shipping apps within ChatGPT.",
-      "organization": "radisson"
+      "summary": "Radisson Hotel Group adds hotel discovery inside ChatGPT, per OpenAI.",
+      "whyItMatters": "Another example of brands shipping inside ChatGPT.",
+      "organization": "openai"
     },
     {
       "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
       "scores": {
-        "importance": 5,
+        "importance": 4,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 3
-      },
-      "category": "News",
-      "tags": [
-        "typescript",
-        "rust",
-        "llm",
-        "code-migration"
-      ],
-      "summary": "A Hacker News thread about porting the TypeScript compiler, checker and language server to Rust with LLM help.",
-      "whyItMatters": "Treat claims cautiously until the repo and tests are checked.",
-      "organization": "typescript"
-    },
-    {
-      "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
-      "scores": {
-        "importance": 1,
-        "trend": 1,
-        "novelty": 3,
+        "novelty": 6,
         "credibility": 4
       },
       "category": "News",
       "tags": [
-        "llm",
-        "style",
-        "experiment"
+        "code-generation",
+        "rust",
+        "typescript"
       ],
-      "summary": "Community post exploring whether language models relearn terse telegraph-style writing.",
-      "whyItMatters": "A curiosity, not a practical change.",
-      "organization": "academic"
+      "summary": "Hacker News thread on an LLM-assisted port of the TypeScript compiler, checker and language server to Rust.",
+      "whyItMatters": "Shows large-scale LLM-driven ports are being attempted.",
+      "organization": "community"
+    },
+    {
+      "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "prompting",
+        "tokens"
+      ],
+      "summary": "HN discussion about prompting in telegram-style terse language to save on LLM tokens.",
+      "whyItMatters": "Curious token-saving trick; test before trusting.",
+      "organization": "community"
     },
     {
       "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
@@ -67,12 +64,12 @@
       },
       "category": "News",
       "tags": [
+        "microsoft",
         "windows",
-        "copilot-pc",
-        "hardware"
+        "ai-pcs"
       ],
-      "summary": "Ars Technica covers Microsoft's event showing AI-oriented hardware and Windows changes.",
-      "whyItMatters": "Signals where Windows AI features are heading.",
+      "summary": "Ars Technica covers Microsoft's event with AI-oriented hardware and Windows changes.",
+      "whyItMatters": "Signals where Windows AI features are headed.",
       "organization": "microsoft"
     },
     {
@@ -90,7 +87,7 @@
         "agents"
       ],
       "summary": "The Verge reports Copilot gaining more control over Windows and local files.",
-      "whyItMatters": "Agent permissions on the desktop raise security questions.",
+      "whyItMatters": "Agentic access to local files raises security review questions.",
       "organization": "microsoft"
     },
     {
@@ -103,35 +100,34 @@
       },
       "category": "Business",
       "tags": [
-        "muse",
-        "ipad",
-        "meta"
+        "meta",
+        "muse"
       ],
-      "summary": "TechCrunch reports Meta's Muse app arriving on iPad about a month after its phone launch.",
-      "whyItMatters": "A product expansion; limited effect on builders.",
+      "summary": "TechCrunch reports Meta's Muse app has reached the iPad a month after its mobile debut.",
+      "whyItMatters": "Minor expansion of Meta's consumer AI app.",
       "organization": "meta"
     },
     {
       "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 1,
-        "novelty": 2,
+        "novelty": 3,
         "credibility": 6
       },
       "category": "News",
       "tags": [
-        "muse",
-        "ipad"
+        "meta",
+        "muse"
       ],
-      "summary": "The Verge notes the Muse app is now available on iPad.",
-      "whyItMatters": "Minor platform expansion.",
+      "summary": "The Verge notes Muse is now available on iPad.",
+      "whyItMatters": "Minor expansion.",
       "organization": "meta"
     },
     {
       "id": "610b12eb506990c2daa4c5d96602abcac85f39b6",
       "scores": {
-        "importance": 4,
+        "importance": 5,
         "trend": 1,
         "novelty": 4,
         "credibility": 6
@@ -139,11 +135,11 @@
       "category": "Policy & Safety",
       "tags": [
         "chatgpt",
-        "teens",
+        "teen-safety",
         "mental-health"
       ],
-      "summary": "TechCrunch reports concerns that ChatGPT for Teens keeps young users engaged during mental health crises.",
-      "whyItMatters": "Safety design for minors is becoming a product requirement.",
+      "summary": "TechCrunch reports ChatGPT for Teens keeps teens engaged even during mental health crises.",
+      "whyItMatters": "Safety-design gaps in teen chatbots are drawing scrutiny.",
       "organization": "openai"
     },
     {
@@ -151,18 +147,16 @@
       "scores": {
         "importance": 5,
         "trend": 1,
-        "novelty": 5,
+        "novelty": 4,
         "credibility": 6
       },
       "category": "Policy & Safety",
       "tags": [
         "chatgpt",
-        "teens",
-        "safety",
-        "common-sense-media"
+        "teen-safety"
       ],
-      "summary": "The Verge reports that Common Sense Media rates ChatGPT for Teens an unacceptable risk.",
-      "whyItMatters": "Expect scrutiny of teen-facing chatbot features.",
+      "summary": "The Verge reports Common Sense Media rates ChatGPT for Teens an unacceptable risk.",
+      "whyItMatters": "Expect pressure on teen-mode safeguards.",
       "organization": "openai"
     },
     {
@@ -176,12 +170,11 @@
       "category": "Tools & Releases",
       "tags": [
         "agents",
-        "reviews",
-        "show-hn"
+        "reviews"
       ],
       "summary": "Show HN project where AI agents read and write reviews of tools.",
-      "whyItMatters": "Experimental; trust of agent-written reviews is unproven.",
-      "organization": "agent.reviews"
+      "whyItMatters": "Experimental; agent-written reviews raise trust issues.",
+      "organization": "community"
     },
     {
       "id": "1c9558d38162697286dc97ce687dc2c774d527e8",
@@ -191,56 +184,53 @@
         "novelty": 5,
         "credibility": 6
       },
-      "category": "Policy & Safety",
+      "category": "Tools & Releases",
       "tags": [
         "synthid",
-        "provenance",
+        "watermarking",
         "detection"
       ],
       "summary": "Ars Technica reports Google's improved SynthID detector is now available globally.",
-      "whyItMatters": "Provenance checks are getting easier to use in workflows.",
+      "whyItMatters": "A public tool to check media for Google AI watermarks.",
       "organization": "google"
     },
     {
       "id": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
       "scores": {
-        "importance": 4,
+        "importance": 5,
         "trend": 1,
-        "novelty": 4,
+        "novelty": 5,
         "credibility": 6
       },
-      "category": "Policy & Safety",
+      "category": "Tools & Releases",
       "tags": [
         "synthid",
-        "provenance",
-        "detection"
+        "watermarking"
       ],
-      "summary": "TechCrunch reports Google launching a website that can check media for SynthID marks.",
-      "whyItMatters": "Detection only covers content carrying Google's watermark.",
+      "summary": "TechCrunch covers Google's new SynthID site for identifying AI-generated media.",
+      "whyItMatters": "Detection covers only content carrying SynthID.",
       "organization": "google"
     },
     {
       "id": "3469266376cf6e14658b270efda6ccf03b8e2786",
       "scores": {
-        "importance": 3,
+        "importance": 2,
         "trend": 0,
         "novelty": 2,
         "credibility": 3
       },
       "category": "Opinion",
       "tags": [
-        "local-llm",
-        "pricing",
-        "opinion"
+        "local-llm"
       ],
-      "summary": "Community post arguing a free local model removes the need for paid chatbot subscriptions.",
-      "whyItMatters": "One user's experience; test against your own tasks.",
+      "summary": "HN post arguing a free local LLM is enough instead of paying for ChatGPT or Claude.",
+      "whyItMatters": "Anecdotal; weigh against your task needs.",
       "organization": "community"
     },
     {
       "id": "65b25ad26671d7897ce42f9cbb584cb640be1a01",
       "scores": {
-        "importance": 4,
+        "importance": 3,
         "trend": 0,
         "novelty": 4,
         "credibility": 3
@@ -248,11 +238,10 @@
       "category": "Policy & Safety",
       "tags": [
         "data-poisoning",
-        "llm",
-        "disinformation"
+        "misinformation"
       ],
-      "summary": "Community-shared piece claiming LLMs and data poisoning can manufacture apparent consensus.",
-      "whyItMatters": "Reason to vet training and retrieval sources.",
+      "summary": "HN-shared piece claiming LLMs and data poisoning can manufacture apparent consensus.",
+      "whyItMatters": "Consider provenance when using LLMs for opinion research.",
       "organization": "community"
     },
     {
@@ -265,12 +254,12 @@
       },
       "category": "News",
       "tags": [
-        "physical-ai",
+        "nvidia",
         "robotics",
-        "autonomous-vehicles"
+        "physical-ai"
       ],
-      "summary": "Ars Technica reports NVIDIA's push into physical AI aimed at safer robotaxis and humanoid robots.",
-      "whyItMatters": "Shows where NVIDIA is steering its robotics stack.",
+      "summary": "Ars Technica covers Nvidia's physical-AI push aimed at safer robotaxis and humanoid robots.",
+      "whyItMatters": "Direction signal for robotics tooling.",
       "organization": "nvidia"
     },
     {
@@ -279,16 +268,15 @@
         "importance": 2,
         "trend": 0,
         "novelty": 2,
-        "credibility": 5
+        "credibility": 6
       },
       "category": "Tutorials",
       "tags": [
-        "careers",
-        "roles"
+        "careers"
       ],
-      "summary": "Explainer comparing AI engineer, applied scientist and forward deployed engineer roles.",
-      "whyItMatters": "Helpful for career planning, not for building.",
-      "organization": "academic"
+      "summary": "Article distinguishing AI engineer, applied scientist and forward deployed engineer roles.",
+      "whyItMatters": "Useful for hiring and career planning.",
+      "organization": "towards-data-science"
     },
     {
       "id": "d565071e20b31c554d234cbcc54afac053e85ea7",
@@ -302,26 +290,26 @@
       "tags": [
         "philosophy"
       ],
-      "summary": "Essay on whether morality is relative, with little direct tie to AI.",
+      "summary": "Essay on whether morality is relative.",
       "whyItMatters": "Off-topic for most readers.",
-      "organization": "academic"
+      "organization": "independent"
     },
     {
       "id": "57b3dda6739c146e1e3f3c7662ae3a9f7c5a2f4e",
       "scores": {
         "importance": 2,
         "trend": 0,
-        "novelty": 3,
-        "credibility": 7
+        "novelty": 2,
+        "credibility": 6
       },
       "category": "News",
       "tags": [
-        "tech-policy",
-        "nonprofit"
+        "ai-safety",
+        "layoffs"
       ],
-      "summary": "WIRED reports a tech-ethics nonprofit is laying off most staff and moving to founder-led operations.",
-      "whyItMatters": "Affects an advocacy voice in AI policy.",
-      "organization": "center for humane technology"
+      "summary": "WIRED reports Tristan Harris' nonprofit is laying off most staff and moving to a founder-led model.",
+      "whyItMatters": "Organizational change at a tech-ethics advocacy group.",
+      "organization": "center-for-humane-technology"
     },
     {
       "id": "c7f4b559a8fbb05c3f5d13a2a3368a40b1c98974",
@@ -329,33 +317,32 @@
         "importance": 3,
         "trend": 0,
         "novelty": 3,
-        "credibility": 7
+        "credibility": 6
       },
-      "category": "News",
+      "category": "Opinion",
       "tags": [
-        "robotics",
-        "embodied-ai"
+        "robotics"
       ],
-      "summary": "MIT Technology Review argues robotics breakthroughs will not change daily life soon.",
-      "whyItMatters": "Tempers timelines for consumer robots.",
-      "organization": "academic"
+      "summary": "MIT Technology Review argues robotics breakthroughs won't change daily life soon.",
+      "whyItMatters": "Calibrates expectations for near-term robotics.",
+      "organization": "mit-technology-review"
     },
     {
       "id": "e09a47f5417a68b700a12da5a772662137eb7a69",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 0,
-        "novelty": 2,
-        "credibility": 5
+        "novelty": 3,
+        "credibility": 6
       },
       "category": "News",
       "tags": [
         "industrial-ai",
-        "autonomy"
+        "safety"
       ],
-      "summary": "MIT Technology Review piece on building a safer route to autonomous industrial AI.",
-      "whyItMatters": "Likely sponsored framing; low novelty.",
-      "organization": "industry"
+      "summary": "MIT Technology Review piece on a safer path to autonomous industrial AI.",
+      "whyItMatters": "Industrial autonomy needs safety validation.",
+      "organization": "mit-technology-review"
     },
     {
       "id": "ee58890d81f7a8ac142407c50f0e274d07b81337",
@@ -369,9 +356,9 @@
       "tags": [
         "quote"
       ],
-      "summary": "Short quoted remark shared on a developer blog.",
-      "whyItMatters": "Skip unless you follow the thread.",
-      "organization": "simon willison"
+      "summary": "Short quoted excerpt shared on Simon Willison's blog.",
+      "whyItMatters": "Minor.",
+      "organization": "simon-willison"
     },
     {
       "id": "a843173a5365ccbb0e1a244fdaff078c2c928fe2",
@@ -379,17 +366,16 @@
         "importance": 4,
         "trend": 0,
         "novelty": 5,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "News",
       "tags": [
         "open-source",
-        "design-software",
-        "ai-coding"
+        "adobe"
       ],
-      "summary": "Ars Technica covers a developer using AI to build open-source clones of Adobe software.",
-      "whyItMatters": "Shows how fast AI-assisted clones of commercial tools can appear.",
-      "organization": "adobe"
+      "summary": "Ars Technica profiles a developer building open source clones of Adobe tools using AI, declaring software is over.",
+      "whyItMatters": "Illustrates AI-assisted cloning of commercial apps.",
+      "organization": "independent"
     },
     {
       "id": "5a98394d1a76fc9221284354c29a0f59a75fcce2",
@@ -397,20 +383,51 @@
         "importance": 2,
         "trend": 0,
         "novelty": 2,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "News",
       "tags": [
-        "workplace",
-        "writing",
-        "performance-reviews"
+        "workplace"
       ],
-      "summary": "ZDNET reports managers using AI to write performance reviews, and that it shows.",
-      "whyItMatters": "Cautionary note about AI text in high-stakes writing.",
-      "organization": "workplace"
+      "summary": "ZDNET reports managers using AI to write performance reviews and that it shows.",
+      "whyItMatters": "Cautionary note on AI-written HR text.",
+      "organization": "independent"
     },
     {
       "id": "92be971aec513c1fe2654f2e889b3e5e8f6e023f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "nous-research",
+        "agents"
+      ],
+      "summary": "TechCrunch: Nous Research confirms a $1.5B valuation and launches agents for business users.",
+      "whyItMatters": "A new open-model-adjacent vendor in the agent market.",
+      "organization": "nous-research"
+    },
+    {
+      "id": "5c20d9f9ed1e495e2bc83e581daf218c7b241079",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-progress"
+      ],
+      "summary": "Zvi's essay on how the AI progress curve bends.",
+      "whyItMatters": "Commentary; read for framing.",
+      "organization": "independent"
+    },
+    {
+      "id": "54da693e6cb24610fb6597b0df333c39e5dddd44",
       "scores": {
         "importance": 4,
         "trend": 0,
@@ -419,47 +436,12 @@
       },
       "category": "Business",
       "tags": [
-        "nous",
-        "agents",
-        "valuation"
-      ],
-      "summary": "TechCrunch reports Nous Research confirmed a valuation and launched AI agents for business users.",
-      "whyItMatters": "A new open-model lab entering enterprise agents.",
-      "organization": "nous research"
-    },
-    {
-      "id": "5c20d9f9ed1e495e2bc83e581daf218c7b241079",
-      "scores": {
-        "importance": 3,
-        "trend": 0,
-        "novelty": 2,
-        "credibility": 5
-      },
-      "category": "Opinion",
-      "tags": [
-        "commentary",
-        "ai-progress"
-      ],
-      "summary": "Weekly-style commentary from Zvi on AI progress.",
-      "whyItMatters": "Opinion roundup; read for perspective.",
-      "organization": "academic"
-    },
-    {
-      "id": "54da693e6cb24610fb6597b0df333c39e5dddd44",
-      "scores": {
-        "importance": 5,
-        "trend": 0,
-        "novelty": 5,
-        "credibility": 6
-      },
-      "category": "Business",
-      "tags": [
-        "windows-11",
+        "microsoft",
         "nvidia",
-        "copilot-pc"
+        "ai-pcs"
       ],
-      "summary": "TechCrunch reports Microsoft releasing AI PCs with Nvidia chips and a revamped Windows 11.",
-      "whyItMatters": "New local-AI hardware targets on-device workloads.",
+      "summary": "TechCrunch reports Microsoft's new Nvidia-chip AI PCs with revamped Windows 11.",
+      "whyItMatters": "New local-inference hardware for developers.",
       "organization": "microsoft"
     },
     {
@@ -468,17 +450,16 @@
         "importance": 2,
         "trend": 0,
         "novelty": 4,
-        "credibility": 7
+        "credibility": 5
       },
-      "category": "Research",
+      "category": "News",
       "tags": [
         "agents",
-        "computer-use",
-        "experiment"
+        "driving"
       ],
-      "summary": "WIRED reports on researchers having an AI drive a car to fetch fast food.",
-      "whyItMatters": "A demo of agent tool use in the physical world.",
-      "organization": "academic"
+      "summary": "WIRED reports researchers had an AI drive a Toyota Corolla to fetch In-N-Out.",
+      "whyItMatters": "Demo; shows agent control limits.",
+      "organization": "independent"
     },
     {
       "id": "cfe922d3fcc973ecf3540908a505d5df97b5ad71",
@@ -490,29 +471,28 @@
       },
       "category": "News",
       "tags": [
-        "surface",
-        "hardware",
-        "event"
+        "microsoft",
+        "surface"
       ],
-      "summary": "The Verge lists what Microsoft announced at its Surface Laptop Ultra event.",
-      "whyItMatters": "Hardware roundup; see the Copilot stories for software changes.",
+      "summary": "The Verge lists announcements from Microsoft's Surface Laptop Ultra event.",
+      "whyItMatters": "Hardware roundup.",
       "organization": "microsoft"
     },
     {
       "id": "4a32ff51ed082ec89103d3375a8b94bfa333cf00",
       "scores": {
-        "importance": 4,
+        "importance": 5,
         "trend": 0,
-        "novelty": 4,
+        "novelty": 5,
         "credibility": 6
       },
-      "category": "Business",
+      "category": "News",
       "tags": [
         "chatgpt",
         "interface"
       ],
-      "summary": "TechCrunch reports ChatGPT becoming more visual with a new interface.",
-      "whyItMatters": "Another take on the same ChatGPT interface update.",
+      "summary": "TechCrunch reports ChatGPT launching a more visual interface.",
+      "whyItMatters": "Interface shift for ChatGPT users.",
       "organization": "openai"
     },
     {
@@ -526,11 +506,10 @@
       "category": "News",
       "tags": [
         "chatgpt",
-        "interface",
-        "review"
+        "interface"
       ],
-      "summary": "WIRED's hands-on view of the visual ChatGPT update.",
-      "whyItMatters": "Hands-on opinion on the interface change.",
+      "summary": "WIRED reviews the new ChatGPT and finds it leaning on visuals over explanation.",
+      "whyItMatters": "Early hands-on take.",
       "organization": "openai"
     }
   ],
@@ -538,11 +517,11 @@
   "clusterLabels": [
     {
       "id": "c-c96fd31c0e",
-      "label": "Copilot gets Windows file control"
+      "label": "Copilot gains Windows control"
     },
     {
       "id": "c-c571c17214",
-      "label": "Meta Muse reaches iPad"
+      "label": "Meta Muse arrives on iPad"
     },
     {
       "id": "c-68d0737633",

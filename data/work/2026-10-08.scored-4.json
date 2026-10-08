@@ -7,18 +7,17 @@
       "scores": {
         "importance": 2,
         "trend": 0,
-        "novelty": 2,
-        "credibility": 7
+        "novelty": 3,
+        "credibility": 6
       },
       "category": "Policy & Safety",
       "tags": [
         "fraud",
-        "ai-music",
-        "streaming"
+        "music"
       ],
-      "summary": "Ars Technica reports a man was jailed for using bots and AI-generated songs to inflate streaming payouts.",
-      "whyItMatters": "Example of AI-enabled fraud now reaching sentencing.",
-      "organization": "spotify"
+      "summary": "Ars Technica: a man was jailed for using bots and AI-generated songs to inflate streams.",
+      "whyItMatters": "Streaming platforms are tightening fraud detection.",
+      "organization": "independent"
     },
     {
       "id": "35be1f37933475a1dba5590dab618791495e5f72",
@@ -30,31 +29,28 @@
       },
       "category": "Tools & Releases",
       "tags": [
-        "surface",
-        "dev-box",
+        "hardware",
         "nvidia"
       ],
-      "summary": "The Verge reports a Surface developer machine with an Nvidia chip is open for preorder at $5,999.",
-      "whyItMatters": "Pricing reference for local AI development hardware.",
+      "summary": "The Verge: Surface RTX Spark Dev Box opens for preorder at $5,999.",
+      "whyItMatters": "Priced option for local AI development.",
       "organization": "microsoft"
     },
     {
       "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
       "scores": {
-        "importance": 3,
+        "importance": 2,
         "trend": 0,
         "novelty": 2,
         "credibility": 6
       },
       "category": "Tutorials",
       "tags": [
-        "resilience",
-        "architecture",
-        "interview"
+        "resilience"
       ],
-      "summary": "Podcast conversation about building resilient software systems.",
-      "whyItMatters": "Background for engineers running AI services in production.",
-      "organization": "academic"
+      "summary": "Pragmatic Engineer interview on building resilient systems.",
+      "whyItMatters": "General engineering practice.",
+      "organization": "independent"
     },
     {
       "id": "94e369282ff1b45cb42690e3cdcf0b30509a0189",
@@ -67,17 +63,16 @@
       "category": "Opinion",
       "tags": [
         "math",
-        "commentary",
-        "evaluation"
+        "openai"
       ],
-      "summary": "Commentary pairing Gary Marcus's and Terence Tao's reactions to OpenAI's large math release.",
-      "whyItMatters": "Useful skeptical read before accepting the math claims.",
+      "summary": "Gary Marcus shares remarks, including from Terence Tao, on OpenAI's large release of math results.",
+      "whyItMatters": "Expert caution on a big claimed result.",
       "organization": "openai"
     },
     {
       "id": "b68f72604da4715c8f1b1d54948b7d843726cdc5",
       "scores": {
-        "importance": 4,
+        "importance": 3,
         "trend": 0,
         "novelty": 4,
         "credibility": 6
@@ -85,11 +80,11 @@
       "category": "Policy & Safety",
       "tags": [
         "ads",
-        "csam",
-        "detection"
+        "safety",
+        "meta"
       ],
-      "summary": "TechCrunch reports Meta rolling out new AI tools to detect ads that lead to child abuse material.",
-      "whyItMatters": "Shows AI used for ad-safety enforcement at scale.",
+      "summary": "TechCrunch: Meta rolls out AI tools to detect ads leading to child abuse material.",
+      "whyItMatters": "Trust-and-safety tooling; moderation practitioners may care.",
       "organization": "meta"
     },
     {
@@ -105,16 +100,16 @@
         "chatgpt",
         "education"
       ],
-      "summary": "The Verge reports ChatGPT adding college planning tools.",
-      "whyItMatters": "Another vertical feature in ChatGPT.",
+      "summary": "The Verge: ChatGPT is gaining college planning tools.",
+      "whyItMatters": "Consumer feature.",
       "organization": "openai"
     },
     {
       "id": "bb582640a785f9a2a80a8930206b4284d74313c6",
       "scores": {
-        "importance": 4,
+        "importance": 3,
         "trend": 0,
-        "novelty": 4,
+        "novelty": 3,
         "credibility": 6
       },
       "category": "Policy & Safety",
@@ -122,8 +117,8 @@
         "defense",
         "procurement"
       ],
-      "summary": "WIRED reports the Pentagon wants to speed purchases of AI for targeting using five-minute pitch videos.",
-      "whyItMatters": "Procurement shifts shape the defense AI market.",
+      "summary": "WIRED: Pentagon hopes to speed AI purchases for targeting using five-minute videos.",
+      "whyItMatters": "Defense procurement trend.",
       "organization": "pentagon"
     },
     {
@@ -131,17 +126,17 @@
       "scores": {
         "importance": 4,
         "trend": 0,
-        "novelty": 4,
+        "novelty": 3,
         "credibility": 6
       },
       "category": "Tutorials",
       "tags": [
-        "recommendation",
+        "recsys",
         "llm",
-        "case-study"
+        "netflix"
       ],
-      "summary": "ByteByteGo walkthrough of how Netflix trained an LLM-based recommender to keep viewers watching.",
-      "whyItMatters": "Architecture overview for recommender builders.",
+      "summary": "ByteByteGo explains how Netflix trained an LLM for recommendations.",
+      "whyItMatters": "Practical recsys-with-LLM architecture overview.",
       "organization": "netflix"
     },
     {
@@ -150,54 +145,18 @@
         "importance": 3,
         "trend": 0,
         "novelty": 3,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Tutorials",
       "tags": [
-        "marketing-mix",
-        "statistics"
+        "marketing-mix-model"
       ],
-      "summary": "Tutorial on measuring how wrong a marketing mix model can be.",
-      "whyItMatters": "Applies to analytics teams more than AI builders.",
-      "organization": "academic"
+      "summary": "Towards Data Science article on how wrong a marketing mix model can be.",
+      "whyItMatters": "Evaluation advice for MMMs.",
+      "organization": "independent"
     },
     {
       "id": "7b37193e1f4b1a13a83f58152e4eca84ed91654e",
-      "scores": {
-        "importance": 2,
-        "trend": 0,
-        "novelty": 2,
-        "credibility": 6
-      },
-      "category": "Opinion",
-      "tags": [
-        "blogging",
-        "writing"
-      ],
-      "summary": "Developer blog post on common mistakes when blogging about software.",
-      "whyItMatters": "Writing advice for technical bloggers.",
-      "organization": "simon willison"
-    },
-    {
-      "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
-      "scores": {
-        "importance": 4,
-        "trend": 0,
-        "novelty": 4,
-        "credibility": 6
-      },
-      "category": "News",
-      "tags": [
-        "biology",
-        "virtual-cell",
-        "funding"
-      ],
-      "summary": "The Verge reports Google investing in Mark Zuckerberg's effort to model a virtual cell.",
-      "whyItMatters": "Large-model biology gets major backers.",
-      "organization": "chan zuckerberg"
-    },
-    {
-      "id": "f2aec101ad7890b259ffa50968686ce76a9ca12f",
       "scores": {
         "importance": 2,
         "trend": 0,
@@ -206,29 +165,60 @@
       },
       "category": "Opinion",
       "tags": [
-        "commentary",
+        "blogging"
+      ],
+      "summary": "Simon Willison on anti-patterns in software blogging.",
+      "whyItMatters": "Writing tips.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "biology",
+        "virtual-cell"
+      ],
+      "summary": "The Verge: Google invests millions in Zuckerberg's virtual cell effort.",
+      "whyItMatters": "AI-biology funding signal.",
+      "organization": "google"
+    },
+    {
+      "id": "f2aec101ad7890b259ffa50968686ce76a9ca12f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
         "ai-hype"
       ],
-      "summary": "Essay using a magic show as a metaphor for AI audiences.",
-      "whyItMatters": "Opinion; no new facts.",
-      "organization": "academic"
+      "summary": "The Algorithmic Bridge essay comparing AI discourse to an audience at a magic show.",
+      "whyItMatters": "Commentary.",
+      "organization": "independent"
     },
     {
       "id": "083b4a0cd473b98bf866e868f7e50d19f8441459",
       "scores": {
-        "importance": 6,
+        "importance": 5,
         "trend": 0,
-        "novelty": 6,
+        "novelty": 5,
         "credibility": 6
       },
       "category": "Tools & Releases",
       "tags": [
         "mistral",
-        "le-chonk",
-        "frontier-models"
+        "models"
       ],
-      "summary": "Ars Technica reports Mistral says its Le Chonk model can compete with top systems; the claim is the company's own.",
-      "whyItMatters": "A new competitor to test, but verify the benchmark claims.",
+      "summary": "Ars Technica: Mistral says its 'Le Chonk' model can challenge top AI models; the claim is the company's.",
+      "whyItMatters": "Another competitive model to benchmark.",
       "organization": "mistral"
     },
     {
@@ -242,12 +232,11 @@
       "category": "News",
       "tags": [
         "agents",
-        "harness",
-        "cloud"
+        "harness"
       ],
-      "summary": "Newsletter piece asking whether a cloud-native harness makes agents reliable beyond the desktop.",
-      "whyItMatters": "Design question for teams deploying agents.",
-      "organization": "academic"
+      "summary": "Latent Space discusses whether a cloud-native harness can make agents reliable beyond desktop.",
+      "whyItMatters": "Agent infrastructure design question.",
+      "organization": "independent"
     },
     {
       "id": "1864009c89459a0c2f9d4d4d04fc5d275a758396",
@@ -260,29 +249,27 @@
       "category": "Tutorials",
       "tags": [
         "reinforcement-learning",
-        "bandits",
         "python"
       ],
-      "summary": "Tutorial simulating multi-armed bandits in Python.",
-      "whyItMatters": "Beginner-level RL exercise.",
-      "organization": "academic"
+      "summary": "Tutorial on multi-armed bandit simulation in Python.",
+      "whyItMatters": "Intro-level RL exercise.",
+      "organization": "independent"
     },
     {
       "id": "259ac77af9d3d56b65302a9efb3e52c324b41134",
       "scores": {
         "importance": 3,
         "trend": 0,
-        "novelty": 5,
+        "novelty": 4,
         "credibility": 6
       },
       "category": "Research",
       "tags": [
         "benchmark",
-        "motion",
-        "datasets"
+        "motion"
       ],
-      "summary": "IEEE Spectrum covers HiPHI, a large benchmark of precise human motion and object interactions.",
-      "whyItMatters": "Useful data for robotics and animation research.",
+      "summary": "IEEE Spectrum covers HiPHI, a benchmark for precise human motion and object interaction.",
+      "whyItMatters": "Data for robotics and animation training.",
       "organization": "academic"
     },
     {
@@ -291,16 +278,15 @@
         "importance": 2,
         "trend": 0,
         "novelty": 2,
-        "credibility": 5
+        "credibility": 4
       },
       "category": "News",
       "tags": [
-        "automation",
-        "productivity"
+        "automation"
       ],
-      "summary": "Newsletter on handing repetitive jobs to AI tools.",
-      "whyItMatters": "General advice; little new.",
-      "organization": "academic"
+      "summary": "The Signal newsletter on handing AI your boring jobs.",
+      "whyItMatters": "Generic productivity advice.",
+      "organization": "independent"
     },
     {
       "id": "7bc164970be3d17e48f906054ad07c91528eedf3",
@@ -308,17 +294,16 @@
         "importance": 3,
         "trend": 0,
         "novelty": 4,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Tutorials",
       "tags": [
         "reliability",
-        "llm",
-        "evaluation"
+        "llm"
       ],
-      "summary": "Guide framing LLM reliability using a consistency quadrant.",
-      "whyItMatters": "A mental model for evaluating output consistency.",
-      "organization": "academic"
+      "summary": "Towards Data Science visual guide to LLM reliability and consistency.",
+      "whyItMatters": "Mental model for judging output reliability.",
+      "organization": "independent"
     },
     {
       "id": "2b6dda706b0ffbe8a8d29045d89d6fb11aac47cf",
@@ -326,16 +311,15 @@
         "importance": 4,
         "trend": 0,
         "novelty": 4,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "News",
       "tags": [
-        "agents",
         "openai",
-        "review"
+        "agents"
       ],
-      "summary": "WIRED's hands-on account of using OpenAI's new agent, including odd emotional replies.",
-      "whyItMatters": "Anecdotal first-look at OpenAI's agent behavior.",
+      "summary": "WIRED hands-on with OpenAI's new agent that aims to manage daily life.",
+      "whyItMatters": "Early view of consumer agent behavior.",
       "organization": "openai"
     },
     {
@@ -344,17 +328,16 @@
         "importance": 3,
         "trend": 0,
         "novelty": 4,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Tutorials",
       "tags": [
         "pinns",
-        "numerical-methods",
-        "experiment"
+        "numerical-methods"
       ],
-      "summary": "Experiment comparing physics-informed neural networks with classical numerical methods in 1D and 5D.",
-      "whyItMatters": "Helps decide when PINNs are worth using.",
-      "organization": "academic"
+      "summary": "Experiment comparing PINNs against classical numerical methods in 1D vs 5D.",
+      "whyItMatters": "Helps decide when PINNs justify their cost.",
+      "organization": "independent"
     },
     {
       "id": "cf9bc9f0b3d61443a7c4fee6327eea157a546201",
@@ -362,50 +345,48 @@
         "importance": 1,
         "trend": 0,
         "novelty": 2,
-        "credibility": 5
+        "credibility": 4
       },
       "category": "News",
       "tags": [
-        "publishing",
-        "human-written"
+        "publishing"
       ],
-      "summary": "WIRED on certification schemes for human-written books.",
-      "whyItMatters": "Peripheral to AI development.",
-      "organization": "academic"
+      "summary": "WIRED on certifying books as organic, free of AI.",
+      "whyItMatters": "Cultural trend.",
+      "organization": "independent"
     },
     {
       "id": "123f62bc2f1aaf0a3b488040f3b4800e026b48af",
       "scores": {
-        "importance": 1,
+        "importance": 2,
         "trend": 0,
         "novelty": 2,
         "credibility": 5
       },
       "category": "Tutorials",
       "tags": [
-        "software-engineering",
-        "staging"
+        "staging",
+        "engineering"
       ],
-      "summary": "Newsletter on whether teams still need staging environments.",
-      "whyItMatters": "Engineering practice; not AI-specific.",
-      "organization": "academic"
+      "summary": "Refactoring newsletter on whether staging environments are still needed.",
+      "whyItMatters": "General engineering practice.",
+      "organization": "independent"
     },
     {
       "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
       "scores": {
-        "importance": 8,
+        "importance": 7,
         "trend": 0,
-        "novelty": 8,
-        "credibility": 5
+        "novelty": 7,
+        "credibility": 3
       },
       "category": "News",
       "tags": [
-        "math",
-        "research",
-        "openai"
+        "openai",
+        "math"
       ],
-      "summary": "A newsletter reports OpenAI posted hundreds of math manuscripts from an internal model, with 90 of 500 top open problems claimed solved; claims are not independently verified.",
-      "whyItMatters": "If verified, it changes expectations for AI in mathematics.",
+      "summary": "Newsletter reports OpenAI published a large set of math papers claiming progress on open problems; its description of impact is the newsletter's own.",
+      "whyItMatters": "If verified, it would be a major result; await expert review.",
       "organization": "openai"
     },
     {
@@ -420,26 +401,26 @@
       "tags": [
         "quote"
       ],
-      "summary": "Short quoted remark on a developer blog.",
-      "whyItMatters": "Skip unless you follow the thread.",
-      "organization": "simon willison"
+      "summary": "Short quoted excerpt on Simon Willison's blog.",
+      "whyItMatters": "Minor.",
+      "organization": "simon-willison"
     },
     {
       "id": "50e357203d2a1cc3668efe8a796d94819c524e7b",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 0,
-        "novelty": 3,
+        "novelty": 5,
         "credibility": 5
       },
-      "category": "News",
+      "category": "Policy & Safety",
       "tags": [
+        "openai",
         "agents",
-        "wikimedia",
-        "safety"
+        "wikimedia"
       ],
-      "summary": "Developer blog notes reports of unexpected OpenAI agent activity on Wikimedia projects.",
-      "whyItMatters": "Agent behavior on public sites needs monitoring.",
+      "summary": "Simon Willison notes reports of OpenAI-linked agent activity on Wikimedia projects.",
+      "whyItMatters": "Agent traffic and etiquette on shared sites is a live issue.",
       "organization": "openai"
     },
     {
@@ -452,12 +433,12 @@
       },
       "category": "Opinion",
       "tags": [
-        "policy",
-        "intelligence"
+        "intelligence",
+        "policy"
       ],
-      "summary": "Platformer essay asking whether intelligence should be capped.",
-      "whyItMatters": "Policy-flavored commentary.",
-      "organization": "academic"
+      "summary": "Platformer asks whether intelligence needs a hard cap.",
+      "whyItMatters": "Policy framing.",
+      "organization": "independent"
     },
     {
       "id": "1be1580b00c2b429a3c46b002e63ba90269573bc",
@@ -473,8 +454,8 @@
         "mistral",
         "openai"
       ],
-      "summary": "TLDR roundup covering Mistral Large 4, an OpenAI Decisions API and Nano Banana 2.1.",
-      "whyItMatters": "Quick pointer to several launches worth a closer look.",
+      "summary": "TLDR AI roundup mentioning Mistral Large 4, an OpenAI Decisions API and Nano Banana 2.1.",
+      "whyItMatters": "Pointer to several releases; verify at sources.",
       "organization": "mistral"
     },
     {
@@ -489,22 +470,17 @@
       "tags": [
         "quote"
       ],
-      "summary": "Short quoted remark on a developer blog.",
-      "whyItMatters": "Skip unless you follow the thread.",
-      "organization": "simon willison"
+      "summary": "Short quoted excerpt on Simon Willison's blog.",
+      "whyItMatters": "Minor.",
+      "organization": "simon-willison"
     }
   ],
   "skipped": [
     {
       "id": "e8947d3adf72c0ca9ea14efdeac6456ae5ac8ff6",
-      "reason": "funding with no technical substance"
+      "reason": "funding news"
     }
   ],
   "clusterLabels": [],
-  "fetches": [
-    {
-      "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
-      "reason": "headline claim of 90 open problems solved needed context"
-    }
-  ]
+  "fetches": []
 }

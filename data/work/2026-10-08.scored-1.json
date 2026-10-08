@@ -7,17 +7,16 @@
       "scores": {
         "importance": 6,
         "trend": 4,
-        "novelty": 6,
+        "novelty": 5,
         "credibility": 8
       },
       "category": "Tools & Releases",
       "tags": [
         "claude",
-        "haiku",
-        "aws"
+        "aws-bedrock"
       ],
-      "summary": "AWS announces that Claude Haiku 5.5 is available on its platform, the small model in Anthropic's lineup.",
-      "whyItMatters": "Check Haiku 5.5 on AWS for cheaper, faster tiers in your pipelines.",
+      "summary": "AWS announces that Claude Haiku 5.5 is available on its platform, giving AWS customers access to the smaller model tier.",
+      "whyItMatters": "Check whether Haiku 5.5 on AWS fits your latency and cost targets.",
       "organization": "anthropic"
     },
     {
@@ -28,20 +27,19 @@
         "novelty": 6,
         "credibility": 9
       },
-      "category": "Tools & Releases",
+      "category": "News",
       "tags": [
-        "gpt-6",
         "chatgpt",
-        "interface"
+        "gpt-6"
       ],
-      "summary": "OpenAI's own post pairs a GPT-6 release with an interface update for ChatGPT, aimed at a broad audience of users.",
-      "whyItMatters": "A new default model and UI change what ChatGPT users and API teams compare against.",
+      "summary": "OpenAI's own post pairing GPT-6 with an 'Intelligent UI' for ChatGPT, aimed at a broad user base.",
+      "whyItMatters": "Shows where ChatGPT's interface and model line are heading.",
       "organization": "openai"
     },
     {
       "id": "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
       "scores": {
-        "importance": 5,
+        "importance": 4,
         "trend": 4,
         "novelty": 3,
         "credibility": 5
@@ -49,11 +47,11 @@
       "category": "News",
       "tags": [
         "claude",
-        "haiku",
+        "gpt-6",
         "pricing"
       ],
-      "summary": "A newsletter roundup reports Haiku 5.5 beating OpenAI's GPT-6 Luna at the same price, a comparison it draws from vendor claims.",
-      "whyItMatters": "Treat the head-to-head as a lead to test on your own evals.",
+      "summary": "Newsletter roundup claiming Claude Haiku 5.5 beats a GPT-6 variant at the same price; the comparison is the newsletter's own framing.",
+      "whyItMatters": "Treat the benchmark claim as unverified until you test on your tasks.",
       "organization": "anthropic"
     },
     {
@@ -67,11 +65,10 @@
       "category": "News",
       "tags": [
         "chatgpt",
-        "generative-ui",
-        "charts"
+        "interface"
       ],
-      "summary": "The Verge describes ChatGPT replies now including pictures, charts and buttons rather than plain text alone.",
-      "whyItMatters": "Rich answer formats may change how you design chat front ends.",
+      "summary": "The Verge reports ChatGPT answers now include images, charts and buttons in place of plain text.",
+      "whyItMatters": "Expect ChatGPT outputs to become more interactive; plan UI/UX comparisons.",
       "organization": "openai"
     },
     {
@@ -79,35 +76,33 @@
       "scores": {
         "importance": 2,
         "trend": 3,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "benchmark",
-        "reasoning",
-        "geometry"
+        "reasoning"
       ],
-      "summary": "Preprint presenting a benchmark that tests joint spatial-geometric and function reasoning in models.",
-      "whyItMatters": "Another reasoning benchmark; useful only if you evaluate math-vision models.",
-      "organization": "gagr-lab"
+      "summary": "Preprint introducing a benchmark for reasoning that combines spatial-geometric and analytic function tasks.",
+      "whyItMatters": "Niche benchmark; relevant if you evaluate geometric reasoning.",
+      "organization": "academic"
     },
     {
       "id": "b786ebc1c06357188b4a3cd9f3651dca35e89269",
       "scores": {
         "importance": 2,
         "trend": 3,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "tabular",
-        "trees",
         "few-shot"
       ],
-      "summary": "Paper on using an LLM to generate decision trees for few-shot tabular classification.",
-      "whyItMatters": "Relevant if you need tabular models with very few labeled rows.",
+      "summary": "Paper on using LLMs to generate decision trees for few-shot tabular classification.",
+      "whyItMatters": "An LLM-as-tree-builder idea for small tabular datasets.",
       "organization": "academic"
     },
     {
@@ -116,16 +111,14 @@
         "importance": 3,
         "trend": 2,
         "novelty": 4,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "agents",
-        "advisors",
-        "training"
+        "agents"
       ],
-      "summary": "Preprint on training advisor models for LLM agents using the outcomes of completed tasks.",
-      "whyItMatters": "A possible way to improve agents without retraining the base model.",
+      "summary": "Paper on training advisor models for LLM agents using outcomes from completed tasks.",
+      "whyItMatters": "Possible route to improving agents without retraining the base model.",
       "organization": "academic"
     },
     {
@@ -133,17 +126,15 @@
       "scores": {
         "importance": 2,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 3,
+        "credibility": 4
       },
       "category": "Research",
       "tags": [
-        "positional-encoding",
-        "rope",
-        "transformers"
+        "positional-encoding"
       ],
-      "summary": "Preprint proposing a depth-wise variant of rotary position encoding for transformers.",
-      "whyItMatters": "Niche architecture change; watch for replication before adopting.",
+      "summary": "Paper proposing a depth-wise variation of rotary position embeddings.",
+      "whyItMatters": "Architecture detail; watch for replication before adopting.",
       "organization": "academic"
     },
     {
@@ -152,16 +143,15 @@
         "importance": 3,
         "trend": 2,
         "novelty": 3,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "coding-agents",
-        "benchmarks",
-        "evaluation"
+        "benchmarks"
       ],
-      "summary": "Position paper arguing coding-agent benchmarks should reflect how people actually work with them.",
-      "whyItMatters": "Useful framing when choosing how to evaluate coding agents.",
+      "summary": "Position paper arguing that coding-agent benchmarks should reflect how users actually work.",
+      "whyItMatters": "Useful lens when judging coding-agent leaderboards.",
       "organization": "academic"
     },
     {
@@ -169,17 +159,16 @@
       "scores": {
         "importance": 2,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "uncertainty",
-        "vision",
-        "black-box"
+        "vision"
       ],
-      "summary": "Preprint estimating uncertainty for black-box vision models from the spatial consistency of outputs.",
-      "whyItMatters": "Applies where you only have API access to a vision model.",
+      "summary": "Paper on estimating uncertainty for black-box vision models from spatial consistency.",
+      "whyItMatters": "Post-hoc uncertainty without model access, for vision deployments.",
       "organization": "academic"
     },
     {
@@ -187,17 +176,16 @@
       "scores": {
         "importance": 3,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "uncertainty",
-        "llm",
-        "analysis"
+        "llm"
       ],
-      "summary": "Paper analyzing when and why uncertainty arises inside language models.",
-      "whyItMatters": "Helps reason about calibration and abstention in LLM products.",
+      "summary": "Paper studying when and why language models become uncertain.",
+      "whyItMatters": "Informs calibration and abstention work.",
       "organization": "academic"
     },
     {
@@ -206,16 +194,14 @@
         "importance": 2,
         "trend": 2,
         "novelty": 2,
-        "credibility": 5
+        "credibility": 4
       },
       "category": "Research",
       "tags": [
-        "llm",
-        "interaction",
-        "essay"
+        "llm"
       ],
-      "summary": "Short paper reflecting on how people converse with language models.",
-      "whyItMatters": "Background reading, not an action item.",
+      "summary": "Preprint with a broad title about how people and researchers talk with language models.",
+      "whyItMatters": "Thin signal from the title; skim only if relevant.",
       "organization": "academic"
     },
     {
@@ -223,17 +209,16 @@
       "scores": {
         "importance": 3,
         "trend": 2,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Policy & Safety",
       "tags": [
         "on-device",
-        "safety",
-        "fault-analysis"
+        "safety"
       ],
-      "summary": "Preprint that locates safety-critical parameters in on-device language models to study how fragile their safety behavior is.",
-      "whyItMatters": "Shows risk if you ship small safety-tuned models to user devices.",
+      "summary": "Paper localizing safety-critical parameters in on-device language models to study how easily safety breaks.",
+      "whyItMatters": "Relevant if you ship small models on devices.",
       "organization": "academic"
     },
     {
@@ -241,17 +226,16 @@
       "scores": {
         "importance": 2,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "video",
-        "memory",
-        "3d"
+        "memory"
       ],
-      "summary": "Paper studying how models keep track of 3D objects over time in first-person video.",
-      "whyItMatters": "Niche vision research; low impact for most builders.",
+      "summary": "Paper on how 3D object memory persists in egocentric video understanding.",
+      "whyItMatters": "Niche vision research.",
       "organization": "academic"
     },
     {
@@ -259,35 +243,32 @@
       "scores": {
         "importance": 2,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "segmentation",
-        "sustainability",
-        "medical-imaging"
+        "sustainability"
       ],
-      "summary": "Proposes a performance index for cell and nucleus segmentation that accounts for compute cost.",
-      "whyItMatters": "A template for reporting accuracy alongside energy cost.",
+      "summary": "Paper proposing a sustainability-aware performance index for cell and nucleus segmentation.",
+      "whyItMatters": "Adds compute cost to how segmentation models are compared.",
       "organization": "academic"
     },
     {
       "id": "f38f03b547b8d55a1397ea3b27b7d0410cffb04c",
       "scores": {
-        "importance": 1,
+        "importance": 2,
         "trend": 2,
-        "novelty": 3,
-        "credibility": 6
+        "novelty": 2,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "optimization",
-        "stochastic-approximation",
-        "theory"
+        "optimization"
       ],
       "summary": "Theory paper on bias and extrapolation in two-timescale stochastic approximation.",
-      "whyItMatters": "Theory result with little near-term practical effect.",
+      "whyItMatters": "Theory-heavy; little immediate practitioner impact.",
       "organization": "academic"
     },
     {
@@ -295,34 +276,33 @@
       "scores": {
         "importance": 2,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "video",
-        "retrieval",
-        "memory"
+        "retrieval"
       ],
-      "summary": "Paper on long-video understanding where memory and retrieval are improved together.",
-      "whyItMatters": "Relevant to long-video question answering systems.",
+      "summary": "Paper on co-evolving memory and retrieval for understanding long videos.",
+      "whyItMatters": "Long-video retrieval technique worth a skim.",
       "organization": "academic"
     },
     {
       "id": "f8e3ea46dbbc56c9eebaddbbee95a2daff899793",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 2,
         "novelty": 4,
         "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "flow-models",
-        "reasoning"
+        "reasoning",
+        "flow-models"
       ],
-      "summary": "Paper exploring unrolled flow models applied to reasoning tasks.",
-      "whyItMatters": "Early-stage idea; monitor rather than act.",
+      "summary": "Paper on unrolled flow models applied to reasoning tasks.",
+      "whyItMatters": "Early idea for reasoning beyond token-by-token decoding.",
       "organization": "academic"
     },
     {
@@ -331,16 +311,15 @@
         "importance": 2,
         "trend": 2,
         "novelty": 3,
-        "credibility": 6
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "ultrasound",
-        "benchmark",
-        "anomaly-detection"
+        "medical-imaging",
+        "benchmark"
       ],
-      "summary": "Benchmark across several ultrasound sources showing limits of self-supervised anomaly detection.",
-      "whyItMatters": "A caution for teams deploying medical anomaly detectors.",
+      "summary": "Ultrasound benchmark paper reporting limits of current self-supervised anomaly detection.",
+      "whyItMatters": "Cautionary data for medical-imaging anomaly detection.",
       "organization": "academic"
     },
     {
@@ -348,17 +327,16 @@
       "scores": {
         "importance": 3,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "multilingual",
-        "reasoning",
-        "prompting"
+        "reasoning"
       ],
-      "summary": "Paper comparing which language a reasoning scaffold should use in multilingual settings.",
-      "whyItMatters": "Informs prompt design for non-English reasoning.",
+      "summary": "Paper on which language to use for intermediate reasoning steps in multilingual settings.",
+      "whyItMatters": "Informs prompt-language choices for multilingual reasoning.",
       "organization": "academic"
     },
     {
@@ -366,52 +344,49 @@
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 3,
+        "credibility": 4
       },
       "category": "Research",
       "tags": [
-        "model-engineering",
-        "geometry"
+        "model-engineering"
       ],
-      "summary": "Preprint proposing channel-aligned structure exploitation for geometry-aware model design.",
-      "whyItMatters": "Narrow method paper; skim only.",
+      "summary": "Preprint on channel-aligned structure for geometry-aware model engineering.",
+      "whyItMatters": "Narrow methods paper.",
       "organization": "academic"
     },
     {
       "id": "0c71149bfce0056c2c74d12a231b61c42f71b373",
       "scores": {
-        "importance": 3,
+        "importance": 2,
         "trend": 1,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "attention",
-        "efficiency",
-        "vision"
+        "efficiency"
       ],
-      "summary": "Paper on hardware-aware clustered attention for visual geometry transformers.",
-      "whyItMatters": "Efficiency gain relevant to 3D vision inference.",
+      "summary": "Paper on hardware-aware clustered attention for efficient visual geometric transformers.",
+      "whyItMatters": "Efficiency trick for geometry vision models.",
       "organization": "academic"
     },
     {
       "id": "1c36e3ad2419df8936772dc3b76636eb316545f0",
       "scores": {
-        "importance": 4,
+        "importance": 3,
         "trend": 1,
-        "novelty": 6,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 4
       },
       "category": "Research",
       "tags": [
         "long-context",
-        "reasoning",
-        "memory-efficient"
+        "efficient-inference"
       ],
-      "summary": "Preprint on a 4B model that reasons over long horizons with linear time and constant memory.",
-      "whyItMatters": "If results hold, cheaper long reasoning on small models.",
+      "summary": "Paper presenting a 4B model claimed to reason over long horizons with constant memory; claims are the authors' own.",
+      "whyItMatters": "If the claim holds, long reasoning gets cheaper; await replication.",
       "organization": "academic"
     },
     {
@@ -419,35 +394,33 @@
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "animation",
-        "emg",
-        "face"
+        "emg"
       ],
-      "summary": "Paper generating facial animation from high-density surface muscle signals.",
-      "whyItMatters": "Niche; interesting for avatar and accessibility work.",
+      "summary": "Paper on driving facial animation from high-density surface EMG signals.",
+      "whyItMatters": "Niche input modality for avatars.",
       "organization": "academic"
     },
     {
       "id": "4cc918e70315801f42f631ad5c1dbfa9bb908d6b",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 1,
-        "novelty": 5,
+        "novelty": 4,
         "credibility": 5
       },
       "category": "Research",
       "tags": [
         "diffusion",
-        "language-models",
-        "conditioning"
+        "language-models"
       ],
-      "summary": "Preprint on adding noise to conditioning tokens in continuous diffusion language models.",
-      "whyItMatters": "Early diffusion-LM technique.",
+      "summary": "Paper on adding noise to conditioning tokens in continuous diffusion language models.",
+      "whyItMatters": "Diffusion LMs remain experimental; tracks method progress.",
       "organization": "academic"
     },
     {
@@ -455,16 +428,16 @@
       "scores": {
         "importance": 3,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "quantization",
         "embeddings"
       ],
-      "summary": "Label-free mixed-precision quantization method for text embedding models.",
-      "whyItMatters": "Could shrink embedding serving costs without labeled data.",
+      "summary": "Paper on label-free mixed-precision quantization for text embedding models.",
+      "whyItMatters": "Could shrink embedding models for search without labeled data.",
       "organization": "academic"
     },
     {
@@ -472,17 +445,16 @@
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "climate",
-        "contrails",
-        "satellites"
+        "satellite"
       ],
-      "summary": "Paper on checking contrail-avoidance decisions against satellite observations.",
-      "whyItMatters": "Applied ML example; limited broader impact.",
+      "summary": "Paper on verifying contrail-avoidance decisions with satellite observations.",
+      "whyItMatters": "Applied ML in aviation climate work.",
       "organization": "academic"
     },
     {
@@ -490,17 +462,15 @@
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 4,
-        "credibility": 6
+        "novelty": 3,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "interpretability",
-        "attribution",
-        "faithfulness"
+        "interpretability"
       ],
-      "summary": "Paper optimizing attribution methods directly for insertion and deletion curve scores.",
-      "whyItMatters": "Relevant if you evaluate explanation methods.",
+      "summary": "Paper optimizing insertion/deletion curve areas to rank feature importance.",
+      "whyItMatters": "Interpretability metric work for attribution methods.",
       "organization": "academic"
     },
     {
@@ -508,17 +478,16 @@
       "scores": {
         "importance": 3,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "robotics",
-        "vla",
-        "prompting"
+        "vla"
       ],
-      "summary": "Paper characterizing how rewording instructions changes vision-language-action model behavior, with a mitigation.",
-      "whyItMatters": "A reminder that robot policies can be brittle to phrasing.",
+      "summary": "Paper characterizing how rephrased instructions affect vision-language-action models and how to reduce the sensitivity.",
+      "whyItMatters": "Robot policies can be brittle to wording; test paraphrases.",
       "organization": "academic"
     },
     {
@@ -526,17 +495,16 @@
       "scores": {
         "importance": 3,
         "trend": 1,
-        "novelty": 5,
-        "credibility": 6
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "interpretability",
-        "activation-patching",
-        "benchmark"
+        "activation-patching"
       ],
-      "summary": "Benchmark measuring unintended side effects of activation patching.",
-      "whyItMatters": "Useful check for interpretability experiments.",
+      "summary": "Paper measuring collateral damage caused by activation patching.",
+      "whyItMatters": "Matters for anyone using patching in interpretability studies.",
       "organization": "academic"
     }
   ],
@@ -544,7 +512,7 @@
   "clusterLabels": [
     {
       "id": "c-cdd8b446b3",
-      "label": "Claude Haiku 5.5 and GPT-6"
+      "label": "GPT-6 and Claude Haiku launches"
     }
   ],
   "fetches": []
