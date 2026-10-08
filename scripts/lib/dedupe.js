@@ -6,7 +6,7 @@ const HOUR = 3600 * 1000;
 
 export const DEFAULTS = {
   cap: 150,
-  perSourceCap: null, // opt-in: at most this many items from one source in the capped set
+  perSourceCap: 8, // at most this many items from one source in the capped set (null = no limit); stops arXiv filling the cap
   nearDupHours: 48,
   nearDupJaccard: 0.6,
   clusterHours: 72,

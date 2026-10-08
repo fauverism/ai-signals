@@ -37,7 +37,7 @@ export function semanticErrors(kind, data, file) {
     });
     return errs;
   }
-  if (kind === 'keywords' || kind === 'batch' || kind === 'scored') return errs;
+  if (kind === 'keywords' || kind === 'batch' || kind === 'scored' || kind === 'dropped') return errs;
   if (kind === 'archive') {
     for (let i = 1; i < data.length; i++) {
       if (data[i - 1].date <= data[i].date) errs.push(`[${i}]: not newest first / duplicate date ${data[i].date}`);

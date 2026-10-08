@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/dropped.schema.json",
+  "title": "Dropped",
+  "description": "data/work/YYYY-MM-DD.dropped.json: featured items whose link failed the HEAD check. rank --assemble leaves them out and re-features from the rest.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "dropped"],
+  "properties": {
+    "date": { "$ref": "common.schema.json#/$defs/editionDate" },
+    "dropped": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "url", "reason", "checkedAt"],
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/sha1" },
+          "url": { "$ref": "common.schema.json#/$defs/httpUrl" },
+          "reason": { "type": "string", "minLength": 1, "maxLength": 200 },
+          "checkedAt": { "$ref": "common.schema.json#/$defs/utcTimestamp" }
+        }
+      }
+    }
+  }
+}

@@ -9,16 +9,20 @@
     "node": ">=20"
   },
   "scripts": {
-    "collect": "node scripts/collect.js",
+    "collect": "NODE_USE_ENV_PROXY=1 node scripts/collect.js",
     "dedupe": "node scripts/dedupe.js",
     "rank": "node scripts/rank.js",
     "build": "node scripts/build.js",
-    "check": "node scripts/validate.js && node scripts/sync-subscribe.js --check && node scripts/build.js --check",
+    "check": "node scripts/validate.js && node scripts/sync-subscribe.js --check && node scripts/build.js --check && NODE_USE_ENV_PROXY=1 node scripts/gate.js",
     "sync": "node scripts/sync-subscribe.js",
     "test": "node --test",
     "serve": "node scripts/serve.js",
-    "verify-sources": "node scripts/verify-sources.js",
-    "daily": "npm run collect && npm run dedupe && npm run rank && npm run build && npm run check"
+    "verify-sources": "NODE_USE_ENV_PROXY=1 node scripts/verify-sources.js",
+    "daily": "node scripts/daily.js",
+    "daily:start": "node scripts/daily.js start",
+    "daily:publish": "node scripts/daily.js publish",
+    "daily:summary": "node scripts/daily.js summary",
+    "daily:fail": "node scripts/daily.js fail"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",

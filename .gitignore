@@ -158,3 +158,6 @@ data/cache/
 
 # Throwaway preview from `npm run build -- --dry`
 data/work/dry-site/
+
+# State of a daily run in progress (scripts/daily.js)
+data/work/daily-run.json

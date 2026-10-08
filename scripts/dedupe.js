@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Dedupes, clusters and pre-scores data/raw/<edition-date>.json -> data/raw/<edition-date>.deduped.json.
-// Usage: node scripts/dedupe.js [--date YYYY-MM-DD] [--cap 150] [--per-source-cap N]
+// Usage: node scripts/dedupe.js [--date YYYY-MM-DD] [--cap 150] [--per-source-cap 8]   (0 = no per-source limit)
 // Deterministic: same raw file and same recent editions give the same result.
 import { mkdir, readFile, readdir, rename, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -17,7 +17,9 @@ const flag = (name) => {
 const date = flag('date') ?? editionDate();
 if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error(`--date must be YYYY-MM-DD, got "${date}"`);
 const cap = Number(flag('cap') ?? DEFAULTS.cap);
-const perSourceCap = flag('per-source-cap') == null ? null : Number(flag('per-source-cap'));
+// Default from lib/dedupe.js (8). `--per-source-cap 0` means no limit.
+const perSourceFlag = flag('per-source-cap');
+const perSourceCap = perSourceFlag == null ? DEFAULTS.perSourceCap : Number(perSourceFlag) > 0 ? Number(perSourceFlag) : null;
 const LOOKBACK = 7;
 
 const rawFile = path.join(root, 'data/raw', `${date}.json`);

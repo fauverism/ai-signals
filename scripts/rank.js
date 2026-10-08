@@ -169,6 +169,15 @@ async function assemble() {
     for (const item of b.items) expected.set(item.id, b.batch);
   }
 
+  // Featured items whose link failed the HEAD check (written by scripts/gate.js). They are left out entirely.
+  const droppedFile = file('data/work', `${date}.dropped.json`);
+  const droppedDoc = await readJson(droppedFile, null);
+  if (droppedDoc) {
+    const bad = check('dropped', droppedDoc, droppedFile);
+    if (bad.length) fail(bad);
+  }
+  const dropped = new Map((droppedDoc?.dropped ?? []).filter((d) => expected.has(d.id)).map((d) => [d.id, d.reason]));
+
   // Scored files.
   const scoredNames = await workFiles(new RegExp(`^${date}\\.scored-\\d+\\.json$`));
   const judged = new Map();
@@ -200,7 +209,7 @@ async function assemble() {
   }
   if (fetches.length > MAX_FETCHES) problems.push(`${fetches.length} source fetches recorded; the limit is ${MAX_FETCHES}`);
 
-  const missing = [...expected.keys()].filter((id) => !judged.has(id) && !skipped.has(id));
+  const missing = [...expected.keys()].filter((id) => !judged.has(id) && !skipped.has(id) && !dropped.has(id));
   if (missing.length) {
     const nums = [...new Set(missing.map((id) => expected.get(id)))].sort((a, b) => a - b);
     problems.push(`${missing.length} item(s) are neither scored nor skipped (batches ${nums.join(', ')}): ${missing.slice(0, 5).join(', ')}${missing.length > 5 ? ', …' : ''}`);
@@ -210,6 +219,7 @@ async function assemble() {
   const entries = [];
   const adjustments = [];
   for (const [id, j] of judged) {
+    if (dropped.has(id)) continue;
     const d = byId.get(id);
     const built = buildRankedItem(d, j);
     problems.push(...built.problems);
@@ -248,6 +258,7 @@ async function assemble() {
     dryRun: dry,
     scored: entries.length,
     skipped: [...skipped].map(([id, reason]) => ({ id, reason })),
+    droppedLinks: [...dropped].map(([id, reason]) => ({ id, reason })),
     trendAdjustments: adjustments,
     fetches,
     notes,
@@ -256,6 +267,7 @@ async function assemble() {
   // Report.
   const line = (e) => `  ${String(e.scores.importance).padStart(2)} ${String(e.scores.trend).padStart(2)} ${String(e.scores.novelty).padStart(2)} ${String(e.scores.credibility).padStart(2)}  ${e.total.toFixed(1).padStart(4)}  ${e.title.slice(0, 70)}  [${e.source}]`;
   console.log(`Edition ${date}${dry ? ' (dry run)' : ''}: ${entries.length} scored, ${skipped.size} skipped, ${editionItems(edition).length} listed`);
+  if (dropped.size) console.log(`  (${dropped.size} item(s) left out because their link failed the check)`);
   console.log('\n  Imp Tr Nov Cr  Total');
   console.log('LEAD');
   console.log(line(edition.lead));
