@@ -18,7 +18,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `daily:publish` | `daily.js publish` | re-verify, commit `Edition YYYY-MM-DD` and push (rolls the commit back if the push fails) |
 | `daily:summary` | `daily.js summary` | the five-line end-of-run summary |
 | `daily:fail` | `daily.js fail` | write `data/logs/<date>-failed.md`; never touches git |
-| `bundle` | `bundle.js` | assemble `dist/` for deploy: `site/` at the root and the published data at `/data` (what Vercel runs; see `vercel.json`) |
+| `newsletter` | `newsletter.js` | `data/latest.json` → a Buttondown **draft** (never sent). `--dry-run` writes `data/work/<date>.newsletter.md` instead; `--weekly` makes the Sunday digest |
 
 `node scripts/validate.js [file ...]` validates the given files, or everything it can find when run with no arguments.
 
@@ -56,6 +56,12 @@ Claude Code does the judging between `--prepare` and `--assemble`; nothing here 
 
 `npm run collect`, `check` and `verify-sources` set `NODE_USE_ENV_PROXY=1` so Node's `fetch` uses `HTTPS_PROXY` in sandboxed runners; it does nothing without a proxy.
 
-## Deploying to Vercel
+## newsletter
 
-`vercel.json` makes Vercel run `node scripts/bundle.js` (no `npm install`) and serve `dist/`, so the site sits at the domain root and `../data/` in the pages resolves to `/data/`. Only `latest.json`, `archive.json` and `editions/` are published; `data/raw`, `data/work`, `data/logs` and the folder READMEs stay in the repo. Connect the repo to a Vercel project with the Git integration on `main`: every daily "Edition YYYY-MM-DD" push then redeploys. After you know the domain, set `SITE_URL` in `site/config.js` (and `BUTTONDOWN_USERNAME`), then `npm run sync && npm run build` so the feed, sitemap and preview image use it.
+`npm run newsletter` builds the day's email from `data/latest.json` (Markdown, under 600 words: date, editor's note, lead, top 5, innovations, links to the site and archive) and creates it in Buttondown with `POST https://api.buttondown.com/v1/emails`, `Authorization: Token $BUTTONDOWN_API_KEY` and `status: "draft"`. Subject: the lead headline cut to 60 characters, then ` and 5 more`.
+
+- It never sends. `status: "draft"` is sent explicitly (Buttondown's default depends on the API version), the response must come back as a draft, and nothing here uses the header that confirms sending. You review and send from Buttondown.
+- Each draft carries `metadata.ai_signal` (`daily:<date>`), so running it again the same day updates that draft instead of adding another. A draft that has already been sent is never touched.
+- It stops if `SITE_URL` (site/config.js) is still the placeholder, since the footer links would be dead. `--dry-run` needs neither that nor the key.
+- `--weekly [--date YYYY-MM-DD]`: the 10 highest totals from the seven editions ending that day, plus the trending cluster that stayed in the list the most days (clusters count as the same story across days when they share an item).
+- The key comes from the environment only and is stripped from any error message.
