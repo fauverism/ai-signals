@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T09:42:28Z",
+  "generatedAt": "2026-10-08T10:52:06Z",
   "params": {
     "cap": 150,
     "perSourceCap": 8,
@@ -9,11 +9,11 @@
     "clusterHours": 72
   },
   "stats": {
-    "before": 1027,
-    "afterExact": 803,
-    "afterNearDup": 801,
+    "before": 1025,
+    "afterExact": 801,
+    "afterNearDup": 799,
     "clusters": 5,
-    "afterCap": 111,
+    "afterCap": 110,
     "priorEditions": 0
   },
   "items": [
@@ -27,7 +27,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Aamna Najmi",
       "publishedAt": "2026-10-07T18:52:10Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -55,7 +55,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T00:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -82,7 +82,7 @@
       "categoryHint": "Research",
       "author": "Jingyao Zhang, Yun Li, Lu Han",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -112,7 +112,7 @@
       "categoryHint": "Research",
       "author": "Sergei Polezhaev, Barys Liskavets, Ori Press, Alexander Golubev",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -141,7 +141,7 @@
       "categoryHint": "Research",
       "author": "Shikhar Srivastava, Christopher Kanan",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -170,7 +170,7 @@
       "categoryHint": "Research",
       "author": "Igor Slinko, Yaroslav Golubev, Sergey Titov",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -199,7 +199,7 @@
       "categoryHint": "Research",
       "author": "Md Kawsher Mahbub, Milon Biswas, Mirza Niaz Morshed, Wei Yu",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -228,7 +228,7 @@
       "categoryHint": "Research",
       "author": "Yue Qiu, Zekang Du, Yiqun Diao, Bingsheng He, Qinbin Li",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -257,7 +257,7 @@
       "categoryHint": "Research",
       "author": "Tobias Braun, Nils Loose, Alexander Herzog, Virginia Ceccatelli, Marcus Rohrbach, Thomas Eisenbarth, Lorenzo Cavallaro",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -286,7 +286,7 @@
       "categoryHint": "Research",
       "author": "James Ravi Kirkpatrick, Alexandru Radulescu, Rachel Katharine Sterken",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -315,7 +315,7 @@
       "categoryHint": "Research",
       "author": "Wei Wang, Wei Jiang, Ziran Liu",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -343,7 +343,7 @@
       "categoryHint": "Research",
       "author": "Weitian Wang, Shubham Rai, Cecilia De La Parra, Akash Kumar",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -371,7 +371,7 @@
       "categoryHint": "Research",
       "author": "Huishan Ji, Hua Xu, Weiming Zhang, Qirui Ye",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -399,7 +399,7 @@
       "categoryHint": "Research",
       "author": "Ganidhu Abey, Wendy Greening, Ashika Kamboj, Leonhard Helminger, Abhijeet Ghosh, Karel Petranek, et al.",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -427,7 +427,7 @@
       "categoryHint": "Research",
       "author": "Justin Jung",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -455,7 +455,7 @@
       "categoryHint": "Research",
       "author": "Hyojung Han, Jongmin Kim, Seung-Hun Jeon",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -483,7 +483,7 @@
       "categoryHint": "Research",
       "author": "Spandan Ghose Chowdhury",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -511,7 +511,7 @@
       "categoryHint": "Research",
       "author": "Bj{\\o}rn Leth M{\\o}ller, Bulat Ibragimov, Christian Igel",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -539,7 +539,7 @@
       "categoryHint": "Research",
       "author": "Mikey Watts (Independent Researcher), Yuchen Cui (University of California, Los Angeles)",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -567,7 +567,7 @@
       "categoryHint": "Research",
       "author": "Alexi Canesse, Mathis Le Bail, Ma\\\"el Jenny, Cl\\'ement Elliker, Mahammed El Sharkawy, Sonia Vanier",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -595,7 +595,7 @@
       "categoryHint": "Research",
       "author": "Amit Nautiyal",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -623,7 +623,7 @@
       "categoryHint": "Research",
       "author": "Bill Psomas, Mohammad Mahdi, Michalis Thomas, Danda Pani Paudel, Giorgos Tolias, Giorgos Kordopatis-Zilos",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -651,7 +651,7 @@
       "categoryHint": "Research",
       "author": "Guillaume Brouillette (Universit\\'e du Qu\\'ebec \\`a Trois-Rivi\\`eres, Trois-Rivi\\`eres, Canada), et al.",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -679,7 +679,7 @@
       "categoryHint": "Research",
       "author": "Tianxingjian Ding, Mubarak Shah, Yu Tian",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -707,7 +707,7 @@
       "categoryHint": "Research",
       "author": "Toluwani Aremu, Samuele Poppi, Nils Lukas",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -735,7 +735,7 @@
       "categoryHint": "Research",
       "author": "Sammuel R. Silva, Vander L. S. Freitas, Gladston Moreira, Eduardo J. S. Luz, Rodrigo Silva",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -763,7 +763,7 @@
       "categoryHint": "Research",
       "author": "Jiagan Huang, Zikun Zhou, Zijian Ni, Hongpeng Wang, Guangming Lu, Jun Yu, Wenjie Pei",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -790,7 +790,7 @@
       "categoryHint": "Research",
       "author": "Weicheng Dai, Shantanu Ghosh, Kayhan Batmanghelich",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -817,7 +817,7 @@
       "categoryHint": "Research",
       "author": "Linda-Sophie Schneider, Simon Wittl, Gabriel Herl, Andreas Maier",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -844,7 +844,7 @@
       "categoryHint": "Research",
       "author": "Shadi Alijani, Fereshteh Aghaee Meibodi, Homayoun Najjaran",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -871,7 +871,7 @@
       "categoryHint": "Research",
       "author": "Jeonghyeok Do, Munchurl Kim",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -898,7 +898,7 @@
       "categoryHint": "Research",
       "author": "Shiyi Wang, Ruochen Sun, Xiang Li, Peirong Liu, Fangxu Xing",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -925,7 +925,7 @@
       "categoryHint": "Research",
       "author": "Jie Ren, Hao Kang, Kai Guo, Yiding Yang, Bo Liu, Liming Jiang, Qing Yan, Zichuan Liu, Yizhi Song, Yue Xing, et al.",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -952,7 +952,7 @@
       "categoryHint": "Research",
       "author": "Zihan Su, Junhao Zhuang, Yaowei Li, Siwen Lu, Haoran Li, Lingen Li, Haoyu Wu, Weiyang Jin, Songchun Zhang, et al.",
       "publishedAt": "2026-10-08T04:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -979,7 +979,7 @@
       "categoryHint": "Research",
       "author": null,
       "publishedAt": "2026-10-07T20:19:57Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1006,7 +1006,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Amit Choudhary",
       "publishedAt": "2026-10-07T18:34:44Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1033,7 +1033,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Elizabeth Goodman",
       "publishedAt": "2026-10-07T18:21:03Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1060,7 +1060,7 @@
       "categoryHint": "Tools & Releases",
       "author": null,
       "publishedAt": "2026-10-07T16:54:33Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1087,7 +1087,7 @@
       "categoryHint": "Research",
       "author": "Zhiyuan He, Yuqing Yang",
       "publishedAt": "2026-10-07T16:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1114,7 +1114,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Avi Alkobi",
       "publishedAt": "2026-10-07T16:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1141,7 +1141,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Manish Ballal",
       "publishedAt": "2026-10-07T15:50:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1168,7 +1168,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Sunil Yerkola",
       "publishedAt": "2026-10-07T15:48:46Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1195,7 +1195,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Michele Scarimbolo",
       "publishedAt": "2026-10-07T15:46:49Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1222,7 +1222,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Tanya Lenz",
       "publishedAt": "2026-10-07T15:45:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1249,7 +1249,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Alicia Retzlaff",
       "publishedAt": "2026-10-07T15:44:27Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1276,7 +1276,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Derek Ziehl",
       "publishedAt": "2026-10-07T15:38:28Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1303,7 +1303,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Quynh L. Nguyen",
       "publishedAt": "2026-10-07T15:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1330,7 +1330,7 @@
       "categoryHint": "Tools & Releases",
       "author": null,
       "publishedAt": "2026-10-07T12:45:31Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1357,7 +1357,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T12:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1384,7 +1384,7 @@
       "categoryHint": "News",
       "author": "Maryam Karimzadehgan",
       "publishedAt": "2026-10-07T12:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1411,7 +1411,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T07:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:25Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1438,7 +1438,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-08T07:27:51Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1465,7 +1465,7 @@
       "categoryHint": "News",
       "author": "Emma Roth",
       "publishedAt": "2026-10-07T19:10:42Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1492,10 +1492,10 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-08T00:46:00Z",
-      "fetchedAt": "2026-10-08T09:42:24Z",
+      "fetchedAt": "2026-10-08T10:52:03Z",
       "signals": {
-        "hnPoints": 56,
-        "hnComments": 98,
+        "hnPoints": 62,
+        "hnComments": 106,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
@@ -1507,7 +1507,7 @@
       "clusterId": null,
       "previouslyFeatured": false,
       "trendDelta": null,
-      "preScore": 4.18
+      "preScore": 4.23
     },
     {
       "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
@@ -1519,7 +1519,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T12:04:36Z",
-      "fetchedAt": "2026-10-08T09:42:24Z",
+      "fetchedAt": "2026-10-08T10:52:03Z",
       "signals": {
         "hnPoints": 90,
         "hnComments": 56,
@@ -1546,7 +1546,7 @@
       "categoryHint": "News",
       "author": "Nick Indge",
       "publishedAt": "2026-10-08T00:00:24Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1573,7 +1573,7 @@
       "categoryHint": "Business",
       "author": "Sarah Perez",
       "publishedAt": "2026-10-07T18:30:57Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1600,7 +1600,7 @@
       "categoryHint": "Business",
       "author": "Rebecca Bellan",
       "publishedAt": "2026-10-07T18:15:28Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1627,7 +1627,7 @@
       "categoryHint": "News",
       "author": "Jay Peters",
       "publishedAt": "2026-10-07T18:01:20Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1645,6 +1645,33 @@
       "preScore": 4
     },
     {
+      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
+      "url": "https://agent.reviews/",
+      "canonicalUrl": "https://agent.reviews",
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T16:59:11Z",
+      "fetchedAt": "2026-10-08T10:52:03Z",
+      "signals": {
+        "hnPoints": 60,
+        "hnComments": 45,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
       "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
       "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
       "canonicalUrl": "https://theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
@@ -1654,7 +1681,7 @@
       "categoryHint": "News",
       "author": "Andrew Liszewski",
       "publishedAt": "2026-10-07T15:37:23Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1681,7 +1708,7 @@
       "categoryHint": "News",
       "author": "Ryan Whitwam",
       "publishedAt": "2026-10-07T14:00:08Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1708,7 +1735,7 @@
       "categoryHint": "Business",
       "author": "Ivan Mehta",
       "publishedAt": "2026-10-07T14:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1735,7 +1762,7 @@
       "categoryHint": "News",
       "author": "Jay Peters",
       "publishedAt": "2026-10-07T09:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1753,33 +1780,6 @@
       "preScore": 4
     },
     {
-      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
-      "url": "https://agent.reviews/",
-      "canonicalUrl": "https://agent.reviews",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-07T16:59:11Z",
-      "fetchedAt": "2026-10-08T09:42:24Z",
-      "signals": {
-        "hnPoints": 57,
-        "hnComments": 45,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "mergedSources": [
-        "Hacker News: LLM"
-      ],
-      "clusterId": null,
-      "previouslyFeatured": false,
-      "trendDelta": null,
-      "preScore": 3.99
-    },
-    {
       "id": "3469266376cf6e14658b270efda6ccf03b8e2786",
       "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
       "canonicalUrl": "https://xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need",
@@ -1789,7 +1789,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T18:19:03Z",
-      "fetchedAt": "2026-10-08T09:42:24Z",
+      "fetchedAt": "2026-10-08T10:52:03Z",
       "signals": {
         "hnPoints": 45,
         "hnComments": 19,
@@ -1816,7 +1816,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T11:23:55Z",
-      "fetchedAt": "2026-10-08T09:42:24Z",
+      "fetchedAt": "2026-10-08T10:52:03Z",
       "signals": {
         "hnPoints": 31,
         "hnComments": 23,
@@ -1843,7 +1843,7 @@
       "categoryHint": "News",
       "author": "Paresh Dave",
       "publishedAt": "2026-10-08T09:30:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1870,7 +1870,7 @@
       "categoryHint": "News",
       "author": "Jamie Condliffe",
       "publishedAt": "2026-10-08T09:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1897,7 +1897,7 @@
       "categoryHint": "News",
       "author": "MIT Technology Review Insights",
       "publishedAt": "2026-10-08T08:17:32Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1924,7 +1924,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-07T23:14:58Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1951,7 +1951,7 @@
       "categoryHint": "News",
       "author": "Kyle Orland",
       "publishedAt": "2026-10-07T21:56:42Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1978,7 +1978,7 @@
       "categoryHint": "News",
       "author": "Radhika Rajkumar",
       "publishedAt": "2026-10-07T21:47:48Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:05Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2005,7 +2005,7 @@
       "categoryHint": "Business",
       "author": "Marina Temkin",
       "publishedAt": "2026-10-07T20:48:45Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2032,7 +2032,7 @@
       "categoryHint": "Opinion",
       "author": "Zvi Mowshowitz",
       "publishedAt": "2026-10-07T20:31:13Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2059,7 +2059,7 @@
       "categoryHint": "Business",
       "author": "Julie Bort",
       "publishedAt": "2026-10-07T20:22:37Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2086,7 +2086,7 @@
       "categoryHint": "News",
       "author": "Will Knight",
       "publishedAt": "2026-10-07T18:45:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2113,7 +2113,7 @@
       "categoryHint": "News",
       "author": "Verge Staff",
       "publishedAt": "2026-10-07T18:42:22Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2140,7 +2140,7 @@
       "categoryHint": "Business",
       "author": "Lucas Ropek",
       "publishedAt": "2026-10-07T18:00:19Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2167,7 +2167,7 @@
       "categoryHint": "News",
       "author": "Reece Rogers",
       "publishedAt": "2026-10-07T18:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2194,7 +2194,7 @@
       "categoryHint": "News",
       "author": "Ashley Belanger",
       "publishedAt": "2026-10-07T17:57:39Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2221,7 +2221,7 @@
       "categoryHint": "News",
       "author": "Stevie Bonifield",
       "publishedAt": "2026-10-07T17:46:44Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2248,7 +2248,7 @@
       "categoryHint": "Tutorials",
       "author": "Gergely Orosz",
       "publishedAt": "2026-10-07T17:19:58Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2275,7 +2275,7 @@
       "categoryHint": "Opinion",
       "author": "Gary Marcus",
       "publishedAt": "2026-10-07T17:16:44Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2302,7 +2302,7 @@
       "categoryHint": "Business",
       "author": "Lauren Forristal",
       "publishedAt": "2026-10-07T16:53:46Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2329,7 +2329,7 @@
       "categoryHint": "News",
       "author": "Jay Peters",
       "publishedAt": "2026-10-07T16:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2356,7 +2356,7 @@
       "categoryHint": "News",
       "author": "Maddy Varner",
       "publishedAt": "2026-10-07T15:34:33Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2383,7 +2383,7 @@
       "categoryHint": "Tutorials",
       "author": "ByteByteGo",
       "publishedAt": "2026-10-07T15:31:48Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2410,7 +2410,7 @@
       "categoryHint": "Tutorials",
       "author": "Ryan OSullivan",
       "publishedAt": "2026-10-07T15:30:00Z",
-      "fetchedAt": "2026-10-08T09:42:27Z",
+      "fetchedAt": "2026-10-08T10:52:05Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2437,7 +2437,7 @@
       "categoryHint": "Business",
       "author": "Ram Iyer",
       "publishedAt": "2026-10-07T15:07:08Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2464,7 +2464,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-07T14:53:51Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2491,7 +2491,7 @@
       "categoryHint": "News",
       "author": "Emma Roth",
       "publishedAt": "2026-10-07T14:40:52Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2518,7 +2518,7 @@
       "categoryHint": "Opinion",
       "author": "Alberto Romero",
       "publishedAt": "2026-10-07T14:14:20Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2545,7 +2545,7 @@
       "categoryHint": "News",
       "author": "Joel Khalili, wired.com",
       "publishedAt": "2026-10-07T14:12:37Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2572,7 +2572,7 @@
       "categoryHint": "News",
       "author": "Richard MacManus",
       "publishedAt": "2026-10-07T14:10:45Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2599,7 +2599,7 @@
       "categoryHint": "Tutorials",
       "author": "Carolina Bento",
       "publishedAt": "2026-10-07T14:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:27Z",
+      "fetchedAt": "2026-10-08T10:52:05Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2626,7 +2626,7 @@
       "categoryHint": "News",
       "author": "Noitom Robotics",
       "publishedAt": "2026-10-07T13:49:48Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2653,7 +2653,7 @@
       "categoryHint": "News",
       "author": "Alex Banks",
       "publishedAt": "2026-10-07T13:02:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2680,7 +2680,7 @@
       "categoryHint": "Tutorials",
       "author": "Robert Martin-Short",
       "publishedAt": "2026-10-07T12:30:00Z",
-      "fetchedAt": "2026-10-08T09:42:27Z",
+      "fetchedAt": "2026-10-08T10:52:05Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2707,7 +2707,7 @@
       "categoryHint": "News",
       "author": "Reece Rogers",
       "publishedAt": "2026-10-07T11:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2734,7 +2734,7 @@
       "categoryHint": "Tutorials",
       "author": "Samit Ganguly",
       "publishedAt": "2026-10-07T11:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:27Z",
+      "fetchedAt": "2026-10-08T10:52:05Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2761,7 +2761,7 @@
       "categoryHint": "News",
       "author": "Joel Khalili",
       "publishedAt": "2026-10-07T08:30:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2788,7 +2788,7 @@
       "categoryHint": "Tutorials",
       "author": "Luca Rossi",
       "publishedAt": "2026-10-07T07:54:38Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2815,7 +2815,7 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-07T04:55:44Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2842,7 +2842,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-07T04:47:55Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2869,7 +2869,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-07T00:16:45Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2896,7 +2896,7 @@
       "categoryHint": "News",
       "author": "Casey Newton",
       "publishedAt": "2026-10-07T00:00:16Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2923,7 +2923,7 @@
       "categoryHint": "News",
       "author": "TLDR",
       "publishedAt": "2026-10-07T00:00:00Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2950,7 +2950,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-06T23:58:56Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -2977,7 +2977,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-06T23:04:13Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -3004,7 +3004,7 @@
       "categoryHint": "Tools & Releases",
       "author": "Meta Team: Daohang Shi, Oleksandr Stashuk, Rupert Wu, Liangbei Xu, Rich Zhu",
       "publishedAt": "2026-10-06T22:57:33Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
+      "fetchedAt": "2026-10-08T10:52:04Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -3015,33 +3015,6 @@
       },
       "mergedSources": [
         "PyTorch Blog"
-      ],
-      "clusterId": null,
-      "previouslyFeatured": false,
-      "trendDelta": null,
-      "preScore": 3
-    },
-    {
-      "id": "722f1fc059248ca958f9f79f267ed95aae787c09",
-      "url": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
-      "canonicalUrl": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
-      "title": "Childhood and Education #21: Grades and Standards",
-      "source": "Don't Worry About the Vase (Zvi)",
-      "sourceTier": 2,
-      "categoryHint": "Opinion",
-      "author": "Zvi Mowshowitz",
-      "publishedAt": "2026-10-06T21:58:21Z",
-      "fetchedAt": "2026-10-08T09:42:26Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "mergedSources": [
-        "Don't Worry About the Vase (Zvi)"
       ],
       "clusterId": null,
       "previouslyFeatured": false,

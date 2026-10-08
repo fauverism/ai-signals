@@ -362,23 +362,6 @@
       "summary": "The PyTorch blog describes modernizing table batched embeddings with FBTriton, from Meta's team.",
       "whyItMatters": "Matters if you train large recommendation models with embedding tables.",
       "organization": "meta"
-    },
-    {
-      "id": "722f1fc059248ca958f9f79f267ed95aae787c09",
-      "scores": {
-        "importance": 1,
-        "trend": 0,
-        "novelty": 2,
-        "credibility": 6
-      },
-      "category": "Opinion",
-      "tags": [
-        "education",
-        "commentary"
-      ],
-      "summary": "Zvi Mowshowitz's twenty-first Childhood and Education roundup, on grades and standards.",
-      "whyItMatters": "Not AI-specific.",
-      "organization": null
     }
   ],
   "skipped": [],

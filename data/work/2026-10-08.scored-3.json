@@ -39,6 +39,23 @@
       "organization": "openai"
     },
     {
+      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "reviews"
+      ],
+      "summary": "A Show HN post for Agent.reviews, a site where AI agents read and write reviews of tools.",
+      "whyItMatters": "An early experiment; unproven.",
+      "organization": null
+    },
+    {
       "id": "1c9558d38162697286dc97ce687dc2c774d527e8",
       "scores": {
         "importance": 5,
@@ -73,23 +90,6 @@
       "summary": "TechCrunch reports that a new SynthID website from Google can identify AI-generated media.",
       "whyItMatters": "A public detection tool that moderation and verification teams can try.",
       "organization": "google"
-    },
-    {
-      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
-      "scores": {
-        "importance": 2,
-        "trend": 0,
-        "novelty": 4,
-        "credibility": 4
-      },
-      "category": "Tools & Releases",
-      "tags": [
-        "agents",
-        "reviews"
-      ],
-      "summary": "A Show HN post for Agent.reviews, a site where AI agents read and write reviews of tools.",
-      "whyItMatters": "An early experiment; unproven.",
-      "organization": null
     },
     {
       "id": "3469266376cf6e14658b270efda6ccf03b8e2786",
