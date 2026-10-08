@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/scored.schema.json",
+  "title": "Scored",
+  "description": "data/work/YYYY-MM-DD.scored-N.json: Claude's judgment for one batch. The judgment fields of RankedItem; the script owns total, featuredSlot, previouslyFeatured and the raw fields.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "batch", "items", "skipped", "clusterLabels"],
+  "properties": {
+    "date": { "$ref": "common.schema.json#/$defs/editionDate" },
+    "batch": { "type": "integer", "minimum": 1 },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "scores", "category", "tags", "summary", "whyItMatters", "organization"],
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/sha1" },
+          "scores": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["importance", "trend", "novelty", "credibility"],
+            "properties": {
+              "importance": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "trend": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "novelty": { "type": "integer", "minimum": 0, "maximum": 10 },
+              "credibility": { "type": "integer", "minimum": 0, "maximum": 10 }
+            }
+          },
+          "category": { "$ref": "common.schema.json#/$defs/category" },
+          "tags": { "type": "array", "maxItems": 8, "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 40 } },
+          "summary": { "type": "string", "minLength": 1, "maxLength": 280 },
+          "whyItMatters": { "type": "string", "minLength": 1, "maxLength": 140 },
+          "organization": { "description": "Who the story is about (lowercase): used for the 2-per-organization limit in top. Null if no single organization.", "type": ["string", "null"], "maxLength": 60 },
+          "trendReason": { "description": "Required when trend differs from the batch's trendBaseline.", "type": "string", "maxLength": 140 },
+          "total": { "description": "Ignored. The script recomputes every total.", "type": "number" },
+          "featuredSlot": { "description": "Ignored. The script assigns slots.", "enum": ["lead", "top", "innovation", "trending", null] },
+          "previouslyFeatured": { "description": "Ignored. Comes from the deduped file.", "type": "boolean" }
+        }
+      }
+    },
+    "skipped": {
+      "description": "Items left out per the rubric's skip list.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "reason"],
+        "properties": { "id": { "$ref": "common.schema.json#/$defs/sha1" }, "reason": { "type": "string", "minLength": 1, "maxLength": 80 } }
+      }
+    },
+    "clusterLabels": {
+      "description": "A 3-6 word label for every cluster listed in the batch.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "label"],
+        "properties": { "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" }, "label": { "type": "string", "minLength": 1, "maxLength": 80 } }
+      }
+    },
+    "fetches": {
+      "description": "Source URLs opened to resolve an ambiguous title. At most 15 across the whole run.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "reason"],
+        "properties": { "id": { "$ref": "common.schema.json#/$defs/sha1" }, "reason": { "type": "string", "minLength": 1, "maxLength": 140 } }
+      }
+    }
+  }
+}

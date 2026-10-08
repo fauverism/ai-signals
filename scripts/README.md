@@ -6,7 +6,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | --- | --- | --- |
 | `collect` | `collect.js` | fetch enabled sources → `data/raw/<edition-date>.json`, log to `data/logs` |
 | `dedupe` | `dedupe.js` | dedupe, cluster, pre-score → `data/raw/<date>.deduped.json` |
-| `rank` | `rank.js` | Claude scoring step (not implemented yet) |
+| `rank` | `rank.js` | `--prepare` batches, `--assemble` the Edition from Claude's scores, `--validate` after the note (see `prompts/rank-run.md`) |
 | `build` | `build.js` | write editions, `latest.json`, `archive.json` (not implemented yet) |
 | `check` | `validate.js` | validate all JSON against `/schemas` |
 | `test` | `*.test.js` | `node --test` unit tests |
@@ -38,3 +38,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 5. **History:** `previouslyFeatured` = the item was lead/top/innovation (or had a featured slot) in the last 7 editions. `trendDelta` = today's cluster size minus the topic's average size over those editions, matched on key entities; `null` with no history or no usable entities. Editions only hold featured items, so prior sizes are lower bounds.
 6. `preScore` = tier weight (3/2/1) + min(crossSourceCount, 8) + community signals (0–3, log-scaled HN points/comments, Reddit score, GitHub stars).
 7. **Cap:** all tier 1 first, then by `preScore`, newest first on ties. `--per-source-cap` is an opt-in guard so one source (e.g. arXiv) can't fill the set.
+
+## rank
+
+Claude Code does the judging between `--prepare` and `--assemble`; nothing here calls an API. Totals (weights in `lib/rank.js`), the Trend baseline and every featuring rule are computed in code, so a model-written `total` is ignored and a trend score more than 2 from its baseline is clamped. `--dry-run` writes `data/work/<date>.dry-*.json` instead of the real Edition, `latest.json` and `archive.json`. Exits non-zero, printing what's wrong, on any schema or rule failure.

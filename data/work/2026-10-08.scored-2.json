@@ -1,0 +1,533 @@
+{
+  "date": "2026-10-08",
+  "batch": 2,
+  "items": [
+    {
+      "id": "04c6ba7856637598b576f6b68336acaaee50e67b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "ct"
+      ],
+      "summary": "Optimizes scanner trajectories over continuous poses by gradient for sparse-view cone-beam CT.",
+      "whyItMatters": "Niche medical-imaging research.",
+      "organization": null
+    },
+    {
+      "id": "051d0b6c872d2fc1b9f4c9ea68f8230059f8fb7e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "uncertainty"
+      ],
+      "summary": "Applies class-aware asymmetric weighted conformal prediction to quantify risk in 3D medical image segmentation.",
+      "whyItMatters": "Calibrated risk estimates matter for any clinical use of segmentation models.",
+      "organization": null
+    },
+    {
+      "id": "0773082acaabf6dab81e0cf32d4489e7d0f90f95",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "remote-sensing",
+        "foundation-models"
+      ],
+      "summary": "Proposes decoupled semantic supervision for foundation models that pair SAR and optical satellite imagery.",
+      "whyItMatters": "Niche remote-sensing research.",
+      "organization": null
+    },
+    {
+      "id": "0c295197d71c90373d195eea049d61984714c53f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "flow-matching"
+      ],
+      "summary": "Synthesizes 4D cardiac cine MRI from a single frame without an ECG, using flow matching.",
+      "whyItMatters": "Early-stage medical-imaging research.",
+      "organization": null
+    },
+    {
+      "id": "0e11785d5d0cd0d727a6dcf0b76cf6791d1c3a65",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "image-editing",
+        "benchmark"
+      ],
+      "summary": "A benchmark for image editing driven only by scribbles.",
+      "whyItMatters": "Gives builders of image-editing models a new test.",
+      "organization": null
+    },
+    {
+      "id": "0fc499c19476ac7cb8d4c36293c2fd2365bb503d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "video-generation",
+        "autoregressive"
+      ],
+      "summary": "Decouples gradient flows to improve autoregressive video generation (SGF+).",
+      "whyItMatters": "Relevant if you train autoregressive video models.",
+      "organization": null
+    },
+    {
+      "id": "5b37e56ce04370424c17be57d4d011b1dbe03de4",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "google-research",
+        "workplace"
+      ],
+      "summary": "A Google Research blog post asking whether better work output means better workers.",
+      "whyItMatters": "Little detail in the title; open it if workplace AI research interests you.",
+      "organization": "google"
+    },
+    {
+      "id": "8869352ca179a81d9f7ce3e00ad0f872aa86b51f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "rag",
+        "access-control",
+        "bedrock"
+      ],
+      "summary": "AWS explains how to rethink access control for retrieval-augmented generation using Amazon Quick and Amazon Bedrock.",
+      "whyItMatters": "Permissions in RAG are easy to get wrong; this is AWS's take on handling them.",
+      "organization": "aws"
+    },
+    {
+      "id": "9ff68670067e5a35244cdec063a7ccf9de5d7583",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "nvidia",
+        "manufacturing"
+      ],
+      "summary": "NVIDIA's technical blog publishes a piece on the machines that make the machines.",
+      "whyItMatters": "Little to act on from the title; skim for NVIDIA's view of manufacturing.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "0825a4897dea2e8280a620cd72c7dc55f2c953c0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "edge",
+        "open-weights",
+        "multimodal"
+      ],
+      "summary": "Liquid AI releases two open decision models, d1-3B and d1-omni-600M, that answer in a single forward pass and run on Jetson edge hardware.",
+      "whyItMatters": "Single-pass decision models could replace small classifiers on edge devices; the benchmark is the vendor's own.",
+      "organization": "liquid ai"
+    },
+    {
+      "id": "7818bdc9321f6143f555e05644f97028104338fe",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "reinforcement-learning",
+        "open-source"
+      ],
+      "summary": "Microsoft Research releases Agent Lightning v1.0, a roughly 3,500-line framework for training agents with reinforcement learning using their real harnesses.",
+      "whyItMatters": "A small codebase to read and adapt if you want to train agents on your own tool setups.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "be44224a1a4ac828d4c61b34898b39629c68104a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "digital-twin",
+        "agents",
+        "data-center"
+      ],
+      "summary": "NVIDIA describes using digital twins and AI agents to validate changes to AI data center infrastructure before rollout.",
+      "whyItMatters": "Relevant mainly to teams operating large GPU clusters.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "ca46a2fab5ba8485a7c1d1ebc248b519c7a713fd",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "agentic-automation",
+        "roi"
+      ],
+      "summary": "AWS offers guidance on building a business case for agentic automation that goes beyond hours saved.",
+      "whyItMatters": "A framework for justifying agent projects to finance, if you need one.",
+      "organization": "aws"
+    },
+    {
+      "id": "61fcf1bc1cfe9a15c61a98768498e62ed9aa04a2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "rag",
+        "bedrock",
+        "case-study"
+      ],
+      "summary": "AWS case study of how Qlik built grounded, enterprise-scale AI on Amazon Bedrock.",
+      "whyItMatters": "A vendor-authored reference design for grounded enterprise AI.",
+      "organization": "aws"
+    },
+    {
+      "id": "7eb12f5d530ed4a60857f2012d4857857dd59238",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "devops",
+        "agents",
+        "automation"
+      ],
+      "summary": "AWS shows how to automate remediation after its DevOps Agent finishes an investigation.",
+      "whyItMatters": "A concrete pattern for acting on agent findings in operations.",
+      "organization": "aws"
+    },
+    {
+      "id": "8898b4cd60b8da95b5aaae535e1340d40852a127",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "optimization",
+        "gpu",
+        "cuopt"
+      ],
+      "summary": "NVIDIA describes scaling decision optimization in cuOpt to 100 million variables and beyond with the mPDLP method.",
+      "whyItMatters": "GPU solvers at this scale matter for logistics and scheduling workloads.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "8409916b02e51d9563ef006d925ebb3bfd6c9799",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "ai-skills",
+        "enablement"
+      ],
+      "summary": "AWS lays out a playbook for closing the gap between AI knowledge and capability inside organizations.",
+      "whyItMatters": "Generic training guidance; skim only if you run an AI enablement effort.",
+      "organization": "aws"
+    },
+    {
+      "id": "b88e0f4b41500fd538276a0e7f040689dfd3facf",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "bedrock",
+        "case-study",
+        "database"
+      ],
+      "summary": "AWS case study: Cornerstone OnDemand reports cutting database diagnosis time by 78% with Amazon Bedrock.",
+      "whyItMatters": "A vendor-reported result; treat the figure as a claim, not a benchmark.",
+      "organization": "aws"
+    },
+    {
+      "id": "54d9a34ff6ce8112770c5f86cf37de0eca8d10c7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gpu",
+        "image-analysis",
+        "science"
+      ],
+      "summary": "NVIDIA introduces cuPhoton for faster scientific image analysis.",
+      "whyItMatters": "Relevant if you run GPU-accelerated image pipelines in research settings.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "5bdd694c62903534c1d8981979d5770bf3d2e4ec",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Research",
+      "tags": [
+        "fine-tuning",
+        "reasoning",
+        "olympiad"
+      ],
+      "summary": "A Hugging Face blog post reports gold-level results on IOI and IMO problems from one fine-tuned Nemotron model family.",
+      "whyItMatters": "Shows how far fine-tuning can push open models on contest reasoning; check the evaluation details.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "ad4e14640e358f44fa86e357a8b76569df2411cc",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "teens",
+        "education",
+        "safety"
+      ],
+      "summary": "OpenAI describes how it wants to help teens learn, plan and shape the future of AI.",
+      "whyItMatters": "Context for the scrutiny of ChatGPT for Teens; read it next to the critical coverage.",
+      "organization": "openai"
+    },
+    {
+      "id": "ea4f899dc8dfd436a81cbe256a4f75bd8099bf3e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "games",
+        "generative-ai"
+      ],
+      "summary": "Google introduces Playground, a product for creating and playing custom games.",
+      "whyItMatters": "A new generative product from Google; worth a try if you build games or interactive content.",
+      "organization": "google"
+    },
+    {
+      "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Business",
+      "tags": [
+        "chatgpt",
+        "travel",
+        "partnership"
+      ],
+      "summary": "OpenAI shares that Radisson Hotel Group is bringing hotel discovery into ChatGPT.",
+      "whyItMatters": "Shows how brands plug booking flows into ChatGPT; relevant if you build commerce integrations.",
+      "organization": "openai"
+    },
+    {
+      "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "rust",
+        "typescript",
+        "llm-coding"
+      ],
+      "summary": "A Hacker News post about porting the TypeScript compiler, type checker and language server to Rust using an LLM.",
+      "whyItMatters": "A large LLM-driven port is a useful data point on what agentic coding can finish.",
+      "organization": null
+    },
+    {
+      "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "experiment",
+        "language-models"
+      ],
+      "summary": "An experiment on getting language models to write in the style of 1866 telegrams.",
+      "whyItMatters": "A curiosity with little practical impact.",
+      "organization": null
+    },
+    {
+      "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "windows",
+        "ai-pcs",
+        "hardware"
+      ],
+      "summary": "Ars Technica covers a Microsoft event that introduced AI-oriented hardware and changes to Windows.",
+      "whyItMatters": "Shapes what hardware and OS features local AI apps can count on.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "copilot",
+        "windows",
+        "agents"
+      ],
+      "summary": "The Verge reports that Microsoft is giving Copilot more control over Windows and users' files.",
+      "whyItMatters": "More agent access to the OS and files raises permission and security questions for IT teams.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "36bf85cb54324cffc02be11d32050364df424fb3",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "muse",
+        "ipad",
+        "consumer-ai"
+      ],
+      "summary": "TechCrunch reports that Meta's Muse is now on the iPad, about a month after its mobile debut.",
+      "whyItMatters": "Another surface for Meta's assistant; relevant if you track consumer AI distribution.",
+      "organization": "meta"
+    },
+    {
+      "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "muse",
+        "ipad",
+        "consumer-ai"
+      ],
+      "summary": "The Verge reports that Muse has launched on the iPad.",
+      "whyItMatters": "Confirms Muse's expansion beyond phones.",
+      "organization": "meta"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-c96fd31c0e",
+      "label": "Microsoft's Windows Copilot push"
+    },
+    {
+      "id": "c-c571c17214",
+      "label": "Meta Muse arrives on iPad"
+    }
+  ],
+  "fetches": [
+    {
+      "id": "0825a4897dea2e8280a620cd72c7dc55f2c953c0",
+      "reason": "Title did not say what d1 or a decision model is."
+    }
+  ]
+}

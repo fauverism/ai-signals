@@ -24,7 +24,7 @@ How many practitioners or businesses this changes things for, and how much.
 
 ### Trend
 
-Momentum. It mostly follows the numbers. Compute the baseline, then you may adjust by at most ±2 with a one-line reason.
+Momentum. It mostly follows the numbers. Each item arrives with `trendBaseline`, computed from the table below by the script; you may adjust it by at most ±2 with a one-line reason, and the script clamps anything further.
 
 Baseline = **cross-source points + trendDelta points + community points**, capped at 10.
 
@@ -44,7 +44,7 @@ Community points: count the notable signals (`hnPoints` ≥ 100, `hnComments` �
 | 5 | Three sources, a topic running a few stories above its usual size, a decent HN or GitHub reaction. |
 | 9 | Five or more independent sources, a topic far above its usual size, strong community reaction. |
 
-Adjust when the numbers mislead you. Common reasons: the same paper cross-listed across arXiv categories and Hugging Face Daily Papers inflates `crossSourceCount`; a fresh topic has no `trendDelta` yet (it is null on day one); a vote-driven spike that is mostly argument. Record the reason in the run notes (see Output).
+Adjust when the numbers mislead you. Common reasons: the same paper cross-listed across arXiv categories and Hugging Face Daily Papers inflates `crossSourceCount`; a fresh topic has no `trendDelta` yet (it is null on day one); a vote-driven spike that is mostly argument. Record the reason in `trendReason`.
 
 ### Novelty
 
@@ -127,12 +127,12 @@ The same constraints apply to every piece of text: never quote more than 15 word
 
 ## Output
 
-Return, for the build step to merge with the input fields and validate against `/schemas`:
+The file formats and the step-by-step run are in `prompts/rank-run.md`. What you produce, per the rubric above:
 
-1. For each scored item: `id`, `scores` (`importance`, `trend`, `novelty`, `credibility`), `total`, `category`, `tags`, `summary`, `whyItMatters`, `featuredSlot`.
-2. Labels for the trending clusters (`id`, `label`), the `editorNote`, and the edition's `stats.ranked` (items scored, skips excluded).
-3. Run notes: each Trend adjustment (`id`, `±n`, one-line reason), each skip (`id`, reason), and anything unusual (no lead qualified, a Tutorials swap, a fallback used).
+1. For each scored item: `scores`, `category`, `tags`, `summary`, `whyItMatters`, `organization` (who the story is about, lowercase, for the top limit), and `trendReason` when you moved Trend.
+2. A 3–6 word label for every cluster in the batch, and the skip list.
+3. After assembly, the `editorNote`.
 
-`total` and the featuring are deterministic given your four scores. Compute them exactly as above; the build step re-checks them, and its value wins over yours if they differ.
+Do not write `total` or `featuredSlot`. They follow mechanically from your four scores and are computed in code with the weights and rules above; any `total` you write is ignored.
 
-Before returning, check: `top` has exactly 5; `innovations` ≤ 6 and all have novelty ≥ 8; `trending` ≤ 6 with 3–6 word labels; no organization appears more than twice in `top`; every `summary` ≤ 280, `whyItMatters` ≤ 140, `editorNote` ≤ 600 characters; no skipped item appears anywhere.
+Before returning, check: every `summary` ≤ 280, `whyItMatters` ≤ 140 and `editorNote` ≤ 600 characters; no hype words; no skipped item appears anywhere.
