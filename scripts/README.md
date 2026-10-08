@@ -7,7 +7,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `collect` | `collect.js` | fetch enabled sources → `data/raw/<edition-date>.json`, log to `data/logs` |
 | `dedupe` | `dedupe.js` | dedupe, cluster, pre-score → `data/raw/<date>.deduped.json` |
 | `rank` | `rank.js` | `--prepare` batches, `--assemble` the Edition from Claude's scores, `--validate` after the note (see `prompts/rank-run.md`) |
-| `build` | `build.js` | write editions, `latest.json`, `archive.json` (not implemented yet) |
+| `build` | `build.js` | `feed.xml`, `sitemap.xml`, `search-index.json`, the social preview PNG and the homepage's Open Graph tags, from the published editions (`--check` for staleness, `--dry` to preview, `--out`/`--data` for other locations) |
 | `check` | `validate.js` | validate all JSON against `/schemas` |
 | `test` | `*.test.js` | `node --test` unit tests |
 | `sync` | `sync-subscribe.js` | stamp `site/config.js` into the no-JS signup fallbacks in the HTML (`check` fails if they are stale) |
