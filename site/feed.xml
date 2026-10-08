@@ -5,55 +5,55 @@
     <link>https://YOUR_DOMAIN/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:45:19 GMT</lastBuildDate>
     <atom:link href="https://YOUR_DOMAIN/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
-      <guid isPermaLink="false">b2d1fdcc50f22fa232df49c5006dd7de9a21a445</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
-      <category>News</category>
-      <description>The Verge reports that ChatGPT answers now include pictures, charts and buttons as part of an interface update.</description>
+      <title>GPT-6 and Intelligent UI for everyone</title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid isPermaLink="false">0ca1450969b5beb55904e9fac4f7d0e7720785ad</guid>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>OpenAI&apos;s own post pairs a GPT-6 release with an interface update for ChatGPT, aimed at a broad audience of users.</description>
     </item>
     <item>
       <title>[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in &gt;100 years of mathematics</title>
       <link>https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai</link>
       <guid isPermaLink="false">264cab26a08dfb8e666b53a8d0b6981d690cb769</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
+      <category>News</category>
+      <description>A newsletter reports OpenAI posted hundreds of math manuscripts from an internal model, with 90 of 500 top open problems claimed solved; claims are not independently verified.</description>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid isPermaLink="false">5bdd694c62903534c1d8981979d5770bf3d2e4ec</guid>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
       <category>Research</category>
-      <description>A newsletter roundup reports that OpenAI published 722 math papers claiming progress on 90 of the top 500 open problems, citing a blog post, a repo and expert reactions.</description>
+      <description>Hugging Face post on fine-tuning a Nemotron model family to reach gold-level results on IOI and IMO problems.</description>
+    </item>
+    <item>
+      <title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
+      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
+      <guid isPermaLink="false">7818bdc9321f6143f555e05644f97028104338fe</guid>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Microsoft Research announces version 1.0 of Agent Lightning, a compact framework for training agents with reinforcement learning on real usage data.</description>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="false">0825a4897dea2e8280a620cd72c7dc55f2c953c0</guid>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post introducing open multimodal decision models designed to run on edge devices.</description>
     </item>
     <item>
       <title>Mistral says &quot;Le Chonk&quot; can challenge the best AI models</title>
       <link>https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/</link>
       <guid isPermaLink="false">083b4a0cd473b98bf866e868f7e50d19f8441459</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
-      <category>News</category>
-      <description>Ars Technica reports that Mistral says its new model, Le Chonk, can challenge the best AI models.</description>
-    </item>
-    <item>
-      <title>ChatGPT is getting a lot more visual, with the launch of a new interface</title>
-      <link>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</link>
-      <guid isPermaLink="false">4a32ff51ed082ec89103d3375a8b94bfa333cf00</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
-      <category>News</category>
-      <description>TechCrunch reports that ChatGPT is becoming more visual with the launch of a new interface.</description>
-    </item>
-    <item>
-      <title>Google’s new SynthID website can identify AI-generated media</title>
-      <link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
-      <guid isPermaLink="false">952e69e18b6d12b2615ffa0bacbb2401a827b3e0</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:45:19 GMT</pubDate>
       <category>Tools &amp; Releases</category>
-      <description>TechCrunch reports that a new SynthID website from Google can identify AI-generated media.</description>
-    </item>
-    <item>
-      <title>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</title>
-      <link>https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell</link>
-      <guid isPermaLink="false">491fd009380be0600897ae0e3dc4697f80f33eed</guid>
-      <pubDate>Thu, 08 Oct 2026 10:53:07 GMT</pubDate>
-      <category>News</category>
-      <description>The Verge reports that Google is investing millions in Mark Zuckerberg&apos;s effort to build a virtual cell.</description>
+      <description>Ars Technica reports Mistral says its Le Chonk model can compete with top systems; the claim is the company&apos;s own.</description>
     </item>
   </channel>
 </rss>

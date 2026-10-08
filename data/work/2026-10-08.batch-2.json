@@ -4,34 +4,185 @@
   "of": 4,
   "clusters": [
     {
-      "id": "c-c96fd31c0e",
-      "label": "Microsoft is giving Copilot more control over Windows and your files",
+      "id": "c-849945ffad",
+      "label": "$\\Delta$Representation: Geometry Supervised Representation Learning of Phenotyp…",
       "size": 2,
       "sources": [
-        "Ars Technica: AI",
-        "The Verge: AI"
-      ],
-      "trendDelta": null
-    },
-    {
-      "id": "c-c571c17214",
-      "label": "Muse launches on the iPad",
-      "size": 2,
-      "sources": [
-        "TechCrunch: AI",
-        "The Verge: AI"
+        "Hugging Face Daily Papers",
+        "arXiv cs.CV"
       ],
       "trendDelta": null
     }
   ],
   "items": [
     {
-      "id": "04c6ba7856637598b576f6b68336acaaee50e67b",
-      "title": "Gradient-Based Trajectory Optimisation over Continuous Poses for Sparse-View Cone-Beam CT",
+      "id": "6292f49718d25de08fb7cf3467773faf022dffb0",
+      "title": "Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.10422",
+      "author": "Amit Nautiyal",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "63ba3022d8b4d8beb1bc5d72b7e29c71c4e6fdac",
+      "title": "Global Average Precision for Representation Learning",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.09863",
+      "author": "Bill Psomas, Mohammad Mahdi, Michalis Thomas, Danda Pani Paudel, Giorgos Tolias, Giorgos Kordopatis-Zilos",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "71cb60246e5908e908c62621e0e41158ad8daaa8",
+      "title": "An Invariant Tangent-Angle Descriptor and a Band U-Net for 2D Fragment Adjacency Prediction",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.09459",
+      "author": "Guillaume Brouillette (Universit\\'e du Qu\\'ebec \\`a Trois-Rivi\\`eres, Trois-Rivi\\`eres, Canada), et al.",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "731e071b3a86a3d8bb44b2f3d026672cdad75d24",
+      "title": "TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.09509",
+      "author": "Tianxingjian Ding, Mubarak Shah, Yu Tian",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "8987fe0494a74ced2a69a4315649cc541adcc81d",
+      "title": "Constitution-Guided Watermarking",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.09552",
+      "author": "Toluwani Aremu, Samuele Poppi, Nils Lukas",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "928f3ed25cc813ea324a338a5bf803230791b788",
+      "title": "HCPN-GCN: Scaling Hierarchical Prototype Networks with Cone Geometry for Continual Graph Learning",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.08823",
+      "author": "Sammuel R. Silva, Vander L. S. Freitas, Gladston Moreira, Eduardo J. S. Luz, Rodrigo Silva",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "e7fa1fecc80e5b3474d53ffbd4f1f8230abec747",
+      "title": "$\\Delta$Representation: Geometry Supervised Representation Learning of Phenotypes via Counterfactual Reasoning for Medical VLMs",
       "source": "arXiv cs.CV",
       "sourceTier": 1,
-      "url": "https://arxiv.org/abs/2610.09579",
-      "author": "Linda-Sophie Schneider, Simon Wittl, Gabriel Herl, Andreas Maier",
+      "url": "https://arxiv.org/abs/2610.10286",
+      "author": "Hao Wang, Qiwei Zeng, Jinghao Lin, Shuchang Ye, Yuezhe Yang, Yige Peng, Haoyuan Che, Jinman Kim, Lei Bi",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "trendDelta": null,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": "c-849945ffad",
+      "clusterLabel": "$\\Delta$Representation: Geometry Supervised Representation Learning of Phenotyp…"
+    },
+    {
+      "id": "01b4f4a81aca4dc14375f14c675f6dbe6d9b207d",
+      "title": "Lifelong small-object navigation in changing object layouts: a benchmark and method",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.10125",
+      "author": "Jiagan Huang, Zikun Zhou, Zijian Ni, Hongpeng Wang, Guangming Lu, Jun Yu, Wenjie Pei",
       "publishedAt": "2026-10-08T04:00:00Z",
       "categoryHint": "Research",
       "signals": {
@@ -118,12 +269,12 @@
       "clusterLabel": null
     },
     {
-      "id": "0e11785d5d0cd0d727a6dcf0b76cf6791d1c3a65",
-      "title": "ScribbleEdit: A Benchmark for Scribble-Only Image Editing",
+      "id": "0fc499c19476ac7cb8d4c36293c2fd2365bb503d",
+      "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
       "source": "arXiv cs.CV",
       "sourceTier": 1,
-      "url": "https://arxiv.org/abs/2610.09382",
-      "author": "Jie Ren, Hao Kang, Kai Guo, Yiding Yang, Bo Liu, Liming Jiang, Qing Yan, Zichuan Liu, Yizhi Song, Yue Xing, et al.",
+      "url": "https://arxiv.org/abs/2610.10429",
+      "author": "Zihan Su, Junhao Zhuang, Yaowei Li, Siwen Lu, Haoran Li, Lingen Li, Haoyu Wu, Weiyang Jin, Songchun Zhang, et al.",
       "publishedAt": "2026-10-08T04:00:00Z",
       "categoryHint": "Research",
       "signals": {
@@ -141,12 +292,35 @@
       "clusterLabel": null
     },
     {
-      "id": "0fc499c19476ac7cb8d4c36293c2fd2365bb503d",
-      "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+      "id": "10515e0647f35a16cc5b12059a33a14d27672454",
+      "title": "R-CNN-Based Chess Position Recognition",
       "source": "arXiv cs.CV",
       "sourceTier": 1,
-      "url": "https://arxiv.org/abs/2610.10429",
-      "author": "Zihan Su, Junhao Zhuang, Yaowei Li, Siwen Lu, Haoran Li, Lingen Li, Haoyu Wu, Weiyang Jin, Songchun Zhang, et al.",
+      "url": "https://arxiv.org/abs/2610.09191",
+      "author": "Paras Govind, Ognjen Arandjelovi\\'c",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "categoryHint": "Research",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "105e8a59133192abab095655d0945232f1f7a484",
+      "title": "Visual Evidence Under Cross-Examination: Evaluating and Controlling Decision-Level Evidence Use in Vision-Language Models",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "url": "https://arxiv.org/abs/2610.09550",
+      "author": "Huiyao Zhang, Jin Bai, Zilong Su, Rui Guo, Chaofan Qin, Jinze Lv, Wenhui Yu, Hongfei Wang, Ye Li",
       "publishedAt": "2026-10-08T04:00:00Z",
       "categoryHint": "Research",
       "signals": {
@@ -530,167 +704,6 @@
       "previouslyFeatured": false,
       "clusterId": null,
       "clusterLabel": null
-    },
-    {
-      "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "source": "OpenAI News",
-      "sourceTier": 1,
-      "url": "https://openai.com/index/radisson",
-      "author": null,
-      "publishedAt": "2026-10-07T07:00:00Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 0,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
-    },
-    {
-      "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "author": null,
-      "publishedAt": "2026-10-08T00:46:00Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": 62,
-        "hnComments": 106,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
-    },
-    {
-      "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "author": null,
-      "publishedAt": "2026-10-07T12:04:36Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": 90,
-        "hnComments": 56,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
-    },
-    {
-      "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "source": "Ars Technica: AI",
-      "sourceTier": 2,
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "author": "Nick Indge",
-      "publishedAt": "2026-10-08T00:00:24Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": "c-c96fd31c0e",
-      "clusterLabel": "Microsoft is giving Copilot more control over Windows and your files"
-    },
-    {
-      "id": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "source": "The Verge: AI",
-      "sourceTier": 2,
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "author": "Jay Peters",
-      "publishedAt": "2026-10-07T18:01:20Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": "c-c96fd31c0e",
-      "clusterLabel": "Microsoft is giving Copilot more control over Windows and your files"
-    },
-    {
-      "id": "36bf85cb54324cffc02be11d32050364df424fb3",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "source": "TechCrunch: AI",
-      "sourceTier": 2,
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "author": "Sarah Perez",
-      "publishedAt": "2026-10-07T18:30:57Z",
-      "categoryHint": "Business",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": "c-c571c17214",
-      "clusterLabel": "Muse launches on the iPad"
-    },
-    {
-      "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
-      "title": "Muse launches on the iPad",
-      "source": "The Verge: AI",
-      "sourceTier": 2,
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-      "author": "Andrew Liszewski",
-      "publishedAt": "2026-10-07T15:37:23Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
-      },
-      "trendDelta": null,
-      "trendBaseline": 1,
-      "previouslyFeatured": false,
-      "clusterId": "c-c571c17214",
-      "clusterLabel": "Muse launches on the iPad"
     }
   ]
 }
