@@ -15,6 +15,7 @@
     "build": "node scripts/build.js",
     "check": "node scripts/validate.js",
     "test": "node --test",
+    "serve": "node scripts/serve.js",
     "verify-sources": "node scripts/verify-sources.js",
     "daily": "npm run collect && npm run dedupe && npm run rank && npm run build && npm run check"
   },

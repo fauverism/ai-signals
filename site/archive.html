@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" data-data-base="../data/">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archive | AI Signal</title>
+  <meta name="description" content="Every past AI Signal edition, newest first.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <script src="js/theme.js"></script>
+  <script type="module" src="js/archive.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <p class="wordmark"><a href="./">AI Signal</a></p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap prose" tabindex="-1">
+    <h1>Archive</h1>
+    <noscript>
+      <p class="notice">The archive list needs JavaScript. The raw list is available as <a href="../data/archive.json">archive.json</a>.</p>
+    </noscript>
+    <p id="status" class="notice" role="status" hidden></p>
+    <ol id="archive-list" class="archive-list" role="list" hidden></ol>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="./">Today</a></li>
+          <li><a href="feed.xml">RSS</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+        </ul>
+      </nav>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>

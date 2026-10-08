@@ -13,7 +13,7 @@
     "lead": { "$ref": "ranked-item.schema.json" },
     "top": { "type": "array", "minItems": 5, "maxItems": 5, "items": { "$ref": "ranked-item.schema.json" } },
     "innovations": { "type": "array", "maxItems": 6, "items": { "$ref": "ranked-item.schema.json" } },
-    "trending": { "type": "array", "maxItems": 6, "items": { "$ref": "cluster.schema.json" } },
+    "trending": { "type": "array", "maxItems": 6, "items": { "$ref": "#/$defs/trendingCluster" } },
     "byCategory": {
       "type": "object",
       "additionalProperties": false,
@@ -40,6 +40,14 @@
     }
   },
   "$defs": {
+    "trendingCluster": {
+      "type": "object",
+      "$ref": "cluster.schema.json#/$defs/base",
+      "unevaluatedProperties": false,
+      "properties": {
+        "trendDelta": { "description": "Topic size today minus its average over prior editions; null without history. Drives the momentum indicator.", "type": ["number", "null"] }
+      }
+    },
     "bucket": { "type": "array", "maxItems": 10, "items": { "$ref": "ranked-item.schema.json" } }
   }
 }

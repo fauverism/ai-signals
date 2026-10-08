@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T09:48:07Z",
+  "generatedAt": "2026-10-08T10:01:29Z",
   "editorNote": "OpenAI shipped GPT-6 alongside a more visual ChatGPT, and Claude Haiku 5.5 landed the same week with a claim of beating GPT-6 Luna at the same price. The second story is OpenAI's reported release of 722 math papers: experts sound impressed, but what we have is secondhand, so read OpenAI's own materials before drawing conclusions.",
   "lead": {
     "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
@@ -243,7 +243,8 @@
         "OpenAI News",
         "Simon Willison",
         "The Verge: AI"
-      ]
+      ],
+      "trendDelta": null
     },
     {
       "id": "c-68d0737633",
@@ -256,7 +257,8 @@
       "sources": [
         "TechCrunch: AI",
         "The Verge: AI"
-      ]
+      ],
+      "trendDelta": null
     },
     {
       "id": "c-c571c17214",
@@ -268,7 +270,8 @@
       "sources": [
         "TechCrunch: AI",
         "The Verge: AI"
-      ]
+      ],
+      "trendDelta": null
     },
     {
       "id": "c-c96fd31c0e",
@@ -281,7 +284,8 @@
       "sources": [
         "Ars Technica: AI",
         "The Verge: AI"
-      ]
+      ],
+      "trendDelta": null
     },
     {
       "id": "c-fd8635c968",
@@ -294,7 +298,8 @@
       "sources": [
         "Ars Technica: AI",
         "TechCrunch: AI"
-      ]
+      ],
+      "trendDelta": null
     }
   ],
   "byCategory": {

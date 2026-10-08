@@ -313,7 +313,8 @@
       "sources": [
         "Meridian Labs Blog",
         "Notes on Models"
-      ]
+      ],
+      "trendDelta": 3.5
     },
     {
       "id": "on-device-retrieval",
@@ -328,7 +329,8 @@
         "GitHub Releases",
         "GitHub Trending",
         "Learn AI"
-      ]
+      ],
+      "trendDelta": 1.0
     }
   ],
   "byCategory": {

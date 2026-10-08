@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en" data-data-base="../data/">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Signal: the day's AI news, research and releases</title>
+  <meta name="description" content="A daily edition of the AI news, research, tutorials, tools and releases worth your time, ranked by importance, momentum and novelty. Every link goes to the original publisher.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <script src="js/theme.js"></script>
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <h1 class="wordmark">AI Signal</h1>
+      <p class="edition-meta">
+        <time id="edition-date"></time>
+        <time id="updated"></time>
+      </p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <noscript>
+      <p class="notice">AI Signal loads each day's edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
+    </noscript>
+    <p id="status" class="notice" role="status" hidden></p>
+
+    <section id="note" class="note" aria-labelledby="h-note" hidden>
+      <h2 id="h-note" class="eyebrow">Editor's note</h2>
+      <p id="note-text" class="note-text"></p>
+      <button id="note-more" class="link-btn" type="button" aria-expanded="false" aria-controls="note-text" hidden>Read more</button>
+    </section>
+
+    <section id="lead" aria-labelledby="h-lead" hidden>
+      <h2 id="h-lead" class="eyebrow">Lead story</h2>
+      <div id="lead-card"></div>
+    </section>
+
+    <section id="top" aria-labelledby="h-top" hidden>
+      <h2 id="h-top" class="section-title">Top 5</h2>
+      <ol id="top-list" class="top-grid" role="list"></ol>
+    </section>
+
+    <section id="innovations" aria-labelledby="h-innov" hidden>
+      <h2 id="h-innov" class="section-title">New innovations</h2>
+      <ul id="innov-list" class="rail" role="list"></ul>
+      <p id="innov-empty" class="empty" hidden>No other items scored 8 or higher on novelty today.</p>
+    </section>
+
+    <section id="trending" aria-labelledby="h-trend" hidden>
+      <h2 id="h-trend" class="section-title">Trending now</h2>
+      <ul id="trend-chips" class="chip-row" role="list"></ul>
+      <div id="trend-panel" class="trend-panel" hidden></div>
+      <p id="trend-empty" class="empty" hidden>No trending clusters today.</p>
+    </section>
+
+    <section id="categories" aria-labelledby="h-cat" hidden>
+      <h2 id="h-cat" class="section-title">By category</h2>
+      <div id="tablist" class="tablist" role="tablist" aria-label="Categories"></div>
+      <div id="tabpanels"></div>
+    </section>
+
+    <!-- Newsletter signup slot: the Buttondown form is added here later. -->
+    <section id="newsletter" class="slot" aria-labelledby="h-news">
+      <h2 id="h-news" class="section-title">The daily newsletter</h2>
+      <p>Each day's edition by email. Signup is coming soon.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="feed.xml">RSS</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+        </ul>
+      </nav>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>

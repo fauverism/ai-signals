@@ -171,6 +171,8 @@ test('buildEdition assigns slots, fills byCategory and picks trending clusters b
   assert.ok(edition.top.every((i) => i.featuredSlot === 'top'));
   assert.deepEqual(edition.trending.map((c) => c.id), ['cl-a', 'cl-b']);
   assert.equal(edition.trending[0].leadItemId, a2.item.id);
+  assert.equal(edition.trending[0].trendDelta, 4);
+  assert.equal(edition.trending[1].trendDelta, 1);
   assert.equal(a2.item.featuredSlot, 'trending');
   assert.ok(edition.byCategory['Tools & Releases'].some((i) => i.id === a2.item.id));
   assert.deepEqual(Object.keys(edition.byCategory).length, 7);

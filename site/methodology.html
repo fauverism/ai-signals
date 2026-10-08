@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Methodology | AI Signal</title>
+  <meta name="description" content="How AI Signal collects, ranks and features links, and what it does and does not store.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <script src="js/theme.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <p class="wordmark"><a href="./">AI Signal</a></p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap prose" tabindex="-1">
+    <h1>Methodology</h1>
+    <p>AI Signal is a daily edition of AI news, research, tutorials, tools and releases. Scripts collect and count; an AI model, Claude, judges and writes. This page explains both halves.</p>
+
+    <h2>What we collect</h2>
+    <p>Each day a script reads a published list of feeds and APIs: lab and company blogs, research listings, tech press, independent writers, engineering blogs, community signals and policy sources. It keeps stories from roughly the last 36 hours, removes duplicates, and groups stories about the same event.</p>
+
+    <h2>What we store and show</h2>
+    <p>For each link: the title, the URL, the source, the author, the publication date, and a short summary written by us in our own words. We never store or show article text, never quote more than 15 words, and never host the original. Every link goes to the original publisher.</p>
+
+    <h2>How stories are scored</h2>
+    <p>Claude scores each story from 0 to 10 on four measures, using a written rubric, from the title, source and signals. It does not read the full article.</p>
+    <table>
+      <thead><tr><th scope="col">Score</th><th scope="col">Weight</th><th scope="col">What it asks</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Importance</th><td>35%</td><td>How many practitioners or businesses this changes things for, and how much.</td></tr>
+        <tr><th scope="row">Trend</th><td>25%</td><td>Momentum: how many independent sources cover it, how far the topic is above its usual size, and community reaction.</td></tr>
+        <tr><th scope="row">Novelty</th><td>25%</td><td>A genuinely new capability, method or release, versus an update, recap or opinion on old news.</td></tr>
+        <tr><th scope="row">Credibility</th><td>15%</td><td>Primary source, named authors and reproducibility, versus rumor or unsourced claims.</td></tr>
+      </tbody>
+    </table>
+    <p>The total is computed by code, not by the model. Credibility under 4 caps the total at 5.</p>
+
+    <h2>How stories are featured</h2>
+    <ul>
+      <li><strong>Lead story:</strong> the highest total with credibility of at least 7 that has not been featured before.</li>
+      <li><strong>Top 5:</strong> the next five, at most two about the same organization.</li>
+      <li><strong>New innovations:</strong> up to six more with novelty of at least 8.</li>
+      <li><strong>Trending now:</strong> up to six clusters of related stories, by how far they exceed the topic's recent average.</li>
+    </ul>
+    <p>We skip listicles, stock-price stories, funding news with no product or technical substance, and old stories resurfacing without new facts.</p>
+
+    <h2>Limits</h2>
+    <p>Scores are editorial judgments by an AI model and can be wrong. Because the model sees titles and metadata rather than full articles, summaries describe what a story is, not every claim in it. Follow the link for the real thing.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="./">Today</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="feed.xml">RSS</a></li>
+        </ul>
+      </nav>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>

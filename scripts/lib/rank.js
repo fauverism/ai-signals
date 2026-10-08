@@ -281,6 +281,7 @@ export function buildEdition(entries, ctx) {
         itemIds,
         leadItemId: itemIds.includes(lead.item.id) ? lead.item.id : itemIds[0],
         sources: c.sources,
+        trendDelta: c.trendDelta ?? null,
       };
     })
     .filter(Boolean);
