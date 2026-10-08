@@ -64,7 +64,7 @@ test('the generated no-JS fallbacks in the HTML are in sync with site/config.js'
 });
 
 test('every page has its slots, and ids inside a page do not repeat', async () => {
-  const expected = { 'index.html': ['inline', 'footer'], 'archive.html': ['footer'], 'methodology.html': ['footer'], 'subscribe.html': ['page'] };
+  const expected = { 'index.html': ['inline', 'footer'], 'edition.html': ['inline', 'footer'], 'archive.html': ['footer'], 'about.html': ['footer'], 'methodology.html': ['footer'], 'subscribe.html': ['page'] };
   for (const [page, variants] of Object.entries(expected)) {
     const html = await readFile(path.join(site, page), 'utf8');
     assert.deepEqual([...html.matchAll(/data-subscribe="(\w+)"/g)].map((m) => m[1]), variants, page);

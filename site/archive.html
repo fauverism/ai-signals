@@ -6,6 +6,7 @@
   <title>Archive | AI Signal</title>
   <meta name="description" content="Every past AI Signal edition, newest first.">
   <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/rss+xml" title="AI Signal" href="feed.xml">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/site.css">
@@ -29,8 +30,15 @@
   <main id="main" class="wrap prose" tabindex="-1">
     <h1>Archive</h1>
     <noscript>
-      <p class="notice">The archive list needs JavaScript. The raw list is available as <a href="../data/archive.json">archive.json</a>.</p>
+      <p class="notice">The archive list and search need JavaScript. The raw list is available as <a href="../data/archive.json">archive.json</a>.</p>
     </noscript>
+    <form id="search-form" class="search" role="search">
+      <label for="q">Search the last 30 editions</label>
+      <input type="search" id="q" name="q" autocomplete="off" aria-describedby="q-hint">
+      <p id="q-hint" class="hint">Searches titles, summaries and tags.</p>
+    </form>
+    <p id="search-count" class="search-count" role="status" aria-live="polite"></p>
+    <ol id="results" class="results" role="list" hidden></ol>
     <p id="status" class="notice" role="status" hidden></p>
     <ol id="archive-list" class="archive-list" role="list" hidden></ol>
   </main>
@@ -61,8 +69,9 @@
       <nav aria-label="Footer">
         <ul role="list">
           <li><a href="./">Today</a></li>
-          <li><a href="feed.xml">RSS</a></li>
+          <li><a href="about.html">About</a></li>
           <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="feed.xml">RSS</a></li>
         </ul>
       </nav>
       <p class="privacy-note">Privacy: if you subscribe, we collect your email address and a tag showing which signup form you used. Buttondown, our newsletter service, stores it and sends the emails; we use it only to send this newsletter. Every email has an unsubscribe link that removes you in one click.</p>

@@ -11,7 +11,7 @@ import { BUTTONDOWN_USERNAME } from '../site/config.js';
 import { PLACEHOLDER_USERNAME, subscribeMarkup, subscribeMeta } from '../site/components/subscribe.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const PAGES = ['index.html', 'archive.html', 'methodology.html', 'subscribe.html'];
+export const PAGES = ['index.html', 'edition.html', 'archive.html', 'about.html', 'methodology.html', 'subscribe.html'];
 
 const indent = (text, pad) => text.split('\n').map((line) => (line ? pad + line : line)).join('\n');
 

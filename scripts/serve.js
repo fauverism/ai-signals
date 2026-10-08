@@ -16,7 +16,7 @@ const dry = argv.includes('--dry');
 const TYPES = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8',
   '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml', '.woff2': 'font/woff2', '.xml': 'application/xml; charset=utf-8',
-  '.txt': 'text/plain; charset=utf-8', '.md': 'text/plain; charset=utf-8',
+  '.txt': 'text/plain; charset=utf-8', '.png': 'image/png', '.md': 'text/plain; charset=utf-8',
 };
 
 async function newestDry(suffix) {
@@ -26,6 +26,11 @@ async function newestDry(suffix) {
 
 async function resolve(urlPath) {
   if (dry) {
+    // Files from `npm run build -- --dry` (feed, sitemap, search index, preview image, stamped index) win over site/.
+    if (urlPath.startsWith('/site/')) {
+      const generated = path.join(root, 'data/work/dry-site', decodeURIComponent(urlPath.slice('/site/'.length)) || 'index.html');
+      if ((await stat(generated).catch(() => null))?.isFile()) return generated;
+    }
     if (urlPath === '/data/latest.json') return newestDry('latest');
     if (urlPath === '/data/archive.json') return newestDry('archive');
     const m = urlPath.match(/^\/data\/editions\/(\d{4}-\d{2}-\d{2})\.json$/);
