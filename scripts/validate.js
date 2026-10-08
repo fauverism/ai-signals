@@ -48,7 +48,7 @@ async function discover() {
     ...(await listJson(d('schemas/fixtures'))),
     ...(await listJson(d('data/raw'))),
     ...(await listJson(d('data/editions'))),
-    ...(await listJson(d('data/work'))),
+    ...(await listJson(d('data/work'))).filter((f) => schemaFor(f)),
   ];
   for (const f of ['data/latest.json', 'data/archive.json', 'sources/sources.json', 'sources/candidates.json', 'sources/keywords.json']) {
     if (await readFile(d(f)).then(() => true, () => false)) files.push(d(f));
