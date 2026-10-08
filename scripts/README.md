@@ -8,12 +8,16 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `dedupe` | `dedupe.js` | dedupe, cluster, pre-score → `data/raw/<date>.deduped.json` |
 | `rank` | `rank.js` | `--prepare` batches, `--assemble` the Edition from Claude's scores, `--validate` after the note (see `prompts/rank-run.md`) |
 | `build` | `build.js` | `feed.xml`, `sitemap.xml`, `search-index.json`, the social preview PNG and the homepage's Open Graph tags, from the published editions (`--check` for staleness, `--dry` to preview, `--out`/`--data` for other locations) |
-| `check` | `validate.js` | validate all JSON against `/schemas` |
+| `check` | `validate.js`, `sync-subscribe.js --check`, `build.js --check`, `gate.js` | schemas, signup fallbacks, generated site files, then the publish gate (lead, ≥ 20 ranked, no duplicate URLs, every featured link answers HEAD with 2xx/3xx). Exit 2 = dead links dropped and the edition re-featured |
 | `test` | `*.test.js` | `node --test` unit tests |
 | `sync` | `sync-subscribe.js` | stamp `site/config.js` into the no-JS signup fallbacks in the HTML (`check` fails if they are stale) |
 | `serve` | `serve.js` | local static server for `/site` and `/data` (`--dry` previews a dry-run edition) |
 | `verify-sources` | `verify-sources.js` | regenerate `sources/sources.json` from `sources/candidates.json` |
-| `daily` | — | all of the above in order |
+| `daily` | `daily.js` | prints how the daily run works; the run itself is `prompts/daily-run.md` |
+| `daily:start` | `daily.js start` | discard leftovers of a failed run, `git pull --ff-only`, clear today's work files, record the run's date |
+| `daily:publish` | `daily.js publish` | re-verify, commit `Edition YYYY-MM-DD` and push (rolls the commit back if the push fails) |
+| `daily:summary` | `daily.js summary` | the five-line end-of-run summary |
+| `daily:fail` | `daily.js fail` | write `data/logs/<date>-failed.md`; never touches git |
 
 `node scripts/validate.js [file ...]` validates the given files, or everything it can find when run with no arguments.
 
@@ -44,3 +48,9 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 ## rank
 
 Claude Code does the judging between `--prepare` and `--assemble`; nothing here calls an API. Totals (weights in `lib/rank.js`), the Trend baseline and every featuring rule are computed in code, so a model-written `total` is ignored and a trend score more than 2 from its baseline is clamped. `--dry-run` writes `data/work/<date>.dry-*.json` instead of the real Edition, `latest.json` and `archive.json`. Exits non-zero, printing what's wrong, on any schema or rule failure.
+
+## The publish gate (`gate.js`)
+
+`npm run check` ends with the gate. `--require` fails when nothing is published, `--date D` insists the edition is for D, `--offline` skips the link check. Featured links (lead, top 5, innovations, trending leads) get a `HEAD` request with a 5 s timeout; redirects count as answering, as do 401/403/429 (the server answered, it just refuses bots), and a server that doesn't implement `HEAD` (405/501) gets one tiny `GET` instead. A failing link is written to `data/work/<date>.dropped.json` and `rank --assemble` runs again without it (exit 2). If half or more of the links fail at once the gate assumes the network is down and drops nothing (exit 1).
+
+`npm run collect`, `check` and `verify-sources` set `NODE_USE_ENV_PROXY=1` so Node's `fetch` uses `HTTPS_PROXY` in sandboxed runners; it does nothing without a proxy.

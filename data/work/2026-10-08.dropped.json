@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-08",
+  "dropped": [
+    {
+      "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "reason": "HTTP 403",
+      "checkedAt": "2026-10-08T10:53:06Z"
+    }
+  ]
+}

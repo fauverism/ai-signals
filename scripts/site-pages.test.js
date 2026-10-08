@@ -62,3 +62,19 @@ test('methodology no longer repeats the weights; it points to About', async () =
   assert.ok(!/<table/.test(html));
   assert.match(html, /href="about\.html"/);
 });
+
+test('validate.js ignores unmapped scratch files in data/work but still flags one named explicitly', async () => {
+  const { spawnSync } = await import('node:child_process');
+  const { writeFile, rm } = await import('node:fs/promises');
+  const scratch = path.resolve(site, '../data/work/zz-scratch-test.json');
+  await writeFile(scratch, '{}');
+  try {
+    const discovered = spawnSync(process.execPath, [path.resolve(site, '../scripts/validate.js')], { encoding: 'utf8' });
+    assert.ok(!discovered.stdout.includes('zz-scratch-test'), 'not picked up by discovery');
+    const named = spawnSync(process.execPath, [path.resolve(site, '../scripts/validate.js'), scratch], { encoding: 'utf8' });
+    assert.equal(named.status, 1);
+    assert.match(named.stdout, /no schema is mapped/);
+  } finally {
+    await rm(scratch, { force: true });
+  }
+});

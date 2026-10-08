@@ -72,6 +72,29 @@
       "clusterLabel": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media"
     },
     {
+      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "url": "https://agent.reviews/",
+      "author": null,
+      "publishedAt": "2026-10-07T16:59:11Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": 60,
+        "hnComments": 45,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
       "id": "1c9558d38162697286dc97ce687dc2c774d527e8",
       "title": "Google rolls out improved SynthID AI content detector, now available globally",
       "source": "Ars Technica: AI",
@@ -116,29 +139,6 @@
       "previouslyFeatured": false,
       "clusterId": "c-fd8635c968",
       "clusterLabel": "Google’s new SynthID website can identify AI-generated media"
-    },
-    {
-      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "url": "https://agent.reviews/",
-      "author": null,
-      "publishedAt": "2026-10-07T16:59:11Z",
-      "categoryHint": "News",
-      "signals": {
-        "hnPoints": 57,
-        "hnComments": 45,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 0,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
     },
     {
       "id": "3469266376cf6e14658b270efda6ccf03b8e2786",

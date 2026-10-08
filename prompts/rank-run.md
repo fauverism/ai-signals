@@ -55,7 +55,7 @@ You only have titles and metadata. Open an item's `url` (WebFetch) **only when t
 npm run rank -- --assemble
 ```
 
-Merges the scored files, recomputes every total in code, applies the featuring rules, and writes the Edition (`data/editions/<date>.json`), `data/latest.json` and `data/archive.json`. It lists the lead, top 5, innovations and trending clusters with their scores. On any problem it prints the list and exits non-zero without writing; fix the named scored file and run it again. Re-running keeps an existing editor's note.
+Merges the scored files, recomputes every total in code, applies the featuring rules, and writes the Edition (`data/editions/<date>.json`), `data/latest.json` and `data/archive.json`. It lists the lead, top 5, innovations and trending clusters with their scores. On any problem it prints the list and exits non-zero without writing; fix the named scored file and run it again. Re-running keeps an existing editor's note. If `data/work/<date>.dropped.json` exists (the publish gate writes it when a featured link is dead), those items are left out and the edition is re-featured from the rest.
 
 ## 4. Editor's note
 
@@ -70,5 +70,7 @@ npm run rank -- --validate
 Re-checks the Edition against the schema and the rubric's rules (totals, slot rules, label lengths, text rules, note present), then syncs `latest.json` and `archive.json`. On a schema or rule failure it prints what is wrong and exits non-zero. Fix and run again until it exits 0.
 
 ## 6. Report
+
+(In a daily run, `prompts/daily-run.md` skips this step and prints its own summary.)
 
 Tell the user the lead, the top 5 and the innovations with their four scores, anything unusual from the assembly notes (a lead fallback, a Tutorials swap, clamped trend scores), and how many source fetches you used.

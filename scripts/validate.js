@@ -17,6 +17,7 @@ function schemaFor(file) {
   if (/^data\/raw\/[\d-]+\.deduped\.json$/.test(rel)) return 'deduped';
   if (/^data\/raw\/[\d-]+\.json$/.test(rel) || /^schemas\/fixtures\/raw-/.test(rel)) return 'raw-file';
   if (/^data\/work\/[\d-]+\.batch-\d+\.json$/.test(rel)) return 'batch';
+  if (/^data\/work\/[\d-]+\.dropped\.json$/.test(rel)) return 'dropped';
   if (/^data\/work\/[\d-]+\.scored-\d+\.json$/.test(rel)) return 'scored';
   if (/^data\/work\/[\d-]+\.dry-edition\.json$/.test(rel)) return 'edition';
   if (/^data\/work\/[\d-]+\.dry-archive\.json$/.test(rel)) return 'archive';
@@ -47,7 +48,7 @@ async function discover() {
     ...(await listJson(d('schemas/fixtures'))),
     ...(await listJson(d('data/raw'))),
     ...(await listJson(d('data/editions'))),
-    ...(await listJson(d('data/work'))),
+    ...(await listJson(d('data/work'))).filter((f) => schemaFor(f)),
   ];
   for (const f of ['data/latest.json', 'data/archive.json', 'sources/sources.json', 'sources/candidates.json', 'sources/keywords.json']) {
     if (await readFile(d(f)).then(() => true, () => false)) files.push(d(f));

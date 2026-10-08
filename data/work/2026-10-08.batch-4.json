@@ -486,29 +486,6 @@
       "previouslyFeatured": false,
       "clusterId": null,
       "clusterLabel": null
-    },
-    {
-      "id": "722f1fc059248ca958f9f79f267ed95aae787c09",
-      "title": "Childhood and Education #21: Grades and Standards",
-      "source": "Don't Worry About the Vase (Zvi)",
-      "sourceTier": 2,
-      "url": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
-      "author": "Zvi Mowshowitz",
-      "publishedAt": "2026-10-06T21:58:21Z",
-      "categoryHint": "Opinion",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 0,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
     }
   ]
 }
