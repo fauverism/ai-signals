@@ -161,3 +161,6 @@ data/work/dry-site/
 
 # State of a daily run in progress (scripts/daily.js)
 data/work/daily-run.json
+
+# Deploy bundle (npm run bundle)
+dist/

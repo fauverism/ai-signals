@@ -22,7 +22,8 @@
     "daily:start": "node scripts/daily.js start",
     "daily:publish": "node scripts/daily.js publish",
     "daily:summary": "node scripts/daily.js summary",
-    "daily:fail": "node scripts/daily.js fail"
+    "daily:fail": "node scripts/daily.js fail",
+    "bundle": "node scripts/bundle.js"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
