@@ -13,12 +13,17 @@
     "dedupe": "node scripts/dedupe.js",
     "rank": "node scripts/rank.js",
     "build": "node scripts/build.js",
-    "check": "node scripts/validate.js",
+    "check": "node scripts/validate.js && node scripts/sync-subscribe.js --check && node scripts/build.js --check",
+    "sync": "node scripts/sync-subscribe.js",
+    "test": "node --test",
+    "serve": "node scripts/serve.js",
     "verify-sources": "node scripts/verify-sources.js",
     "daily": "npm run collect && npm run dedupe && npm run rank && npm run build && npm run check"
   },
   "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "ajv": "^8.17.1",
-    "ajv-formats": "^3.0.1"
+    "ajv-formats": "^3.0.1",
+    "fast-xml-parser": "^5.11.2"
   }
 }

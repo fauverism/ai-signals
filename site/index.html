@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en" data-data-base="../data/" data-page="home">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Signal: the day's AI news, research and releases</title>
+  <meta name="description" content="A daily edition of the AI news, research, tutorials, tools and releases worth your time, ranked by importance, momentum and novelty. Every link goes to the original publisher.">
+  <!-- og-meta:start -->
+  <!-- og-meta:end -->
+  <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/rss+xml" title="AI Signal" href="feed.xml">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/subscribe.css">
+  <script src="js/theme.js"></script>
+  <script type="module" src="js/app.js"></script>
+  <script type="module" src="components/subscribe.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <h1 class="wordmark">AI Signal</h1>
+      <p class="edition-meta">
+        <time id="edition-date"></time>
+        <time id="updated"></time>
+      </p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <noscript>
+      <p class="notice">AI Signal loads each day's edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
+    </noscript>
+    <p id="status" class="notice" role="status" hidden></p>
+
+    <section id="note" class="note" aria-labelledby="h-note" hidden>
+      <h2 id="h-note" class="eyebrow">Editor's note</h2>
+      <p id="note-text" class="note-text"></p>
+      <button id="note-more" class="link-btn" type="button" aria-expanded="false" aria-controls="note-text" hidden>Read more</button>
+    </section>
+
+    <section id="lead" aria-labelledby="h-lead" hidden>
+      <h2 id="h-lead" class="eyebrow">Lead story</h2>
+      <div id="lead-card"></div>
+    </section>
+
+    <section id="top" aria-labelledby="h-top" hidden>
+      <h2 id="h-top" class="section-title">Top 5</h2>
+      <ol id="top-list" class="top-grid" role="list"></ol>
+    </section>
+
+    <div class="subscribe-slot" data-subscribe="inline">
+      <!-- subscribe-fallback:start -->
+      <noscript>
+        <section class="subscribe subscribe--inline">
+          <h2 id="subscribe-title-inline" class="subscribe-title">The day in AI, ranked.</h2>
+          <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
+          <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME" method="post" class="subscribe-form">
+            <label for="bd-email-inline">Email address</label>
+            <div class="subscribe-row">
+              <input type="email" name="email" id="bd-email-inline" required autocomplete="email" aria-describedby="bd-msg-inline">
+              <input type="hidden" name="embed" value="1">
+              <input type="hidden" name="tag" value="site-inline">
+              <button type="submit">Subscribe</button>
+            </div>
+            <p class="subscribe-msg" id="bd-msg-inline" hidden></p>
+          </form>
+          <p class="subscribe-status" id="bd-status-inline" aria-live="polite" aria-atomic="true"></p>
+        </section>
+      </noscript>
+      <!-- subscribe-fallback:end -->
+    </div>
+
+    <section id="innovations" aria-labelledby="h-innov" hidden>
+      <h2 id="h-innov" class="section-title">New innovations</h2>
+      <ul id="innov-list" class="rail" role="list"></ul>
+      <p id="innov-empty" class="empty" hidden>No other items scored 8 or higher on novelty today.</p>
+    </section>
+
+    <section id="trending" aria-labelledby="h-trend" hidden>
+      <h2 id="h-trend" class="section-title">Trending now</h2>
+      <ul id="trend-chips" class="chip-row" role="list"></ul>
+      <div id="trend-panel" class="trend-panel" hidden></div>
+      <p id="trend-empty" class="empty" hidden>No trending clusters today.</p>
+    </section>
+
+    <section id="categories" aria-labelledby="h-cat" hidden>
+      <h2 id="h-cat" class="section-title">By category</h2>
+      <div id="tablist" class="tablist" role="tablist" aria-label="Categories"></div>
+      <div id="tabpanels"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="subscribe-slot" data-subscribe="footer">
+        <!-- subscribe-fallback:start -->
+        <noscript>
+          <section class="subscribe subscribe--footer">
+            <h2 id="subscribe-title-footer" class="subscribe-title">The day in AI, ranked.</h2>
+            <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
+            <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME" method="post" class="subscribe-form">
+              <label for="bd-email-footer">Email address</label>
+              <div class="subscribe-row">
+                <input type="email" name="email" id="bd-email-footer" required autocomplete="email" aria-describedby="bd-msg-footer">
+                <input type="hidden" name="embed" value="1">
+                <input type="hidden" name="tag" value="site-footer">
+                <button type="submit">Subscribe</button>
+              </div>
+              <p class="subscribe-msg" id="bd-msg-footer" hidden></p>
+            </form>
+            <p class="subscribe-status" id="bd-status-footer" aria-live="polite" aria-atomic="true"></p>
+          </section>
+        </noscript>
+        <!-- subscribe-fallback:end -->
+      </div>
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="feed.xml">RSS</a></li>
+        </ul>
+      </nav>
+      <p class="privacy-note">Privacy: if you subscribe, we collect your email address and a tag showing which signup form you used. Buttondown, our newsletter service, stores it and sends the emails; we use it only to send this newsletter. Every email has an unsubscribe link that removes you in one click.</p>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>

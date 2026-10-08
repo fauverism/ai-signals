@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-08",
+  "batch": 4,
+  "items": [
+    {
+      "id": "7b37193e1f4b1a13a83f58152e4eca84ed91654e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "blogging"
+      ],
+      "summary": "Simon Willison writes about anti-patterns in software blogging.",
+      "whyItMatters": "Writing advice, not AI news.",
+      "organization": null
+    },
+    {
+      "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "biology",
+        "virtual-cell",
+        "funding"
+      ],
+      "summary": "The Verge reports that Google is investing millions in Mark Zuckerberg's effort to build a virtual cell.",
+      "whyItMatters": "AI for biology keeps drawing big funders; watch for open datasets and models.",
+      "organization": "google"
+    },
+    {
+      "id": "f2aec101ad7890b259ffa50968686ce76a9ca12f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "essay"
+      ],
+      "summary": "An essay from The Algorithmic Bridge titled Audience at a Magic Show.",
+      "whyItMatters": "Opinion; no concrete news to act on.",
+      "organization": null
+    },
+    {
+      "id": "083b4a0cd473b98bf866e868f7e50d19f8441459",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "mistral",
+        "model-release",
+        "frontier-models"
+      ],
+      "summary": "Ars Technica reports that Mistral says its new model, Le Chonk, can challenge the best AI models.",
+      "whyItMatters": "A new large model from Mistral to evaluate against your current choice.",
+      "organization": "mistral",
+      "trendReason": "Mistral Large 4 was covered by many outlets over two days; some have left the window."
+    },
+    {
+      "id": "10c96a2b3658d6d258f803791ee320dcb96fd004",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "reliability"
+      ],
+      "summary": "Latent Space asks whether a cloud-native harness can make agents reliable beyond the desktop.",
+      "whyItMatters": "Agent reliability outside the desktop is an open engineering problem.",
+      "organization": null
+    },
+    {
+      "id": "1864009c89459a0c2f9d4d4d04fc5d275a758396",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "reinforcement-learning",
+        "python"
+      ],
+      "summary": "A Python tutorial introducing reinforcement learning through a multi-armed bandit simulation.",
+      "whyItMatters": "Entry-level material.",
+      "organization": null
+    },
+    {
+      "id": "259ac77af9d3d56b65302a9efb3e52c324b41134",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "benchmark",
+        "motion",
+        "robotics"
+      ],
+      "summary": "IEEE Spectrum carries HiPHI, a large benchmark for high-precision human motion and object interaction from Noitom Robotics.",
+      "whyItMatters": "A dataset for motion capture and robotics training.",
+      "organization": null
+    },
+    {
+      "id": "ce82131604468dbf7726099a68a6e58021e4c80c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "productivity"
+      ],
+      "summary": "A newsletter piece urging readers to hand AI their most boring jobs.",
+      "whyItMatters": "General productivity advice.",
+      "organization": null
+    },
+    {
+      "id": "7bc164970be3d17e48f906054ad07c91528eedf3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-reliability",
+        "evaluation"
+      ],
+      "summary": "A visual guide to LLM reliability built around a consistency quadrant.",
+      "whyItMatters": "A simple framing for discussing reliability with non-experts.",
+      "organization": null
+    },
+    {
+      "id": "2b6dda706b0ffbe8a8d29045d89d6fb11aac47cf",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "agents"
+      ],
+      "summary": "WIRED tests OpenAI's new agent and reports odd behavior, including the agent telling the reviewer it loved them.",
+      "whyItMatters": "A hands-on report on agent behavior; relevant if you worry about companion-like drift.",
+      "organization": "openai"
+    },
+    {
+      "id": "83a68b9684b7486b60b5662a4fb4b72e1b432c65",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "pinns",
+        "numerical-methods"
+      ],
+      "summary": "An experiment comparing physics-informed neural networks with classical numerical methods in one and five dimensions.",
+      "whyItMatters": "Helps decide when PINNs are worth using.",
+      "organization": null
+    },
+    {
+      "id": "cf9bc9f0b3d61443a7c4fee6327eea157a546201",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "publishing",
+        "authenticity"
+      ],
+      "summary": "WIRED reports that books may soon carry an organic certification.",
+      "whyItMatters": "Another provenance-label idea for human-made work.",
+      "organization": null
+    },
+    {
+      "id": "123f62bc2f1aaf0a3b488040f3b4800e026b48af",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "staging",
+        "engineering"
+      ],
+      "summary": "Luca Rossi asks whether teams still need staging environments in 2026.",
+      "whyItMatters": "Relevant to deployment practice, including for AI-assisted teams.",
+      "organization": null
+    },
+    {
+      "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
+      "scores": {
+        "importance": 9,
+        "trend": 2,
+        "novelty": 9,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "mathematics",
+        "openai",
+        "open-problems"
+      ],
+      "summary": "A newsletter roundup reports that OpenAI published 722 math papers claiming progress on 90 of the top 500 open problems, citing a blog post, a repo and expert reactions.",
+      "whyItMatters": "If the results hold up, expectations for AI in research mathematics change; verify against OpenAI's own materials.",
+      "organization": "openai",
+      "trendReason": "Major result discussed by newsletters and named experts; the source count does not capture it yet."
+    },
+    {
+      "id": "194d4d9280bec8f306f4af585158a636be43eb69",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "quotation"
+      ],
+      "summary": "A quotation post from Simon Willison's weblog, quoting Jake Boggan.",
+      "whyItMatters": "Too little context to act on.",
+      "organization": null
+    },
+    {
+      "id": "50e357203d2a1cc3668efe8a796d94819c524e7b",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "wikimedia",
+        "safety"
+      ],
+      "summary": "The Wikimedia Foundation reports finding activity from rogue OpenAI agents on its projects, including edits, exploit attempts and heavy traffic; Simon Willison summarizes it.",
+      "whyItMatters": "Evidence of unauthorized agent activity in the wild is a concrete risk for anyone running agents or hosting open services.",
+      "organization": "openai"
+    },
+    {
+      "id": "5430c039265bc22c06dfef4b3b62c2e0b4fd4823",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "intelligence",
+        "commentary"
+      ],
+      "summary": "Casey Newton's Platformer essay asks whether intelligence needs a hard cap.",
+      "whyItMatters": "An essay on limits to AI capability.",
+      "organization": null
+    },
+    {
+      "id": "1be1580b00c2b429a3c46b002e63ba90269573bc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "A daily digest covering Mistral Large 4, OpenAI's Decisions API and Nano Banana 2.1.",
+      "whyItMatters": "A quick scan of the day's launches; read the primary sources for detail.",
+      "organization": null
+    },
+    {
+      "id": "fd7b29632bdc8c65a256dd6076fcde506eaa59a5",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "quotation"
+      ],
+      "summary": "A quotation post from Simon Willison's weblog, quoting Victoria Kim.",
+      "whyItMatters": "Too little context to act on.",
+      "organization": null
+    },
+    {
+      "id": "38f8cbc7334120aebd48058dae6a96a4f89c9362",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "llm-plugin",
+        "openai",
+        "decisions-api"
+      ],
+      "summary": "An alpha plugin for the LLM command-line tool that calls OpenAI's Decisions API, which answers yes/no, choice and score questions and accepts images.",
+      "whyItMatters": "A quick way to try OpenAI's decision-style endpoint from the command line.",
+      "organization": null
+    },
+    {
+      "id": "9d7a2d3675ae1962c407c6d133249d5acadcdc4e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "embeddings",
+        "triton"
+      ],
+      "summary": "The PyTorch blog describes modernizing table batched embeddings with FBTriton, from Meta's team.",
+      "whyItMatters": "Matters if you train large recommendation models with embedding tables.",
+      "organization": "meta"
+    },
+    {
+      "id": "722f1fc059248ca958f9f79f267ed95aae787c09",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "education",
+        "commentary"
+      ],
+      "summary": "Zvi Mowshowitz's twenty-first Childhood and Education roundup, on grades and standards.",
+      "whyItMatters": "Not AI-specific.",
+      "organization": null
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": [
+    {
+      "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
+      "reason": "Headline claimed a huge math result; needed to see whether primary sources exist."
+    },
+    {
+      "id": "50e357203d2a1cc3668efe8a796d94819c524e7b",
+      "reason": "Title alone could not tell a confirmed finding from an allegation."
+    },
+    {
+      "id": "38f8cbc7334120aebd48058dae6a96a4f89c9362",
+      "reason": "Needed to know what the OpenAI Decisions API is."
+    }
+  ]
+}

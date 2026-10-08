@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Methodology | AI Signal</title>
+  <meta name="description" content="How AI Signal collects, ranks and features links, and what it does and does not store.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/rss+xml" title="AI Signal" href="feed.xml">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/subscribe.css">
+  <script src="js/theme.js"></script>
+  <script type="module" src="components/subscribe.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <p class="wordmark"><a href="./">AI Signal</a></p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap prose" tabindex="-1">
+    <h1>Methodology</h1>
+    <p>AI Signal is a daily edition of AI news, research, tutorials, tools and releases. Scripts collect and count; an AI model, Claude, judges and writes. This page explains both halves.</p>
+
+    <h2>What we collect</h2>
+    <p>Each day a script reads a published list of feeds and APIs: lab and company blogs, research listings, tech press, independent writers, engineering blogs, community signals and policy sources. It keeps stories from roughly the last 36 hours, removes duplicates, and groups stories about the same event.</p>
+
+    <h2>What we store and show</h2>
+    <p>For each link: the title, the URL, the source, the author, the publication date, and a short summary written by us in our own words. We never store or show article text, never quote more than 15 words, and never host the original. Every link goes to the original publisher.</p>
+
+    <h2>How stories are scored</h2>
+    <p>Claude scores each story from 0 to 10 on four measures, using a written rubric, from the title, source and signals. It does not read the full article. The total is computed by code, not by the model. The About page explains each measure, how much it counts, and works through an example.</p>
+    <p><a class="more-link" href="about.html">How the scores work <span aria-hidden="true">→</span></a></p>
+
+    <h2>How stories are featured</h2>
+    <ul>
+      <li><strong>Lead story:</strong> the highest total with credibility of at least 7 that has not been featured before.</li>
+      <li><strong>Top 5:</strong> the next five, at most two about the same organization.</li>
+      <li><strong>New innovations:</strong> up to six more with novelty of at least 8.</li>
+      <li><strong>Trending now:</strong> up to six clusters of related stories, by how far they exceed the topic's recent average.</li>
+    </ul>
+    <p>We skip listicles, stock-price stories, funding news with no product or technical substance, and old stories resurfacing without new facts.</p>
+
+    <h2>Limits</h2>
+    <p>Scores are editorial judgments by an AI model and can be wrong. Because the model sees titles and metadata rather than full articles, summaries describe what a story is, not every claim in it. Follow the link for the real thing.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="subscribe-slot" data-subscribe="footer">
+        <!-- subscribe-fallback:start -->
+        <noscript>
+          <section class="subscribe subscribe--footer">
+            <h2 id="subscribe-title-footer" class="subscribe-title">The day in AI, ranked.</h2>
+            <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
+            <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME" method="post" class="subscribe-form">
+              <label for="bd-email-footer">Email address</label>
+              <div class="subscribe-row">
+                <input type="email" name="email" id="bd-email-footer" required autocomplete="email" aria-describedby="bd-msg-footer">
+                <input type="hidden" name="embed" value="1">
+                <input type="hidden" name="tag" value="site-footer">
+                <button type="submit">Subscribe</button>
+              </div>
+              <p class="subscribe-msg" id="bd-msg-footer" hidden></p>
+            </form>
+            <p class="subscribe-status" id="bd-status-footer" aria-live="polite" aria-atomic="true"></p>
+          </section>
+        </noscript>
+        <!-- subscribe-fallback:end -->
+      </div>
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="./">Today</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="feed.xml">RSS</a></li>
+        </ul>
+      </nav>
+      <p class="privacy-note">Privacy: if you subscribe, we collect your email address and a tag showing which signup form you used. Buttondown, our newsletter service, stores it and sends the emails; we use it only to send this newsletter. Every email has an unsubscribe link that removes you in one click.</p>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>

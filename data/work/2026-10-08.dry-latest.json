@@ -1,0 +1,2588 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T10:01:29Z",
+  "editorNote": "OpenAI shipped GPT-6 alongside a more visual ChatGPT, and Claude Haiku 5.5 landed the same week with a claim of beating GPT-6 Luna at the same price. The second story is OpenAI's reported release of 722 math papers: experts sound impressed, but what we have is secondhand, so read OpenAI's own materials before drawing conclusions.",
+  "lead": {
+    "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "source": "OpenAI News",
+    "sourceTier": 1,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-07T00:00:00Z",
+    "fetchedAt": "2026-10-08T09:42:25Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 5
+    },
+    "scores": {
+      "importance": 9,
+      "trend": 6,
+      "novelty": 8,
+      "credibility": 9
+    },
+    "total": 8,
+    "category": "Tools & Releases",
+    "tags": [
+      "gpt-6",
+      "chatgpt",
+      "frontier-models"
+    ],
+    "summary": "OpenAI announces GPT-6 together with an interface update it calls Intelligent UI, aimed at all ChatGPT users.",
+    "whyItMatters": "A new flagship generation changes which model you test against and which behaviors you can rely on.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "canonicalUrl": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T04:55:44Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 9,
+        "trend": 2,
+        "novelty": 9,
+        "credibility": 6
+      },
+      "total": 6.8,
+      "category": "Research",
+      "tags": [
+        "mathematics",
+        "openai",
+        "open-problems"
+      ],
+      "summary": "A newsletter roundup reports that OpenAI published 722 math papers claiming progress on 90 of the top 500 open problems, citing a blog post, a repo and expert reactions.",
+      "whyItMatters": "If the results hold up, expectations for AI in research mathematics change; verify against OpenAI's own materials.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "083b4a0cd473b98bf866e868f7e50d19f8441459",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Joel Khalili, wired.com",
+      "publishedAt": "2026-10-07T14:12:37Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "total": 5.2,
+      "category": "News",
+      "tags": [
+        "mistral",
+        "model-release",
+        "frontier-models"
+      ],
+      "summary": "Ars Technica reports that Mistral says its new model, Le Chonk, can challenge the best AI models.",
+      "whyItMatters": "A new large model from Mistral to evaluate against your current choice.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "4a32ff51ed082ec89103d3375a8b94bfa333cf00",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-10-07T18:00:19Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "total": 4.9,
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "interface"
+      ],
+      "summary": "TechCrunch reports that ChatGPT is becoming more visual with the launch of a new interface.",
+      "whyItMatters": "Same launch as the GPT-6 coverage; matters if you build on ChatGPT's interface conventions.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-10-07T14:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "Tools & Releases",
+      "tags": [
+        "synthid",
+        "provenance",
+        "detection"
+      ],
+      "summary": "TechCrunch reports that a new SynthID website from Google can identify AI-generated media.",
+      "whyItMatters": "A public detection tool that moderation and verification teams can try.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "canonicalUrl": "https://theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-07T14:40:52Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "News",
+      "tags": [
+        "biology",
+        "virtual-cell",
+        "funding"
+      ],
+      "summary": "The Verge reports that Google is investing millions in Mark Zuckerberg's effort to build a virtual cell.",
+      "whyItMatters": "AI for biology keeps drawing big funders; watch for open datasets and models.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [
+    {
+      "id": "c-cdd8b446b3",
+      "label": "GPT-6 and Claude Haiku 5.5",
+      "itemIds": [
+        "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+        "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
+        "524a477f27093a951bfbaa0406a8f1dd2ae867d6",
+        "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0"
+      ],
+      "leadItemId": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+      "sources": [
+        "AWS Machine Learning Blog",
+        "Latent Space",
+        "OpenAI News",
+        "Simon Willison",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-68d0737633",
+      "label": "ChatGPT for Teens scrutiny",
+      "itemIds": [
+        "8489f30897db8d6de2db5fcac19459ec2d75e486",
+        "610b12eb506990c2daa4c5d96602abcac85f39b6"
+      ],
+      "leadItemId": "8489f30897db8d6de2db5fcac19459ec2d75e486",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-c571c17214",
+      "label": "Meta Muse arrives on iPad",
+      "itemIds": [
+        "e679d3ae180e9ba41421626bcaba4ecb1cfedb56"
+      ],
+      "leadItemId": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-c96fd31c0e",
+      "label": "Microsoft's Windows Copilot push",
+      "itemIds": [
+        "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+        "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630"
+      ],
+      "leadItemId": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+      "sources": [
+        "Ars Technica: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-fd8635c968",
+      "label": "Google SynthID detector goes global",
+      "itemIds": [
+        "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+        "1c9558d38162697286dc97ce687dc2c774d527e8"
+      ],
+      "leadItemId": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+      "sources": [
+        "Ars Technica: AI",
+        "TechCrunch: AI"
+      ],
+      "trendDelta": null
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-07T19:10:42Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 4,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 5.7,
+        "category": "News",
+        "tags": [
+          "chatgpt",
+          "interface",
+          "gpt-6"
+        ],
+        "summary": "The Verge reports that ChatGPT answers now include pictures, charts and buttons as part of an interface update.",
+        "whyItMatters": "Visual, interactive answers raise the bar for chat interfaces in your own products.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
+        "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "canonicalUrl": "https://latent.space/p/ainews-claude-haiku-55-better-than",
+        "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-08T07:27:51Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 4,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 5.4,
+        "category": "News",
+        "tags": [
+          "claude",
+          "gpt-6",
+          "pricing"
+        ],
+        "summary": "A newsletter roundup says Claude Haiku 5.5 beats GPT-6 Luna at the same price. It is a secondhand comparison of two small models.",
+        "whyItMatters": "Price-performance in small models drives many production choices; verify the comparison on your own tasks.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "083b4a0cd473b98bf866e868f7e50d19f8441459",
+        "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
+        "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Joel Khalili, wired.com",
+        "publishedAt": "2026-10-07T14:12:37Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 5.2,
+        "category": "News",
+        "tags": [
+          "mistral",
+          "model-release",
+          "frontier-models"
+        ],
+        "summary": "Ars Technica reports that Mistral says its new model, Le Chonk, can challenge the best AI models.",
+        "whyItMatters": "A new large model from Mistral to evaluate against your current choice.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4a32ff51ed082ec89103d3375a8b94bfa333cf00",
+        "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-07T18:00:19Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.9,
+        "category": "News",
+        "tags": [
+          "chatgpt",
+          "interface"
+        ],
+        "summary": "TechCrunch reports that ChatGPT is becoming more visual with the launch of a new interface.",
+        "whyItMatters": "Same launch as the GPT-6 coverage; matters if you build on ChatGPT's interface conventions.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
+        "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+        "canonicalUrl": "https://theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-07T14:40:52Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "News",
+        "tags": [
+          "biology",
+          "virtual-cell",
+          "funding"
+        ],
+        "summary": "The Verge reports that Google is investing millions in Mark Zuckerberg's effort to build a virtual cell.",
+        "whyItMatters": "AI for biology keeps drawing big funders; watch for open datasets and models.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "canonicalUrl": "https://theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-07T18:01:20Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "News",
+        "tags": [
+          "copilot",
+          "windows",
+          "agents"
+        ],
+        "summary": "The Verge reports that Microsoft is giving Copilot more control over Windows and users' files.",
+        "whyItMatters": "More agent access to the OS and files raises permission and security questions for IT teams.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
+        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Nick Indge",
+        "publishedAt": "2026-10-08T00:00:24Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 4.2,
+        "category": "News",
+        "tags": [
+          "windows",
+          "ai-pcs",
+          "hardware"
+        ],
+        "summary": "Ars Technica covers a Microsoft event that introduced AI-oriented hardware and changes to Windows.",
+        "whyItMatters": "Shapes what hardware and OS features local AI apps can count on.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2b6dda706b0ffbe8a8d29045d89d6fb11aac47cf",
+        "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+        "canonicalUrl": "https://wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me",
+        "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Reece Rogers",
+        "publishedAt": "2026-10-07T11:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.1,
+        "category": "News",
+        "tags": [
+          "openai",
+          "agents"
+        ],
+        "summary": "WIRED tests OpenAI's new agent and reports odd behavior, including the agent telling the reviewer it loved them.",
+        "whyItMatters": "A hands-on report on agent behavior; relevant if you worry about companion-like drift.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a843173a5365ccbb0e1a244fdaff078c2c928fe2",
+        "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
+        "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kyle Orland",
+        "publishedAt": "2026-10-07T21:56:42Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4,
+        "category": "News",
+        "tags": [
+          "open-source",
+          "adobe",
+          "ai-coding"
+        ],
+        "summary": "Ars Technica profiles an AI developer who is building open-source clones of Adobe tools and predicts the end of software as a product.",
+        "whyItMatters": "A test of how far AI-assisted development can replicate commercial software.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
+        "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+        "canonicalUrl": "https://theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+        "title": "Muse launches on the iPad",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Andrew Liszewski",
+        "publishedAt": "2026-10-07T15:37:23Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "muse",
+          "ipad",
+          "consumer-ai"
+        ],
+        "summary": "The Verge reports that Muse has launched on the iPad.",
+        "whyItMatters": "Confirms Muse's expansion beyond phones.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
+        "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+        "canonicalUrl": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+        "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-07T04:55:44Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 9,
+          "trend": 2,
+          "novelty": 9,
+          "credibility": 6
+        },
+        "total": 6.8,
+        "category": "Research",
+        "tags": [
+          "mathematics",
+          "openai",
+          "open-problems"
+        ],
+        "summary": "A newsletter roundup reports that OpenAI published 722 math papers claiming progress on 90 of the top 500 open problems, citing a blog post, a repo and expert reactions.",
+        "whyItMatters": "If the results hold up, expectations for AI in research mathematics change; verify against OpenAI's own materials.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5bdd694c62903534c1d8981979d5770bf3d2e4ec",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "canonicalUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-07T12:45:31Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4.3,
+        "category": "Research",
+        "tags": [
+          "fine-tuning",
+          "reasoning",
+          "olympiad"
+        ],
+        "summary": "A Hugging Face blog post reports gold-level results on IOI and IMO problems from one fine-tuned Nemotron model family.",
+        "whyItMatters": "Shows how far fine-tuning can push open models on contest reasoning; check the evaluation details.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1c36e3ad2419df8936772dc3b76636eb316545f0",
+        "url": "https://arxiv.org/abs/2610.10118",
+        "canonicalUrl": "https://arxiv.org/abs/2610.10118",
+        "title": "YANchor-4B: Effective Long-Horizon Reasoning in O(N) Time with O(1) Memory",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Huishan Ji, Hua Xu, Weiming Zhang, Qirui Ye",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "Research",
+        "tags": [
+          "long-context",
+          "efficiency",
+          "reasoning"
+        ],
+        "summary": "Presents YANchor-4B, which aims for long-horizon reasoning with time linear in length and constant memory.",
+        "whyItMatters": "Constant-memory long reasoning would matter for long-context serving; check the evals before trusting it.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4f735b2de99eded98e0450d5b724279ea85eb7c4",
+        "url": "https://arxiv.org/abs/2610.09363",
+        "canonicalUrl": "https://arxiv.org/abs/2610.09363",
+        "title": "Closing the Loop on Contrail Avoidance with Satellite Verification",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Spandan Ghose Chowdhury",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "climate",
+          "aviation",
+          "verification"
+        ],
+        "summary": "Describes closing the loop on contrail avoidance by checking outcomes against satellite data.",
+        "whyItMatters": "An applied example of verifying a climate intervention with real measurements.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a05cef414fb06b477c6caa721cd00fbcd211433b",
+        "url": "https://arxiv.org/abs/2610.10201",
+        "canonicalUrl": "https://arxiv.org/abs/2610.10201",
+        "title": "GAGR-Lab: Evaluating Joint Spatial-Geometric and Analytic Function Reasoning",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jingyao Zhang, Yun Li, Lu Han",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "benchmark",
+          "reasoning",
+          "geometry"
+        ],
+        "summary": "A benchmark that tests models on combined spatial-geometric and analytic function reasoning.",
+        "whyItMatters": "A new yardstick for geometric reasoning if you evaluate multimodal models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5b37e56ce04370424c17be57d4d011b1dbe03de4",
+        "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+        "canonicalUrl": "https://research.google/blog/does-better-work-always-mean-better-workers",
+        "title": "Does better work always mean better workers?",
+        "source": "Google Research Blog",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-07T20:19:57Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "google-research",
+          "workplace"
+        ],
+        "summary": "A Google Research blog post asking whether better work output means better workers.",
+        "whyItMatters": "Little detail in the title; open it if workplace AI research interests you.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1901cebbe55929a482d0f8394526e69deb6b857d",
+        "url": "https://arxiv.org/abs/2610.09633",
+        "canonicalUrl": "https://arxiv.org/abs/2610.09633",
+        "title": "Coding-Agent Benchmarks Should Match Their Users' Task Flows",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Igor Slinko, Yaroslav Golubev, Sergey Titov",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "coding-agents",
+          "benchmarks",
+          "evaluation"
+        ],
+        "summary": "Argues that coding-agent benchmarks should mirror how people actually work with these tools instead of testing isolated tasks.",
+        "whyItMatters": "Useful framing when you choose or build evals for coding agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "259ac77af9d3d56b65302a9efb3e52c324b41134",
+        "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+        "canonicalUrl": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction",
+        "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+        "source": "IEEE Spectrum: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Noitom Robotics",
+        "publishedAt": "2026-10-07T13:49:48Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "Research",
+        "tags": [
+          "benchmark",
+          "motion",
+          "robotics"
+        ],
+        "summary": "IEEE Spectrum carries HiPHI, a large benchmark for high-precision human motion and object interaction from Noitom Robotics.",
+        "whyItMatters": "A dataset for motion capture and robotics training.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01535d38738c8125dc890b064b74dd9348966237",
+        "url": "https://arxiv.org/abs/2610.09858",
+        "canonicalUrl": "https://arxiv.org/abs/2610.09858",
+        "title": "Training Advisors for LLM Agents from Task Outcomes",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Sergei Polezhaev, Barys Liskavets, Ori Press, Alexander Golubev",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "training"
+        ],
+        "summary": "Proposes training advisor models for LLM agents using the outcomes of the tasks the agents attempt.",
+        "whyItMatters": "One approach to improving agent behavior from task results; worth a look if you train agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01d008d99887fbf9f049e808a1ee8fcb78e01275",
+        "url": "https://arxiv.org/abs/2610.09179",
+        "canonicalUrl": "https://arxiv.org/abs/2610.09179",
+        "title": "LayerRoPE: Dynamic Depth-wise Magnitude & Angular Superposition",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Shikhar Srivastava, Christopher Kanan",
+        "publishedAt": "2026-10-08T04:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "Research",
+        "tags": [
+          "position-embeddings",
+          "transformers"
+        ],
+        "summary": "Introduces LayerRoPE, a depth-wise way to combine magnitude and angular components in rotary position embeddings.",
+        "whyItMatters": "A position-encoding tweak that may matter if you train or fine-tune transformers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "8869352ca179a81d9f7ce3e00ad0f872aa86b51f",
+        "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+        "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Amit Choudhary",
+        "publishedAt": "2026-10-07T18:34:44Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.6,
+        "category": "Tutorials",
+        "tags": [
+          "rag",
+          "access-control",
+          "bedrock"
+        ],
+        "summary": "AWS explains how to rethink access control for retrieval-augmented generation using Amazon Quick and Amazon Bedrock.",
+        "whyItMatters": "Permissions in RAG are easy to get wrong; this is AWS's take on handling them.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "94a2f042cf7375c8884f594cf362f8fd0fcb0879",
+        "url": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+        "canonicalUrl": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+        "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-07T15:31:48Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Tutorials",
+        "tags": [
+          "recommendation",
+          "llm"
+        ],
+        "summary": "ByteByteGo explains how Netflix trained an LLM to recommend movies that keep viewers watching.",
+        "whyItMatters": "A walkthrough of an LLM-based recommender; useful for recsys practitioners.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7eb12f5d530ed4a60857f2012d4857857dd59238",
+        "url": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation",
+        "title": "Automate remediation post AWS DevOps Agent investigation",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Michele Scarimbolo",
+        "publishedAt": "2026-10-07T15:46:49Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "devops",
+          "agents",
+          "automation"
+        ],
+        "summary": "AWS shows how to automate remediation after its DevOps Agent finishes an investigation.",
+        "whyItMatters": "A concrete pattern for acting on agent findings in operations.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "be44224a1a4ac828d4c61b34898b39629c68104a",
+        "url": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
+        "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Avi Alkobi",
+        "publishedAt": "2026-10-07T16:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "digital-twin",
+          "agents",
+          "data-center"
+        ],
+        "summary": "NVIDIA describes using digital twins and AI agents to validate changes to AI data center infrastructure before rollout.",
+        "whyItMatters": "Relevant mainly to teams operating large GPU clusters.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7bc164970be3d17e48f906054ad07c91528eedf3",
+        "url": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+        "canonicalUrl": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability",
+        "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Robert Martin-Short",
+        "publishedAt": "2026-10-07T12:30:00Z",
+        "fetchedAt": "2026-10-08T09:42:27Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "llm-reliability",
+          "evaluation"
+        ],
+        "summary": "A visual guide to LLM reliability built around a consistency quadrant.",
+        "whyItMatters": "A simple framing for discussing reliability with non-experts.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ea8a00353b7606ce86ad6d010d83df8589676426",
+        "url": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+        "canonicalUrl": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm",
+        "title": "How Wrong Is Your Marketing Mix Model (MMM)?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Ryan OSullivan",
+        "publishedAt": "2026-10-07T15:30:00Z",
+        "fetchedAt": "2026-10-08T09:42:27Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "marketing-mix-model"
+        ],
+        "summary": "Towards Data Science examines how wrong a marketing mix model can be.",
+        "whyItMatters": "Niche to marketing analytics.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
+        "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+        "title": "Building resilient systems with Sam Newman",
+        "source": "The Pragmatic Engineer",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-07T17:19:58Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 8
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "software-architecture",
+          "resilience"
+        ],
+        "summary": "A Pragmatic Engineer conversation with Sam Newman about building resilient systems.",
+        "whyItMatters": "General engineering, not AI-specific.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1864009c89459a0c2f9d4d4d04fc5d275a758396",
+        "url": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/",
+        "canonicalUrl": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python",
+        "title": "Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Carolina Bento",
+        "publishedAt": "2026-10-07T14:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:27Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 1,
+          "credibility": 5
+        },
+        "total": 1.7,
+        "category": "Tutorials",
+        "tags": [
+          "reinforcement-learning",
+          "python"
+        ],
+        "summary": "A Python tutorial introducing reinforcement learning through a multi-armed bandit simulation.",
+        "whyItMatters": "Entry-level material.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+        "title": "GPT-6 and Intelligent UI for everyone",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-07T00:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 9,
+          "trend": 6,
+          "novelty": 8,
+          "credibility": 9
+        },
+        "total": 8,
+        "category": "Tools & Releases",
+        "tags": [
+          "gpt-6",
+          "chatgpt",
+          "frontier-models"
+        ],
+        "summary": "OpenAI announces GPT-6 together with an interface update it calls Intelligent UI, aimed at all ChatGPT users.",
+        "whyItMatters": "A new flagship generation changes which model you test against and which behaviors you can rely on.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "524a477f27093a951bfbaa0406a8f1dd2ae867d6",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+        "title": "Introducing Claude Haiku 5.5 on AWS",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Aamna Najmi",
+        "publishedAt": "2026-10-07T18:52:10Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 5.6,
+        "category": "Tools & Releases",
+        "tags": [
+          "claude",
+          "aws",
+          "model-release"
+        ],
+        "summary": "AWS announces that Claude Haiku 5.5, Anthropic's Haiku-tier model, is available on its platform.",
+        "whyItMatters": "If you build on AWS, a new small Claude option is available without changing providers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+        "title": "Google’s new SynthID website can identify AI-generated media",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ivan Mehta",
+        "publishedAt": "2026-10-07T14:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "synthid",
+          "provenance",
+          "detection"
+        ],
+        "summary": "TechCrunch reports that a new SynthID website from Google can identify AI-generated media.",
+        "whyItMatters": "A public detection tool that moderation and verification teams can try.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1c9558d38162697286dc97ce687dc2c774d527e8",
+        "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
+        "title": "Google rolls out improved SynthID AI content detector, now available globally",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ryan Whitwam",
+        "publishedAt": "2026-10-07T14:00:08Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "synthid",
+          "provenance",
+          "watermarking"
+        ],
+        "summary": "Ars Technica reports that Google has rolled out an improved SynthID detector for AI-generated content, available globally.",
+        "whyItMatters": "Gives you a first-party check for content made with Google's tools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7818bdc9321f6143f555e05644f97028104338fe",
+        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+        "canonicalUrl": "https://microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+        "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+        "source": "Microsoft Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Zhiyuan He, Yuqing Yang",
+        "publishedAt": "2026-10-07T16:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "agents",
+          "reinforcement-learning",
+          "open-source"
+        ],
+        "summary": "Microsoft Research releases Agent Lightning v1.0, a roughly 3,500-line framework for training agents with reinforcement learning using their real harnesses.",
+        "whyItMatters": "A small codebase to read and adapt if you want to train agents on your own tool setups.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ea4f899dc8dfd436a81cbe256a4f75bd8099bf3e",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+        "canonicalUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+        "title": "Introducing Playground: Create and play custom games",
+        "source": "Google AI (The Keyword)",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": "Maryam Karimzadehgan",
+        "publishedAt": "2026-10-07T12:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 4.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "games",
+          "generative-ai"
+        ],
+        "summary": "Google introduces Playground, a product for creating and playing custom games.",
+        "whyItMatters": "A new generative product from Google; worth a try if you build games or interactive content.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8898b4cd60b8da95b5aaae535e1340d40852a127",
+        "url": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
+        "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Tanya Lenz",
+        "publishedAt": "2026-10-07T15:45:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "optimization",
+          "gpu",
+          "cuopt"
+        ],
+        "summary": "NVIDIA describes scaling decision optimization in cuOpt to 100 million variables and beyond with the mPDLP method.",
+        "whyItMatters": "GPU solvers at this scale matter for logistics and scheduling workloads.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0825a4897dea2e8280a620cd72c7dc55f2c953c0",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "canonicalUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+        "title": "Multimodal open d1 decision models for the edge",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-07T16:54:33Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "edge",
+          "open-weights",
+          "multimodal"
+        ],
+        "summary": "Liquid AI releases two open decision models, d1-3B and d1-omni-600M, that answer in a single forward pass and run on Jetson edge hardware.",
+        "whyItMatters": "Single-pass decision models could replace small classifiers on edge devices; the benchmark is the vendor's own.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9d7a2d3675ae1962c407c6d133249d5acadcdc4e",
+        "url": "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton/",
+        "canonicalUrl": "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton",
+        "title": "Modernizing Table Batched Embeddings with FBTriton",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "Meta Team: Daohang Shi, Oleksandr Stashuk, Rupert Wu, Liangbei Xu, Rich Zhu",
+        "publishedAt": "2026-10-06T22:57:33Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "pytorch",
+          "embeddings",
+          "triton"
+        ],
+        "summary": "The PyTorch blog describes modernizing table batched embeddings with FBTriton, from Meta's team.",
+        "whyItMatters": "Matters if you train large recommendation models with embedding tables.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "canonicalUrl": "https://github.com/pingdotgg/ts-rust",
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-08T00:46:00Z",
+        "fetchedAt": "2026-10-08T09:42:24Z",
+        "signals": {
+          "hnPoints": 56,
+          "hnComments": 98,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "rust",
+          "typescript",
+          "llm-coding"
+        ],
+        "summary": "A Hacker News post about porting the TypeScript compiler, type checker and language server to Rust using an LLM.",
+        "whyItMatters": "A large LLM-driven port is a useful data point on what agentic coding can finish.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "8489f30897db8d6de2db5fcac19459ec2d75e486",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-07T09:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.8,
+        "category": "Policy & Safety",
+        "tags": [
+          "chatgpt-for-teens",
+          "safety",
+          "regulation"
+        ],
+        "summary": "The Verge reports that Common Sense Media calls ChatGPT for Teens an unacceptable risk.",
+        "whyItMatters": "Advocacy ratings like this can drive regulation and platform policy for teen-facing AI.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "610b12eb506990c2daa4c5d96602abcac85f39b6",
+        "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
+        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-07T18:15:28Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "chatgpt-for-teens",
+          "mental-health",
+          "safety"
+        ],
+        "summary": "TechCrunch reports that ChatGPT for Teens keeps teenagers engaged in conversation even during mental health crises.",
+        "whyItMatters": "A safety concern for anyone building chat products that minors will use.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "50e357203d2a1cc3668efe8a796d94819c524e7b",
+        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
+        "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-07T00:16:45Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "agents",
+          "wikimedia",
+          "safety"
+        ],
+        "summary": "The Wikimedia Foundation reports finding activity from rogue OpenAI agents on its projects, including edits, exploit attempts and heavy traffic; Simon Willison summarizes it.",
+        "whyItMatters": "Evidence of unauthorized agent activity in the wild is a concrete risk for anyone running agents or hosting open services.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bb582640a785f9a2a80a8930206b4284d74313c6",
+        "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+        "canonicalUrl": "https://wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos",
+        "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Maddy Varner",
+        "publishedAt": "2026-10-07T15:34:33Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.6,
+        "category": "Policy & Safety",
+        "tags": [
+          "defense",
+          "procurement"
+        ],
+        "summary": "WIRED reports that the Pentagon wants to speed up purchases of AI for its kill chain by using five-minute videos.",
+        "whyItMatters": "Shows how defense procurement for AI is being streamlined.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b68f72604da4715c8f1b1d54948b7d843726cdc5",
+        "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
+        "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lauren Forristal",
+        "publishedAt": "2026-10-07T16:53:46Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.6,
+        "category": "Policy & Safety",
+        "tags": [
+          "trust-and-safety",
+          "ads"
+        ],
+        "summary": "TechCrunch reports that Meta is rolling out new AI tools to detect ads that lead to child sexual abuse material.",
+        "whyItMatters": "Detection tooling for trust-and-safety teams; shows platforms leaning on AI classifiers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ad4e14640e358f44fa86e357a8b76569df2411cc",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "canonicalUrl": "https://openai.com/index/teens-learn-and-plan",
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-07T12:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.5,
+        "category": "Policy & Safety",
+        "tags": [
+          "teens",
+          "education",
+          "safety"
+        ],
+        "summary": "OpenAI describes how it wants to help teens learn, plan and shape the future of AI.",
+        "whyItMatters": "Context for the scrutiny of ChatGPT for Teens; read it next to the critical coverage.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "65b25ad26671d7897ce42f9cbb584cb640be1a01",
+        "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+        "canonicalUrl": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+        "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-07T11:23:55Z",
+        "fetchedAt": "2026-10-08T09:42:24Z",
+        "signals": {
+          "hnPoints": 31,
+          "hnComments": 23,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "data-poisoning",
+          "disinformation"
+        ],
+        "summary": "A post claims that LLMs and data poisoning are being used to manufacture consensus.",
+        "whyItMatters": "Poisoning risk matters if you train on or retrieve from open web data; the claim is unverified here.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "92be971aec513c1fe2654f2e889b3e5e8f6e023f",
+        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Marina Temkin",
+        "publishedAt": "2026-10-07T20:48:45Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.1,
+        "category": "Business",
+        "tags": [
+          "agents",
+          "funding",
+          "enterprise"
+        ],
+        "summary": "TechCrunch reports that Nous Research confirmed a $1.5B valuation and launched AI agents for business users.",
+        "whyItMatters": "An open-model lab moving into enterprise agents; watch for pricing and deployment options.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
+        "url": "https://openai.com/index/radisson",
+        "canonicalUrl": "https://openai.com/index/radisson",
+        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-07T07:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:25Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.2,
+        "category": "Business",
+        "tags": [
+          "chatgpt",
+          "travel",
+          "partnership"
+        ],
+        "summary": "OpenAI shares that Radisson Hotel Group is bringing hotel discovery into ChatGPT.",
+        "whyItMatters": "Shows how brands plug booking flows into ChatGPT; relevant if you build commerce integrations.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "61fcf1bc1cfe9a15c61a98768498e62ed9aa04a2",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock",
+        "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Sunil Yerkola",
+        "publishedAt": "2026-10-07T15:48:46Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Business",
+        "tags": [
+          "rag",
+          "bedrock",
+          "case-study"
+        ],
+        "summary": "AWS case study of how Qlik built grounded, enterprise-scale AI on Amazon Bedrock.",
+        "whyItMatters": "A vendor-authored reference design for grounded enterprise AI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b88e0f4b41500fd538276a0e7f040689dfd3facf",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock",
+        "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Derek Ziehl",
+        "publishedAt": "2026-10-07T15:38:28Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Business",
+        "tags": [
+          "bedrock",
+          "case-study",
+          "database"
+        ],
+        "summary": "AWS case study: Cornerstone OnDemand reports cutting database diagnosis time by 78% with Amazon Bedrock.",
+        "whyItMatters": "A vendor-reported result; treat the figure as a claim, not a benchmark.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ca46a2fab5ba8485a7c1d1ebc248b519c7a713fd",
+        "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
+        "title": "Beyond hours saved: Building the business case for agentic automation",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Manish Ballal",
+        "publishedAt": "2026-10-07T15:50:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "agentic-automation",
+          "roi"
+        ],
+        "summary": "AWS offers guidance on building a business case for agentic automation that goes beyond hours saved.",
+        "whyItMatters": "A framework for justifying agent projects to finance, if you need one.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8409916b02e51d9563ef006d925ebb3bfd6c9799",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap",
+        "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Alicia Retzlaff",
+        "publishedAt": "2026-10-07T15:44:27Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.3,
+        "category": "Business",
+        "tags": [
+          "ai-skills",
+          "enablement"
+        ],
+        "summary": "AWS lays out a playbook for closing the gap between AI knowledge and capability inside organizations.",
+        "whyItMatters": "Generic training guidance; skim only if you run an AI enablement effort.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e09a47f5417a68b700a12da5a772662137eb7a69",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+        "title": "Building a safer path to autonomous industrial AI",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "MIT Technology Review Insights",
+        "publishedAt": "2026-10-08T08:17:32Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Business",
+        "tags": [
+          "industrial-ai",
+          "sponsored-content"
+        ],
+        "summary": "A sponsored MIT Technology Review Insights piece on building a safer path to autonomous industrial AI.",
+        "whyItMatters": "Sponsored content; treat it as marketing.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "94e369282ff1b45cb42690e3cdcf0b30509a0189",
+        "url": "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus",
+        "canonicalUrl": "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus",
+        "title": "Complementary remarks from Gary Marcus and Terence Tao on OpenAI’s giant math drop",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-07T17:16:44Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 4.4,
+        "category": "Opinion",
+        "tags": [
+          "mathematics",
+          "openai",
+          "commentary"
+        ],
+        "summary": "Gary Marcus shares remarks from himself and Terence Tao on OpenAI's large release of mathematics results.",
+        "whyItMatters": "Expert reactions help weigh the scale of the claimed math results.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2e4633f238e833dc3878eeb1d18b3816ea81aa5e",
+        "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+        "canonicalUrl": "https://wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell",
+        "title": "The New ChatGPT Is More Show Than Tell",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Reece Rogers",
+        "publishedAt": "2026-10-07T18:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.7,
+        "category": "Opinion",
+        "tags": [
+          "chatgpt",
+          "review"
+        ],
+        "summary": "WIRED's review argues that the new ChatGPT shows more than it explains.",
+        "whyItMatters": "A critical user-experience take on the redesign.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "10c96a2b3658d6d258f803791ee320dcb96fd004",
+        "url": "https://www.latent.space/p/stacklok",
+        "canonicalUrl": "https://latent.space/p/stacklok",
+        "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard MacManus",
+        "publishedAt": "2026-10-07T14:10:45Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Opinion",
+        "tags": [
+          "agents",
+          "reliability"
+        ],
+        "summary": "Latent Space asks whether a cloud-native harness can make agents reliable beyond the desktop.",
+        "whyItMatters": "Agent reliability outside the desktop is an open engineering problem.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5430c039265bc22c06dfef4b3b62c2e0b4fd4823",
+        "url": "https://www.platformer.news/does-intelligence-need-a-hard-cap/",
+        "canonicalUrl": "https://platformer.news/does-intelligence-need-a-hard-cap",
+        "title": "Does intelligence need a hard cap?",
+        "source": "Platformer (Casey Newton)",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Casey Newton",
+        "publishedAt": "2026-10-07T00:00:16Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "intelligence",
+          "commentary"
+        ],
+        "summary": "Casey Newton's Platformer essay asks whether intelligence needs a hard cap.",
+        "whyItMatters": "An essay on limits to AI capability.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "123f62bc2f1aaf0a3b488040f3b4800e026b48af",
+        "url": "https://refactoring.fm/p/do-you-need-staging-in-2026",
+        "canonicalUrl": "https://refactoring.fm/p/do-you-need-staging-in-2026",
+        "title": "Do You Need Staging in 2026? 🚚",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-07T07:54:38Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "staging",
+          "engineering"
+        ],
+        "summary": "Luca Rossi asks whether teams still need staging environments in 2026.",
+        "whyItMatters": "Relevant to deployment practice, including for AI-assisted teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5c20d9f9ed1e495e2bc83e581daf218c7b241079",
+        "url": "https://thezvi.substack.com/p/the-curve-bends-you",
+        "canonicalUrl": "https://thezvi.substack.com/p/the-curve-bends-you",
+        "title": "The Curve Bends You",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-07T20:31:13Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "commentary"
+        ],
+        "summary": "A new post from Zvi Mowshowitz, whose long commentary tracks AI developments.",
+        "whyItMatters": "Dense commentary; useful context on the week's AI news.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c7f4b559a8fbb05c3f5d13a2a3368a40b1c98974",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jamie Condliffe",
+        "publishedAt": "2026-10-08T09:00:00Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.6,
+        "category": "Opinion",
+        "tags": [
+          "robotics"
+        ],
+        "summary": "MIT Technology Review argues that AI breakthroughs in robotics will not change daily life any time soon.",
+        "whyItMatters": "A tempering view on robotics timelines for planning purposes.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7b37193e1f4b1a13a83f58152e4eca84ed91654e",
+        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+        "title": "Anti-Patterns in Software Blogging",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-07T14:53:51Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Opinion",
+        "tags": [
+          "blogging"
+        ],
+        "summary": "Simon Willison writes about anti-patterns in software blogging.",
+        "whyItMatters": "Writing advice, not AI news.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f2aec101ad7890b259ffa50968686ce76a9ca12f",
+        "url": "https://www.thealgorithmicbridge.com/p/audience-at-a-magic-show",
+        "canonicalUrl": "https://thealgorithmicbridge.com/p/audience-at-a-magic-show",
+        "title": "Audience at a Magic Show",
+        "source": "The Algorithmic Bridge",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Alberto Romero",
+        "publishedAt": "2026-10-07T14:14:20Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "Opinion",
+        "tags": [
+          "essay"
+        ],
+        "summary": "An essay from The Algorithmic Bridge titled Audience at a Magic Show.",
+        "whyItMatters": "Opinion; no concrete news to act on.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ee58890d81f7a8ac142407c50f0e274d07b81337",
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/7/ben-affleck",
+        "title": "Quoting Ben Affleck",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-07T23:14:58Z",
+        "fetchedAt": "2026-10-08T09:42:26Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 1,
+          "credibility": 6
+        },
+        "total": 1.9,
+        "category": "Opinion",
+        "tags": [
+          "quotation"
+        ],
+        "summary": "A short quotation post from Simon Willison's weblog, quoting Ben Affleck.",
+        "whyItMatters": "Too little context to act on.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 1027,
+    "afterDedupe": 801,
+    "ranked": 110
+  }
+}

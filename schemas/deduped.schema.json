@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-signal.example/schemas/deduped.schema.json",
+  "title": "Deduped",
+  "description": "data/raw/YYYY-MM-DD.deduped.json: the capped, deduplicated, clustered and pre-scored set that goes to ranking.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["date", "generatedAt", "params", "stats", "items", "clusters"],
+  "properties": {
+    "date": { "$ref": "common.schema.json#/$defs/editionDate" },
+    "generatedAt": { "$ref": "common.schema.json#/$defs/utcTimestamp" },
+    "params": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["cap", "perSourceCap", "nearDupHours", "nearDupJaccard", "clusterHours"],
+      "properties": {
+        "cap": { "type": "integer", "minimum": 1 },
+        "perSourceCap": { "type": ["integer", "null"], "minimum": 1 },
+        "nearDupHours": { "type": "number" },
+        "nearDupJaccard": { "type": "number" },
+        "clusterHours": { "type": "number" }
+      }
+    },
+    "stats": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["before", "afterExact", "afterNearDup", "clusters", "afterCap", "priorEditions"],
+      "properties": {
+        "before": { "type": "integer", "minimum": 0 },
+        "afterExact": { "type": "integer", "minimum": 0 },
+        "afterNearDup": { "type": "integer", "minimum": 0 },
+        "clusters": { "type": "integer", "minimum": 0 },
+        "afterCap": { "type": "integer", "minimum": 0 },
+        "priorEditions": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "items": { "type": "array", "items": { "$ref": "#/$defs/item" } },
+    "clusters": { "type": "array", "items": { "$ref": "#/$defs/cluster" } }
+  },
+  "$defs": {
+    "item": {
+      "type": "object",
+      "$ref": "raw-item.schema.json#/$defs/base",
+      "unevaluatedProperties": false,
+      "required": ["mergedSources", "clusterId", "previouslyFeatured", "trendDelta", "preScore"],
+      "properties": {
+        "mergedSources": { "description": "Every source that carried this story.", "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+        "clusterId": { "type": ["string", "null"] },
+        "previouslyFeatured": { "type": "boolean" },
+        "trendDelta": { "description": "Today's topic size minus its average over prior editions; null without history.", "type": ["number", "null"] },
+        "preScore": { "type": "number", "minimum": 0 }
+      }
+    },
+    "cluster": {
+      "type": "object",
+      "$ref": "cluster.schema.json#/$defs/base",
+      "unevaluatedProperties": false,
+      "required": ["size", "entities", "trendDelta"],
+      "properties": {
+        "size": { "description": "Stories in the cluster before the cap; itemIds lists those that survived it.", "type": "integer", "minimum": 2 },
+        "entities": { "type": "array", "items": { "type": "string" } },
+        "trendDelta": { "type": ["number", "null"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "date": "2026-10-08",
+  "batch": 1,
+  "items": [
+    {
+      "id": "524a477f27093a951bfbaa0406a8f1dd2ae867d6",
+      "scores": {
+        "importance": 6,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "claude",
+        "aws",
+        "model-release"
+      ],
+      "summary": "AWS announces that Claude Haiku 5.5, Anthropic's Haiku-tier model, is available on its platform.",
+      "whyItMatters": "If you build on AWS, a new small Claude option is available without changing providers.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+      "scores": {
+        "importance": 9,
+        "trend": 6,
+        "novelty": 8,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gpt-6",
+        "chatgpt",
+        "frontier-models"
+      ],
+      "summary": "OpenAI announces GPT-6 together with an interface update it calls Intelligent UI, aimed at all ChatGPT users.",
+      "whyItMatters": "A new flagship generation changes which model you test against and which behaviors you can rely on.",
+      "organization": "openai",
+      "trendReason": "Flagship launch covered across the lab, press and newsletters; the source count understates reach."
+    },
+    {
+      "id": "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
+      "scores": {
+        "importance": 6,
+        "trend": 4,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "gpt-6",
+        "pricing"
+      ],
+      "summary": "A newsletter roundup says Claude Haiku 5.5 beats GPT-6 Luna at the same price. It is a secondhand comparison of two small models.",
+      "whyItMatters": "Price-performance in small models drives many production choices; verify the comparison on your own tasks.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
+      "scores": {
+        "importance": 6,
+        "trend": 4,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "interface",
+        "gpt-6"
+      ],
+      "summary": "The Verge reports that ChatGPT answers now include pictures, charts and buttons as part of an interface update.",
+      "whyItMatters": "Visual, interactive answers raise the bar for chat interfaces in your own products.",
+      "organization": "openai"
+    },
+    {
+      "id": "a05cef414fb06b477c6caa721cd00fbcd211433b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "geometry"
+      ],
+      "summary": "A benchmark that tests models on combined spatial-geometric and analytic function reasoning.",
+      "whyItMatters": "A new yardstick for geometric reasoning if you evaluate multimodal models.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "01535d38738c8125dc890b064b74dd9348966237",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "training"
+      ],
+      "summary": "Proposes training advisor models for LLM agents using the outcomes of the tasks the agents attempt.",
+      "whyItMatters": "One approach to improving agent behavior from task results; worth a look if you train agents.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "01d008d99887fbf9f049e808a1ee8fcb78e01275",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "position-embeddings",
+        "transformers"
+      ],
+      "summary": "Introduces LayerRoPE, a depth-wise way to combine magnitude and angular components in rotary position embeddings.",
+      "whyItMatters": "A position-encoding tweak that may matter if you train or fine-tune transformers.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "1901cebbe55929a482d0f8394526e69deb6b857d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "coding-agents",
+        "benchmarks",
+        "evaluation"
+      ],
+      "summary": "Argues that coding-agent benchmarks should mirror how people actually work with these tools instead of testing isolated tasks.",
+      "whyItMatters": "Useful framing when you choose or build evals for coding agents.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "1a31a2acb73ce0d64e8d81c06adb02bac7618eac",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "uncertainty",
+        "vision",
+        "black-box"
+      ],
+      "summary": "Estimates the uncertainty of black-box vision models after the fact by checking how consistent their outputs are across space.",
+      "whyItMatters": "A way to add confidence estimates to vision models you can only call, not modify.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "1f46dd564340d88a3d8c1beb0e41bbd38252f73d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "tabular",
+        "few-shot",
+        "llm"
+      ],
+      "summary": "Uses LLM guidance to generate decision trees for few-shot tabular classification.",
+      "whyItMatters": "Relevant when labeled tabular data is scarce and you want an interpretable model.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "240abd08083215c20010558fc456a86b5663e746",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "uncertainty",
+        "language-models"
+      ],
+      "summary": "Studies when and why uncertainty arises inside language models.",
+      "whyItMatters": "Helps if you work on calibration or hallucination detection.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "3069f3716109e7b4399955fbe05ce865c2174c14",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "language-models"
+      ],
+      "summary": "A paper on interacting with language models in conversation.",
+      "whyItMatters": "Little to go on from the title; skim only if conversational interfaces are your focus.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "02b7321626b28c83445cc291fe84639734ec1c0a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "geometry",
+        "model-engineering"
+      ],
+      "summary": "Proposes CHASE, a method that exploits channel-aligned structure for geometry-aware model engineering.",
+      "whyItMatters": "Niche; mainly of interest to researchers of geometry-aware architectures.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "0c71149bfce0056c2c74d12a231b61c42f71b373",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "attention",
+        "efficiency",
+        "vision"
+      ],
+      "summary": "Describes a hardware-aware, calibrated clustered attention design for efficient visual geometric transformers.",
+      "whyItMatters": "Relevant if you deploy visual transformers under tight hardware budgets.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "1c36e3ad2419df8936772dc3b76636eb316545f0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "long-context",
+        "efficiency",
+        "reasoning"
+      ],
+      "summary": "Presents YANchor-4B, which aims for long-horizon reasoning with time linear in length and constant memory.",
+      "whyItMatters": "Constant-memory long reasoning would matter for long-context serving; check the evals before trusting it.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "4affe2310dc7989d0dfb820d86ec03a28cee504c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "animation",
+        "emg"
+      ],
+      "summary": "Generates expressive facial animation from high-density surface electromyography signals.",
+      "whyItMatters": "Niche input signal for animation; of interest to avatar and accessibility researchers.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "4cc918e70315801f42f631ad5c1dbfa9bb908d6b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion",
+        "language-models"
+      ],
+      "summary": "Studies adding noise to the conditioning tokens of continuous diffusion language models.",
+      "whyItMatters": "A training trick for diffusion language models; relevant if you experiment with that family.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "4d9d3e64fb612e8b421a9fa6505a3724d61e8b47",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "quantization",
+        "embeddings"
+      ],
+      "summary": "Proposes a label-free way to choose mixed-precision post-training quantization for text embedding models.",
+      "whyItMatters": "Could shrink embedding models for retrieval without labeled calibration data.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "4f735b2de99eded98e0450d5b724279ea85eb7c4",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "climate",
+        "aviation",
+        "verification"
+      ],
+      "summary": "Describes closing the loop on contrail avoidance by checking outcomes against satellite data.",
+      "whyItMatters": "An applied example of verifying a climate intervention with real measurements.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "57e71eac54d7c72aab3799023b7abbe7e14ff1e4",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "explainability",
+        "evaluation"
+      ],
+      "summary": "Optimizes feature-attribution rankings directly for area under the insertion and deletion curves.",
+      "whyItMatters": "Relevant if you evaluate explanation methods with those faithfulness metrics.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "5877d7381e9a3769352fc427c901b0e0e2f479e8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "vla",
+        "robotics",
+        "robustness"
+      ],
+      "summary": "Characterizes how vision-language-action models react to rephrased instructions and proposes a mitigation.",
+      "whyItMatters": "Instruction wording can change robot behavior; worth testing in any VLA deployment.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "5894b61d06ac126962de0ef2d5a1c6897add065e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "benchmark"
+      ],
+      "summary": "Introduces PatchBench to measure the side effects of activation patching in interpretability work.",
+      "whyItMatters": "Helps judge how much collateral damage your interpretability interventions cause.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "6292f49718d25de08fb7cf3467773faf022dffb0",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "attribution"
+      ],
+      "summary": "Examines the limits of attributing model behavior to specific rollouts in online reinforcement learning, using a tool called BehaviorTrace.",
+      "whyItMatters": "Cautions against over-trusting training-data attribution when you debug RL training.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "63ba3022d8b4d8beb1bc5d72b7e29c71c4e6fdac",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "representation-learning",
+        "metrics"
+      ],
+      "summary": "Proposes a global average precision objective for representation learning.",
+      "whyItMatters": "Niche training objective for retrieval-style embeddings.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "71cb60246e5908e908c62621e0e41158ad8daaa8",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision"
+      ],
+      "summary": "Presents a tangent-angle descriptor and a band U-Net to predict which 2D fragments fit together.",
+      "whyItMatters": "Niche; of interest to restoration and archaeology applications.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "731e071b3a86a3d8bb44b2f3d026672cdad75d24",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "latent-actions"
+      ],
+      "summary": "Learns latent actions that transfer across settings by aligning temporal effects and relations.",
+      "whyItMatters": "Research on moving learned actions across robots and environments.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "8987fe0494a74ced2a69a4315649cc541adcc81d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "watermarking",
+        "safety"
+      ],
+      "summary": "Proposes watermarking for model outputs that is guided by a written constitution.",
+      "whyItMatters": "Another approach to marking generated text; relevant to provenance efforts.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "928f3ed25cc813ea324a338a5bf803230791b788",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "graph-learning",
+        "continual-learning"
+      ],
+      "summary": "Scales hierarchical prototype networks with cone geometry for continual graph learning.",
+      "whyItMatters": "Niche; relevant to continual learning on graphs.",
+      "organization": null,
+      "trendReason": "arXiv cross-listing inflates the source count; it is not independent coverage."
+    },
+    {
+      "id": "01b4f4a81aca4dc14375f14c675f6dbe6d9b207d",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "embodied-ai",
+        "benchmark"
+      ],
+      "summary": "Introduces a benchmark and a method for lifelong small-object navigation when object layouts change.",
+      "whyItMatters": "Niche embodied-AI benchmark.",
+      "organization": null
+    },
+    {
+      "id": "0253067ff4e91d7beefccb3fd40092f1dc5de8a4",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "ct"
+      ],
+      "summary": "Reconstructs CT images from sparse X-rays with differentiable rendering and strong priors, as a plug-and-play method.",
+      "whyItMatters": "Aims at fewer X-ray views per scan; early-stage research.",
+      "organization": null
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-cdd8b446b3",
+      "label": "GPT-6 and Claude Haiku 5.5"
+    }
+  ]
+}

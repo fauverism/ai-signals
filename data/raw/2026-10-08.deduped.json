@@ -1,0 +1,3156 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T09:42:28Z",
+  "params": {
+    "cap": 150,
+    "perSourceCap": 8,
+    "nearDupHours": 48,
+    "nearDupJaccard": 0.6,
+    "clusterHours": 72
+  },
+  "stats": {
+    "before": 1027,
+    "afterExact": 803,
+    "afterNearDup": 801,
+    "clusters": 5,
+    "afterCap": 111,
+    "priorEditions": 0
+  },
+  "items": [
+    {
+      "id": "524a477f27093a951bfbaa0406a8f1dd2ae867d6",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+      "title": "Introducing Claude Haiku 5.5 on AWS",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Aamna Najmi",
+      "publishedAt": "2026-10-07T18:52:10Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 5
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog",
+        "Simon Willison"
+      ],
+      "clusterId": "c-cdd8b446b3",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 8
+    },
+    {
+      "id": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "canonicalUrl": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "source": "OpenAI News",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 5
+      },
+      "mergedSources": [
+        "OpenAI News"
+      ],
+      "clusterId": "c-cdd8b446b3",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 8
+    },
+    {
+      "id": "a05cef414fb06b477c6caa721cd00fbcd211433b",
+      "url": "https://arxiv.org/abs/2610.10201",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10201",
+      "title": "GAGR-Lab: Evaluating Joint Spatial-Geometric and Analytic Function Reasoning",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jingyao Zhang, Yun Li, Lu Han",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 4
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 7
+    },
+    {
+      "id": "01535d38738c8125dc890b064b74dd9348966237",
+      "url": "https://arxiv.org/abs/2610.09858",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09858",
+      "title": "Training Advisors for LLM Agents from Task Outcomes",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Sergei Polezhaev, Barys Liskavets, Ori Press, Alexander Golubev",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "01d008d99887fbf9f049e808a1ee8fcb78e01275",
+      "url": "https://arxiv.org/abs/2610.09179",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09179",
+      "title": "LayerRoPE: Dynamic Depth-wise Magnitude & Angular Superposition",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Shikhar Srivastava, Christopher Kanan",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "1901cebbe55929a482d0f8394526e69deb6b857d",
+      "url": "https://arxiv.org/abs/2610.09633",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09633",
+      "title": "Coding-Agent Benchmarks Should Match Their Users' Task Flows",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Igor Slinko, Yaroslav Golubev, Sergey Titov",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "1a31a2acb73ce0d64e8d81c06adb02bac7618eac",
+      "url": "https://arxiv.org/abs/2610.09498",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09498",
+      "title": "SpatialUQ: Post-Hoc Uncertainty Quantification from Spatial Consistency in Black-Box Vision Models",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Md Kawsher Mahbub, Milon Biswas, Mirza Niaz Morshed, Wei Yu",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "1f46dd564340d88a3d8c1beb0e41bbd38252f73d",
+      "url": "https://arxiv.org/abs/2610.10227",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10227",
+      "title": "From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Yue Qiu, Zekang Du, Yiqun Diao, Bingsheng He, Qinbin Li",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "240abd08083215c20010558fc456a86b5663e746",
+      "url": "https://arxiv.org/abs/2610.09087",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09087",
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Tobias Braun, Nils Loose, Alexander Herzog, Virginia Ceccatelli, Marcus Rohrbach, Thomas Eisenbarth, Lorenzo Cavallaro",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "3069f3716109e7b4399955fbe05ce865c2174c14",
+      "url": "https://arxiv.org/abs/2610.09064",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09064",
+      "title": "Talking with Language Models",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "James Ravi Kirkpatrick, Alexandru Radulescu, Rachel Katharine Sterken",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "mergedSources": [
+        "arXiv cs.AI",
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 6
+    },
+    {
+      "id": "02b7321626b28c83445cc291fe84639734ec1c0a",
+      "url": "https://arxiv.org/abs/2610.09476",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09476",
+      "title": "CHASE: Channel-Aligned Structure Exploitation for Geometry-Aware Model Engineering",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Wei Wang, Wei Jiang, Ziran Liu",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "0c71149bfce0056c2c74d12a231b61c42f71b373",
+      "url": "https://arxiv.org/abs/2610.09274",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09274",
+      "title": "Hardware-aware Calibrated Clustered Attention for Efficient Visual Geometric Transformers",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Weitian Wang, Shubham Rai, Cecilia De La Parra, Akash Kumar",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "1c36e3ad2419df8936772dc3b76636eb316545f0",
+      "url": "https://arxiv.org/abs/2610.10118",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10118",
+      "title": "YANchor-4B: Effective Long-Horizon Reasoning in O(N) Time with O(1) Memory",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Huishan Ji, Hua Xu, Weiming Zhang, Qirui Ye",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "4affe2310dc7989d0dfb820d86ec03a28cee504c",
+      "url": "https://arxiv.org/abs/2610.09304",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09304",
+      "title": "emg2face: Expressive Facial Animation with High-Density Surface EMG",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Ganidhu Abey, Wendy Greening, Ashika Kamboj, Leonhard Helminger, Abhijeet Ghosh, Karel Petranek, et al.",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "4cc918e70315801f42f631ad5c1dbfa9bb908d6b",
+      "url": "https://arxiv.org/abs/2610.09145",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09145",
+      "title": "Noise Your Prompt: Noising Conditioning Tokens in Continuous Diffusion Language Models",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Justin Jung",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "4d9d3e64fb612e8b421a9fa6505a3724d61e8b47",
+      "url": "https://arxiv.org/abs/2610.09227",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09227",
+      "title": "Quantize by Drift: Label-Free Mixed-Precision Post-Training Quantization for Text Embedders",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Hyojung Han, Jongmin Kim, Seung-Hun Jeon",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "4f735b2de99eded98e0450d5b724279ea85eb7c4",
+      "url": "https://arxiv.org/abs/2610.09363",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09363",
+      "title": "Closing the Loop on Contrail Avoidance with Satellite Verification",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Spandan Ghose Chowdhury",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "57e71eac54d7c72aab3799023b7abbe7e14ff1e4",
+      "url": "https://arxiv.org/abs/2610.09844",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09844",
+      "title": "For Those Who Believe in Faithfulness: Optimizing the Area Under Insertion and Deletion Curves for Ranking Relative Feature Importance",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Bj{\\o}rn Leth M{\\o}ller, Bulat Ibragimov, Christian Igel",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "5877d7381e9a3769352fc427c901b0e0e2f479e8",
+      "url": "https://arxiv.org/abs/2610.10526",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10526",
+      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Mikey Watts (Independent Researcher), Yuchen Cui (University of California, Los Angeles)",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "5894b61d06ac126962de0ef2d5a1c6897add065e",
+      "url": "https://arxiv.org/abs/2610.10276",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10276",
+      "title": "PatchBench: Measuring Collateral Damage in Activation Patching",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Alexi Canesse, Mathis Le Bail, Ma\\\"el Jenny, Cl\\'ement Elliker, Mahammed El Sharkawy, Sonia Vanier",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "6292f49718d25de08fb7cf3467773faf022dffb0",
+      "url": "https://arxiv.org/abs/2610.10422",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10422",
+      "title": "Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Amit Nautiyal",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "63ba3022d8b4d8beb1bc5d72b7e29c71c4e6fdac",
+      "url": "https://arxiv.org/abs/2610.09863",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09863",
+      "title": "Global Average Precision for Representation Learning",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Bill Psomas, Mohammad Mahdi, Michalis Thomas, Danda Pani Paudel, Giorgos Tolias, Giorgos Kordopatis-Zilos",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "71cb60246e5908e908c62621e0e41158ad8daaa8",
+      "url": "https://arxiv.org/abs/2610.09459",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09459",
+      "title": "An Invariant Tangent-Angle Descriptor and a Band U-Net for 2D Fragment Adjacency Prediction",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Guillaume Brouillette (Universit\\'e du Qu\\'ebec \\`a Trois-Rivi\\`eres, Trois-Rivi\\`eres, Canada), et al.",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "731e071b3a86a3d8bb44b2f3d026672cdad75d24",
+      "url": "https://arxiv.org/abs/2610.09509",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09509",
+      "title": "TERRA: Learning Transportable Latent Actions through Temporal Effect Representation and Relational Alignment",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Tianxingjian Ding, Mubarak Shah, Yu Tian",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "8987fe0494a74ced2a69a4315649cc541adcc81d",
+      "url": "https://arxiv.org/abs/2610.09552",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09552",
+      "title": "Constitution-Guided Watermarking",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Toluwani Aremu, Samuele Poppi, Nils Lukas",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CL",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "928f3ed25cc813ea324a338a5bf803230791b788",
+      "url": "https://arxiv.org/abs/2610.08823",
+      "canonicalUrl": "https://arxiv.org/abs/2610.08823",
+      "title": "HCPN-GCN: Scaling Hierarchical Prototype Networks with Cone Geometry for Continual Graph Learning",
+      "source": "arXiv cs.LG",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Sammuel R. Silva, Vander L. S. Freitas, Gladston Moreira, Eduardo J. S. Luz, Rodrigo Silva",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "arXiv cs.CV",
+        "arXiv cs.LG"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 5
+    },
+    {
+      "id": "01b4f4a81aca4dc14375f14c675f6dbe6d9b207d",
+      "url": "https://arxiv.org/abs/2610.10125",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10125",
+      "title": "Lifelong small-object navigation in changing object layouts: a benchmark and method",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jiagan Huang, Zikun Zhou, Zijian Ni, Hongpeng Wang, Guangming Lu, Jun Yu, Wenjie Pei",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0253067ff4e91d7beefccb3fd40092f1dc5de8a4",
+      "url": "https://arxiv.org/abs/2610.09253",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09253",
+      "title": "PhyDiCT: Plug-and-Play CT Reconstruction from Sparse X-Rays via Differentiable Rendering and Strong Priors",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Weicheng Dai, Shantanu Ghosh, Kayhan Batmanghelich",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "04c6ba7856637598b576f6b68336acaaee50e67b",
+      "url": "https://arxiv.org/abs/2610.09579",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09579",
+      "title": "Gradient-Based Trajectory Optimisation over Continuous Poses for Sparse-View Cone-Beam CT",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Linda-Sophie Schneider, Simon Wittl, Gabriel Herl, Andreas Maier",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "051d0b6c872d2fc1b9f4c9ea68f8230059f8fb7e",
+      "url": "https://arxiv.org/abs/2610.09392",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09392",
+      "title": "Quantifying Volumetric Risk: Class-Aware Asymmetric Weighted Conformal Prediction for 3D Medical Image Segmentation",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Shadi Alijani, Fereshteh Aghaee Meibodi, Homayoun Najjaran",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0773082acaabf6dab81e0cf32d4489e7d0f90f95",
+      "url": "https://arxiv.org/abs/2610.09317",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09317",
+      "title": "SAREO-FM: Decoupled Semantic Supervision for SAR-EO Foundation Models",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jeonghyeok Do, Munchurl Kim",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0c295197d71c90373d195eea049d61984714c53f",
+      "url": "https://arxiv.org/abs/2610.09185",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09185",
+      "title": "One Frame, Full Heartbeat: ECG-Free 4D Cardiac Cine MRI Synthesis via Radial-Decomposed Flow Matching",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Shiyi Wang, Ruochen Sun, Xiang Li, Peirong Liu, Fangxu Xing",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0e11785d5d0cd0d727a6dcf0b76cf6791d1c3a65",
+      "url": "https://arxiv.org/abs/2610.09382",
+      "canonicalUrl": "https://arxiv.org/abs/2610.09382",
+      "title": "ScribbleEdit: A Benchmark for Scribble-Only Image Editing",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jie Ren, Hao Kang, Kai Guo, Yiding Yang, Bo Liu, Liming Jiang, Qing Yan, Zichuan Liu, Yizhi Song, Yue Xing, et al.",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0fc499c19476ac7cb8d4c36293c2fd2365bb503d",
+      "url": "https://arxiv.org/abs/2610.10429",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10429",
+      "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+      "source": "arXiv cs.CV",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Zihan Su, Junhao Zhuang, Yaowei Li, Siwen Lu, Haoran Li, Lingen Li, Haoyu Wu, Weiyang Jin, Songchun Zhang, et al.",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.CV"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "5b37e56ce04370424c17be57d4d011b1dbe03de4",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "canonicalUrl": "https://research.google/blog/does-better-work-always-mean-better-workers",
+      "title": "Does better work always mean better workers?",
+      "source": "Google Research Blog",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": null,
+      "publishedAt": "2026-10-07T20:19:57Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Google Research Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "8869352ca179a81d9f7ce3e00ad0f872aa86b51f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Amit Choudhary",
+      "publishedAt": "2026-10-07T18:34:44Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "9ff68670067e5a35244cdec063a7ccf9de5d7583",
+      "url": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines",
+      "title": "The Machines that Make the Machines",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Elizabeth Goodman",
+      "publishedAt": "2026-10-07T18:21:03Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "NVIDIA Technical Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0825a4897dea2e8280a620cd72c7dc55f2c953c0",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "canonicalUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "title": "Multimodal open d1 decision models for the edge",
+      "source": "Hugging Face Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-10-07T16:54:33Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hugging Face Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "7818bdc9321f6143f555e05644f97028104338fe",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "canonicalUrl": "https://microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "source": "Microsoft Research",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Zhiyuan He, Yuqing Yang",
+      "publishedAt": "2026-10-07T16:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Microsoft Research"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "be44224a1a4ac828d4c61b34898b39629c68104a",
+      "url": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
+      "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Avi Alkobi",
+      "publishedAt": "2026-10-07T16:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "NVIDIA Technical Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "ca46a2fab5ba8485a7c1d1ebc248b519c7a713fd",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
+      "title": "Beyond hours saved: Building the business case for agentic automation",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Manish Ballal",
+      "publishedAt": "2026-10-07T15:50:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "61fcf1bc1cfe9a15c61a98768498e62ed9aa04a2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock",
+      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Sunil Yerkola",
+      "publishedAt": "2026-10-07T15:48:46Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "7eb12f5d530ed4a60857f2012d4857857dd59238",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation",
+      "title": "Automate remediation post AWS DevOps Agent investigation",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Michele Scarimbolo",
+      "publishedAt": "2026-10-07T15:46:49Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "8898b4cd60b8da95b5aaae535e1340d40852a127",
+      "url": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
+      "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Tanya Lenz",
+      "publishedAt": "2026-10-07T15:45:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "NVIDIA Technical Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "8409916b02e51d9563ef006d925ebb3bfd6c9799",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap",
+      "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Alicia Retzlaff",
+      "publishedAt": "2026-10-07T15:44:27Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "b88e0f4b41500fd538276a0e7f040689dfd3facf",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock",
+      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Derek Ziehl",
+      "publishedAt": "2026-10-07T15:38:28Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "54d9a34ff6ce8112770c5f86cf37de0eca8d10c7",
+      "url": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton",
+      "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Quynh L. Nguyen",
+      "publishedAt": "2026-10-07T15:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "NVIDIA Technical Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "5bdd694c62903534c1d8981979d5770bf3d2e4ec",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "canonicalUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "source": "Hugging Face Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-10-07T12:45:31Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hugging Face Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "ad4e14640e358f44fa86e357a8b76569df2411cc",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "canonicalUrl": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "source": "OpenAI News",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "OpenAI News"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "ea4f899dc8dfd436a81cbe256a4f75bd8099bf3e",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "Google AI (The Keyword)",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": "Maryam Karimzadehgan",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Google AI (The Keyword)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "04e9dc3828b5420c0f01153ffacad571c15c3fe5",
+      "url": "https://openai.com/index/radisson",
+      "canonicalUrl": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "source": "OpenAI News",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T07:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "OpenAI News"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "canonicalUrl": "https://latent.space/p/ainews-claude-haiku-55-better-than",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-08T07:27:51Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 5
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": "c-cdd8b446b3",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 7
+    },
+    {
+      "id": "b2d1fdcc50f22fa232df49c5006dd7de9a21a445",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-07T19:10:42Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 5
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": "c-cdd8b446b3",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 7
+    },
+    {
+      "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "canonicalUrl": "https://github.com/pingdotgg/ts-rust",
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-08T00:46:00Z",
+      "fetchedAt": "2026-10-08T09:42:24Z",
+      "signals": {
+        "hnPoints": 56,
+        "hnComments": 98,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4.18
+    },
+    {
+      "id": "313907b2dbd811098d6fa6056ae8653bd3588e29",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "canonicalUrl": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T12:04:36Z",
+      "fetchedAt": "2026-10-08T09:42:24Z",
+      "signals": {
+        "hnPoints": 90,
+        "hnComments": 56,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4.15
+    },
+    {
+      "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Nick Indge",
+      "publishedAt": "2026-10-08T00:00:24Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": "c-c96fd31c0e",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "36bf85cb54324cffc02be11d32050364df424fb3",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Sarah Perez",
+      "publishedAt": "2026-10-07T18:30:57Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": "c-c571c17214",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "610b12eb506990c2daa4c5d96602abcac85f39b6",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-10-07T18:15:28Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": "c-68d0737633",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "canonicalUrl": "https://theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jay Peters",
+      "publishedAt": "2026-10-07T18:01:20Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": "c-c96fd31c0e",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
+      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "canonicalUrl": "https://theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "title": "Muse launches on the iPad",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Andrew Liszewski",
+      "publishedAt": "2026-10-07T15:37:23Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": "c-c571c17214",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "1c9558d38162697286dc97ce687dc2c774d527e8",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ryan Whitwam",
+      "publishedAt": "2026-10-07T14:00:08Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": "c-fd8635c968",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-10-07T14:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": "c-fd8635c968",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "8489f30897db8d6de2db5fcac19459ec2d75e486",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jay Peters",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": "c-68d0737633",
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "6e389d9041a9548805cc1877bd6e537f57191fcc",
+      "url": "https://agent.reviews/",
+      "canonicalUrl": "https://agent.reviews",
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T16:59:11Z",
+      "fetchedAt": "2026-10-08T09:42:24Z",
+      "signals": {
+        "hnPoints": 57,
+        "hnComments": 45,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3.99
+    },
+    {
+      "id": "3469266376cf6e14658b270efda6ccf03b8e2786",
+      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+      "canonicalUrl": "https://xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need",
+      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T18:19:03Z",
+      "fetchedAt": "2026-10-08T09:42:24Z",
+      "signals": {
+        "hnPoints": 45,
+        "hnComments": 19,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3.71
+    },
+    {
+      "id": "65b25ad26671d7897ce42f9cbb584cb640be1a01",
+      "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "canonicalUrl": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T11:23:55Z",
+      "fetchedAt": "2026-10-08T09:42:24Z",
+      "signals": {
+        "hnPoints": 31,
+        "hnComments": 23,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3.67
+    },
+    {
+      "id": "57b3dda6739c146e1e3f3c7662ae3a9f7c5a2f4e",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "canonicalUrl": "https://wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Paresh Dave",
+      "publishedAt": "2026-10-08T09:30:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c7f4b559a8fbb05c3f5d13a2a3368a40b1c98974",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "canonicalUrl": "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "source": "MIT Technology Review: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jamie Condliffe",
+      "publishedAt": "2026-10-08T09:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "MIT Technology Review: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "e09a47f5417a68b700a12da5a772662137eb7a69",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "canonicalUrl": "https://technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+      "title": "Building a safer path to autonomous industrial AI",
+      "source": "MIT Technology Review: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "MIT Technology Review Insights",
+      "publishedAt": "2026-10-08T08:17:32Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "MIT Technology Review: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ee58890d81f7a8ac142407c50f0e274d07b81337",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/7/ben-affleck",
+      "title": "Quoting Ben Affleck",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-07T23:14:58Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "a843173a5365ccbb0e1a244fdaff078c2c928fe2",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Kyle Orland",
+      "publishedAt": "2026-10-07T21:56:42Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "5a98394d1a76fc9221284354c29a0f59a75fcce2",
+      "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+      "canonicalUrl": "https://zdnet.com/innovation/manager-ai-use-highwire-survey",
+      "title": "Managers are using AI to write performance reviews – and it shows",
+      "source": "ZDNET: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Radhika Rajkumar",
+      "publishedAt": "2026-10-07T21:47:48Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "ZDNET: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "92be971aec513c1fe2654f2e889b3e5e8f6e023f",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-10-07T20:48:45Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "5c20d9f9ed1e495e2bc83e581daf218c7b241079",
+      "url": "https://thezvi.substack.com/p/the-curve-bends-you",
+      "canonicalUrl": "https://thezvi.substack.com/p/the-curve-bends-you",
+      "title": "The Curve Bends You",
+      "source": "Don't Worry About the Vase (Zvi)",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Zvi Mowshowitz",
+      "publishedAt": "2026-10-07T20:31:13Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Don't Worry About the Vase (Zvi)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "54da693e6cb24610fb6597b0df333c39e5dddd44",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Julie Bort",
+      "publishedAt": "2026-10-07T20:22:37Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c158cc72d3dd64e1c749f65d97d5d50f7f02ba6f",
+      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "canonicalUrl": "https://wired.com/story/ai-is-driving-cars-now-oh-boy",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Will Knight",
+      "publishedAt": "2026-10-07T18:45:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "cfe922d3fcc973ecf3540908a505d5df97b5ad71",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "canonicalUrl": "https://theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Verge Staff",
+      "publishedAt": "2026-10-07T18:42:22Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "4a32ff51ed082ec89103d3375a8b94bfa333cf00",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-10-07T18:00:19Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "2e4633f238e833dc3878eeb1d18b3816ea81aa5e",
+      "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "canonicalUrl": "https://wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Reece Rogers",
+      "publishedAt": "2026-10-07T18:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "d8f516d6f374c5d4467a657d5d5e434b39813588",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits",
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ashley Belanger",
+      "publishedAt": "2026-10-07T17:57:39Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "35be1f37933475a1dba5590dab618791495e5f72",
+      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "canonicalUrl": "https://theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Stevie Bonifield",
+      "publishedAt": "2026-10-07T17:46:44Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
+      "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "title": "Building resilient systems with Sam Newman",
+      "source": "The Pragmatic Engineer",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Gergely Orosz",
+      "publishedAt": "2026-10-07T17:19:58Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Pragmatic Engineer"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "94e369282ff1b45cb42690e3cdcf0b30509a0189",
+      "url": "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus",
+      "canonicalUrl": "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus",
+      "title": "Complementary remarks from Gary Marcus and Terence Tao on OpenAI’s giant math drop",
+      "source": "Marcus on AI",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Gary Marcus",
+      "publishedAt": "2026-10-07T17:16:44Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Marcus on AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "b68f72604da4715c8f1b1d54948b7d843726cdc5",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-10-07T16:53:46Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "e13d16bd9e5edef245b30b65840a5f2a57b7339e",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "title": "ChatGPT is getting college planning tools",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jay Peters",
+      "publishedAt": "2026-10-07T16:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "bb582640a785f9a2a80a8930206b4284d74313c6",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "canonicalUrl": "https://wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Maddy Varner",
+      "publishedAt": "2026-10-07T15:34:33Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "94a2f042cf7375c8884f594cf362f8fd0fcb0879",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+      "canonicalUrl": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
+      "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
+      "source": "ByteByteGo",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "ByteByteGo",
+      "publishedAt": "2026-10-07T15:31:48Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "ByteByteGo"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ea8a00353b7606ce86ad6d010d83df8589676426",
+      "url": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+      "canonicalUrl": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm",
+      "title": "How Wrong Is Your Marketing Mix Model (MMM)?",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Ryan OSullivan",
+      "publishedAt": "2026-10-07T15:30:00Z",
+      "fetchedAt": "2026-10-08T09:42:27Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "e8947d3adf72c0ca9ea14efdeac6456ae5ac8ff6",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Ram Iyer",
+      "publishedAt": "2026-10-07T15:07:08Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "7b37193e1f4b1a13a83f58152e4eca84ed91654e",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+      "title": "Anti-Patterns in Software Blogging",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-07T14:53:51Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "491fd009380be0600897ae0e3dc4697f80f33eed",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "canonicalUrl": "https://theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-07T14:40:52Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "f2aec101ad7890b259ffa50968686ce76a9ca12f",
+      "url": "https://www.thealgorithmicbridge.com/p/audience-at-a-magic-show",
+      "canonicalUrl": "https://thealgorithmicbridge.com/p/audience-at-a-magic-show",
+      "title": "Audience at a Magic Show",
+      "source": "The Algorithmic Bridge",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Alberto Romero",
+      "publishedAt": "2026-10-07T14:14:20Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Algorithmic Bridge"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "083b4a0cd473b98bf866e868f7e50d19f8441459",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Joel Khalili, wired.com",
+      "publishedAt": "2026-10-07T14:12:37Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "10c96a2b3658d6d258f803791ee320dcb96fd004",
+      "url": "https://www.latent.space/p/stacklok",
+      "canonicalUrl": "https://latent.space/p/stacklok",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Richard MacManus",
+      "publishedAt": "2026-10-07T14:10:45Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "1864009c89459a0c2f9d4d4d04fc5d275a758396",
+      "url": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/",
+      "canonicalUrl": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python",
+      "title": "Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Carolina Bento",
+      "publishedAt": "2026-10-07T14:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:27Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "259ac77af9d3d56b65302a9efb3e52c324b41134",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "canonicalUrl": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction",
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "source": "IEEE Spectrum: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Noitom Robotics",
+      "publishedAt": "2026-10-07T13:49:48Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "IEEE Spectrum: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ce82131604468dbf7726099a68a6e58021e4c80c",
+      "url": "https://thesignal.substack.com/p/hand-ai-your-most-boring-jobs",
+      "canonicalUrl": "https://thesignal.substack.com/p/hand-ai-your-most-boring-jobs",
+      "title": "Hand AI your most boring jobs",
+      "source": "The Signal",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Alex Banks",
+      "publishedAt": "2026-10-07T13:02:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Signal"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "7bc164970be3d17e48f906054ad07c91528eedf3",
+      "url": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+      "canonicalUrl": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability",
+      "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Robert Martin-Short",
+      "publishedAt": "2026-10-07T12:30:00Z",
+      "fetchedAt": "2026-10-08T09:42:27Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "2b6dda706b0ffbe8a8d29045d89d6fb11aac47cf",
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "canonicalUrl": "https://wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me",
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Reece Rogers",
+      "publishedAt": "2026-10-07T11:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "83a68b9684b7486b60b5662a4fb4b72e1b432c65",
+      "url": "https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/",
+      "canonicalUrl": "https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment",
+      "title": "When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Samit Ganguly",
+      "publishedAt": "2026-10-07T11:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:27Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "cf9bc9f0b3d61443a7c4fee6327eea157a546201",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "canonicalUrl": "https://wired.com/story/organic-literature-books-by-people-stamp-ai",
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Joel Khalili",
+      "publishedAt": "2026-10-07T08:30:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "123f62bc2f1aaf0a3b488040f3b4800e026b48af",
+      "url": "https://refactoring.fm/p/do-you-need-staging-in-2026",
+      "canonicalUrl": "https://refactoring.fm/p/do-you-need-staging-in-2026",
+      "title": "Do You Need Staging in 2026? 🚚",
+      "source": "Refactoring (Luca Rossi)",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Luca Rossi",
+      "publishedAt": "2026-10-07T07:54:38Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Refactoring (Luca Rossi)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "264cab26a08dfb8e666b53a8d0b6981d690cb769",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "canonicalUrl": "https://latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-07T04:55:44Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "194d4d9280bec8f306f4af585158a636be43eb69",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/7/jake-boggan",
+      "title": "Quoting Jake Boggan",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-07T04:47:55Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "50e357203d2a1cc3668efe8a796d94819c524e7b",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-07T00:16:45Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "5430c039265bc22c06dfef4b3b62c2e0b4fd4823",
+      "url": "https://www.platformer.news/does-intelligence-need-a-hard-cap/",
+      "canonicalUrl": "https://platformer.news/does-intelligence-need-a-hard-cap",
+      "title": "Does intelligence need a hard cap?",
+      "source": "Platformer (Casey Newton)",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Casey Newton",
+      "publishedAt": "2026-10-07T00:00:16Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Platformer (Casey Newton)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "1be1580b00c2b429a3c46b002e63ba90269573bc",
+      "url": "https://tldr.tech/ai/2026-10-07",
+      "canonicalUrl": "https://tldr.tech/ai/2026-10-07",
+      "title": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
+      "source": "TLDR AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "TLDR",
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TLDR AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "fd7b29632bdc8c65a256dd6076fcde506eaa59a5",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/6/victoria-kim",
+      "title": "Quoting Victoria Kim",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-06T23:58:56Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "38f8cbc7334120aebd48058dae6a96a4f89c9362",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions",
+      "title": "llm-openai-decisions 0.1a0",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-06T23:04:13Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "9d7a2d3675ae1962c407c6d133249d5acadcdc4e",
+      "url": "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton/",
+      "canonicalUrl": "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton",
+      "title": "Modernizing Table Batched Embeddings with FBTriton",
+      "source": "PyTorch Blog",
+      "sourceTier": 2,
+      "categoryHint": "Tools & Releases",
+      "author": "Meta Team: Daohang Shi, Oleksandr Stashuk, Rupert Wu, Liangbei Xu, Rich Zhu",
+      "publishedAt": "2026-10-06T22:57:33Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "PyTorch Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "722f1fc059248ca958f9f79f267ed95aae787c09",
+      "url": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
+      "canonicalUrl": "https://thezvi.substack.com/p/childhood-and-education-21-grades",
+      "title": "Childhood and Education #21: Grades and Standards",
+      "source": "Don't Worry About the Vase (Zvi)",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Zvi Mowshowitz",
+      "publishedAt": "2026-10-06T21:58:21Z",
+      "fetchedAt": "2026-10-08T09:42:26Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Don't Worry About the Vase (Zvi)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    }
+  ],
+  "clusters": [
+    {
+      "id": "c-cdd8b446b3",
+      "label": "GPT-6 and Intelligent UI for everyone",
+      "itemIds": [
+        "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+        "524a477f27093a951bfbaa0406a8f1dd2ae867d6",
+        "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
+        "b2d1fdcc50f22fa232df49c5006dd7de9a21a445"
+      ],
+      "leadItemId": "0ca1450969b5beb55904e9fac4f7d0e7720785ad",
+      "sources": [
+        "AWS Machine Learning Blog",
+        "Latent Space",
+        "OpenAI News",
+        "Simon Willison",
+        "The Verge: AI"
+      ],
+      "size": 4,
+      "entities": [
+        "gpt6",
+        "haiku5.5",
+        "claude",
+        "gpt",
+        "haiku"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-68d0737633",
+      "label": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "itemIds": [
+        "610b12eb506990c2daa4c5d96602abcac85f39b6",
+        "8489f30897db8d6de2db5fcac19459ec2d75e486"
+      ],
+      "leadItemId": "8489f30897db8d6de2db5fcac19459ec2d75e486",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "size": 2,
+      "entities": [
+        "chatgpt",
+        "teens"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-c571c17214",
+      "label": "Muse launches on the iPad",
+      "itemIds": [
+        "36bf85cb54324cffc02be11d32050364df424fb3",
+        "e679d3ae180e9ba41421626bcaba4ecb1cfedb56"
+      ],
+      "leadItemId": "e679d3ae180e9ba41421626bcaba4ecb1cfedb56",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "size": 2,
+      "entities": [
+        "ipad"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-c96fd31c0e",
+      "label": "Microsoft is giving Copilot more control over Windows and your files",
+      "itemIds": [
+        "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+        "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630"
+      ],
+      "leadItemId": "07b4a4362d2b00ad431695c9cfb2ff2de78812ad",
+      "sources": [
+        "Ars Technica: AI",
+        "The Verge: AI"
+      ],
+      "size": 2,
+      "entities": [
+        "microsoft",
+        "windows"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-fd8635c968",
+      "label": "Google’s new SynthID website can identify AI-generated media",
+      "itemIds": [
+        "1c9558d38162697286dc97ce687dc2c774d527e8",
+        "952e69e18b6d12b2615ffa0bacbb2401a827b3e0"
+      ],
+      "leadItemId": "952e69e18b6d12b2615ffa0bacbb2401a827b3e0",
+      "sources": [
+        "Ars Technica: AI",
+        "TechCrunch: AI"
+      ],
+      "size": 2,
+      "entities": [
+        "google",
+        "synthid"
+      ],
+      "trendDelta": null
+    }
+  ]
+}
