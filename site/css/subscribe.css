@@ -1,0 +1,72 @@
+/* Newsletter signup. Loaded after site.css and built on its tokens, so both themes come for free. */
+
+:root {
+  /* Text on the accent-filled button: white on the light purple, near-black on the dark theme's lighter purple. */
+  --on-accent: light-dark(#ffffff, #121212);
+}
+
+/* Slots sit between sections and in the footer. */
+.subscribe-slot { margin-block: var(--sp-12); }
+.site-footer .subscribe-slot { margin-block: 0 var(--sp-8); }
+
+/* Until the edition has rendered, don't show the inline form above content that isn't there yet.
+   With scripting off the edition never renders, so there the inline form stays visible. */
+@media (scripting: enabled) {
+  #top[hidden] + .subscribe-slot { display: none; }
+}
+
+.subscribe {
+  display: grid; gap: var(--sp-3); padding: var(--sp-6);
+  background: var(--surface-lead); border: 1px solid var(--c-purple); border-radius: var(--r-3);
+}
+.subscribe-title { font-size: var(--fs-2xl); font-weight: 750; line-height: var(--lh-tight); letter-spacing: -0.02em; text-wrap: balance; }
+.subscribe-sub { max-inline-size: var(--measure); color: var(--fg); }
+
+.subscribe-form { display: grid; gap: var(--sp-2); max-inline-size: 36rem; margin-block-start: var(--sp-2); }
+.subscribe-form label { font-family: var(--font-mono); font-size: var(--fs-xs); font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; }
+.subscribe-row { display: flex; flex-wrap: wrap; gap: var(--sp-3); }
+
+.subscribe-form input[type="email"] {
+  flex: 1 1 14rem; min-inline-size: 0; min-block-size: var(--touch); padding: 0 var(--sp-4);
+  font: inherit; color: var(--fg); background: var(--bg);
+  border: 2px solid var(--control); border-radius: var(--r-2);
+}
+.subscribe-form input[type="email"][aria-invalid="true"] { border-color: var(--c-fuschia); }
+
+.subscribe-form button {
+  flex: none; min-block-size: var(--touch); min-inline-size: var(--touch); padding: 0 var(--sp-6);
+  font: inherit; font-weight: 700; color: var(--on-accent); background: var(--c-purple);
+  border: 2px solid var(--c-purple); border-radius: var(--r-2); cursor: pointer;
+}
+.subscribe-form button:hover { background: color-mix(in srgb, var(--c-purple) 82%, var(--fg)); border-color: color-mix(in srgb, var(--c-purple) 82%, var(--fg)); }
+.subscribe-form button:disabled { cursor: progress; opacity: 0.75; }
+/* The global focus ring is purple, the same as the button; set it apart with a gap. */
+.subscribe-form button:focus-visible { outline-offset: 4px; }
+
+/* Messages: an icon and words, never colour alone. */
+.subscribe-msg, .subscribe-status {
+  display: flex; gap: var(--sp-2); align-items: flex-start; max-inline-size: 36rem;
+  font-size: var(--fs-sm); font-weight: 600; color: var(--fg);
+}
+.subscribe-msg[hidden] { display: none; }
+.subscribe-msg::before { content: "!" / ""; flex: none; display: grid; place-items: center; inline-size: 20px; block-size: 20px; margin-block-start: 1px; font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--bg); background: var(--c-fuschia); border-radius: 50%; }
+.subscribe-status:empty { display: none; }
+.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: color-mix(in srgb, var(--c-green) 24%, var(--c-white)); border: 1px solid var(--c-green); border-radius: var(--r-2); }
+.subscribe-status:not(:empty)::before { content: "✓" / ""; flex: none; font-family: var(--font-mono); }
+
+/* Inline: between Top 5 and the innovations. */
+@media (min-width: 48rem) { .subscribe--inline { padding: var(--sp-8); } }
+
+/* Footer: compact, no card. */
+.subscribe--footer { padding: var(--sp-5); }
+.subscribe--footer .subscribe-title { font-size: var(--fs-xl); }
+
+/* Standalone page: centered and roomy. */
+.subscribe--page { margin-inline: auto; max-inline-size: 40rem; padding: var(--sp-8) var(--sp-6); text-align: start; }
+.subscribe--page .subscribe-title { font-size: var(--fs-3xl); }
+.subscribe--page .subscribe-sub { font-size: var(--fs-lg); }
+@media (min-width: 48rem) { .subscribe--page { padding: var(--sp-12); } }
+
+/* Footer privacy paragraph */
+.privacy-note { max-inline-size: var(--measure); margin-block-end: var(--sp-3); }
+.privacy-note a { display: inline; min-block-size: 0; padding: 0; text-decoration: underline; }

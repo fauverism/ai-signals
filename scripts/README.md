@@ -10,6 +10,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `build` | `build.js` | write editions, `latest.json`, `archive.json` (not implemented yet) |
 | `check` | `validate.js` | validate all JSON against `/schemas` |
 | `test` | `*.test.js` | `node --test` unit tests |
+| `sync` | `sync-subscribe.js` | stamp `site/config.js` into the no-JS signup fallbacks in the HTML (`check` fails if they are stale) |
 | `serve` | `serve.js` | local static server for `/site` and `/data` (`--dry` previews a dry-run edition) |
 | `verify-sources` | `verify-sources.js` | regenerate `sources/sources.json` from `sources/candidates.json` |
 | `daily` | — | all of the above in order |

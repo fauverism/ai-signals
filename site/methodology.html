@@ -9,7 +9,9 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/subscribe.css">
   <script src="js/theme.js"></script>
+  <script type="module" src="components/subscribe.js"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
@@ -61,6 +63,27 @@
 
   <footer class="site-footer">
     <div class="wrap">
+      <div class="subscribe-slot" data-subscribe="footer">
+        <!-- subscribe-fallback:start -->
+        <noscript>
+          <section class="subscribe subscribe--footer">
+            <h2 id="subscribe-title-footer" class="subscribe-title">The day in AI, ranked.</h2>
+            <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
+            <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME" method="post" class="subscribe-form">
+              <label for="bd-email-footer">Email address</label>
+              <div class="subscribe-row">
+                <input type="email" name="email" id="bd-email-footer" required autocomplete="email" aria-describedby="bd-msg-footer">
+                <input type="hidden" name="embed" value="1">
+                <input type="hidden" name="tag" value="site-footer">
+                <button type="submit">Subscribe</button>
+              </div>
+              <p class="subscribe-msg" id="bd-msg-footer" hidden></p>
+            </form>
+            <p class="subscribe-status" id="bd-status-footer" aria-live="polite" aria-atomic="true"></p>
+          </section>
+        </noscript>
+        <!-- subscribe-fallback:end -->
+      </div>
       <nav aria-label="Footer">
         <ul role="list">
           <li><a href="./">Today</a></li>
@@ -68,6 +91,7 @@
           <li><a href="feed.xml">RSS</a></li>
         </ul>
       </nav>
+      <p class="privacy-note">Privacy: if you subscribe, we collect your email address and a tag showing which signup form you used. Buttondown, our newsletter service, stores it and sends the emails; we use it only to send this newsletter. Every email has an unsubscribe link that removes you in one click.</p>
       <p>Every link goes to the original publisher.</p>
     </div>
   </footer>

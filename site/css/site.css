@@ -304,10 +304,6 @@ main section + section { margin-block-start: var(--sp-12); }
 .cat-item .chips { margin-block-start: var(--sp-2); }
 .empty { color: var(--fg-muted); padding-block: var(--sp-4); }
 
-/* Newsletter slot (the form is built later) */
-.slot { padding: var(--sp-6); border: 2px dashed var(--control); border-radius: var(--r-3); }
-.slot p { max-inline-size: var(--measure); color: var(--fg-muted); }
-
 /* ---------- Footer ---------- */
 
 .site-footer { border-block-start: 1px solid var(--border); padding-block: var(--sp-8); font-size: var(--fs-sm); }

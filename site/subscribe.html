@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subscribe | AI Signal</title>
+  <!-- subscribe-meta:start -->
+  <meta name="description" content="One email each morning: the lead story, the top 5, and what&#39;s new. No hype.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AI Signal">
+  <meta property="og:title" content="The day in AI, ranked.">
+  <meta property="og:description" content="One email each morning: the lead story, the top 5, and what&#39;s new. No hype.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="The day in AI, ranked.">
+  <meta name="twitter:description" content="One email each morning: the lead story, the top 5, and what&#39;s new. No hype.">
+  <!-- subscribe-meta:end -->
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/subscribe.css">
+  <script src="js/theme.js"></script>
+  <script type="module" src="components/subscribe.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <p class="wordmark"><a href="./">AI Signal</a></p>
+      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <div class="subscribe-slot" data-subscribe="page">
+      <!-- subscribe-fallback:start -->
+      <noscript>
+        <section class="subscribe subscribe--page">
+          <h1 id="subscribe-title-page" class="subscribe-title">The day in AI, ranked.</h1>
+          <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
+          <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME" method="post" class="subscribe-form">
+            <label for="bd-email-page">Email address</label>
+            <div class="subscribe-row">
+              <input type="email" name="email" id="bd-email-page" required autocomplete="email" aria-describedby="bd-msg-page">
+              <input type="hidden" name="embed" value="1">
+              <input type="hidden" name="tag" value="subscribe-page">
+              <button type="submit">Subscribe</button>
+            </div>
+            <p class="subscribe-msg" id="bd-msg-page" hidden></p>
+          </form>
+          <p class="subscribe-status" id="bd-status-page" aria-live="polite" aria-atomic="true"></p>
+        </section>
+      </noscript>
+      <!-- subscribe-fallback:end -->
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Footer">
+        <ul role="list">
+          <li><a href="./">Today</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+        </ul>
+      </nav>
+      <p class="privacy-note">Privacy: if you subscribe, we collect your email address and a tag showing which signup form you used. Buttondown, our newsletter service, stores it and sends the emails; we use it only to send this newsletter. Every email has an unsubscribe link that removes you in one click.</p>
+      <p>Every link goes to the original publisher.</p>
+    </div>
+  </footer>
+</body>
+</html>
