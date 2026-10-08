@@ -51,6 +51,6 @@ Claude Code does the judging between `--prepare` and `--assemble`; nothing here 
 
 ## The publish gate (`gate.js`)
 
-`npm run check` ends with the gate. `--require` fails when nothing is published, `--date D` insists the edition is for D, `--offline` skips the link check. Featured links (lead, top 5, innovations, trending leads) get a `HEAD` request with a 5 s timeout; redirects count as answering, and a server that doesn't implement `HEAD` (405/501) gets one tiny `GET` instead. A failing link is written to `data/work/<date>.dropped.json` and `rank --assemble` runs again without it (exit 2). If half or more of the links fail at once the gate assumes the network is down and drops nothing (exit 1).
+`npm run check` ends with the gate. `--require` fails when nothing is published, `--date D` insists the edition is for D, `--offline` skips the link check. Featured links (lead, top 5, innovations, trending leads) get a `HEAD` request with a 5 s timeout; redirects count as answering, as do 401/403/429 (the server answered, it just refuses bots), and a server that doesn't implement `HEAD` (405/501) gets one tiny `GET` instead. A failing link is written to `data/work/<date>.dropped.json` and `rank --assemble` runs again without it (exit 2). If half or more of the links fail at once the gate assumes the network is down and drops nothing (exit 1).
 
 `npm run collect`, `check` and `verify-sources` set `NODE_USE_ENV_PROXY=1` so Node's `fetch` uses `HTTPS_PROXY` in sandboxed runners; it does nothing without a proxy.

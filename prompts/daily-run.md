@@ -70,7 +70,7 @@ npm run build
 npm run check -- --require --date D
 ```
 
-`check` verifies: every data file against its schema, the site files are current, the edition has a lead, at least 20 ranked items and no duplicate URLs, and every featured URL answers a `HEAD` request with 2xx or 3xx within 5 seconds. Read its exit code:
+`check` verifies: every data file against its schema, the site files are current, the edition has a lead, at least 20 ranked items and no duplicate URLs, and every featured URL answers a `HEAD` request with 2xx or 3xx (or 401/403/429, a server refusing bots) within 5 seconds. Read its exit code:
 
 - **0: it passed.** Go to step 5.
 - **2: dead links were dropped and the edition was re-featured.** This is not a failure. Read the new lead and top items it printed. Does the editor's note still describe the edition? If it names, or depends on, a story that was dropped, rewrite the note (same rules). Then run `npm run rank -- --validate`, `npm run build`, `npm run check -- --require --date D` again. **At most 3 rounds of this**; a fourth exit 2 is a failure.

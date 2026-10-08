@@ -33,10 +33,10 @@ test('3xx passes without following the redirect', async () => {
   assert.ok(!hits.includes('HEAD /gone'), 'the redirect target is not requested');
 });
 
-test('4xx and 5xx fail, including bot-blocks like 403', async () => {
+test('4xx and 5xx fail, except bot-blocks (401/403/429), which count as alive', async () => {
   assert.deepEqual(await checkLink(`${base}/gone`), { ok: false, status: 404, error: 'HTTP 404' });
   assert.deepEqual(await checkLink(`${base}/broken`), { ok: false, status: 500, error: 'HTTP 500' });
-  assert.equal((await checkLink(`${base}/forbidden`)).ok, false);
+  assert.deepEqual(await checkLink(`${base}/forbidden`), { ok: true, status: 403 });
 });
 
 test('a server without HEAD (405) gets one GET instead of being called dead', async () => {
