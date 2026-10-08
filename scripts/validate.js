@@ -5,19 +5,7 @@ import { createHash } from 'node:crypto';
 import { readFile, readdir } from 'node:fs/promises';
 import { isDeepStrictEqual } from 'node:util';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import Ajv2020 from 'ajv/dist/2020.js';
-import addFormats from 'ajv-formats';
-
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const schemaDir = path.join(root, 'schemas');
-const schemaBase = 'https://ai-signal.example/schemas/';
-
-const ajv = new Ajv2020({ allErrors: true, allowUnionTypes: true });
-addFormats(ajv);
-for (const f of (await readdir(schemaDir)).filter((n) => n.endsWith('.schema.json'))) {
-  ajv.addSchema(JSON.parse(await readFile(path.join(schemaDir, f), 'utf8')));
-}
+import { root, schemaErrors } from './lib/schemas.js';
 
 const readJson = async (file) => JSON.parse(await readFile(file, 'utf8'));
 const listJson = async (dir) =>
@@ -100,13 +88,8 @@ async function validateFile(file) {
   } catch (e) {
     return [`invalid JSON: ${e.message}`];
   }
-  const validate = ajv.getSchema(`${schemaBase}${kind}.schema.json`);
-  if (!validate(data)) {
-    return validate.errors.map((e) => {
-      const extra = e.params.additionalProperty ?? e.params.unevaluatedProperty;
-      return `${e.instancePath || '/'}: ${e.message}${extra ? ` "${extra}"` : ''}`;
-    });
-  }
+  const errors = schemaErrors(kind, data);
+  if (errors.length) return errors;
   return semanticErrors(kind, data, file);
 }
 

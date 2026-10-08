@@ -87,7 +87,7 @@ written to JSON files so they are reviewable and reproducible.
 | `/data/raw` | Fetched item metadata, as received (no body text) |
 | `/data/work` | Intermediate files: deduped, counted, scored, clustered |
 | `/data/editions` | Final per-day edition files (`YYYY-MM-DD.json`) |
-| `/data/logs` | Run logs and errors |
+| `/data/logs`, `/data/cache` | Run logs and errors; HTTP cache (gitignored) |
 | `/site` | Static HTML, CSS, JS — the deployed site |
 | `/prompts` | Scoring rubric and run instructions for Claude |
 
