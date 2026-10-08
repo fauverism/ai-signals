@@ -14,7 +14,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `serve` | `serve.js` | local static server for `/site` and `/data` (`--dry` previews a dry-run edition) |
 | `verify-sources` | `verify-sources.js` | regenerate `sources/sources.json` from `sources/candidates.json` |
 | `daily` | `daily.js` | prints how the daily run works; the run itself is `prompts/daily-run.md` |
-| `daily:start` | `daily.js start` | discard leftovers of a failed run, `git pull --ff-only`, clear today's work files, record the run's date |
+| `daily:start` | `daily.js start` | discard leftovers of a failed run, `git pull --ff-only` from the deploy branch, clear today's work files, record the run's date |
 | `daily:publish` | `daily.js publish` | re-verify, commit `Edition YYYY-MM-DD` and push (rolls the commit back if the push fails) |
 | `daily:summary` | `daily.js summary` | the five-line end-of-run summary |
 | `daily:fail` | `daily.js fail` | write `data/logs/<date>-failed.md`; never touches git |
