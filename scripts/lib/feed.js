@@ -19,12 +19,17 @@ const textOf = (node) => {
   return String(node);
 };
 
-const clean = (s) =>
-  s
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
+const NAMED = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', hellip: '…', mdash: '—', ndash: '–' };
+
+// Some feeds double-escape titles, leaving entities like &#8217; in the text after XML parsing.
+const decodeEntities = (s) =>
+  s.replace(/&(?:#(\d+)|#x([0-9a-f]+)|([a-z]+));/gi, (m, dec, hex, name) => {
+    if (name) return NAMED[name.toLowerCase()] ?? m;
+    const code = dec ? Number(dec) : parseInt(hex, 16);
+    return code > 0 && code <= 0x10ffff ? String.fromCodePoint(code) : m;
+  });
+
+const clean = (s) => decodeEntities(s.replace(/<[^>]*>/g, ' ')).replace(/\s+/g, ' ').trim();
 
 export function truncate(s, max) {
   return s.length <= max ? s : `${s.slice(0, max - 1).trimEnd()}…`;

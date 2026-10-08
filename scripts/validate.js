@@ -14,7 +14,8 @@ const listJson = async (dir) =>
 // Which schema applies to which file, by location and name.
 function schemaFor(file) {
   const rel = path.relative(root, file).split(path.sep).join('/');
-  if (rel.startsWith('data/raw/') || /^schemas\/fixtures\/raw-/.test(rel)) return 'raw-file';
+  if (/^data\/raw\/[\d-]+\.deduped\.json$/.test(rel)) return 'deduped';
+  if (/^data\/raw\/[\d-]+\.json$/.test(rel) || /^schemas\/fixtures\/raw-/.test(rel)) return 'raw-file';
   if (rel.startsWith('data/editions/') || rel === 'data/latest.json' || /^schemas\/fixtures\/edition-/.test(rel)) return 'edition';
   if (rel === 'data/archive.json') return 'archive';
   if (rel === 'sources/sources.json' || rel === 'sources/candidates.json') return 'sources';
@@ -32,6 +33,22 @@ function semanticErrors(kind, data, file) {
   };
   if (kind === 'raw-file') {
     data.forEach((item, i) => checkId(item, `[${i}]`));
+    return errs;
+  }
+  if (kind === 'deduped') {
+    const ids = new Set();
+    data.items.forEach((it, i) => {
+      checkId(it, `items[${i}]`);
+      if (ids.has(it.id)) errs.push(`items[${i}]: duplicate id`);
+      ids.add(it.id);
+    });
+    data.clusters.forEach((c, i) => {
+      for (const id of c.itemIds) if (!ids.has(id)) errs.push(`clusters[${i}]: itemId ${id} not in items`);
+      if (!c.itemIds.includes(c.leadItemId)) errs.push(`clusters[${i}]: leadItemId is not in itemIds`);
+    });
+    const clusterIds = new Set(data.clusters.map((c) => c.id));
+    for (const it of data.items) if (it.clusterId && !clusterIds.has(it.clusterId)) errs.push(`item ${it.id}: unknown clusterId`);
+    if (data.items.length > data.params.cap) errs.push('more items than the cap');
     return errs;
   }
   if (kind === 'sources') {

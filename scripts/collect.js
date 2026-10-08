@@ -52,7 +52,11 @@ async function writeJson(file, data) {
 
 const sources = (await readJson(paths.sources)).filter((s) => s.enabled);
 const matchesTopic = createKeywordFilter(await readJson(paths.keywords));
-const cache = await readJson(paths.cache, { entries: {} });
+// Bump when feed parsing changes: cached parses from an older parser are discarded.
+const PARSER_VERSION = 2;
+const loaded = await readJson(paths.cache, { entries: {} });
+const cache = loaded.parserVersion === PARSER_VERSION ? loaded : { entries: {} };
+cache.parserVersion = PARSER_VERSION;
 const http = createHttp();
 const ctx = { now, windowHours };
 

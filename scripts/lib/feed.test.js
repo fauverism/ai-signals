@@ -50,3 +50,8 @@ test('items without a date get publishedAt null', () => {
 test('rejects non-feed documents', () => {
   assert.throws(() => parseFeed('<html><body>hi</body></html>'), /not an RSS/);
 });
+
+test('decodes entities that feeds double-escape', () => {
+  const [item] = parseFeed('<rss><channel><item><title>ChatGPT&amp;#8217;s &amp;#8216;Intelligent UI&amp;#8217; &amp;amp; more &amp;#x1F9E0;</title><link>https://e.com/x</link></item></channel></rss>');
+  assert.equal(item.title, 'ChatGPT’s ‘Intelligent UI’ & more 🧠');
+});

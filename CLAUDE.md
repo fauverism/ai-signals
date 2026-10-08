@@ -84,7 +84,7 @@ written to JSON files so they are reviewable and reproducible.
 | `/sources` | Source registry: feeds, APIs, per-source config |
 | `/scripts` | Node pipeline (fetch, parse, dedupe, count, build, publish) |
 | `/schemas` | JSON Schemas for every file in `/data` |
-| `/data/raw` | Fetched item metadata, as received (no body text) |
+| `/data/raw` | Fetched item metadata (no body text); `<date>.deduped.json` is the set sent to ranking |
 | `/data/work` | Intermediate files: deduped, counted, scored, clustered |
 | `/data/editions` | Final per-day edition files (`YYYY-MM-DD.json`) |
 | `/data/logs`, `/data/cache` | Run logs and errors; HTTP cache (gitignored) |

@@ -4,13 +4,19 @@
   "title": "Cluster",
   "description": "A group of items about the same story or theme.",
   "type": "object",
-  "additionalProperties": false,
-  "required": ["id", "label", "itemIds", "leadItemId", "sources"],
-  "properties": {
-    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
-    "label": { "type": "string", "minLength": 1, "maxLength": 80 },
-    "itemIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "common.schema.json#/$defs/sha1" } },
-    "leadItemId": { "$ref": "common.schema.json#/$defs/sha1" },
-    "sources": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } }
+  "$ref": "#/$defs/base",
+  "unevaluatedProperties": false,
+  "$defs": {
+    "base": {
+      "type": "object",
+      "required": ["id", "label", "itemIds", "leadItemId", "sources"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "label": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "itemIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "common.schema.json#/$defs/sha1" } },
+        "leadItemId": { "$ref": "common.schema.json#/$defs/sha1" },
+        "sources": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "minLength": 1 } }
+      }
+    }
   }
 }
