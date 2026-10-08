@@ -18,6 +18,7 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `daily:publish` | `daily.js publish` | re-verify, commit `Edition YYYY-MM-DD` and push (rolls the commit back if the push fails) |
 | `daily:summary` | `daily.js summary` | the five-line end-of-run summary |
 | `daily:fail` | `daily.js fail` | write `data/logs/<date>-failed.md`; never touches git |
+| `bundle` | `bundle.js` | assemble `dist/` for deploy: `site/` at the root and the published data at `/data` (what Vercel runs; see `vercel.json`) |
 
 `node scripts/validate.js [file ...]` validates the given files, or everything it can find when run with no arguments.
 
@@ -54,3 +55,7 @@ Claude Code does the judging between `--prepare` and `--assemble`; nothing here 
 `npm run check` ends with the gate. `--require` fails when nothing is published, `--date D` insists the edition is for D, `--offline` skips the link check. Featured links (lead, top 5, innovations, trending leads) get a `HEAD` request with a 5 s timeout; redirects count as answering, as do 401/403/429 (the server answered, it just refuses bots), and a server that doesn't implement `HEAD` (405/501) gets one tiny `GET` instead. A failing link is written to `data/work/<date>.dropped.json` and `rank --assemble` runs again without it (exit 2). If half or more of the links fail at once the gate assumes the network is down and drops nothing (exit 1).
 
 `npm run collect`, `check` and `verify-sources` set `NODE_USE_ENV_PROXY=1` so Node's `fetch` uses `HTTPS_PROXY` in sandboxed runners; it does nothing without a proxy.
+
+## Deploying to Vercel
+
+`vercel.json` makes Vercel run `node scripts/bundle.js` (no `npm install`) and serve `dist/`, so the site sits at the domain root and `../data/` in the pages resolves to `/data/`. Only `latest.json`, `archive.json` and `editions/` are published; `data/raw`, `data/work`, `data/logs` and the folder READMEs stay in the repo. Connect the repo to a Vercel project with the Git integration on `main`: every daily "Edition YYYY-MM-DD" push then redeploys. After you know the domain, set `SITE_URL` in `site/config.js` (and `BUTTONDOWN_USERNAME`), then `npm run sync && npm run build` so the feed, sitemap and preview image use it.
