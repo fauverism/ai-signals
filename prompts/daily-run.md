@@ -22,7 +22,7 @@ If `node_modules` is missing, run `npm ci`.
 npm run daily:start
 ```
 
-This discards leftovers from an earlier failed run (generated files only), runs `git pull --ff-only`, clears **today's** batches, scored files, dropped links and edition so this run starts clean and overwrites the day, and records D. Note D from its last line.
+This discards leftovers from an earlier failed run (generated files only), runs `git pull --ff-only` from the deploy branch (the upstream, or origin's default branch on a fresh session branch), clears **today's** batches, scored files, dropped links and edition so this run starts clean and overwrites the day, and records D. Note D from its last line.
 
 It refuses to start (exit 1) if the working tree has uncommitted changes to anything but generated files, or if the pull can't fast-forward. That is a failure: see [Failing](#failing).
 

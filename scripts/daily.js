@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Plumbing for the scheduled daily run (prompts/daily-run.md). The judging is Claude's; this does the rest.
-//   npm run daily:start            clean leftovers, git pull, reset today's work files, record the run's date
-//   npm run daily:publish          re-verify, commit "Edition YYYY-MM-DD" and push (rolls the commit back if the push fails)
+//   npm run daily:start            clean leftovers, git pull (deploy branch), reset today's work files, record the run's date
+//   npm run daily:publish          re-verify, commit "Edition YYYY-MM-DD" and push to the deploy branch (rolls the commit back if the push fails)
 //   npm run daily:summary          print the five-line summary
 //   npm run daily:fail -- "<step>" "<reason>"   write data/logs/<date>-failed.md (never touches git)
 import { spawnSync } from 'node:child_process';
@@ -21,6 +21,14 @@ const git = (gitArgs, { quiet = false } = {}) => {
   const r = spawnSync('git', gitArgs, { cwd: root, encoding: 'utf8' });
   if (!quiet && r.status !== 0) console.error(`git ${gitArgs.join(' ')}\n${r.stderr.trim()}`);
   return { status: r.status, out: r.stdout ?? '', err: r.stderr ?? '' };
+};
+// The branch the host deploys from: the current branch's upstream if it has one, otherwise origin's default
+// branch. Scheduled sessions start on a fresh claude/* branch with no upstream, and a push there would deploy nothing.
+const deployBranch = () => {
+  const upstream = git(['rev-parse', '--abbrev-ref', '--symbolic-full-name', '@{u}'], { quiet: true });
+  if (upstream.status === 0) return upstream.out.trim().replace(/^origin\//, '');
+  const head = git(['symbolic-ref', '--short', 'refs/remotes/origin/HEAD'], { quiet: true });
+  return head.status === 0 ? head.out.trim().replace(/^origin\//, '') : 'main';
 };
 const readJson = (file) => readFile(file, 'utf8').then(JSON.parse, () => null);
 const node = (script, scriptArgs) => spawnSync(process.execPath, [path.join(root, 'scripts', script), ...scriptArgs], { cwd: root, stdio: 'inherit' }).status;
@@ -59,8 +67,9 @@ async function start() {
     console.log(`Discarded ${generated.length} leftover generated file(s) from an earlier run.`);
   }
 
-  const pull = git(['pull', '--ff-only']);
-  if (pull.status !== 0) die('git pull --ff-only failed (see above). Nothing was changed.');
+  const target = deployBranch();
+  const pull = git(['pull', '--ff-only', 'origin', target]);
+  if (pull.status !== 0) die(`git pull --ff-only origin ${target} failed (see above). Nothing was changed.`);
   console.log(pull.out.trim() || 'Already up to date.');
 
   // A fresh run owns today's work files; the old edition goes too, so its editor's note can't carry over.
@@ -97,9 +106,9 @@ async function publish() {
   if (git([...identity, 'commit', '-q', '-m', `Edition ${date}`]).status !== 0) die('git commit failed.');
   console.log(`Committed: Edition ${date}`);
 
-  const branch = git(['rev-parse', '--abbrev-ref', 'HEAD']).out.trim();
+  const branch = deployBranch();
   for (let attempt = 0; ; attempt++) {
-    const push = git(['push', '-u', 'origin', branch], { quiet: true });
+    const push = git(['push', 'origin', `HEAD:${branch}`], { quiet: true });
     if (push.status === 0) {
       console.log(`Pushed to origin/${branch}. The host redeploys on push.`);
       return;
