@@ -17,7 +17,7 @@
 
 .subscribe {
   display: grid; gap: var(--sp-3); padding: var(--sp-6);
-  background: var(--surface-lead); border: 1px solid var(--c-purple); border-radius: var(--r-3);
+  background: var(--surface-lead); border: 1px solid var(--accent); border-radius: var(--r-3);
 }
 .subscribe-title { font-size: var(--fs-2xl); font-weight: 750; line-height: var(--lh-tight); letter-spacing: -0.02em; text-wrap: balance; }
 .subscribe-sub { max-inline-size: var(--measure); color: var(--fg); }
@@ -35,10 +35,10 @@
 
 .subscribe-form button {
   flex: none; min-block-size: var(--touch); min-inline-size: var(--touch); padding: 0 var(--sp-6);
-  font: inherit; font-weight: 700; color: var(--on-accent); background: var(--c-purple);
-  border: 2px solid var(--c-purple); border-radius: var(--r-2); cursor: pointer;
+  font: inherit; font-weight: 700; color: var(--on-accent); background: var(--accent);
+  border: 2px solid var(--accent); border-radius: var(--r-2); cursor: pointer;
 }
-.subscribe-form button:hover { background: color-mix(in srgb, var(--c-purple) 82%, var(--fg)); border-color: color-mix(in srgb, var(--c-purple) 82%, var(--fg)); }
+.subscribe-form button:hover { background: color-mix(in srgb, var(--accent) 82%, var(--fg)); border-color: color-mix(in srgb, var(--accent) 82%, var(--fg)); }
 .subscribe-form button:disabled { cursor: progress; opacity: 0.75; }
 /* The global focus ring is purple, the same as the button; set it apart with a gap. */
 .subscribe-form button:focus-visible { outline-offset: 4px; }
@@ -51,7 +51,7 @@
 .subscribe-msg[hidden] { display: none; }
 .subscribe-msg::before { content: "!" / ""; flex: none; display: grid; place-items: center; inline-size: 20px; block-size: 20px; margin-block-start: 1px; font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--bg); background: var(--c-fuschia); border-radius: 50%; }
 .subscribe-status:empty { display: none; }
-.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: color-mix(in srgb, var(--c-green) 24%, var(--c-white)); border: 1px solid var(--c-green); border-radius: var(--r-2); }
+.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: light-dark(color-mix(in srgb, var(--c-green) 24%, var(--paper)), color-mix(in srgb, var(--c-green) 28%, var(--paper))); border: 1px solid var(--c-green); border-radius: var(--r-2); }
 .subscribe-status:not(:empty)::before { content: "✓" / ""; flex: none; font-family: var(--font-mono); }
 
 /* Inline: between Top 5 and the innovations. */

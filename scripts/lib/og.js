@@ -57,17 +57,17 @@ export function ogSvg({ dateLabel, headline, tagline }) {
   const fit = fitHeadline(headline);
   const top = 236;
   const lines = fit.lines
-    .map((line, i) => `<text x="72" y="${Math.round(top + fit.size * 0.9 + i * fit.size * fit.lineHeight)}" font-size="${fit.size}" font-weight="800" fill="#e6e6e6">${esc(line)}</text>`)
+    .map((line, i) => `<text x="72" y="${Math.round(top + fit.size * 0.9 + i * fit.size * fit.lineHeight)}" font-size="${fit.size}" font-weight="800" fill="#ece4d4">${esc(line)}</text>`)
     .join('\n  ');
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${OG_WIDTH}" height="${OG_HEIGHT}" viewBox="0 0 ${OG_WIDTH} ${OG_HEIGHT}" font-family="DM Sans">
-  <rect width="${OG_WIDTH}" height="${OG_HEIGHT}" fill="#2a2830"/>
-  <rect width="16" height="${OG_HEIGHT}" fill="#aa72f0"/>
-  <circle cx="86" cy="92" r="14" fill="#aa72f0"/>
-  <text x="114" y="106" font-size="44" font-weight="800" fill="#d5d5d5">AI Signal</text>
-  <text x="${OG_WIDTH - 72}" y="104" font-size="28" font-weight="500" fill="#b4b3b9" text-anchor="end">${esc(dateLabel)}</text>
-  <line x1="72" y1="160" x2="${OG_WIDTH - 72}" y2="160" stroke="#898989" stroke-width="2" opacity="0.5"/>
+  <rect width="${OG_WIDTH}" height="${OG_HEIGHT}" fill="#141210"/>
+  <rect width="16" height="${OG_HEIGHT}" fill="#008b9d"/>
+  <circle cx="86" cy="92" r="14" fill="#008b9d"/>
+  <text x="114" y="106" font-size="44" font-weight="800" fill="#ece4d4">AI Signal</text>
+  <text x="${OG_WIDTH - 72}" y="104" font-size="28" font-weight="500" fill="#bdb6a8" text-anchor="end">${esc(dateLabel)}</text>
+  <line x1="72" y1="160" x2="${OG_WIDTH - 72}" y2="160" stroke="#8c8678" stroke-width="2" opacity="0.5"/>
   ${lines}
-  <text x="72" y="568" font-size="30" font-weight="500" fill="#aa72f0">${esc(tagline)}</text>
+  <text x="72" y="568" font-size="30" font-weight="500" fill="#008b9d">${esc(tagline)}</text>
 </svg>`;
 }
 
