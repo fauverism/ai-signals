@@ -15,8 +15,6 @@
   color-scheme: light dark;
 
   /* Palette */
-  --c-black: light-dark(#1a1a1a, #d5d5d5);
-  --c-white: light-dark(#e1e1e1, #2a2830);
   --c-grey: light-dark(#7e7e7e, #898989);
   --c-purple: light-dark(#60309a, #aa72f0);
   --c-fuschia: light-dark(#d42870, #ee5cac);
@@ -27,17 +25,17 @@
 
   /* Roles. The accents are too light to be small text on the light background, so they only ever
      fill, outline or mark; all text is --fg or --fg-muted, which clear 4.5:1 in both themes. */
-  /* Neutrals. Light is the original palette; dark uses the warm paper/ink of the AI UX patterns site. */
-  --paper: light-dark(#e1e1e1, #141210);
-  --paper-raised: light-dark(color-mix(in srgb, #1a1a1a 5%, #e1e1e1), #1d1a16);
-  --ink: light-dark(#1a1a1a, #ece4d4);
+  /* Neutrals: the warm paper and ink of the AI UX patterns site, in both themes. */
+  --paper: light-dark(#f7f2e8, #141210);
+  --paper-raised: light-dark(#efe8d9, #1d1a16);
+  --ink: light-dark(#211c15, #ece4d4);
   --bg: var(--paper);
   --fg: var(--ink);
-  --fg-muted: light-dark(color-mix(in srgb, var(--ink) 80%, var(--paper)), color-mix(in oklab, var(--ink) 72%, var(--paper)));
+  --fg-muted: color-mix(in oklab, var(--ink) 72%, var(--paper));
   --surface: var(--paper-raised);
   --surface-lead: light-dark(color-mix(in srgb, var(--c-purple) 13%, var(--paper)), color-mix(in srgb, var(--c-purple) 16%, var(--paper)));
-  --border: light-dark(color-mix(in srgb, var(--c-grey) 55%, var(--paper)), color-mix(in oklab, var(--ink) 25%, var(--paper)));
-  --control: light-dark(var(--c-grey), color-mix(in oklab, var(--ink) 58%, var(--paper))); /* borders that identify a control need 3:1 */
+  --border: color-mix(in oklab, var(--ink) 25%, var(--paper));
+  --control: color-mix(in oklab, var(--ink) 58%, var(--paper)); /* borders that identify a control need 3:1 */
   --focus: var(--c-purple);
   --tint-purple: light-dark(color-mix(in srgb, var(--c-purple) 24%, var(--paper)), color-mix(in srgb, var(--c-purple) 28%, var(--paper)));
   --tint-fuschia: light-dark(color-mix(in srgb, var(--c-fuschia) 24%, var(--paper)), color-mix(in srgb, var(--c-fuschia) 28%, var(--paper)));
@@ -366,7 +364,7 @@ mark { color: var(--fg); background: var(--tint-purple); border-block-end: 2px s
 /* About: the four scores */
 .weights { margin-block: var(--sp-6); }
 .weights th, .weights td { vertical-align: middle; }
-.weights .bar { display: block; inline-size: 100%; min-inline-size: 6rem; block-size: 12px; background: color-mix(in srgb, var(--c-grey) 25%, var(--c-white)); border-radius: var(--r-pill); overflow: hidden; }
+.weights .bar { display: block; inline-size: 100%; min-inline-size: 6rem; block-size: 12px; background: color-mix(in srgb, var(--c-grey) 25%, var(--paper)); border-radius: var(--r-pill); overflow: hidden; }
 .weights .bar > span { display: block; inline-size: var(--w); block-size: 100%; background: var(--c-purple); }
 .weights .pct { font-family: var(--font-mono); font-weight: 700; white-space: nowrap; }
 .score-explainer { border-inline-start: 4px solid var(--dot, var(--c-purple)); padding-inline-start: var(--sp-4); margin-block: var(--sp-6); }
