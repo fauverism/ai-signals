@@ -27,16 +27,20 @@
 
   /* Roles. The accents are too light to be small text on the light background, so they only ever
      fill, outline or mark; all text is --fg or --fg-muted, which clear 4.5:1 in both themes. */
-  --bg: var(--c-white);
-  --fg: var(--c-black);
-  --fg-muted: color-mix(in srgb, var(--c-black) 80%, var(--c-white));
-  --surface: color-mix(in srgb, var(--c-black) 5%, var(--c-white));
-  --surface-lead: color-mix(in srgb, var(--c-purple) 13%, var(--c-white));
-  --border: color-mix(in srgb, var(--c-grey) 55%, var(--c-white));
-  --control: var(--c-grey); /* borders that identify a control need 3:1 */
+  /* Neutrals. Light is the original palette; dark uses the warm paper/ink of the AI UX patterns site. */
+  --paper: light-dark(#e1e1e1, #141210);
+  --paper-raised: light-dark(color-mix(in srgb, #1a1a1a 5%, #e1e1e1), #1d1a16);
+  --ink: light-dark(#1a1a1a, #ece4d4);
+  --bg: var(--paper);
+  --fg: var(--ink);
+  --fg-muted: light-dark(color-mix(in srgb, var(--ink) 80%, var(--paper)), color-mix(in oklab, var(--ink) 72%, var(--paper)));
+  --surface: var(--paper-raised);
+  --surface-lead: light-dark(color-mix(in srgb, var(--c-purple) 13%, var(--paper)), color-mix(in srgb, var(--c-purple) 16%, var(--paper)));
+  --border: light-dark(color-mix(in srgb, var(--c-grey) 55%, var(--paper)), color-mix(in oklab, var(--ink) 25%, var(--paper)));
+  --control: light-dark(var(--c-grey), color-mix(in oklab, var(--ink) 58%, var(--paper))); /* borders that identify a control need 3:1 */
   --focus: var(--c-purple);
-  --tint-purple: color-mix(in srgb, var(--c-purple) 24%, var(--c-white));
-  --tint-fuschia: color-mix(in srgb, var(--c-fuschia) 24%, var(--c-white));
+  --tint-purple: light-dark(color-mix(in srgb, var(--c-purple) 24%, var(--paper)), color-mix(in srgb, var(--c-purple) 28%, var(--paper)));
+  --tint-fuschia: light-dark(color-mix(in srgb, var(--c-fuschia) 24%, var(--paper)), color-mix(in srgb, var(--c-fuschia) 28%, var(--paper)));
 
   /* Type */
   --font-sans: "DM Sans", "Helvetica Neue", Helvetica, "Arial", sans-serif;

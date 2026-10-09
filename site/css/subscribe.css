@@ -51,7 +51,7 @@
 .subscribe-msg[hidden] { display: none; }
 .subscribe-msg::before { content: "!" / ""; flex: none; display: grid; place-items: center; inline-size: 20px; block-size: 20px; margin-block-start: 1px; font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--bg); background: var(--c-fuschia); border-radius: 50%; }
 .subscribe-status:empty { display: none; }
-.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: color-mix(in srgb, var(--c-green) 24%, var(--c-white)); border: 1px solid var(--c-green); border-radius: var(--r-2); }
+.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: light-dark(color-mix(in srgb, var(--c-green) 24%, var(--paper)), color-mix(in srgb, var(--c-green) 28%, var(--paper))); border: 1px solid var(--c-green); border-radius: var(--r-2); }
 .subscribe-status:not(:empty)::before { content: "✓" / ""; flex: none; font-family: var(--font-mono); }
 
 /* Inline: between Top 5 and the innovations. */
