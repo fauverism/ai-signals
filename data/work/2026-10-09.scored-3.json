@@ -1,0 +1,500 @@
+{
+  "date": "2026-10-09",
+  "batch": 3,
+  "items": [
+    {
+      "id": "ebb614553ba6c1d6ef7ffbcb571981a0bd978417",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "biosecurity"
+      ],
+      "summary": "MIT Technology Review roundtable with the creator of AI-designed viruses.",
+      "whyItMatters": "Biosecurity discussion; follow for policy implications.",
+      "organization": "general"
+    },
+    {
+      "id": "e795790bb7b1d2869cd72ca5dedd556008730fb9",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cli",
+        "tokens"
+      ],
+      "summary": "Simon Willison notes a 0.4 release of ttok, a token-counting tool.",
+      "whyItMatters": "Minor older release.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "2d2415fa4281819ea0b38cdf6530cfaa12aff87a",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter"
+      ],
+      "summary": "AINews issue saying little happened today.",
+      "whyItMatters": "Nothing to act on.",
+      "organization": "general"
+    },
+    {
+      "id": "51c6cb3bd66a262bac9a6a0c7a30cde44d47d90a",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "security",
+        "open-source",
+        "claude"
+      ],
+      "summary": "The Verge reports Anthropic offering free AI security scans for open-source projects.",
+      "whyItMatters": "Maintainers may be able to get free vulnerability scanning.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "a34c1f5b88759bc17053a16c2bc6e9f6fe8e50fc",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "politics"
+      ],
+      "summary": "WIRED piece on Elon Musk’s spending in the midterm elections.",
+      "whyItMatters": "Political coverage with limited AI relevance.",
+      "organization": "musk"
+    },
+    {
+      "id": "429b12e0917d315284b8321e7d5dce645787efc1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison quotes Carson Gross on software.",
+      "whyItMatters": "Commentary only.",
+      "organization": "general"
+    },
+    {
+      "id": "da3ca48318e6b2aeaebc362bb353ee4734fbe2c8",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "culture"
+      ],
+      "summary": "TechCrunch item on a detailed website that lets you sit at a notorious founder’s desk.",
+      "whyItMatters": "Entertainment; skip unless curious.",
+      "organization": "general"
+    },
+    {
+      "id": "e1475b62e027a0c2a0181d05c3c526ec27fa095b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "robotics",
+        "regulation"
+      ],
+      "summary": "The Verge reports California trying to shut down staged robot versus human fights.",
+      "whyItMatters": "Small regulatory story about robots.",
+      "organization": "california"
+    },
+    {
+      "id": "301544ff1a07499c14f9c3afe5266f0a2f65b9ef",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "safety",
+        "openai"
+      ],
+      "summary": "TechCrunch reports fired OpenAI safety researchers disputing misconduct claims and warning of a chilling effect.",
+      "whyItMatters": "Part of an ongoing story about lab safety culture.",
+      "organization": "openai"
+    },
+    {
+      "id": "2c141f4d888d9e59b2837d7805953b5f172b15fc",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "newsletter"
+      ],
+      "summary": "Epoch AI weekly brief for October 8.",
+      "whyItMatters": "Weekly recap for catching up on trends.",
+      "organization": "epoch-ai"
+    },
+    {
+      "id": "dc392c2fc2c0994b526ff6680045e80723c5c21a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "culture"
+      ],
+      "summary": "WIRED story on the designer of Meta’s new AI logo facing backlash.",
+      "whyItMatters": "Branding drama; no technical impact.",
+      "organization": "meta"
+    },
+    {
+      "id": "b19315d8b3db7b676970d3edb16b0919fb2537dc",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "microsoft-365"
+      ],
+      "summary": "ZDNET reports Microsoft 365 storage allowances shrinking for some subscribers.",
+      "whyItMatters": "Check your tenant storage if you rely on it.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "3bf143dd453c02c2a9045980573342cf557f3188",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "revenue"
+      ],
+      "summary": "TechCrunch reports OpenAI revenue reportedly well below earlier projections; the figure is secondhand.",
+      "whyItMatters": "A signal about AI revenue expectations; unconfirmed.",
+      "organization": "openai"
+    },
+    {
+      "id": "54a283d7c732aefa5a4003c5d698e90c4745db0a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "usage-policy",
+        "election-integrity"
+      ],
+      "summary": "TechCrunch reports Anthropic changing its usage policy to bar model abuse and election interference.",
+      "whyItMatters": "Policy terms change what builders on Claude may do.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "8ec0662577f572807ae4e5c058014bc99ac8c466",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "inference",
+        "agents",
+        "dynamo"
+      ],
+      "summary": "PyTorch Blog post on session-aware agentic inference using NVIDIA Dynamo.",
+      "whyItMatters": "Relevant to serving multi-turn agents efficiently.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "7cc2fc2bcac39e22936701313a9995370b3f9ab9",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "math",
+        "verification"
+      ],
+      "summary": "TechCrunch reports mathematicians saying OpenAI’s math solutions do not yet meet the field’s standards.",
+      "whyItMatters": "Caution on AI-produced proofs.",
+      "organization": "openai"
+    },
+    {
+      "id": "e2e6b34fdfe60800863225ca373c15d24e83e28e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "copyright",
+        "lawsuit"
+      ],
+      "summary": "The Verge reports USA Today suing OpenAI, joining other publishers.",
+      "whyItMatters": "Adds to the copyright litigation backdrop.",
+      "organization": "openai"
+    },
+    {
+      "id": "606acb3b3f932a5bba8c96bd78b795e14ddf5478",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "open-source",
+        "compute"
+      ],
+      "summary": "The Verge reports SpaceXAI giving $1.5 million of compute to the Omarchy Linux distro.",
+      "whyItMatters": "Small compute sponsorship story.",
+      "organization": "spacexai"
+    },
+    {
+      "id": "c6e69fa07edc33390d38661673a5a47a6069bcef",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gcloud",
+        "agents"
+      ],
+      "summary": "Tech Scoop says Google is turning gcloud into an API for AI agents.",
+      "whyItMatters": "Could let agents manage cloud resources; check docs before relying.",
+      "organization": "google"
+    },
+    {
+      "id": "383533c4a5f7ea4f56b624f569ce026e9ed138ab",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "employment"
+      ],
+      "summary": "ZDNET explainer on regulations protecting workers from being fired by AI.",
+      "whyItMatters": "Relevant if you build hiring or HR automation.",
+      "organization": "general"
+    },
+    {
+      "id": "b5590cdb9727901591be6398ab90221950bedb95",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "vibe-coding",
+        "internal-tools"
+      ],
+      "summary": "Pragmatic Engineer survey piece on tech companies building internal vibe-coding apps.",
+      "whyItMatters": "Shows an adoption pattern worth comparing with your own.",
+      "organization": "general"
+    },
+    {
+      "id": "f5415a0e9da60a56e9336f5a44f00ed939a33608",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "materials-science",
+        "interview"
+      ],
+      "summary": "Latent Space interview with Periodic Labs founders on AI for materials science.",
+      "whyItMatters": "Background on AI-driven materials discovery.",
+      "organization": "periodic-labs"
+    },
+    {
+      "id": "b3c8a6ecfc621b3208dabd8eeb0c84a8bd8cdd88",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "newsletter"
+      ],
+      "summary": "Zvi’s weekly AI roundup, this issue focused on math.",
+      "whyItMatters": "Roundup of the week’s AI discussion.",
+      "organization": "general"
+    },
+    {
+      "id": "b43be4b94fa095bea4afef46dc65b197cce73677",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "software-design"
+      ],
+      "summary": "ByteByteGo essay on software boundaries as a core developer skill.",
+      "whyItMatters": "Design advice that applies to agent-written code too.",
+      "organization": "general"
+    },
+    {
+      "id": "93fa56fef09ee7cc978b2638215d1ab92af6b161",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "opinion"
+      ],
+      "summary": "Towards Data Science essay on keeping judgment amid constant AI marketing.",
+      "whyItMatters": "Opinion; no new facts.",
+      "organization": "general"
+    },
+    {
+      "id": "cbb9d3a99a6a7644d7831c843361714f91127e97",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "on-device",
+        "transcription"
+      ],
+      "summary": "The Verge reports a Google note-taking app that transcribes meetings entirely offline.",
+      "whyItMatters": "On-device transcription helps privacy-sensitive use.",
+      "organization": "google"
+    },
+    {
+      "id": "21372e1bbc9ba4c708b15b50c69c55ee73ce49ad",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "legacy-it",
+        "economics"
+      ],
+      "summary": "ZDNET interview where a former IBM strategist doubts the economics of AI fixing legacy IT.",
+      "whyItMatters": "A skeptical view to weigh against modernization pitches.",
+      "organization": "ibm"
+    },
+    {
+      "id": "fb1e407f7e73b354b293f888dc940b443c227fac",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "energy",
+        "adoption"
+      ],
+      "summary": "IEEE Spectrum piece on U.S. nuclear plants adopting AI.",
+      "whyItMatters": "Example of AI in regulated critical infrastructure.",
+      "organization": "nuclear-industry"
+    },
+    {
+      "id": "66fb2175e098dd022c48c6bc6566387e86b697e8",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "cuda",
+        "agents",
+        "performance"
+      ],
+      "summary": "Towards Data Science article on AI agents writing CUDA kernels faster than PyTorch’s defaults.",
+      "whyItMatters": "Agent-written kernels could cut inference costs; verify benchmarks.",
+      "organization": "general"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "ee0909605c2b45f18b0dc3e2e406e77e1322d597",
+      "reason": "funding"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

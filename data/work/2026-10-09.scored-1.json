@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-09",
+  "batch": 1,
+  "items": [
+    {
+      "id": "6196136eecc5a0dffd7e3a8c4e16bca9d62fd37a",
+      "scores": {
+        "importance": 3,
+        "trend": 4,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "navigation"
+      ],
+      "summary": "Preprint on a hierarchical runtime for navigation agents that manage context across steps.",
+      "whyItMatters": "Niche for now; watch if you build embodied or navigation agents.",
+      "organization": "academic"
+    },
+    {
+      "id": "a0abe38a6464d737a4193944b5a9703ce112f556",
+      "scores": {
+        "importance": 3,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "self-improvement",
+        "agents"
+      ],
+      "summary": "Preprint proposing a recursive self-improvement loop where a model keeps and revises reflective rulebooks.",
+      "whyItMatters": "Self-improvement claims need replication before you rely on them.",
+      "organization": "academic"
+    },
+    {
+      "id": "ec61288089937760a662023eb5618b19de97218c",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical",
+        "multimodal"
+      ],
+      "summary": "Preprint on training multimodal diagnosis agents to weigh the cost of each extra test or image they request.",
+      "whyItMatters": "Relevant mainly to medical AI teams.",
+      "organization": "academic"
+    },
+    {
+      "id": "20f10fb8824505f33d369b613a1e78af63b92600",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "fine-tuning",
+        "forgetting"
+      ],
+      "summary": "Preprint reporting that framing supervised fine-tuning data as context reduces forgetting of earlier abilities.",
+      "whyItMatters": "A possible cheap fix if fine-tuning erodes base skills.",
+      "organization": "academic"
+    },
+    {
+      "id": "2197e2ecc7b78314ec97246ddb6778af76f7ded2",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion-lm",
+        "planning"
+      ],
+      "summary": "Preprint applying diffusion language models to agent planning, with a plan-then-patch procedure.",
+      "whyItMatters": "Early look at non-autoregressive planning for agents.",
+      "organization": "academic"
+    },
+    {
+      "id": "29e2a0a2f24843951a152b35142a86069e6a7634",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "test-time-training"
+      ],
+      "summary": "Preprint on training a policy that decides how a model adapts itself at test time.",
+      "whyItMatters": "Narrow research; test-time training is still experimental.",
+      "organization": "academic"
+    },
+    {
+      "id": "3be60cb811d5d9b737899734db9c3180c1f4fa9c",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "evals",
+        "graders"
+      ],
+      "summary": "Preprint on graders that agents co-evolve with and that humans can inspect, aimed at the verifier problem.",
+      "whyItMatters": "Matters if your evals depend on automated graders.",
+      "organization": "academic"
+    },
+    {
+      "id": "5d8303e98c42f58bd52338868aa2f40900c03032",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "world-models"
+      ],
+      "summary": "Preprint adding visual world modeling to multimodal language models.",
+      "whyItMatters": "Incremental multimodal research.",
+      "organization": "academic"
+    },
+    {
+      "id": "625a994dcb2b7a579db12ce3c25ecc540ec77348",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "long-context",
+        "memory"
+      ],
+      "summary": "Preprint claiming a 50-million-token memory approach cheaper than recomputing context; the claim comes from the title and is unverified.",
+      "whyItMatters": "Worth checking against your long-context costs only if results hold.",
+      "organization": "academic"
+    },
+    {
+      "id": "ffea26ba8e9318100c3290f13b69182ca44fe36c",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "model-editing"
+      ],
+      "summary": "Preprint on compressing stored edits so a model can be edited many times with less memory.",
+      "whyItMatters": "Niche, but relevant to teams that patch model facts.",
+      "organization": "academic"
+    },
+    {
+      "id": "03faf05045ea771cc230a27c4979dba23080f744",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "generative-models"
+      ],
+      "summary": "Preprint introducing flow-style generative models for binary data.",
+      "whyItMatters": "Narrow subfield.",
+      "organization": "academic"
+    },
+    {
+      "id": "07d17ed53f2bd509d1020c815dade48c94e41a06",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion",
+        "few-step"
+      ],
+      "summary": "Preprint on generating samples in few steps by iterating in data space.",
+      "whyItMatters": "Small step in fast-sampling research.",
+      "organization": "academic"
+    },
+    {
+      "id": "0a41a0bf7c6537912b5573f14122b2a46e526c62",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "time-series"
+      ],
+      "summary": "Preprint on time-series forecasting that links numeric signals with news narratives.",
+      "whyItMatters": "Niche forecasting method.",
+      "organization": "academic"
+    },
+    {
+      "id": "0f845d6225d46d2ddaa73e6ee0d2c4235e314c35",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "audio-visual"
+      ],
+      "summary": "Preprint giving audio-visual language models a 2D floor map for spatial context.",
+      "whyItMatters": "Niche multimodal work.",
+      "organization": "academic"
+    },
+    {
+      "id": "171d9fcbbba44de2c6299fdb76e483ea2d78e3cf",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "distillation",
+        "multimodal"
+      ],
+      "summary": "Preprint distilling unified multimodal diffusion language models into few-step generators.",
+      "whyItMatters": "Faster inference for multimodal diffusion models.",
+      "organization": "academic"
+    },
+    {
+      "id": "1d810087c64a83a81d5e67412e1975968d819cbd",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language"
+      ],
+      "summary": "Preprint on guiding vision-language decoders toward grounded regions by handling attention sinks.",
+      "whyItMatters": "Narrow vision-language research.",
+      "organization": "academic"
+    },
+    {
+      "id": "23225f8ab54767d93646e780d8042818964234a9",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "speech",
+        "tokenization"
+      ],
+      "summary": "Preprint comparing pronunciation-aware tokenization for German speech recognition.",
+      "whyItMatters": "Useful only to speech teams working on German.",
+      "organization": "academic"
+    },
+    {
+      "id": "24c1f64b57ff2f6b4fe166e060e93841c10cb2d9",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "world-models"
+      ],
+      "summary": "Preprint describing a latent world-action model for humanoid robot control.",
+      "whyItMatters": "Early robotics research; no deployment signal.",
+      "organization": "academic"
+    },
+    {
+      "id": "2636510686115881c9337b33b81c110a4fd9a3d7",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "sign-language",
+        "rag"
+      ],
+      "summary": "Preprint using retrieval for sign language translation without gloss annotations.",
+      "whyItMatters": "Niche accessibility research.",
+      "organization": "academic"
+    },
+    {
+      "id": "35713fa1e59a973bd9d656e442991252d0c77646",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "kv-cache",
+        "world-models"
+      ],
+      "summary": "Preprint on reusing key-value caches in world action models within a staleness bound.",
+      "whyItMatters": "Inference-efficiency idea for robotics models.",
+      "organization": "academic"
+    },
+    {
+      "id": "39d7cd8fde3c00cb81cd8d0ff94a5f2bdfa037b0",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "quantization",
+        "diffusion"
+      ],
+      "summary": "Preprint on 4-bit weight and activation quantization for multimodal diffusion transformers.",
+      "whyItMatters": "May cut serving cost for image and video generators.",
+      "organization": "academic"
+    },
+    {
+      "id": "3bccda90451de608419050dd7c1552ffe3125ad7",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "kv-cache",
+        "compression"
+      ],
+      "summary": "Preprint compressing the value cache across layers by exploiting symmetry.",
+      "whyItMatters": "Memory savings for long-context serving, if it holds up.",
+      "organization": "academic"
+    },
+    {
+      "id": "3f2f431ed849b7e31529a44d08f33a7d293dca59",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "attention"
+      ],
+      "summary": "Preprint proposing a four-tensor attention variant for modeling physical scenes.",
+      "whyItMatters": "Speculative architecture work.",
+      "organization": "academic"
+    },
+    {
+      "id": "42a6fbbfac952b6750d7095797c260e943273fac",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "language-models",
+        "science"
+      ],
+      "summary": "Preprint releasing language models trained with time-consistent data for scientific text.",
+      "whyItMatters": "Helps avoid leakage in science and tech text tasks.",
+      "organization": "academic"
+    },
+    {
+      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "security",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story saying Sophos shortened threat investigations with its Daybreak product.",
+      "whyItMatters": "Vendor-reported figure; treat as a marketing case study.",
+      "organization": "openai"
+    },
+    {
+      "id": "0086310320ac233105c1d429aff1ea7412199fae",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "implicit-neural-representation"
+      ],
+      "summary": "Preprint on implicit neural representations that combine spatial and frequency features.",
+      "whyItMatters": "Narrow signal-representation research.",
+      "organization": "academic"
+    },
+    {
+      "id": "00e6efe91970d4595346bde8c51fb4b56f2b3359",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "slam",
+        "robotics"
+      ],
+      "summary": "Controlled study of dynamic-point filtering in ORB-SLAM2 for low-texture synthetic scenes.",
+      "whyItMatters": "Niche SLAM engineering result.",
+      "organization": "academic"
+    },
+    {
+      "id": "04f8a5b0d04d6a46d9d1f22b013e74d4962d9074",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "spatial-reasoning"
+      ],
+      "summary": "Preprint on a seek-then-view reasoning approach for multi-view spatial questions.",
+      "whyItMatters": "Narrow vision research.",
+      "organization": "academic"
+    },
+    {
+      "id": "054bbbf4b382d6f34f5f53d4ca935698f628b3be",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-generation",
+        "physics"
+      ],
+      "summary": "Preprint on video generation that models physical phases for more plausible dynamics.",
+      "whyItMatters": "Physics realism is a known weak spot in video models.",
+      "organization": "academic"
+    },
+    {
+      "id": "06fa311fa121d963e9f44ebf5489d809e99017cc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "deepfakes",
+        "detection"
+      ],
+      "summary": "Preprint on detecting and attributing deepfake videos with altered motion.",
+      "whyItMatters": "Relevant to teams building deepfake detection.",
+      "organization": "academic"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

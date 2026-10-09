@@ -5,8 +5,56 @@
     <link>https://YOUR_DOMAIN/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:55:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:09:56 GMT</lastBuildDate>
     <atom:link href="https://YOUR_DOMAIN/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid isPermaLink="false">077dea1e8a7adb2ecc693b38c1b71a2d4ebc694c</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>OpenAI report on disrupting influence operations that use AI to run false-front accounts.</description>
+    </item>
+    <item>
+      <title>Google is launching a one-stop Gemini agent for your work tasks</title>
+      <link>https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</link>
+      <guid isPermaLink="false">94028437ade776ca92b6f161d0c720715855a422</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>The Verge reports Google launching a Gemini agent aimed at workplace tasks.</description>
+    </item>
+    <item>
+      <title>[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing</title>
+      <link>https://www.latent.space/p/ainews-claude-haiku-55-better-than</link>
+      <guid isPermaLink="false">9fa009655eac92fd7a2382f1fd8bcbaebf774eb0</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>News</category>
+      <description>AINews recap saying Claude Haiku 5.5 beats a rival small model at similar pricing; the comparison comes from the newsletter headline.</description>
+    </item>
+    <item>
+      <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
+      <link>https://github.com/pingdotgg/ts-rust</link>
+      <guid isPermaLink="false">1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>News</category>
+      <description>Hacker News link about an LLM-driven port of the TypeScript compiler, checker and language server to Rust.</description>
+    </item>
+    <item>
+      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
+      <link>https://github.com/SamsungLabs/LittleBit</link>
+      <guid isPermaLink="false">3295fd7388cdcc6b9960f1a156f29a0ebf71bbe0</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Research</category>
+      <description>Hacker News link to work on compressing LLMs below one bit per weight using latent factorization.</description>
+    </item>
+    <item>
+      <title>Anthropic bans ‘abusive or cruel behavior’ toward Claude</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
+      <guid isPermaLink="false">f526dbecf422929fb1d36cadc551daf690edf8c6</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Report that Anthropic updated its policy to ban abusive or cruel behavior toward Claude.</description>
+    </item>
     <item>
       <title>GPT-6 and Intelligent UI for everyone</title>
       <link>https://openai.com/index/gpt-6-for-everyone</link>

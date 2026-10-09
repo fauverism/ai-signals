@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-09",
+  "batch": 2,
+  "items": [
+    {
+      "id": "072f19ac035849c0f0db6e80217fbba9a3755180",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "motion-generation"
+      ],
+      "summary": "Preprint on controlling how exaggerated generated motion appears.",
+      "whyItMatters": "Niche animation research.",
+      "organization": "academic"
+    },
+    {
+      "id": "0911f7fe1a38bd7e3a25068652dc422056ff6bde",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "audio-video",
+        "generation"
+      ],
+      "summary": "Preprint on one model that separates and generates audio and video stems.",
+      "whyItMatters": "Early unified audio-video work.",
+      "organization": "academic"
+    },
+    {
+      "id": "092ac882651dfa8398927955a4cabaa22b812bcb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "localization",
+        "robotics"
+      ],
+      "summary": "Preprint on weighting correspondences by confidence for event-camera localization in LiDAR maps.",
+      "whyItMatters": "Niche robotics localization.",
+      "organization": "academic"
+    },
+    {
+      "id": "dbce61753f07bec154d2ec45ac335c5124a6b676",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "robotics",
+        "simulation"
+      ],
+      "summary": "NVIDIA walkthrough of producing simulation-ready robotics assets with generative models.",
+      "whyItMatters": "A practical pipeline reference if you build robot simulation.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "ea6ac6a92eab73ac3b29846b72325cde1c88d338",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "payments"
+      ],
+      "summary": "AWS post on two companies using Bedrock AgentCore payments to charge per inference call for agents.",
+      "whyItMatters": "Shows one pattern for monetizing agent calls.",
+      "organization": "aws"
+    },
+    {
+      "id": "42268168adb0195b00504513f17be274e1dbbd4f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "analytics"
+      ],
+      "summary": "NVIDIA write-up of lessons from building data analytics agents for the KDD Cup.",
+      "whyItMatters": "Concrete agent-reliability lessons from a competition setting.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "d66892423b047fc54f641893352d7241cb07dec6",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "gpu",
+        "sagemaker"
+      ],
+      "summary": "AWS guide to sharing GPU clusters across teams with isolation and fairness in SageMaker HyperPod.",
+      "whyItMatters": "Useful if several teams contend for one training cluster.",
+      "organization": "aws"
+    },
+    {
+      "id": "112b5f00879d4fef3be367032aa59a57159f98cd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "case-study",
+        "codex"
+      ],
+      "summary": "OpenAI customer story on Oracle using ChatGPT and Codex to shorten internal work.",
+      "whyItMatters": "Vendor case study; claims are unaudited.",
+      "organization": "openai"
+    },
+    {
+      "id": "410496e61b6ce6bdaceec3b0d74cc88f6b2b854a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "nist"
+      ],
+      "summary": "NIST study mapping how the toxic substances mixed into fentanyl vary by region and time.",
+      "whyItMatters": "Little direct AI relevance.",
+      "organization": "nist"
+    },
+    {
+      "id": "707d98a285cc8a31ec35e9738ec1908042580ff8",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "nist",
+        "us-policy"
+      ],
+      "summary": "NIST announces it is joining a White House effort on science; details are limited to the headline.",
+      "whyItMatters": "Signals federal science priorities that may shape NIST AI work.",
+      "organization": "nist"
+    },
+    {
+      "id": "ca1ec6c6a1a1314d953bafc0b010c073f56e9464",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "case-study"
+      ],
+      "summary": "OpenAI customer story about Pollo AI building ad campaigns with its models.",
+      "whyItMatters": "Vendor marketing; low signal.",
+      "organization": "openai"
+    },
+    {
+      "id": "f6d3626eb7c890d94bb50058e6f90af5d255e4a4",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "codex",
+        "cost"
+      ],
+      "summary": "OpenAI customer story saying LegalOn halved Codex costs without slowing development.",
+      "whyItMatters": "Cost claim is vendor-reported; check method before copying.",
+      "organization": "openai"
+    },
+    {
+      "id": "077dea1e8a7adb2ecc693b38c1b71a2d4ebc694c",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "misuse",
+        "influence-operations"
+      ],
+      "summary": "OpenAI report on disrupting influence operations that use AI to run false-front accounts.",
+      "whyItMatters": "Shows how misuse is being detected and what platforms see.",
+      "organization": "openai"
+    },
+    {
+      "id": "0f05fd4155a46f4739db6c46922db7133588da72",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "hugging-face",
+        "training"
+      ],
+      "summary": "Hugging Face post on building the model you need yourself when none exists.",
+      "whyItMatters": "Practical nudge for teams stuck without a fitting model.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "a0839e2334709927b4c88e90400b66ca05afda01",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "generative-models"
+      ],
+      "summary": "Apple research post on normalizing trajectory models for generation.",
+      "whyItMatters": "Research from a major lab; practical impact unclear.",
+      "organization": "apple"
+    },
+    {
+      "id": "f526dbecf422929fb1d36cadc551daf690edf8c6",
+      "scores": {
+        "importance": 4,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "usage-policy",
+        "claude"
+      ],
+      "summary": "Report that Anthropic updated its policy to ban abusive or cruel behavior toward Claude.",
+      "whyItMatters": "Another policy shift to read if you build on Claude.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "rust",
+        "typescript",
+        "code-generation"
+      ],
+      "summary": "Hacker News link about an LLM-driven port of the TypeScript compiler, checker and language server to Rust.",
+      "whyItMatters": "Shows how far LLM-driven large ports have come; verify the quality yourself.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "8d4c2faea75d55d32e404f585cbc5fb82ebc67c1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 2
+      },
+      "category": "Opinion",
+      "tags": [
+        "politics"
+      ],
+      "summary": "Hacker News thread on a political remark about the phrase artificial intelligence.",
+      "whyItMatters": "Political noise; no technical change.",
+      "organization": "us-government"
+    },
+    {
+      "id": "70543e9cd2f26ba13455ccfe3c284b34a8cf4999",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "culture"
+      ],
+      "summary": "TechCrunch piece on actor Ben Affleck’s comments about AI drawing online praise.",
+      "whyItMatters": "Cultural reaction only.",
+      "organization": "ben-affleck"
+    },
+    {
+      "id": "ee58890d81f7a8ac142407c50f0e274d07b81337",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "culture"
+      ],
+      "summary": "Simon Willison quotes a remark from Ben Affleck about AI.",
+      "whyItMatters": "Commentary, not news.",
+      "organization": "ben-affleck"
+    },
+    {
+      "id": "c4b9450255a9e60fedb01feaa3a68cf78ced9fe5",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gemini",
+        "agents",
+        "enterprise"
+      ],
+      "summary": "TechCrunch reports Google adding agentic AI to Gemini, starting with business customers.",
+      "whyItMatters": "Another enterprise agent offering to compare with your current stack.",
+      "organization": "google"
+    },
+    {
+      "id": "94028437ade776ca92b6f161d0c720715855a422",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gemini",
+        "agents"
+      ],
+      "summary": "The Verge reports Google launching a Gemini agent aimed at workplace tasks.",
+      "whyItMatters": "Same launch; check availability for your Workspace tier.",
+      "organization": "google"
+    },
+    {
+      "id": "9fa009655eac92fd7a2382f1fd8bcbaebf774eb0",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "haiku",
+        "pricing"
+      ],
+      "summary": "AINews recap saying Claude Haiku 5.5 beats a rival small model at similar pricing; the comparison comes from the newsletter headline.",
+      "whyItMatters": "A small-model price-performance move that could change routing choices.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "298377f26ad3f4c828069303f222aaa0b6346c05",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter"
+      ],
+      "summary": "TLDR digest covering a ChatGPT interface change, Claude Haiku 5.5 and Grok third-party models.",
+      "whyItMatters": "Roundup; read the primary announcements instead.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "3295fd7388cdcc6b9960f1a156f29a0ebf71bbe0",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 7,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "quantization",
+        "compression"
+      ],
+      "summary": "Hacker News link to work on compressing LLMs below one bit per weight using latent factorization.",
+      "whyItMatters": "If results hold, it matters for edge deployment of large models.",
+      "organization": "academic"
+    },
+    {
+      "id": "e298656e11d5793337a57777252f966470ec4266",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "culture"
+      ],
+      "summary": "WIRED piece on how a TV drama franchise is reacting to AI.",
+      "whyItMatters": "Cultural coverage; no practitioner impact.",
+      "organization": "tv"
+    },
+    {
+      "id": "7d2e03002f7b5fa02d2bf3681e03a721bb4f5890",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "safety",
+        "openai"
+      ],
+      "summary": "The Verge reports OpenAI standing by its decision to fire three AI safety researchers.",
+      "whyItMatters": "Bears on how safety teams are treated at labs.",
+      "organization": "openai"
+    },
+    {
+      "id": "ffb664430fda6f4d4e2724b1a6e3b712c3802682",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "safety",
+        "refusals"
+      ],
+      "summary": "MIT Technology Review essay arguing we overestimate AI’s ability to refuse harmful requests.",
+      "whyItMatters": "Reminder not to rely on model refusals as your only control.",
+      "organization": "general"
+    },
+    {
+      "id": "4783e7a5e36c9d7500d934813b8e4ae74c872887",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cli",
+        "tokens"
+      ],
+      "summary": "Simon Willison notes the 1.0 release of ttok, a small token-counting command line tool.",
+      "whyItMatters": "Handy if you count tokens in shell pipelines.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "00d1c91f46389de488d0f8d06fae5e73456c56df",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "math",
+        "verification"
+      ],
+      "summary": "Platformer column on AI solving math problems faster than people can follow the proofs.",
+      "whyItMatters": "Raises a verification problem for AI-generated proofs.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-1a85988288",
+      "label": "Ben Affleck on AI"
+    },
+    {
+      "id": "c-379c292576",
+      "label": "Google Gemini workplace agent"
+    },
+    {
+      "id": "c-401d7528cb",
+      "label": "Claude Haiku 5.5 launch"
+    }
+  ],
+  "fetches": []
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-09",
+  "batch": 4,
+  "items": [
+    {
+      "id": "4f5d65c153d21a16a2f549b5cdba9eb9c24ab963",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "models",
+        "explainer"
+      ],
+      "summary": "Understanding AI explainer on a new model called Jev that many are discussing.",
+      "whyItMatters": "Helpful orientation to a model drawing attention.",
+      "organization": "general"
+    },
+    {
+      "id": "46f61f655ab05af5276b0e6c7ca07b15dc0912cc",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "accelerators"
+      ],
+      "summary": "PyTorch Blog post on bringing IBM’s Spyre accelerator in as a native PyTorch device.",
+      "whyItMatters": "Matters for teams targeting non-GPU accelerators.",
+      "organization": "ibm"
+    },
+    {
+      "id": "eb655f0448a251c07475249aa8b07952fbc2a556",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "time-series",
+        "diffusion"
+      ],
+      "summary": "Towards Data Science part three on why MSE misleads, covering time-series diffusion.",
+      "whyItMatters": "Tutorial for forecasting practitioners.",
+      "organization": "general"
+    },
+    {
+      "id": "95abd2184698e3b946272efc58902358fbdd134f",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "physical-ai",
+        "robotics"
+      ],
+      "summary": "Ars Technica reports Nvidia’s push into physical AI for robotaxis and humanoid robots.",
+      "whyItMatters": "Indicates where Nvidia is steering its robotics stack.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "76fed4269e2f3e28a40f76f39f869cbc8aec5939",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "careers"
+      ],
+      "summary": "Towards Data Science piece clarifying AI engineer and forward deployed engineer roles.",
+      "whyItMatters": "Career context only.",
+      "organization": "general"
+    },
+    {
+      "id": "d565071e20b31c554d234cbcc54afac053e85ea7",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "philosophy"
+      ],
+      "summary": "Essay asking whether morality is relative.",
+      "whyItMatters": "Off-topic philosophy.",
+      "organization": "general"
+    },
+    {
+      "id": "57b3dda6739c146e1e3f3c7662ae3a9f7c5a2f4e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "nonprofit"
+      ],
+      "summary": "WIRED reports a tech nonprofit laying off most staff and going founder-led.",
+      "whyItMatters": "Org news with limited practitioner impact.",
+      "organization": "center-for-humane-technology"
+    },
+    {
+      "id": "c7f4b559a8fbb05c3f5d13a2a3368a40b1c98974",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "robotics",
+        "opinion"
+      ],
+      "summary": "MIT Technology Review argues robotics AI breakthroughs will not change daily life soon.",
+      "whyItMatters": "Tempers expectations on robotics timelines.",
+      "organization": "general"
+    },
+    {
+      "id": "e09a47f5417a68b700a12da5a772662137eb7a69",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "industrial-ai"
+      ],
+      "summary": "MIT Technology Review sponsored-style piece on a safer path to autonomous industrial AI.",
+      "whyItMatters": "Possibly sponsored content; low novelty.",
+      "organization": "general"
+    },
+    {
+      "id": "c2ef578a4730e99d2b0e17dd9f1731a7a01a073d",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "ZDNET reports pricing for Microsoft’s Surface Laptop Ultra.",
+      "whyItMatters": "Hardware pricing story.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "b7d1e3ccac451e409d0ec9851ce1cd0ec1adf630",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "windows",
+        "hardware"
+      ],
+      "summary": "Ars Technica covers Microsoft hardware and Windows changes aimed at AI use.",
+      "whyItMatters": "Context for planning on-device AI targets.",
+      "organization": "microsoft"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "1c4a47cba4b1745d262cbdb153075f756f2a3b2b",
+      "reason": "listicle"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}
