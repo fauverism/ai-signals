@@ -5,7 +5,10 @@
 //   node scripts/bundle.js [--out dist]
 import { cp, mkdir, rm } from 'node:fs/promises';
 import path from 'node:path';
-import { root } from './lib/schemas.js';
+import { fileURLToPath } from 'node:url';
+
+// Not imported from lib/schemas.js: that pulls in ajv, and the host runs this without installing dependencies.
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 export const PUBLISHED_DATA = ['latest.json', 'archive.json', 'editions'];
 
