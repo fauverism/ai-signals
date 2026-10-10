@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-10",
+  "batch": 1,
+  "items": [
+    {
+      "id": "00c7992ecaf23518387a758e4246d63907de8b7f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "graph-learning"
+      ],
+      "summary": "Preprint on scaling topological deep learning to large graphs by batching before the lifting step.",
+      "whyItMatters": "Niche graph-learning method; relevant only if you work with higher-order graph models.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "03fe6f1f0b65a821eb9037d25bc00b0dfaf657d6",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal"
+      ],
+      "summary": "Preprint proposing a higher-order tensor approach to combining signals across modalities.",
+      "whyItMatters": "Narrow multimodal-fusion research; skim only if you build fusion models.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "04145756813d7fd76f5aa5195426beab5065fe81",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "human-centered-ai"
+      ],
+      "summary": "Paper arguing that labeling tasks should keep annotator disagreement instead of forcing a single ground truth.",
+      "whyItMatters": "Relevant if you design annotation or evaluation pipelines.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "048b62f1ca13fb7f99529209271c379ea3f52246",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "autonomous-driving",
+        "world-models"
+      ],
+      "summary": "Preprint on a driving world model that predicts actions using affordances and 3D spatial understanding.",
+      "whyItMatters": "Niche autonomous-driving research.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "04fef9c0744c569cf86e532108240d175f6b1f3a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "architecture"
+      ],
+      "summary": "Preprint introducing a neural network design built around polytopes.",
+      "whyItMatters": "Speculative architecture work; no practical impact yet.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0518b604d5c9cda5bb6932802281b242105ab113",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "voice-agents",
+        "agents"
+      ],
+      "summary": "Preprint on iteratively improving the scaffolding of full-duplex voice agents that collaborate with each other.",
+      "whyItMatters": "Early idea for people building real-time voice agents.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "054dfe5ad5ea67ef75ac316814071d425e0bc3f2",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "biology",
+        "flow-matching"
+      ],
+      "summary": "Preprint applying latent flow matching to joint design of RNA sequence and structure.",
+      "whyItMatters": "Niche computational-biology method.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0709fabf40af646becb8d2447b9e2a686b7ca57f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "emotion"
+      ],
+      "summary": "Preprint on reasoning about why people feel an emotion, not just labeling it, in multimodal data.",
+      "whyItMatters": "Narrow affective-computing research.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "07862ce6a3faf1ca4cd319b59c71314850a77a47",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "aws",
+        "roundup"
+      ],
+      "summary": "AWS monthly recap of what shipped for AI builders in September.",
+      "whyItMatters": "A catch-up list if you build on AWS; nothing new on its own.",
+      "organization": "aws"
+    },
+    {
+      "id": "dd106deebac2ad6f6388e4356dd93b85970f502f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Business",
+      "tags": [
+        "aws",
+        "bedrock",
+        "agents"
+      ],
+      "summary": "AWS case study of how Postman runs its Agent Mode on Amazon Bedrock for a large developer base.",
+      "whyItMatters": "Shows one production pattern for agents on Bedrock.",
+      "organization": "aws"
+    },
+    {
+      "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gpu",
+        "scheduling",
+        "infrastructure"
+      ],
+      "summary": "Hugging Face post on scheduling jobs across GPU clusters more effectively.",
+      "whyItMatters": "Useful if you manage shared GPU capacity.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "cost",
+        "browser-agents"
+      ],
+      "summary": "OpenAI customer story saying Asana cut model costs sharply in browser-testing work after moving to a new model.",
+      "whyItMatters": "Vendor-reported savings; treat the multiplier as a claim to test.",
+      "organization": "openai"
+    },
+    {
+      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "security"
+      ],
+      "summary": "OpenAI customer story on Sophos shortening threat investigations with an OpenAI security product.",
+      "whyItMatters": "Vendor-reported result; check against your own SOC workload.",
+      "organization": "openai"
+    },
+    {
+      "id": "50f2f8d37049a92ba64157266fda67c97d6b4ae6",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "hallucination",
+        "incident"
+      ],
+      "summary": "The Verge reports an Anthropic model produced a false tip about an unsolved homicide that reached Philadelphia police.",
+      "whyItMatters": "A real-world harm case from model output; review human checks before agent output reaches third parties.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "hallucination",
+        "incident"
+      ],
+      "summary": "TechCrunch covers the same incident: an Anthropic model sent Philadelphia police a false homicide tip.",
+      "whyItMatters": "Second outlet confirming the incident; see the lead report.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "0c0375d64af51608055cc44ebb40b939559aa004",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "open-source",
+        "llm-policy"
+      ],
+      "summary": "Hacker News link to a list of alternatives to open-source projects that have chosen to adopt LLMs.",
+      "whyItMatters": "Signals community friction over AI use in open-source projects.",
+      "organization": "community"
+    },
+    {
+      "id": "31ec7357b5b810af357b4448acfa661682b9e5cb",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer"
+      ],
+      "summary": "ZDNET piece on a new smart lock with a mechanical fallback.",
+      "whyItMatters": "Consumer gadget; little relevance to AI builders.",
+      "organization": "ring"
+    },
+    {
+      "id": "a77859e4336cb4a4818540c29ca4374b1cb71925",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Latent Space daily roundup led by funding news for a non-text model maker.",
+      "whyItMatters": "Digest; the funding item carries no technical detail.",
+      "organization": "latent-space"
+    },
+    {
+      "id": "ba6de7f0c69d7511dd675836d51d1b038ffa4244",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "safety"
+      ],
+      "summary": "Gary Marcus argues that agents with open internet access should be pulled from the market.",
+      "whyItMatters": "A strong stance on agent risk; opinion, not evidence.",
+      "organization": "gary-marcus"
+    },
+    {
+      "id": "d78bb69c492519f99206f8fe057e7a1330d9211a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison shares an excerpt of a New York Times piece with brief comment.",
+      "whyItMatters": "Minor link post.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "acc65b95cb5138c3fe9ad8037d4731ce58fe3aeb",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "alphafold",
+        "biology",
+        "podcast"
+      ],
+      "summary": "Podcast conversation with DeepMind and Biohub researchers on what protein structure prediction left unsolved.",
+      "whyItMatters": "Useful context on limits of AI in biology.",
+      "organization": "google-deepmind"
+    },
+    {
+      "id": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "evals",
+        "agent-safety"
+      ],
+      "summary": "TechCrunch reports Anthropic is isolating its internal evaluations from the live internet because it cannot fully control its agents.",
+      "whyItMatters": "Signals that agent evals need network isolation; consider the same for yours.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "95d52c99a70e7e83f871ede9d53ee20f999e954b",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "deno",
+        "cloudflare",
+        "javascript"
+      ],
+      "summary": "Simon Willison notes that Deno is joining Cloudflare.",
+      "whyItMatters": "Affects teams on the Deno runtime and Cloudflare Workers.",
+      "organization": "cloudflare"
+    },
+    {
+      "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "data-centers",
+        "geopolitics"
+      ],
+      "summary": "Ars Technica reports a drone strike hit an AI data center tied to a Russian tech company.",
+      "whyItMatters": "Shows data centers as physical targets in conflict.",
+      "organization": "yandex"
+    },
+    {
+      "id": "2affe4da8255287ec5783d9e33b846af57413794",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "agi",
+        "forecasting"
+      ],
+      "summary": "Nathan Lambert argues AI will progress quickly but not toward a single general superintelligence.",
+      "whyItMatters": "A view on how capability growth will shape tools you plan around.",
+      "organization": "interconnects"
+    },
+    {
+      "id": "048fcb30e5f3e85ffa9aeefd797ee783872f956a",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "coding-agents",
+        "productivity"
+      ],
+      "summary": "Ars Technica examines claims that AI coding agents produce more code without producing more finished software.",
+      "whyItMatters": "Prompts a check of what your agents ship versus merely write.",
+      "organization": "ars-technica"
+    },
+    {
+      "id": "0b514fc332871c5bd9e7ff9ad2048a1cd4575d79",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "publishing",
+        "labor"
+      ],
+      "summary": "WIRED reports that book publishers are using more AI and staff are objecting.",
+      "whyItMatters": "Labor tension around AI adoption in publishing.",
+      "organization": "book-publishers"
+    },
+    {
+      "id": "789e2cdb0f49bf6d513997e4ae20d55bcad42533",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "mathematics"
+      ],
+      "summary": "The Verge reports that mathematicians say it will take years to digest a new batch of math results from OpenAI.",
+      "whyItMatters": "Suggests AI proof output is outpacing human verification.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "b0e83be7355ca090da9e9842565bf6ba9847c01c",
+      "reason": "funding, no substance"
+    },
+    {
+      "id": "acda22ea2e174f102f7f94052316cc60405c58cd",
+      "reason": "listicle/product comparison"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-33c6f9a721",
+      "label": "Anthropic false police homicide tip"
+    }
+  ],
+  "fetches": []
+}

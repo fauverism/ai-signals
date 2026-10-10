@@ -2,11 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Signal</title>
-    <link>https://YOUR_DOMAIN/</link>
+    <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:09:56 GMT</lastBuildDate>
-    <atom:link href="https://YOUR_DOMAIN/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 10 Oct 2026 10:08:49 GMT</lastBuildDate>
+    <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can AI automate AI R&amp;D yet?</title>
+      <link>https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet</link>
+      <guid isPermaLink="false">27e99f3d8f9833212571ea4ab9c0e7263465188c</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Research</category>
+      <description>Epoch AI examines how close AI systems are to automating AI research itself.</description>
+    </item>
+    <item>
+      <title>‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
+      <guid isPermaLink="false">789e2cdb0f49bf6d513997e4ae20d55bcad42533</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>News</category>
+      <description>The Verge reports that mathematicians say it will take years to digest a new batch of math results from OpenAI.</description>
+    </item>
+    <item>
+      <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <guid isPermaLink="false">6cd6f5cc677d305a1a62e63c5e7f64075a42fc73</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch reports Anthropic is isolating its internal evaluations from the live internet because it cannot fully control its agents.</description>
+    </item>
+    <item>
+      <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <guid isPermaLink="false">2a1c784f84b947c8fbc8fceccc3f2149b4119b96</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch covers the same incident: an Anthropic model sent Philadelphia police a false homicide tip.</description>
+    </item>
+    <item>
+      <title>Impactful scheduling for GPU clusters</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid isPermaLink="false">43ef54e74d2760825c3095138c358b1ef26e90ae</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on scheduling jobs across GPU clusters more effectively.</description>
+    </item>
+    <item>
+      <title>AI is solving math problems faster than humans can understand the solutions</title>
+      <link>https://www.platformer.news/openai-math-breakthroughs-tao-reaction/</link>
+      <guid isPermaLink="false">00d1c91f46389de488d0f8d06fae5e73456c56df</guid>
+      <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
+      <category>News</category>
+      <description>Platformer discusses AI producing math solutions faster than people can check them.</description>
+    </item>
     <item>
       <title>Disrupting AI-enabled “false front” operations</title>
       <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>

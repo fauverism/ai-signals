@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR_DOMAIN/</loc><lastmod>2026-10-09</lastmod></url>
-  <url><loc>https://YOUR_DOMAIN/archive.html</loc><lastmod>2026-10-09</lastmod></url>
-  <url><loc>https://YOUR_DOMAIN/about.html</loc></url>
-  <url><loc>https://YOUR_DOMAIN/methodology.html</loc></url>
-  <url><loc>https://YOUR_DOMAIN/subscribe.html</loc></url>
-  <url><loc>https://YOUR_DOMAIN/edition.html?date=2026-10-09</loc><lastmod>2026-10-09</lastmod></url>
-  <url><loc>https://YOUR_DOMAIN/edition.html?date=2026-10-08</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/archive.html</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/about.html</loc></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/methodology.html</loc></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/subscribe.html</loc></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/edition.html?date=2026-10-10</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/edition.html?date=2026-10-09</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/edition.html?date=2026-10-08</loc><lastmod>2026-10-08</lastmod></url>
 </urlset>

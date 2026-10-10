@@ -1,0 +1,1662 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T10:07:52Z",
+  "params": {
+    "cap": 150,
+    "perSourceCap": 8,
+    "nearDupHours": 48,
+    "nearDupJaccard": 0.6,
+    "clusterHours": 72
+  },
+  "stats": {
+    "before": 355,
+    "afterExact": 355,
+    "afterNearDup": 355,
+    "clusters": 1,
+    "afterCap": 60,
+    "priorEditions": 2
+  },
+  "items": [
+    {
+      "id": "00c7992ecaf23518387a758e4246d63907de8b7f",
+      "url": "https://arxiv.org/abs/2610.12247",
+      "canonicalUrl": "https://arxiv.org/abs/2610.12247",
+      "title": "Batch Before You Lift: Scalable Topological Deep Learning on Large Graphs",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "David Leko, Luka Beni\\'c, Guillermo Bern\\'ardez, Nina Miolane, Olga Fink, Lev Telyatnikov",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "03fe6f1f0b65a821eb9037d25bc00b0dfaf657d6",
+      "url": "https://arxiv.org/abs/2610.12393",
+      "canonicalUrl": "https://arxiv.org/abs/2610.12393",
+      "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Qun Dai, Liangjian Wen, Jiang Duan, Yong Dai, Dongkai Wang, Maolin Wang, Mingjie Wang, Jianzhuang Liu, He Yan, Zhao Kang",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "04145756813d7fd76f5aa5195426beab5065fe81",
+      "url": "https://arxiv.org/abs/2610.10805",
+      "canonicalUrl": "https://arxiv.org/abs/2610.10805",
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jingyao Wu, Mohammad Tariqul Islam, Per R{\\aa}dberg Nagb{\\o}l, Julie Gerlings, Giovanni Leoni, Georgiana Fryza, et al.",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "048b62f1ca13fb7f99529209271c379ea3f52246",
+      "url": "https://arxiv.org/abs/2610.11060",
+      "canonicalUrl": "https://arxiv.org/abs/2610.11060",
+      "title": "AffordDrive3D: Affordance-Aware World-Action Modeling with Spatial Understanding",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Tianhui Cai, Xinglong Sun, Chao Fang, Zhenxin Li, Rui Song, Jose M. Alvarez, Yunxiang Mao, Jiaqi Ma, Langechuan Liu",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 4
+    },
+    {
+      "id": "04fef9c0744c569cf86e532108240d175f6b1f3a",
+      "url": "https://arxiv.org/abs/2610.12004",
+      "canonicalUrl": "https://arxiv.org/abs/2610.12004",
+      "title": "The Polytopal Neural Network",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "A. Emilie J. Wedenborg, Anders V. N{\\o}rskov, Teresa Dorszewski, Kristoffer Wickstr{\\o}m, Morten M{\\o}rup",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 4
+    },
+    {
+      "id": "0518b604d5c9cda5bb6932802281b242105ab113",
+      "url": "https://arxiv.org/abs/2610.11299",
+      "canonicalUrl": "https://arxiv.org/abs/2610.11299",
+      "title": "DuplexAgent-RSI: Recursive Harness Improvement for Full-Duplex Voice Agent Collaboration",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Yingda Shen, Yuxiang Wang, Kunyu Feng, Qinke Ni, Jiaqi Li, Minghao Hsu, Junan Zhang, Dekun Chen, Yutong Bian, et al.",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "054dfe5ad5ea67ef75ac316814071d425e0bc3f2",
+      "url": "https://arxiv.org/abs/2610.12236",
+      "canonicalUrl": "https://arxiv.org/abs/2610.12236",
+      "title": "La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Runze Ma, Will Hua, Shuangjia Zheng",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "0709fabf40af646becb8d2447b9e2a686b7ca57f",
+      "url": "https://arxiv.org/abs/2610.11918",
+      "canonicalUrl": "https://arxiv.org/abs/2610.11918",
+      "title": "From Surface to Depth: Towards Cognitive Appraisal Reasoning in Multimodal Emotion Understanding",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Jia Li, Yichao He, Yangchen Yu, Qiankun Li, Xinyi Li, Baiyi Ye, Zhenzhen Hu, Richang Hong, Erik Cambria",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "arXiv cs.AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "07862ce6a3faf1ca4cd319b59c71314850a77a47",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Prachi Mishra",
+      "publishedAt": "2026-10-09T15:38:39Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "dd106deebac2ad6f6388e4356dd93b85970f502f",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Srinivas Kini",
+      "publishedAt": "2026-10-09T15:35:02Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "AWS Machine Learning Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": -0.5,
+      "preScore": 4
+    },
+    {
+      "id": "43ef54e74d2760825c3095138c358b1ef26e90ae",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "canonicalUrl": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "title": "Impactful scheduling for GPU clusters",
+      "source": "Hugging Face Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-10-09T15:20:29Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hugging Face Blog"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 4
+    },
+    {
+      "id": "90995f7dbc9c26746d9c1348259bf95f75d89e72",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "canonicalUrl": "https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI News",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-09T07:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "OpenAI News"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 4
+    },
+    {
+      "id": "edd58468d564448f5fe7e63ada47c987b79bf809",
+      "url": "https://openai.com/index/sophos",
+      "canonicalUrl": "https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "OpenAI News",
+      "sourceTier": 1,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-09T07:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "OpenAI News"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 0.5,
+      "preScore": 4
+    },
+    {
+      "id": "50f2f8d37049a92ba64157266fda67c97d6b4ae6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-09T21:15:38Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": "c-33c6f9a721",
+      "previouslyFeatured": false,
+      "trendDelta": 2,
+      "preScore": 4
+    },
+    {
+      "id": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-10-09T19:36:56Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": "c-33c6f9a721",
+      "previouslyFeatured": false,
+      "trendDelta": 2,
+      "preScore": 4
+    },
+    {
+      "id": "0c0375d64af51608055cc44ebb40b939559aa004",
+      "url": "https://codeberg.org/ethical-foss/open-slopware",
+      "canonicalUrl": "https://codeberg.org/ethical-foss/open-slopware",
+      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-09T19:50:16Z",
+      "fetchedAt": "2026-10-10T10:07:49Z",
+      "signals": {
+        "hnPoints": 30,
+        "hnComments": 14,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Hacker News: LLM"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3.54
+    },
+    {
+      "id": "31ec7357b5b810af357b4448acfa661682b9e5cb",
+      "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+      "canonicalUrl": "https://zdnet.com/uncategorized/ring-smart-lock-manual-power-dial",
+      "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
+      "source": "ZDNET: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Maria Diaz",
+      "publishedAt": "2026-10-10T08:15:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "ZDNET: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "a77859e4336cb4a4818540c29ca4374b1cb71925",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "canonicalUrl": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-10T06:45:57Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "ba6de7f0c69d7511dd675836d51d1b038ffa4244",
+      "url": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
+      "canonicalUrl": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
+      "title": "We must recall open-ended AI agents with internet access from the market, now",
+      "source": "Marcus on AI",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Gary Marcus",
+      "publishedAt": "2026-10-10T03:40:18Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Marcus on AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "d78bb69c492519f99206f8fe057e7a1330d9211a",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+      "title": "Quoting The New York Times",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-10T02:04:12Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "acc65b95cb5138c3fe9ad8037d4731ce58fe3aeb",
+      "url": "https://www.latent.space/p/biohub-deepmind",
+      "canonicalUrl": "https://latent.space/p/biohub-deepmind",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-10T00:31:26Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "6cd6f5cc677d305a1a62e63c5e7f64075a42fc73",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-10-10T00:18:32Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "95d52c99a70e7e83f871ede9d53ee20f999e954b",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
+      "title": "Deno is joining Cloudflare",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-09T22:48:37Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "d587fa318b28c3aad10a44883635716c7f8a2470",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jeremy Hsu",
+      "publishedAt": "2026-10-09T22:04:07Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "b0e83be7355ca090da9e9842565bf6ba9847c01c",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Marina Temkin",
+      "publishedAt": "2026-10-09T21:41:29Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "2affe4da8255287ec5783d9e33b846af57413794",
+      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "canonicalUrl": "https://interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "source": "Interconnects (Nathan Lambert)",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Nathan Lambert",
+      "publishedAt": "2026-10-09T21:33:47Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Interconnects (Nathan Lambert)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "048fcb30e5f3e85ffa9aeefd797ee783872f956a",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "canonicalUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Kyle Orland",
+      "publishedAt": "2026-10-09T19:43:50Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "0b514fc332871c5bd9e7ff9ad2048a1cd4575d79",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "canonicalUrl": "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Adam Morgan",
+      "publishedAt": "2026-10-09T19:28:49Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "acda22ea2e174f102f7f94052316cc60405c58cd",
+      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+      "canonicalUrl": "https://zdnet.com/tech/amazon-new-alexa-tablets-google-play-store",
+      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
+      "source": "ZDNET: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Maria Diaz",
+      "publishedAt": "2026-10-09T19:10:12Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "ZDNET: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "789e2cdb0f49bf6d513997e4ae20d55bcad42533",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Robert Hart",
+      "publishedAt": "2026-10-09T19:09:44Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "266dbefb97b258c9cb609cd792e236e716413842",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "canonicalUrl": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jennifer Ouellette",
+      "publishedAt": "2026-10-09T18:44:06Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Ars Technica: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "27e99f3d8f9833212571ea4ab9c0e7263465188c",
+      "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+      "canonicalUrl": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+      "title": "Can AI automate AI R&D yet?",
+      "source": "Epoch AI",
+      "sourceTier": 2,
+      "categoryHint": "Research",
+      "author": "David Owen",
+      "publishedAt": "2026-10-09T18:41:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Epoch AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c06a0de6de5c1cffff5362766069015c34606501",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Stevie Bonifield",
+      "publishedAt": "2026-10-09T18:06:57Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "b1eb962139f05e3970a88517e15423e89831679d",
+      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "canonicalUrl": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "title": "Master AI Chip Principles With New IEEE Design Program",
+      "source": "IEEE Spectrum: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Angelo Athens",
+      "publishedAt": "2026-10-09T18:00:02Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "IEEE Spectrum: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "27087fda62628827413c7fe064ff90cd99ad4edc",
+      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+      "canonicalUrl": "https://zdnet.com/tech/linus-torvalds-ai-coding-programming",
+      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+      "source": "ZDNET: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Steven Vaughan-Nichols",
+      "publishedAt": "2026-10-09T17:53:18Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "ZDNET: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "e053ae3b334d93979e648360685e326edbd8069f",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "canonicalUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Theresa Loconsolo",
+      "publishedAt": "2026-10-09T16:56:42Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "1b62d45c1a2ab9b02aab2a839d1f16671b43b91f",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "canonicalUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
+      "publishedAt": "2026-10-09T16:53:02Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "fc5d9906163990fb1da66b48576049c6af57465a",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-10-09T16:45:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ec93bee08bf344ac1bafe8f9de8bfeb1503f825e",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-10-09T16:40:14Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "3b848468c4fdf7852aed02c11e3f2dcd74ecf8e1",
+      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-junk/",
+      "canonicalUrl": "https://wheresyoured.at/premium-the-haters-guide-to-junk",
+      "title": "Premium: The Hater's Guide To Junk",
+      "source": "Where's Your Ed At (Ed Zitron)",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Ed Zitron",
+      "publishedAt": "2026-10-09T15:53:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Where's Your Ed At (Ed Zitron)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c600ade0c9b505321dc9fb0dced3443f6112f1a5",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-10-09T15:43:33Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TechCrunch: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "2d0b85da4803dd924786bdb5bab257fd114f8710",
+      "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
+      "canonicalUrl": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm",
+      "title": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Benjamin Nweke",
+      "publishedAt": "2026-10-09T15:30:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "7c24096eedd5d485d72e4add7dcfecf7c30394f1",
+      "url": "https://www.thealgorithmicbridge.com/p/the-actual-reason-why-meta-got-back",
+      "canonicalUrl": "https://thealgorithmicbridge.com/p/the-actual-reason-why-meta-got-back",
+      "title": "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+      "source": "The Algorithmic Bridge",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Alberto Romero",
+      "publishedAt": "2026-10-09T15:25:22Z",
+      "fetchedAt": "2026-10-10T10:07:52Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Algorithmic Bridge"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "963b8184663b383e0d072f57bf518f0be43c0423",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/9/matthew-green",
+      "title": "Quoting Matthew Green",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-09T15:02:29Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "805a88ef4cda499bcb49a1c22388f8d7092b03cb",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "canonicalUrl": "https://theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Adi Robertson",
+      "publishedAt": "2026-10-09T14:25:43Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "4c734c05fb41a55c5e4ba9b48585256ee6b260f5",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "canonicalUrl": "https://theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Allison Johnson",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "e95f2123e168b273b8cc1dda99a7534fc48cf7a3",
+      "url": "https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/",
+      "canonicalUrl": "https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents",
+      "title": "Where Does the Money Go Across Long-Running Coding Agents?",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Daniel Miller",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "5801be992843280f713b085aa2db5dfa6962848d",
+      "url": "https://thezvi.substack.com/p/new-math-from-openai",
+      "canonicalUrl": "https://thezvi.substack.com/p/new-math-from-openai",
+      "title": "New Math from OpenAI",
+      "source": "Don't Worry About the Vase (Zvi)",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Zvi Mowshowitz",
+      "publishedAt": "2026-10-09T13:20:43Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Don't Worry About the Vase (Zvi)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "19c45cc3b756fb5c0165b19fdf2d6df823a59863",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "title": "A new feature for my blog, built using my voice",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-09T12:54:06Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "45f8d37d3f61e9e5483c1aae077f4cb568ae2ab1",
+      "url": "https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/",
+      "canonicalUrl": "https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call",
+      "title": "Build Your First AI Agent with One Tool Call",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Thomas Reid",
+      "publishedAt": "2026-10-09T12:30:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "c4ab49a1586cd42639cc2f3d9e798692b1b3474a",
+      "url": "https://towardsdatascience.com/stop-using-ai-start-hiring-it/",
+      "canonicalUrl": "https://towardsdatascience.com/stop-using-ai-start-hiring-it",
+      "title": "Stop Using AI. Start Hiring It.",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Gursimar Singh",
+      "publishedAt": "2026-10-09T11:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Towards Data Science"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "e298656e11d5793337a57777252f966470ec4266",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "canonicalUrl": "https://wired.com/story/even-law-and-order-is-terrified-of-ai",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ej Dickson",
+      "publishedAt": "2026-10-09T10:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "WIRED: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "7d2e03002f7b5fa02d2bf3681e03a721bb4f5890",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Robert Hart",
+      "publishedAt": "2026-10-09T09:48:26Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "The Verge: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ffb664430fda6f4d4e2724b1a6e3b712c3802682",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "canonicalUrl": "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "source": "MIT Technology Review: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Arthur Holland Michel",
+      "publishedAt": "2026-10-09T09:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "MIT Technology Review: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "4783e7a5e36c9d7500d934813b8e4ae74c872887",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/9/ttok",
+      "title": "ttok 1.0",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-09T00:34:43Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 0.5,
+      "preScore": 3
+    },
+    {
+      "id": "00d1c91f46389de488d0f8d06fae5e73456c56df",
+      "url": "https://www.platformer.news/openai-math-breakthroughs-tao-reaction/",
+      "canonicalUrl": "https://platformer.news/openai-math-breakthroughs-tao-reaction",
+      "title": "AI is solving math problems faster than humans can understand the solutions",
+      "source": "Platformer (Casey Newton)",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ella Markianos",
+      "publishedAt": "2026-10-09T00:28:26Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Platformer (Casey Newton)"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "ebb614553ba6c1d6ef7ffbcb571981a0bd978417",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "canonicalUrl": "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "MIT Technology Review",
+      "publishedAt": "2026-10-09T00:08:24Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "MIT Technology Review: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "3c6567878a2b5f4f5d0cb63331e16c8d138c5007",
+      "url": "https://tldr.tech/ai/2026-10-09",
+      "canonicalUrl": "https://tldr.tech/ai/2026-10-09",
+      "title": "GPT-6.1 Ultrafast ⚡, Gemini universal agent 🤖, speculative decoding 🧠",
+      "source": "TLDR AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "TLDR",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "fetchedAt": "2026-10-10T10:07:52Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "TLDR AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
+    },
+    {
+      "id": "e795790bb7b1d2869cd72ca5dedd556008730fb9",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/8/ttok",
+      "title": "ttok 0.4",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-08T23:34:28Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Simon Willison"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 0.5,
+      "preScore": 3
+    },
+    {
+      "id": "2d2415fa4281819ea0b38cdf6530cfaa12aff87a",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "canonicalUrl": "https://latent.space/p/ainews-not-much-happened-today-60f",
+      "title": "[AINews] not much happened today",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-08T23:29:43Z",
+      "fetchedAt": "2026-10-10T10:07:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "Latent Space"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    }
+  ],
+  "clusters": [
+    {
+      "id": "c-33c6f9a721",
+      "label": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "itemIds": [
+        "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
+        "50f2f8d37049a92ba64157266fda67c97d6b4ae6"
+      ],
+      "leadItemId": "2a1c784f84b947c8fbc8fceccc3f2149b4119b96",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "size": 2,
+      "entities": [
+        "anthropic",
+        "philadelphia"
+      ],
+      "trendDelta": 2
+    }
+  ]
+}

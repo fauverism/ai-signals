@@ -1,0 +1,518 @@
+{
+  "date": "2026-10-10",
+  "batch": 2,
+  "items": [
+    {
+      "id": "266dbefb97b258c9cb609cd792e236e716413842",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "generative-ai",
+        "competition"
+      ],
+      "summary": "Ars Technica reports a microscopy video contest winner was disqualified for using generative AI.",
+      "whyItMatters": "Example of AI-use rules being enforced in a contest.",
+      "organization": "nikon"
+    },
+    {
+      "id": "27e99f3d8f9833212571ea4ab9c0e7263465188c",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "ai-research",
+        "automation",
+        "forecasting"
+      ],
+      "summary": "Epoch AI examines how close AI systems are to automating AI research itself.",
+      "whyItMatters": "Informs planning on how fast AI progress could compound.",
+      "organization": "epoch-ai"
+    },
+    {
+      "id": "c06a0de6de5c1cffff5362766069015c34606501",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "generative-ai",
+        "competition"
+      ],
+      "summary": "The Verge covers the same contest disqualification over generative AI use.",
+      "whyItMatters": "Duplicate coverage of the Nikon contest story.",
+      "organization": "nikon"
+    },
+    {
+      "id": "b1eb962139f05e3970a88517e15423e89831679d",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "hardware",
+        "education"
+      ],
+      "summary": "IEEE Spectrum announces a program teaching the principles of AI chip design.",
+      "whyItMatters": "Training option if you want hardware-level depth.",
+      "organization": "ieee"
+    },
+    {
+      "id": "27087fda62628827413c7fe064ff90cd99ad4edc",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "coding",
+        "developer-practice"
+      ],
+      "summary": "ZDNET interview with Linus Torvalds about how he uses AI for tasks he is weaker at.",
+      "whyItMatters": "A prominent maintainer's take on practical AI use.",
+      "organization": "linux-foundation"
+    },
+    {
+      "id": "e053ae3b334d93979e648360685e326edbd8069f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "data-centers",
+        "transparency"
+      ],
+      "summary": "TechCrunch reports Amazon and others are dropping secrecy around data center deals.",
+      "whyItMatters": "Matters for communities and teams tracking compute buildout.",
+      "organization": "amazon"
+    },
+    {
+      "id": "1b62d45c1a2ab9b02aab2a839d1f16671b43b91f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "data-centers",
+        "agent-payments"
+      ],
+      "summary": "TechCrunch podcast episode covering Amazon ending data center NDAs and agents that handle payments.",
+      "whyItMatters": "Audio roundup of two topics.",
+      "organization": "techcrunch"
+    },
+    {
+      "id": "fc5d9906163990fb1da66b48576049c6af57465a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "robotics"
+      ],
+      "summary": "TechCrunch profile of a startup building a recycling robot.",
+      "whyItMatters": "Robotics startup feature; little general impact.",
+      "organization": "danu-robotics"
+    },
+    {
+      "id": "ec93bee08bf344ac1bafe8f9de8bfeb1503f825e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "human-ai-interaction"
+      ],
+      "summary": "TechCrunch podcast discussion of why people treat AI as human and whether they should.",
+      "whyItMatters": "General discussion; no new findings.",
+      "organization": "techcrunch"
+    },
+    {
+      "id": "3b848468c4fdf7852aed02c11e3f2dcd74ecf8e1",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary",
+        "criticism"
+      ],
+      "summary": "Paywalled Ed Zitron newsletter issue criticizing AI industry hype.",
+      "whyItMatters": "Opinion; skip unless you follow the author.",
+      "organization": "ed-zitron"
+    },
+    {
+      "id": "c600ade0c9b505321dc9fb0dced3443f6112f1a5",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "consumer-ai",
+        "venture"
+      ],
+      "summary": "TechCrunch podcast with an a16z partner on the state of consumer AI products.",
+      "whyItMatters": "Investor view on consumer AI demand.",
+      "organization": "a16z"
+    },
+    {
+      "id": "2d0b85da4803dd924786bdb5bab257fd114f8710",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-safety",
+        "guardrails"
+      ],
+      "summary": "Towards Data Science article exploring whether a non-LLM approach can make AI agents safer.",
+      "whyItMatters": "Idea worth testing if guardrails are costly in your stack.",
+      "organization": "typesafe"
+    },
+    {
+      "id": "7c24096eedd5d485d72e4add7dcfecf7c30394f1",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "meta",
+        "strategy"
+      ],
+      "summary": "Algorithmic Bridge essay speculating on why Meta returned to the AI race.",
+      "whyItMatters": "Opinion on strategy; no new facts.",
+      "organization": "meta"
+    },
+    {
+      "id": "963b8184663b383e0d072f57bf518f0be43c0423",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison shares an excerpt from Matthew Green with brief comment.",
+      "whyItMatters": "Minor link post.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "805a88ef4cda499bcb49a1c22388f8d7092b03cb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "policy",
+        "government"
+      ],
+      "summary": "The Verge reports on a political attempt to rename AI and why it is not catching on.",
+      "whyItMatters": "Policy theater; low practical impact.",
+      "organization": "us-government"
+    },
+    {
+      "id": "4c734c05fb41a55c5e4ba9b48585256ee6b260f5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "products"
+      ],
+      "summary": "The Verge asks whether a once-popular agent product can survive competition from a new rival.",
+      "whyItMatters": "Landscape note for teams choosing agent products.",
+      "organization": "instinct"
+    },
+    {
+      "id": "e95f2123e168b273b8cc1dda99a7534fc48cf7a3",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "coding-agents",
+        "cost"
+      ],
+      "summary": "Towards Data Science analysis of where spending goes in long-running coding agents.",
+      "whyItMatters": "Helps you find cost drivers in agent runs.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "5801be992843280f713b085aa2db5dfa6962848d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "openai",
+        "mathematics"
+      ],
+      "summary": "Zvi covers OpenAI's new math results and reactions.",
+      "whyItMatters": "Commentary that adds context to the math story.",
+      "organization": "openai"
+    },
+    {
+      "id": "19c45cc3b756fb5c0165b19fdf2d6df823a59863",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "voice",
+        "vibe-coding"
+      ],
+      "summary": "Simon Willison describes adding a blog feature by dictating instructions with his voice.",
+      "whyItMatters": "A small example of voice-driven coding.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "45f8d37d3f61e9e5483c1aae077f4cb568ae2ab1",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "tutorial"
+      ],
+      "summary": "Towards Data Science tutorial on building a first AI agent around a single tool call.",
+      "whyItMatters": "Beginner-level starting point.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "c4ab49a1586cd42639cc2f3d9e798692b1b3474a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "management"
+      ],
+      "summary": "Towards Data Science essay recasting AI use as hiring and managing an agent.",
+      "whyItMatters": "Mindset piece with little hands-on content.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "e298656e11d5793337a57777252f966470ec4266",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "entertainment",
+        "labor"
+      ],
+      "summary": "WIRED on how a long-running TV drama is reacting to AI.",
+      "whyItMatters": "Culture piece; limited relevance.",
+      "organization": "nbc"
+    },
+    {
+      "id": "7d2e03002f7b5fa02d2bf3681e03a721bb4f5890",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "safety",
+        "personnel"
+      ],
+      "summary": "The Verge reports OpenAI is standing by its decision to fire three AI safety researchers.",
+      "whyItMatters": "Bears on how safety teams are treated at a major lab.",
+      "organization": "openai"
+    },
+    {
+      "id": "ffb664430fda6f4d4e2724b1a6e3b712c3802682",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "guardrails",
+        "safety"
+      ],
+      "summary": "MIT Technology Review argues we over-trust AI systems' ability to refuse harmful requests.",
+      "whyItMatters": "A reminder not to treat refusals as a security boundary.",
+      "organization": "mit-technology-review"
+    },
+    {
+      "id": "4783e7a5e36c9d7500d934813b8e4ae74c872887",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cli",
+        "tokens"
+      ],
+      "summary": "Simon Willison releases version 1.0 of ttok, a small token-counting command-line tool.",
+      "whyItMatters": "Handy if you count tokens from the shell.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "00d1c91f46389de488d0f8d06fae5e73456c56df",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "mathematics",
+        "verification"
+      ],
+      "summary": "Platformer discusses AI producing math solutions faster than people can check them.",
+      "whyItMatters": "Verification is becoming the bottleneck.",
+      "organization": "openai"
+    },
+    {
+      "id": "ebb614553ba6c1d6ef7ffbcb571981a0bd978417",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "biosecurity",
+        "generative-biology"
+      ],
+      "summary": "MIT Technology Review conversation with the creator of AI-designed viruses.",
+      "whyItMatters": "Dual-use bio models are a live policy question.",
+      "organization": "arc-institute"
+    },
+    {
+      "id": "3c6567878a2b5f4f5d0cb63331e16c8d138c5007",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "TLDR AI digest listing model, agent and decoding items.",
+      "whyItMatters": "Digest only; follow the linked stories instead.",
+      "organization": "tldr"
+    },
+    {
+      "id": "e795790bb7b1d2869cd72ca5dedd556008730fb9",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cli",
+        "tokens"
+      ],
+      "summary": "Simon Willison release note for ttok 0.4.",
+      "whyItMatters": "Older point release; superseded by 1.0.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "2d2415fa4281819ea0b38cdf6530cfaa12aff87a",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Latent Space daily roundup noting a quiet news day.",
+      "whyItMatters": "Little to learn.",
+      "organization": "latent-space"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}
