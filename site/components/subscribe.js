@@ -2,9 +2,8 @@
 //
 // Markup comes from subscribeMarkup(), used twice: here in the browser to render each form, and by
 // scripts/sync-subscribe.js to write the static <noscript> fallback into the HTML. Same function, so the
-// two cannot drift apart. With JavaScript the form submits with fetch; without it, the same form posts
-// straight to Buttondown's hosted confirmation page.
-import { BUTTONDOWN_USERNAME, SUBSCRIBE_HEADLINE, SUBSCRIBE_SUBLINE, SUBSCRIBE_SUCCESS, SUBSCRIBE_TAGS } from '../config.js';
+// two cannot drift apart. The form posts straight to Buttondown's hosted verification page; JavaScript only adds inline validation.
+import { BUTTONDOWN_USERNAME, SUBSCRIBE_HEADLINE, SUBSCRIBE_SUBLINE, SUBSCRIBE_TAGS } from '../config.js';
 
 export const PLACEHOLDER_USERNAME = 'YOUR_USERNAME';
 const ENDPOINT = 'https://buttondown.com/api/emails/embed-subscribe/';
@@ -65,11 +64,8 @@ export function subscribeMeta() {
 function enhance(root, id) {
   const form = root.querySelector('form');
   const input = form.querySelector('input[type="email"]');
-  const button = form.querySelector('button');
   const msg = document.getElementById(`bd-msg-${id}`);
   const status = document.getElementById(`bd-status-${id}`);
-  const idleLabel = button.textContent;
-  let busy = false;
 
   // Our own inline message replaces the browser's validation bubble.
   form.noValidate = true;
@@ -92,40 +88,13 @@ function enhance(root, id) {
     status.textContent = '';
   });
 
-  form.addEventListener('submit', async (event) => {
-    event.preventDefault();
-    if (busy) return;
+  // Validate here for a clear inline message; a valid form then submits normally, so the visitor lands on
+  // Buttondown's hosted verification page (its human check can't be completed from a background request).
+  form.addEventListener('submit', (event) => {
     if (!input.checkValidity()) {
+      event.preventDefault();
       showError(input.validity.valueMissing ? MESSAGES.missing : MESSAGES.invalid);
-      return;
     }
-
-    clearError();
-    status.textContent = '';
-    const hadFocus = form.contains(document.activeElement);
-    busy = true;
-    button.disabled = true; // only while the request is in flight
-    button.textContent = 'Subscribing…';
-    form.setAttribute('aria-busy', 'true');
-
-    let fellBack = false;
-    try {
-      // The response is opaque (no-cors), so all we know is that the request went out.
-      await fetch(form.action, { method: 'POST', mode: 'no-cors', body: new URLSearchParams(new FormData(form)) });
-      status.textContent = SUBSCRIBE_SUCCESS;
-      input.value = '';
-    } catch {
-      // The request never left (offline, blocked by an extension): do a normal form submit instead.
-      fellBack = true;
-    } finally {
-      busy = false;
-      button.disabled = false;
-      button.textContent = idleLabel;
-      form.removeAttribute('aria-busy');
-      // A disabled button drops keyboard focus; give it back.
-      if (hadFocus && document.activeElement === document.body) button.focus();
-    }
-    if (fellBack) HTMLFormElement.prototype.submit.call(form);
   });
 }
 
