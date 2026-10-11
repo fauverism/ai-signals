@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 10:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:43:19 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic is cutting off its internal evaluations from the internet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
+      <guid isPermaLink="false">e07ad26d1e7d044f36b7f46752cabcaee5d2de64</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Anthropic is isolating its internal model evaluations from internet access.</description>
+    </item>
+    <item>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <guid isPermaLink="false">4c640ca9263a86389876ced4c54b88bba78433b6</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Microsoft CEO Satya Nadella reportedly argued that organizations should work on the assumption that AI models can be compromised. The remark drew an active discussion on Hacker News.</description>
+    </item>
+    <item>
+      <title>AI agent makers are promising privacy — will they deliver?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
+      <guid isPermaLink="false">50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>The Verge examines whether makers of AI agents will keep their privacy promises.</description>
+    </item>
+    <item>
+      <title>AI Is Getting Really Good at Messing With Cybercriminals</title>
+      <link>https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/</link>
+      <guid isPermaLink="false">f34536c255b8301ea1f3119f326650bbd1539288</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>News</category>
+      <description>WIRED reports on defenders using AI to waste the time of cybercriminals.</description>
+    </item>
+    <item>
+      <title>How Can AI Agents Read Untrusted Sources Safely?</title>
+      <link>https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/</link>
+      <guid isPermaLink="false">5551ed0262321c3b2243b80a351346d9b71c96ca</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>A walkthrough of ways AI agents can read untrusted content more safely.</description>
+    </item>
+    <item>
+      <title>Why Temperature 0 Isn&apos;t Deterministic</title>
+      <link>https://towardsdatascience.com/why-temperature-0-isnt-deterministic/</link>
+      <guid isPermaLink="false">fa55969b5c56e35ecae29633f976dba08add9698</guid>
+      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>An explainer on why setting temperature to zero still does not make LLM output deterministic.</description>
+    </item>
     <item>
       <title>Can AI automate AI R&amp;D yet?</title>
       <link>https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet</link>

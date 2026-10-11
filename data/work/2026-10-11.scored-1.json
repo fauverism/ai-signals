@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-11",
+  "batch": 1,
+  "items": [
+    {
+      "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "model-security",
+        "microsoft"
+      ],
+      "summary": "Microsoft CEO Satya Nadella reportedly argued that organizations should work on the assumption that AI models can be compromised. The remark drew an active discussion on Hacker News.",
+      "whyItMatters": "Plan model deployments with a compromised-model threat model, not an assumption of trust.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "ddbf35e86da2aba84b84eea55df65a36515fc0ef",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-discourse"
+      ],
+      "summary": "An essay pushing back on the idea that AI outcomes are predetermined, shared on Hacker News where it drew a long comment thread.",
+      "whyItMatters": "Context on the debate, with little to act on directly.",
+      "organization": "unknown"
+    },
+    {
+      "id": "738bfae7f3b8a61f71cd81cb689774b0f4082f94",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "agents",
+        "anthropic",
+        "openai"
+      ],
+      "summary": "A weekly newsletter issue rounding up agent, Claude documentation and OpenAI developments.",
+      "whyItMatters": "A quick catch-up for readers who missed the week, not a primary source.",
+      "organization": "the-signal"
+    },
+    {
+      "id": "31276c3a3106709ff201b1dae1afa5f80494fdac",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "architecture-patterns"
+      ],
+      "summary": "A practitioner guide to six architectural patterns for building agentic systems.",
+      "whyItMatters": "A checklist of design patterns to compare against your own agent architecture.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "0b1518dc9b60572e714097df4b5561081239201f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "google",
+        "generative-games"
+      ],
+      "summary": "A WIRED writer tries making games with Google's AI Playground and reports on the mixed results.",
+      "whyItMatters": "Shows what Google's playground can and cannot do today, in a hands-on way.",
+      "organization": "google"
+    },
+    {
+      "id": "f379902df709de45f86c62279dbd81718e4fd7d8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "local-models",
+        "on-device"
+      ],
+      "summary": "A first-person account of learning to run AI models locally, covering both the appeal and the friction.",
+      "whyItMatters": "Useful expectation-setting before you invest time in a local model setup.",
+      "organization": "the-verge"
+    },
+    {
+      "id": "e179bee0d893481bcfc17c48c80fb335dd055c05",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "version-control"
+      ],
+      "summary": "A short note on the game Dwarf Fortress adopting version control.",
+      "whyItMatters": "Little relevance to AI practitioners.",
+      "organization": "bay-12-games"
+    },
+    {
+      "id": "24d721d473226f250d79781b08605fb05b8f9291",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "python",
+        "ci"
+      ],
+      "summary": "Python 3.15.0 is now available in the actions/python-versions list used by GitHub Actions.",
+      "whyItMatters": "CI pipelines can now test against Python 3.15.0.",
+      "organization": "github"
+    },
+    {
+      "id": "2c9728d3318bed23628c85911ba40b59de81514d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "microsoft",
+        "safety-controls"
+      ],
+      "summary": "TechCrunch reports Nadella saying AI models need an emergency brake, a second report on the same remarks.",
+      "whyItMatters": "Signals that a major vendor is framing shutdown controls as a requirement.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "ac1984a6a99cfe3b964a065d2c4b31be39721b37",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "apple",
+        "acqui-hire",
+        "audio"
+      ],
+      "summary": "Apple disclosed a deal to hire the team of podcast startup Huxe and license its technology.",
+      "whyItMatters": "Shows Apple buying talent for personalized audio rather than building it.",
+      "organization": "apple"
+    },
+    {
+      "id": "7600c750267840858dcc3a5a467a6bfb9607c4b1",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "copyright",
+        "music",
+        "umg"
+      ],
+      "summary": "DistroKid has been removing songs without announcement following a lawsuit from UMG.",
+      "whyItMatters": "Distributors are acting on AI-music legal risk, which affects anyone releasing generated audio.",
+      "organization": "distrokid"
+    },
+    {
+      "id": "e07ad26d1e7d044f36b7f46752cabcaee5d2de64",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "evaluations",
+        "anthropic",
+        "safety"
+      ],
+      "summary": "Anthropic is isolating its internal model evaluations from internet access.",
+      "whyItMatters": "Evaluation setups that can reach the web risk leaking answers; consider isolating yours.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "06d39cf072ff31d83ce42e66a7e24d686709a12f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "robotics",
+        "reliability"
+      ],
+      "summary": "Lessons from industrial robotics on building AI systems that execute reliably.",
+      "whyItMatters": "Industrial reliability practices may transfer to agent workflows.",
+      "organization": "latent-space"
+    },
+    {
+      "id": "5551ed0262321c3b2243b80a351346d9b71c96ca",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "prompt-injection",
+        "security"
+      ],
+      "summary": "A walkthrough of ways AI agents can read untrusted content more safely.",
+      "whyItMatters": "Directly applicable if your agents browse or ingest outside text.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "privacy"
+      ],
+      "summary": "The Verge examines whether makers of AI agents will keep their privacy promises.",
+      "whyItMatters": "Check what data an agent product retains before connecting it to personal accounts.",
+      "organization": "the-verge"
+    },
+    {
+      "id": "f34536c255b8301ea1f3119f326650bbd1539288",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "scams",
+        "cybercrime"
+      ],
+      "summary": "WIRED reports on defenders using AI to waste the time of cybercriminals.",
+      "whyItMatters": "An example of AI applied on the defensive side of fraud.",
+      "organization": "wired"
+    },
+    {
+      "id": "fa55969b5c56e35ecae29633f976dba08add9698",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-inference",
+        "determinism"
+      ],
+      "summary": "An explainer on why setting temperature to zero still does not make LLM output deterministic.",
+      "whyItMatters": "Explains why your tests against LLM output may be flaky.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "31ec7357b5b810af357b4448acfa661682b9e5cb",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "smart-home"
+      ],
+      "summary": "ZDNET describes how a new Ring smart lock keeps a manual fallback so users cannot be locked out.",
+      "whyItMatters": "Marginal relevance to AI work.",
+      "organization": "ring"
+    },
+    {
+      "id": "a77859e4336cb4a4818540c29ca4374b1cb71925",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Business",
+      "tags": [
+        "valuation",
+        "startups"
+      ],
+      "summary": "An AINews issue covering a startup reported at over $100M in annual revenue and a $7.5B valuation weeks after launch.",
+      "whyItMatters": "Indicates how quickly some AI products are scaling commercially.",
+      "organization": "typesafe"
+    },
+    {
+      "id": "ba6de7f0c69d7511dd675836d51d1b038ffa4244",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "safety",
+        "regulation"
+      ],
+      "summary": "Gary Marcus argues that open-ended AI agents with internet access should be withdrawn from the market.",
+      "whyItMatters": "A strong stance to weigh against your own agent deployments.",
+      "organization": "unknown"
+    },
+    {
+      "id": "d78bb69c492519f99206f8fe057e7a1330d9211a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison shares a short quoted excerpt from the New York Times with brief comment.",
+      "whyItMatters": "Low-signal link post.",
+      "organization": "new-york-times"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "7ff5bfb828527993b00ffd83608bbc1780412748",
+      "reason": "event promo"
+    },
+    {
+      "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
+      "reason": "subscriber event notice"
+    },
+    {
+      "id": "92e4233ce3ff40a3c629ce09aa353890954cbb2e",
+      "reason": "listicle"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

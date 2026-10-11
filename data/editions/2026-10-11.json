@@ -1,0 +1,1008 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T13:43:19Z",
+  "editorNote": "A quiet Sunday, with the stories circling one question: how far should AI systems be trusted? Anthropic is cutting its internal evaluations off from the internet, and Nadella says to assume models can be compromised. Alongside that, the practical pieces cover agents reading untrusted content, privacy promises from agent makers, and why temperature 0 is still not deterministic.",
+  "lead": {
+    "id": "e07ad26d1e7d044f36b7f46752cabcaee5d2de64",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-10-10T14:41:16Z",
+    "fetchedAt": "2026-10-11T13:42:35Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    },
+    "scores": {
+      "importance": 6,
+      "trend": 0,
+      "novelty": 5,
+      "credibility": 6
+    },
+    "total": 4.3,
+    "category": "Policy & Safety",
+    "tags": [
+      "evaluations",
+      "anthropic",
+      "safety"
+    ],
+    "summary": "Anthropic is isolating its internal model evaluations from internet access.",
+    "whyItMatters": "Evaluation setups that can reach the web risk leaking answers; consider isolating yours.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Terrence O’Brien",
+      "publishedAt": "2026-10-10T22:10:17Z",
+      "fetchedAt": "2026-10-11T13:42:35Z",
+      "signals": {
+        "hnPoints": 37,
+        "hnComments": 62,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "total": 4.2,
+      "category": "Policy & Safety",
+      "tags": [
+        "model-security",
+        "microsoft"
+      ],
+      "summary": "Microsoft CEO Satya Nadella reportedly argued that organizations should work on the assumption that AI models can be compromised. The remark drew an active discussion on Hacker News.",
+      "whyItMatters": "Plan model deployments with a compromised-model threat model, not an assumption of trust.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Hayden Field",
+      "publishedAt": "2026-10-10T13:00:00Z",
+      "fetchedAt": "2026-10-11T13:42:35Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "total": 3.7,
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "privacy"
+      ],
+      "summary": "The Verge examines whether makers of AI agents will keep their privacy promises.",
+      "whyItMatters": "Check what data an agent product retains before connecting it to personal accounts.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "f34536c255b8301ea1f3119f326650bbd1539288",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "canonicalUrl": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "fetchedAt": "2026-10-11T13:42:35Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 3.6,
+      "category": "News",
+      "tags": [
+        "security",
+        "scams",
+        "cybercrime"
+      ],
+      "summary": "WIRED reports on defenders using AI to waste the time of cybercriminals.",
+      "whyItMatters": "An example of AI applied on the defensive side of fraud.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "5551ed0262321c3b2243b80a351346d9b71c96ca",
+      "url": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+      "canonicalUrl": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely",
+      "title": "How Can AI Agents Read Untrusted Sources Safely?",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Thuwarakesh Murallie",
+      "publishedAt": "2026-10-10T14:00:00Z",
+      "fetchedAt": "2026-10-11T13:42:36Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "total": 3.5,
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "prompt-injection",
+        "security"
+      ],
+      "summary": "A walkthrough of ways AI agents can read untrusted content more safely.",
+      "whyItMatters": "Directly applicable if your agents browse or ingest outside text.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "fa55969b5c56e35ecae29633f976dba08add9698",
+      "url": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+      "canonicalUrl": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic",
+      "title": "Why Temperature 0 Isn't Deterministic",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "categoryHint": "Tutorials",
+      "author": "Utkarsh Mangal",
+      "publishedAt": "2026-10-10T12:00:00Z",
+      "fetchedAt": "2026-10-11T13:42:36Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "total": 3.4,
+      "category": "Tutorials",
+      "tags": [
+        "llm-inference",
+        "determinism"
+      ],
+      "summary": "An explainer on why setting temperature to zero still does not make LLM output deterministic.",
+      "whyItMatters": "Explains why your tests against LLM output may be flaky.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [],
+  "byCategory": {
+    "News": [
+      {
+        "id": "f34536c255b8301ea1f3119f326650bbd1539288",
+        "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+        "canonicalUrl": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
+        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Lily Hay Newman, Matt Burgess",
+        "publishedAt": "2026-10-10T12:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "security",
+          "scams",
+          "cybercrime"
+        ],
+        "summary": "WIRED reports on defenders using AI to waste the time of cybercriminals.",
+        "whyItMatters": "An example of AI applied on the defensive side of fraud.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c9728d3318bed23628c85911ba40b59de81514d",
+        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Anthony Ha",
+        "publishedAt": "2026-10-10T21:47:51Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.2,
+        "category": "News",
+        "tags": [
+          "microsoft",
+          "safety-controls"
+        ],
+        "summary": "TechCrunch reports Nadella saying AI models need an emergency brake, a second report on the same remarks.",
+        "whyItMatters": "Signals that a major vendor is framing shutdown controls as a requirement.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "738bfae7f3b8a61f71cd81cb689774b0f4082f94",
+        "url": "https://thesignal.substack.com/p/hark-the-herald-agent-claude-gets",
+        "canonicalUrl": "https://thesignal.substack.com/p/hark-the-herald-agent-claude-gets",
+        "title": "Hark the Herald Agent, Claude Gets Its Docs in a Row, and OpenAI’s Sign of the Times",
+        "source": "The Signal",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Alex Banks",
+        "publishedAt": "2026-10-11T13:03:52Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "News",
+        "tags": [
+          "newsletter",
+          "agents",
+          "anthropic",
+          "openai"
+        ],
+        "summary": "A weekly newsletter issue rounding up agent, Claude documentation and OpenAI developments.",
+        "whyItMatters": "A quick catch-up for readers who missed the week, not a primary source.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0b1518dc9b60572e714097df4b5561081239201f",
+        "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+        "canonicalUrl": "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground",
+        "title": "I Made Terrible Games With Google’s AI Playground",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Boone Ashworth",
+        "publishedAt": "2026-10-11T11:30:00Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2,
+        "category": "News",
+        "tags": [
+          "google",
+          "generative-games"
+        ],
+        "summary": "A WIRED writer tries making games with Google's AI Playground and reports on the mixed results.",
+        "whyItMatters": "Shows what Google's playground can and cannot do today, in a hands-on way.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "31ec7357b5b810af357b4448acfa661682b9e5cb",
+        "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+        "canonicalUrl": "https://zdnet.com/uncategorized/ring-smart-lock-manual-power-dial",
+        "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Maria Diaz",
+        "publishedAt": "2026-10-10T08:15:00Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 1.6,
+        "category": "News",
+        "tags": [
+          "smart-home"
+        ],
+        "summary": "ZDNET describes how a new Ring smart lock keeps a manual fallback so users cannot be locked out.",
+        "whyItMatters": "Marginal relevance to AI work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [],
+    "Tutorials": [
+      {
+        "id": "5551ed0262321c3b2243b80a351346d9b71c96ca",
+        "url": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+        "canonicalUrl": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely",
+        "title": "How Can AI Agents Read Untrusted Sources Safely?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Thuwarakesh Murallie",
+        "publishedAt": "2026-10-10T14:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.5,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "prompt-injection",
+          "security"
+        ],
+        "summary": "A walkthrough of ways AI agents can read untrusted content more safely.",
+        "whyItMatters": "Directly applicable if your agents browse or ingest outside text.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fa55969b5c56e35ecae29633f976dba08add9698",
+        "url": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+        "canonicalUrl": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic",
+        "title": "Why Temperature 0 Isn't Deterministic",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Utkarsh Mangal",
+        "publishedAt": "2026-10-10T12:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.4,
+        "category": "Tutorials",
+        "tags": [
+          "llm-inference",
+          "determinism"
+        ],
+        "summary": "An explainer on why setting temperature to zero still does not make LLM output deterministic.",
+        "whyItMatters": "Explains why your tests against LLM output may be flaky.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "06d39cf072ff31d83ce42e66a7e24d686709a12f",
+        "url": "https://www.latent.space/p/standard-bots",
+        "canonicalUrl": "https://latent.space/p/standard-bots",
+        "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard MacManus",
+        "publishedAt": "2026-10-10T14:04:11Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "robotics",
+          "reliability"
+        ],
+        "summary": "Lessons from industrial robotics on building AI systems that execute reliably.",
+        "whyItMatters": "Industrial reliability practices may transfer to agent workflows.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "31276c3a3106709ff201b1dae1afa5f80494fdac",
+        "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+        "canonicalUrl": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns",
+        "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Partha Sarkar",
+        "publishedAt": "2026-10-11T12:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "architecture-patterns"
+        ],
+        "summary": "A practitioner guide to six architectural patterns for building agentic systems.",
+        "whyItMatters": "A checklist of design patterns to compare against your own agent architecture.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "24d721d473226f250d79781b08605fb05b8f9291",
+        "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/10/python-actions",
+        "title": "Python 3.15.0 added to actions/python-versions",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-10T23:58:04Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "python",
+          "ci"
+        ],
+        "summary": "Python 3.15.0 is now available in the actions/python-versions list used by GitHub Actions.",
+        "whyItMatters": "CI pipelines can now test against Python 3.15.0.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "e07ad26d1e7d044f36b7f46752cabcaee5d2de64",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Terrence O’Brien",
+        "publishedAt": "2026-10-10T14:41:16Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "evaluations",
+          "anthropic",
+          "safety"
+        ],
+        "summary": "Anthropic is isolating its internal model evaluations from internet access.",
+        "whyItMatters": "Evaluation setups that can reach the web risk leaking answers; consider isolating yours.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Terrence O’Brien",
+        "publishedAt": "2026-10-10T22:10:17Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": 37,
+          "hnComments": 62,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Policy & Safety",
+        "tags": [
+          "model-security",
+          "microsoft"
+        ],
+        "summary": "Microsoft CEO Satya Nadella reportedly argued that organizations should work on the assumption that AI models can be compromised. The remark drew an active discussion on Hacker News.",
+        "whyItMatters": "Plan model deployments with a compromised-model threat model, not an assumption of trust.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Hayden Field",
+        "publishedAt": "2026-10-10T13:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "agents",
+          "privacy"
+        ],
+        "summary": "The Verge examines whether makers of AI agents will keep their privacy promises.",
+        "whyItMatters": "Check what data an agent product retains before connecting it to personal accounts.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7600c750267840858dcc3a5a467a6bfb9607c4b1",
+        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "canonicalUrl": "https://theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Terrence O’Brien",
+        "publishedAt": "2026-10-10T18:52:07Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.4,
+        "category": "Policy & Safety",
+        "tags": [
+          "copyright",
+          "music",
+          "umg"
+        ],
+        "summary": "DistroKid has been removing songs without announcement following a lawsuit from UMG.",
+        "whyItMatters": "Distributors are acting on AI-music legal risk, which affects anyone releasing generated audio.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "ac1984a6a99cfe3b964a065d2c4b31be39721b37",
+        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Anthony Ha",
+        "publishedAt": "2026-10-10T19:50:00Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Business",
+        "tags": [
+          "apple",
+          "acqui-hire",
+          "audio"
+        ],
+        "summary": "Apple disclosed a deal to hire the team of podcast startup Huxe and license its technology.",
+        "whyItMatters": "Shows Apple buying talent for personalized audio rather than building it.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a77859e4336cb4a4818540c29ca4374b1cb71925",
+        "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "canonicalUrl": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-10T06:45:57Z",
+        "fetchedAt": "2026-10-11T13:42:36Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Business",
+        "tags": [
+          "valuation",
+          "startups"
+        ],
+        "summary": "An AINews issue covering a startup reported at over $100M in annual revenue and a $7.5B valuation weeks after launch.",
+        "whyItMatters": "Indicates how quickly some AI products are scaling commercially.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "f379902df709de45f86c62279dbd81718e4fd7d8",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Antonio G. Di Benedetto",
+        "publishedAt": "2026-10-11T11:00:00Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.3,
+        "category": "Opinion",
+        "tags": [
+          "local-models",
+          "on-device"
+        ],
+        "summary": "A first-person account of learning to run AI models locally, covering both the appeal and the friction.",
+        "whyItMatters": "Useful expectation-setting before you invest time in a local model setup.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ba6de7f0c69d7511dd675836d51d1b038ffa4244",
+        "url": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
+        "canonicalUrl": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
+        "title": "We must recall open-ended AI agents with internet access from the market, now",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-10T03:40:18Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 2.2,
+        "category": "Opinion",
+        "tags": [
+          "agents",
+          "safety",
+          "regulation"
+        ],
+        "summary": "Gary Marcus argues that open-ended AI agents with internet access should be withdrawn from the market.",
+        "whyItMatters": "A strong stance to weigh against your own agent deployments.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ddbf35e86da2aba84b84eea55df65a36515fc0ef",
+        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "canonicalUrl": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "title": "There's little that's \"inevitable\" about AI",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-10T12:04:04Z",
+        "fetchedAt": "2026-10-11T13:42:34Z",
+        "signals": {
+          "hnPoints": 40,
+          "hnComments": 95,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 2.1,
+        "category": "Opinion",
+        "tags": [
+          "ai-discourse"
+        ],
+        "summary": "An essay pushing back on the idea that AI outcomes are predetermined, shared on Hacker News where it drew a long comment thread.",
+        "whyItMatters": "Context on the debate, with little to act on directly.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d78bb69c492519f99206f8fe057e7a1330d9211a",
+        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+        "title": "Quoting The New York Times",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-10T02:04:12Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 1,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Opinion",
+        "tags": [
+          "commentary"
+        ],
+        "summary": "Simon Willison shares a short quoted excerpt from the New York Times with brief comment.",
+        "whyItMatters": "Low-signal link post.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e179bee0d893481bcfc17c48c80fb335dd055c05",
+        "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
+        "title": "Dwarf Fortress uses version control now",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-11T00:52:37Z",
+        "fetchedAt": "2026-10-11T13:42:35Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 1,
+          "credibility": 5
+        },
+        "total": 1.4,
+        "category": "Opinion",
+        "tags": [
+          "version-control"
+        ],
+        "summary": "A short note on the game Dwarf Fortress adopting version control.",
+        "whyItMatters": "Little relevance to AI practitioners.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 25,
+    "afterDedupe": 24,
+    "ranked": 21
+  }
+}
