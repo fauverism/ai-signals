@@ -1,5 +1,45 @@
 [
   {
+    "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+    "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+    "canonicalUrl": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots",
+    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "source": "IEEE Spectrum: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Noitom Robotics",
+    "publishedAt": "2026-10-12T10:00:03Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+    "url": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+    "canonicalUrl": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+    "title": "Are You Blocked by the 400-Word Wall?",
+    "source": "More Better Thinking",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "William B. Irvine",
+    "publishedAt": "2026-10-12T09:47:10Z",
+    "fetchedAt": "2026-10-12T10:08:27Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
     "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
     "url": "https://refactoring.fm/p/knowledge-capturing-human-relationships",
     "canonicalUrl": "https://refactoring.fm/p/knowledge-capturing-human-relationships",
@@ -9,7 +49,7 @@
     "categoryHint": "Tutorials",
     "author": "Luca Rossi",
     "publishedAt": "2026-10-12T06:02:09Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -29,7 +69,7 @@
     "categoryHint": "Research",
     "author": "Mohammed Azeez Khan, Aaron Dsouza, Ashutosh Mishra, Ummul Faiz Z. Bibi, Neha K. Nair, Amar Kumar Behera",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -49,7 +89,7 @@
     "categoryHint": "Research",
     "author": "Zhenhao Huang, Li Sun, Philip S. Yu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -69,7 +109,7 @@
     "categoryHint": "Research",
     "author": "Zhenhao Huang, Li Sun, Philip S. Yu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -89,7 +129,7 @@
     "categoryHint": "Research",
     "author": "Kurt Butler, Damian Machlanski, Michael P. J. Camilleri, Zhihua Liu, Panagiotis Dimitrakopoulos, Feng Chen, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -109,7 +149,7 @@
     "categoryHint": "Research",
     "author": "Wei Jiang, Yibo Wang, Zechao Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -129,7 +169,7 @@
     "categoryHint": "Research",
     "author": "Naji Alazhar, Wassel Alazhar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -149,7 +189,7 @@
     "categoryHint": "Research",
     "author": "Naji Alazhar, Wassel Alazhar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -169,7 +209,7 @@
     "categoryHint": "Research",
     "author": "Naji Alazhar, Wassel Alazhar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -189,7 +229,7 @@
     "categoryHint": "Research",
     "author": "Yuhong Liu, Shenxi Wu, Junyi Chi, Beichen Zhang, Xuanlang Dai, Jiaqi Wang, Yuhang Zang, Dahua Lin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -209,7 +249,7 @@
     "categoryHint": "Research",
     "author": "Vishnu Arun, Adam Obeng, Tianyou Wang, Zilin Ren, Mukuntha Narayanan Sundararaman, Han Wang, Shivin Thukral, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -229,7 +269,7 @@
     "categoryHint": "Research",
     "author": "Vishnu Arun, Adam Obeng, Tianyou Wang, Zilin Ren, Mukuntha Narayanan Sundararaman, Han Wang, Shivin Thukral, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -249,7 +289,7 @@
     "categoryHint": "Research",
     "author": "Jiayu Liu, Ruizhi Zhao, Tianyun Ji, Yee Whye Teh, Zhenya Huang, Ning Miao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -269,7 +309,7 @@
     "categoryHint": "Research",
     "author": "Linxuan Wu, Liang Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -289,7 +329,7 @@
     "categoryHint": "Research",
     "author": "Qiji Zhou, Junyi Hu, Peiyu Wang, Yue Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -309,7 +349,7 @@
     "categoryHint": "Research",
     "author": "R E Zera Marveen Lyngkhoi, Abhivansh Gupta, Vidushee Vats, Ram Mohan Rao Kadiyala, Vinay Kumar Sankarapu, Pratinav Seth",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -329,7 +369,7 @@
     "categoryHint": "Research",
     "author": "Timi Owolabi, Hikmah Olawore, Frances Adelakun, Ayotomiwa Oyewumi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -349,7 +389,7 @@
     "categoryHint": "Research",
     "author": "Rui Hu, Yu Chen, Zhuoran Li, Longbo Huang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -369,7 +409,7 @@
     "categoryHint": "Research",
     "author": "Xule Gao, Xi Wang, Zehua Zang, Rui Wang, Changwen Zheng, Chuxiong Sun",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -389,7 +429,7 @@
     "categoryHint": "Research",
     "author": "Kalp Shah, Andrei Vlad Nicula, Mihnea Andrei B\\^arsan, Robert-Stefan Sofroni, Agneya Bhardwaj, Jan Jel\\'inek, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -409,7 +449,7 @@
     "categoryHint": "Research",
     "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -429,7 +469,7 @@
     "categoryHint": "Research",
     "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -449,7 +489,7 @@
     "categoryHint": "Research",
     "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -469,7 +509,7 @@
     "categoryHint": "Research",
     "author": "Dennis Thumm, Ying Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -489,7 +529,7 @@
     "categoryHint": "Research",
     "author": "Philipp Schmocker",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -509,7 +549,7 @@
     "categoryHint": "Research",
     "author": "Yuepeng Hu, Pegah Ghahremani, Reza Aghajani, Mahesh Pasupuleti, Himaghna Bhattacharjee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -529,7 +569,7 @@
     "categoryHint": "Research",
     "author": "El Mahdi Chayti, Alireza Mirrokni, Martin Jaggi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -549,7 +589,7 @@
     "categoryHint": "Research",
     "author": "Scott C. Lowe, Sander W. Keemink",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -569,7 +609,7 @@
     "categoryHint": "Research",
     "author": "Scott C. Lowe, Sander W. Keemink",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -589,7 +629,7 @@
     "categoryHint": "Research",
     "author": "Scott C. Lowe, Sander W. Keemink",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -609,7 +649,7 @@
     "categoryHint": "Research",
     "author": "Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -629,7 +669,7 @@
     "categoryHint": "Research",
     "author": "Shreya Sajid, Anna Vettoruzzo, Joaquin Vanschoren",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -649,7 +689,7 @@
     "categoryHint": "Research",
     "author": "Xiaole Zhang, Vijay Gupta, Paul Bogdan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -669,7 +709,7 @@
     "categoryHint": "Research",
     "author": "Ximing Lu, Aviral Kumar, Jan Kautz, Yejin Choi, David Acuna",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -689,7 +729,7 @@
     "categoryHint": "Research",
     "author": "Ximing Lu, Aviral Kumar, Jan Kautz, Yejin Choi, David Acuna",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -709,7 +749,7 @@
     "categoryHint": "Research",
     "author": "Frederik E. T. Sch\\\"oller",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -729,7 +769,7 @@
     "categoryHint": "Research",
     "author": "Veronika Solopova, Ivan Havlytskyi, Viktoria Skorik, Ostap Vykhopen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -749,7 +789,7 @@
     "categoryHint": "Research",
     "author": "Anders Gj{\\o}lbye, Sebastian Ray Mason, Stella Frank, Lars Kai Hansen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -769,7 +809,7 @@
     "categoryHint": "Research",
     "author": "Adarsh Jamadandi, Nicolas Keriven, Aline Roumy",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -789,7 +829,7 @@
     "categoryHint": "Research",
     "author": "Adarsh Jamadandi, Nicolas Keriven, Aline Roumy",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -809,7 +849,7 @@
     "categoryHint": "Research",
     "author": "Chenxu Zhang, Yaorui Shi, Wenlong Zhang, Jianchao Tan, Zihan Wang, Yiming Cheng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -829,7 +869,7 @@
     "categoryHint": "Research",
     "author": "Chenxu Zhang, Yaorui Shi, Wenlong Zhang, Jianchao Tan, Zihan Wang, Yiming Cheng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -849,7 +889,7 @@
     "categoryHint": "Research",
     "author": "Natapong Nitarach, Phume Ngampornsukswadi, Pittawat Taveekitworachai, Surapon Nonesung, Warit Sirichotedumrong, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -869,7 +909,7 @@
     "categoryHint": "Research",
     "author": "Yaroslav Getman, Tam\\'as Gr\\'osz, Tommi Lehtonen, Mikko Kurimo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -889,7 +929,7 @@
     "categoryHint": "Research",
     "author": "Henry Bourne, Robert F. Allison",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -909,7 +949,7 @@
     "categoryHint": "Research",
     "author": "Anthony Kostal-Vazquez, Vassil Dimitrov, Branden Butler",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -929,7 +969,7 @@
     "categoryHint": "Research",
     "author": "Rafiq Kamel, Nicolas Atienza, Aziz Fouch\\'e, Nicola Cancedda, Josif Grabocka",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -949,7 +989,7 @@
     "categoryHint": "Research",
     "author": "Yuzhen Wang, Chunxiao Li, Baichen Le, Lewen Yan, Jie Zhang, Yucheng T. Yang, Xing-Ming Zhao, Lijun Li, Jing Shao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -969,7 +1009,7 @@
     "categoryHint": "Research",
     "author": "Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -989,7 +1029,7 @@
     "categoryHint": "Research",
     "author": "Ivan Moloshnikov, Dmitry Kunitsyn, Alexander Sboev, Maksim Skorokhodov, Roman Rybka, Yuanchao Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1009,7 +1049,7 @@
     "categoryHint": "Research",
     "author": "Ivan Moloshnikov, Dmitry Kunitsyn, Alexander Sboev, Maksim Skorokhodov, Roman Rybka, Yuanchao Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1029,7 +1069,7 @@
     "categoryHint": "Research",
     "author": "Ivan Moloshnikov, Dmitry Kunitsyn, Alexander Sboev, Maksim Skorokhodov, Roman Rybka, Yuanchao Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1049,7 +1089,7 @@
     "categoryHint": "Research",
     "author": "Ziang Ye, Wentao Shi, Lei Chen, Zhengzhou Cai, Yu Wang, Zhiyuan Yao, Zihan Wang, Xierui Song, Fuli Feng, Yixin Cao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1069,7 +1109,7 @@
     "categoryHint": "Research",
     "author": "Ziang Ye, Wentao Shi, Lei Chen, Zhengzhou Cai, Yu Wang, Zhiyuan Yao, Zihan Wang, Xierui Song, Fuli Feng, Yixin Cao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1089,7 +1129,7 @@
     "categoryHint": "Research",
     "author": "Katsumi Ibaraki, David Chiang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1109,7 +1149,7 @@
     "categoryHint": "Research",
     "author": "Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, Wei Tong, Sheng Zhong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1129,7 +1169,7 @@
     "categoryHint": "Research",
     "author": "Do Nguyen-Thanh, Junlin Fang, Bing Li, Zhen Fang, Sean Du",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1149,7 +1189,7 @@
     "categoryHint": "Research",
     "author": "Federico Matteucci, Gerhard Neumann",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1169,7 +1209,7 @@
     "categoryHint": "Research",
     "author": "Xuhui Kang, Sung-Wook Lee, Yan Zhuang, Tianle Zhong, Yen-Ling Kuo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1189,7 +1229,7 @@
     "categoryHint": "Research",
     "author": "Noureddine Khaous (LLF - UMR7110, UPCit\\'e), Guillaume Wisniewski (LLF - UMR7110, UPCit\\'e)",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1209,7 +1249,7 @@
     "categoryHint": "Research",
     "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1229,7 +1269,7 @@
     "categoryHint": "Research",
     "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1249,7 +1289,7 @@
     "categoryHint": "Research",
     "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1269,7 +1309,7 @@
     "categoryHint": "Research",
     "author": "Adrien Deliege, Marc Van Droogenbroeck",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1289,7 +1329,7 @@
     "categoryHint": "Research",
     "author": "Adrien Deliege, Marc Van Droogenbroeck",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1309,7 +1349,7 @@
     "categoryHint": "Research",
     "author": "Loan Bernat (LAAS-GEPETTO), Matthieu Grard (LAAS-RAP), Ariane Herbulot (LAAS-RAP), Florent Lamiraux (LAAS-GEPETTO)",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1329,7 +1369,7 @@
     "categoryHint": "Research",
     "author": "Ali Anaissi, Yuanzhe Jia, Qishun Peng, Weidong Huang, Ali Braytee, Junaid Akram",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1349,7 +1389,7 @@
     "categoryHint": "Research",
     "author": "Suorong Yang, Jiaxin Wang, Jiaming Su, Chentao Yue, Furao Shen, Peng Ye, Soujanya Poria",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1369,7 +1409,7 @@
     "categoryHint": "Research",
     "author": "Irene Cannistraci, Julia E. Vogt",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1389,7 +1429,7 @@
     "categoryHint": "Research",
     "author": "Irene Cannistraci, Julia E. Vogt",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1409,7 +1449,7 @@
     "categoryHint": "Research",
     "author": "Bahareh Nikpour, Hossein Rajabzadeh, Maryam Dialameh, Vahid Partovi Nia, Parsa Omidi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1429,7 +1469,7 @@
     "categoryHint": "Research",
     "author": "Bahareh Nikpour, Hossein Rajabzadeh, Maryam Dialameh, Vahid Partovi Nia, Parsa Omidi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1449,7 +1489,7 @@
     "categoryHint": "Research",
     "author": "Kosio Beshkov",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1469,7 +1509,7 @@
     "categoryHint": "Research",
     "author": "Daniel Thi Graviet, Tanmay Shah",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1489,7 +1529,7 @@
     "categoryHint": "Research",
     "author": "Jingjing Wei, Hao Zhao, Xinke Li, Linxi Yu, Xiaosong Gao, Shanshan Xiao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1509,7 +1549,7 @@
     "categoryHint": "Research",
     "author": "Weiliang Chen, Song Liao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1529,7 +1569,7 @@
     "categoryHint": "Research",
     "author": "Adarsh Jamadandi, Nicolas Keriven",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1549,7 +1589,7 @@
     "categoryHint": "Research",
     "author": "Adarsh Jamadandi, Nicolas Keriven",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1569,7 +1609,7 @@
     "categoryHint": "Research",
     "author": "Arya Bastani, Iman Modarressi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1589,7 +1629,7 @@
     "categoryHint": "Research",
     "author": "Michael C. Abbott, Benjamin B. Machta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1609,7 +1649,7 @@
     "categoryHint": "Research",
     "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1629,7 +1669,7 @@
     "categoryHint": "Research",
     "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1649,7 +1689,7 @@
     "categoryHint": "Research",
     "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1669,7 +1709,7 @@
     "categoryHint": "Research",
     "author": "Yang Peng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1689,7 +1729,7 @@
     "categoryHint": "Research",
     "author": "Faisal Ladhak, Shantanu Acharya, Santiago Akle Serano, Simeng Sun, Boris Ginsburg, Krishna C Puvvada",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1709,7 +1749,7 @@
     "categoryHint": "Research",
     "author": "Roy Eisenstadt, Harel Lidar, Tal Gonen, Omer Luxembourg, Itamar Zimerman, Lior Wolf, Eli David, Ilan Naiman",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1729,7 +1769,7 @@
     "categoryHint": "Research",
     "author": "Cl\\'ement Yvernes, Marianne Clausel, Emilie Devijver, Eric Gaussier",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1749,7 +1789,7 @@
     "categoryHint": "Research",
     "author": "Mamadou Sow, Christophe Cerin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1769,7 +1809,7 @@
     "categoryHint": "Research",
     "author": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas, Christian Schroeder de Witt",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1789,7 +1829,7 @@
     "categoryHint": "Research",
     "author": "Ning Wang, Claire Cardie, Sainyam Galhotra",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1809,7 +1849,7 @@
     "categoryHint": "Research",
     "author": "Xi Zhang, Boyu Diao, Zesen Chen, Ruiqi Liu, Hangda Liu, Yongjun Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1829,7 +1869,7 @@
     "categoryHint": "Research",
     "author": "Jiaming Su, Suorong Yang, Xudong Li, Tengchao Yang, Peng Ye",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1849,7 +1889,7 @@
     "categoryHint": "Research",
     "author": "Jiaming Su, Suorong Yang, Xudong Li, Tengchao Yang, Peng Ye",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1869,7 +1909,7 @@
     "categoryHint": "Research",
     "author": "Vansh Bansal, Min Chen, James G. Scott",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1889,7 +1929,7 @@
     "categoryHint": "Research",
     "author": "Mengqi Guo, Zhe Wei, Yuan Yuan, Jiunn Bin Lim, Boyi Pan, Michael Bi Mi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1909,7 +1949,7 @@
     "categoryHint": "Research",
     "author": "Daniel Szelogowski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1929,7 +1969,7 @@
     "categoryHint": "Research",
     "author": "Giulio Biroli, Marc M\\'ezard",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1949,7 +1989,7 @@
     "categoryHint": "Research",
     "author": "Sida Li, Yuanxin Liu, Linli Yao, Shicheng Li, Xu Sun, Haoli Bai, Xiaohui Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1969,7 +2009,7 @@
     "categoryHint": "Research",
     "author": "Robin Francis, Sundeep Prabhakar Chepuri",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -1989,7 +2029,7 @@
     "categoryHint": "Research",
     "author": "Yixuan Li, Minghao Lv, Xuenan Xu, Zihao Zheng, Mengyue Wu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2009,7 +2049,7 @@
     "categoryHint": "Research",
     "author": "Donatella Genovese, Philip Ploner, Simone Scardapane, Stefano Giagu, Thea Klaeboe Aarrestad",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2029,7 +2069,7 @@
     "categoryHint": "Research",
     "author": "Simone Garatti, Marco C. Campi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2049,7 +2089,7 @@
     "categoryHint": "Research",
     "author": "Joshua Maccoby, Wendy Hui Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2069,7 +2109,7 @@
     "categoryHint": "Research",
     "author": "Joshua Maccoby, Wendy Hui Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2089,7 +2129,7 @@
     "categoryHint": "Research",
     "author": "Joshua Maccoby, Wendy Hui Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2109,7 +2149,7 @@
     "categoryHint": "Research",
     "author": "Sebastian Pokutta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2129,7 +2169,7 @@
     "categoryHint": "Research",
     "author": "Zilong Huang, Kong Aik Lee, Zezhong Jin, Man-Wai Mak, Tatsuya Kawahara",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2149,7 +2189,7 @@
     "categoryHint": "Research",
     "author": "Andres Karjus",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2169,7 +2209,7 @@
     "categoryHint": "Research",
     "author": "Zhenglin Wan, Jiayu Chen, Zhengfeiyang Zhang, Pengfei Zhou, Wangbo Zhao, Fangyuan Kong, Pengfei Wan, Kun Gai, Yang You",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2189,7 +2229,7 @@
     "categoryHint": "Research",
     "author": "Yingjie Zhu, Han Cheng, Xuefeng Bai, Youcheng Pan, Yang Xiang, Kehai Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2209,7 +2249,7 @@
     "categoryHint": "Research",
     "author": "Kavinda Kehelella, Sanghamitra Dutta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2229,7 +2269,7 @@
     "categoryHint": "Research",
     "author": "Kavinda Kehelella, Sanghamitra Dutta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2249,7 +2289,7 @@
     "categoryHint": "Research",
     "author": "Kavinda Kehelella, Sanghamitra Dutta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2269,7 +2309,7 @@
     "categoryHint": "Research",
     "author": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev, Ivan Rubachev, Daniil Krasylnikov, Artem Babenko",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2289,7 +2329,7 @@
     "categoryHint": "Research",
     "author": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev, Ivan Rubachev, Daniil Krasylnikov, Artem Babenko",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2309,7 +2349,7 @@
     "categoryHint": "Research",
     "author": "Yongjian Tang, Costel Moraru, Doruk Tuncel, Hanya Elhashemy, Steffen Klepke, Thomas Runkler",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2329,7 +2369,7 @@
     "categoryHint": "Research",
     "author": "Matteo Inajetovic, Anna Pappa, Petros Wallden",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2349,7 +2389,7 @@
     "categoryHint": "Research",
     "author": "Kanay Gupta, David Y. Liu, Aditya Joshi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2369,7 +2409,7 @@
     "categoryHint": "Research",
     "author": "Dongkyu Cho, Rumi Chunara, Ali Behrouz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2389,7 +2429,7 @@
     "categoryHint": "Research",
     "author": "Dongkyu Cho, Rumi Chunara, Ali Behrouz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2409,7 +2449,7 @@
     "categoryHint": "Research",
     "author": "Guanhao Zhou, Xiufan Yu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2429,7 +2469,7 @@
     "categoryHint": "Research",
     "author": "Michelle Espranita Liman, Ioana Ionac, Alexander M\\\"uller, Eimo Martens, Daniel Rueckert, Philip M\\\"uller",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2449,7 +2489,7 @@
     "categoryHint": "Research",
     "author": "Tarek Naous, Craig Boutilier, Wei Xu, Ofer Meshi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2469,7 +2509,7 @@
     "categoryHint": "Research",
     "author": "Yuxin Xiao, Zhiyun Lu, Jianyu Wang, Yangtian Zhang, Yang Song, Qifan Wang, Bailin Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2489,7 +2529,7 @@
     "categoryHint": "Research",
     "author": "Yuxin Xiao, Zhiyun Lu, Jianyu Wang, Yangtian Zhang, Yang Song, Qifan Wang, Bailin Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2509,7 +2549,7 @@
     "categoryHint": "Research",
     "author": "Yuxin Xiao, Zhiyun Lu, Jianyu Wang, Yangtian Zhang, Yang Song, Qifan Wang, Bailin Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2529,7 +2569,7 @@
     "categoryHint": "Research",
     "author": "Arvasu Kulkarni, Mahir Jain, Aditya Ray Mishra, Sandeep Singh, Siddharth Panwar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2549,7 +2589,7 @@
     "categoryHint": "Research",
     "author": "Priya Kasimbeg (Alice), Ahmed Khaled (Alice), Aahlad Chandrabhatta (Alice), Yifan Wang (Alice), et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2569,7 +2609,7 @@
     "categoryHint": "Research",
     "author": "David Dinkevich, Nisan Chiprut, Yoav HaCohen, Dani Lischinski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2589,7 +2629,7 @@
     "categoryHint": "Research",
     "author": "S. Ares de Parga, A. Cornejo, J. A. Hern\\'andez, R. Rossi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2609,7 +2649,7 @@
     "categoryHint": "Research",
     "author": "Emilio Ferrara",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2629,7 +2669,7 @@
     "categoryHint": "Research",
     "author": "Emilio Ferrara",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2649,7 +2689,7 @@
     "categoryHint": "Research",
     "author": "Weiqi Sun, Qianyue Wu, Wenjia Wang, Tianyang Hu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2669,7 +2709,7 @@
     "categoryHint": "Research",
     "author": "Weiqi Sun, Qianyue Wu, Wenjia Wang, Tianyang Hu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2689,7 +2729,7 @@
     "categoryHint": "Research",
     "author": "Victoria J. Hodge, Colin Paterson, Rob Alexander",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2709,7 +2749,7 @@
     "categoryHint": "Research",
     "author": "Takahiro Kawashima, Hideitsu Hino",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2729,7 +2769,7 @@
     "categoryHint": "Research",
     "author": "Leonardo Cesani, Matteo Papini, Marcello Restelli",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2749,7 +2789,7 @@
     "categoryHint": "Research",
     "author": "Leonardo Cesani, Matteo Papini, Marcello Restelli",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2769,7 +2809,7 @@
     "categoryHint": "Research",
     "author": "Amit Kumar Jaiswal, Sagar Uprety, Prayag Tiwari",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2789,7 +2829,7 @@
     "categoryHint": "Research",
     "author": "Joseph Cameron, Alan Blackwell",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2809,7 +2849,7 @@
     "categoryHint": "Research",
     "author": "Tsubasa Harada, Yasushi Kawase, Hanna Sumita",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2829,7 +2869,7 @@
     "categoryHint": "Research",
     "author": "Suresh Kumar TP, Vikas Agnihotri",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2849,7 +2889,7 @@
     "categoryHint": "Research",
     "author": "Fanzhi Zeng, Anubrata Das, Maytal Saar-Tsechansky, Liu Leqi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2869,7 +2909,7 @@
     "categoryHint": "Research",
     "author": "Zhengyan Huan, Peter Y. Lu, Shuchin Aeron",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2889,7 +2929,7 @@
     "categoryHint": "Research",
     "author": "Zhenke Duan, Xin Li, Jiqun Pan, Dong Xiaofei, Hanwen Ning, Xinyuan Song",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2909,7 +2949,7 @@
     "categoryHint": "Research",
     "author": "Yuyu Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2929,7 +2969,7 @@
     "categoryHint": "Research",
     "author": "Yuyu Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2949,7 +2989,7 @@
     "categoryHint": "Research",
     "author": "Vagner Figueredo de Santana, Diogo Cortiz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2969,7 +3009,7 @@
     "categoryHint": "Research",
     "author": "Zhangyang Peng, Jingze Shi, Tongyi Zhang, Yuyu Luo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -2989,7 +3029,7 @@
     "categoryHint": "Research",
     "author": "Albert Ge, Akash Haridas, Utkarsh Saxena, Ruijing Yang, Ian Colbert, Frederic Sala, Vikram Appia, Emad Barsoum",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3009,7 +3049,7 @@
     "categoryHint": "Research",
     "author": "Brendan Mallery, Shuchin Aeron, James Murphy",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3029,7 +3069,7 @@
     "categoryHint": "Research",
     "author": "Xuan Wen, Yonghao Song, Yuhong Zhang, Guoliang Li, Tzyy-Ping Jung, Xiaorong Gao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3049,7 +3089,7 @@
     "categoryHint": "Research",
     "author": "Guowen Li, Yang Liu, Mengxuan Chen, Jiashun Cheng, Haoyuan Liang, Shilei Cao, Yujie Wang, Juepeng Zheng, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3069,7 +3109,7 @@
     "categoryHint": "Research",
     "author": "Boyuan Xiao, Pu Wang, Ji Feng, Yao-Xiang Ding",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3089,7 +3129,7 @@
     "categoryHint": "Research",
     "author": "Pietro Carlotti, Sifan Liu, Yuling Yao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3109,7 +3149,7 @@
     "categoryHint": "Research",
     "author": "Sukru Caglar, Sena Kalabalik, Abdullah Umut Hamzaogullari, Arkadas Ozakin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3129,7 +3169,7 @@
     "categoryHint": "Research",
     "author": "Dmitry Osin, Egor Surkov, Petr Mokrov, Igor Udovichenko, Ivan Karpukhin, Evgeny Burnaev, Egor Shvetsov, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3149,7 +3189,7 @@
     "categoryHint": "Research",
     "author": "Yu Sun, Junwei Zhou, Zuodong Xiang, Yike Zhang, Pengcheng Xu, Xinyu Guan, Ruoyun Ma, Hailu Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3169,7 +3209,7 @@
     "categoryHint": "Research",
     "author": "Manuel V. Klockow, Simon Wagner, Roman Remme, Dominic Plein, Fred A. Hamprecht",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3189,7 +3229,7 @@
     "categoryHint": "Research",
     "author": "Oriol Corcoll, Qiyao Wei, Ciar\\'{a}n Mark Gilligan-Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3209,7 +3249,7 @@
     "categoryHint": "Research",
     "author": "Oriol Corcoll, Qiyao Wei, Ciar\\'{a}n Mark Gilligan-Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3229,7 +3269,7 @@
     "categoryHint": "Research",
     "author": "Shenglan Li, Zhendong Mi, Hengyi Zhu, Jingwu Luo, Chun Kit Chan, Geng Yuan, Yanzhi Wang, Pu Zhao, Shaoyi Huang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3249,7 +3289,7 @@
     "categoryHint": "Research",
     "author": "Shenglan Li, Zhendong Mi, Hengyi Zhu, Jingwu Luo, Chun Kit Chan, Geng Yuan, Yanzhi Wang, Pu Zhao, Shaoyi Huang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3269,7 +3309,7 @@
     "categoryHint": "Research",
     "author": "Jingda Wu, Changxiao Cai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3289,7 +3329,7 @@
     "categoryHint": "Research",
     "author": "Khubaib Ahmed, Ahsan Adeel, Nasir Saleem, Kia Dashtipour, Ahsan Ulhaq, Amir Hussain",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3309,7 +3349,7 @@
     "categoryHint": "Research",
     "author": "Xueyang Feng, Chaozhuo Li, Xiaohe Bo, Jiakai Tang, Chenxi Li, Qiwei Ye, Xu Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3329,7 +3369,7 @@
     "categoryHint": "Research",
     "author": "Woosung Koh, Hyunsoo Lee, Kyungjae Lee, Haeju Park, Dahyun Lee, Dasol Hwang, Moontae Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3349,7 +3389,7 @@
     "categoryHint": "Research",
     "author": "Woosung Koh, Hyunsoo Lee, Kyungjae Lee, Haeju Park, Dahyun Lee, Dasol Hwang, Moontae Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3369,7 +3409,7 @@
     "categoryHint": "Research",
     "author": "Pengan Chen, Liang Hong, Xinyuan Liu, Han Huang, Ziqian Lin, Jiayang Chen, Yimin Fan, Jiyue Jiang, Yu Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3389,7 +3429,7 @@
     "categoryHint": "Research",
     "author": "Guanlan Yue, Hang Yu, Xiaoyong Huang, Ruipeng Li, Wei Zhang, Bingchang Liu, Rui Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3409,7 +3449,7 @@
     "categoryHint": "Research",
     "author": "Gautier Marti",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3429,7 +3469,7 @@
     "categoryHint": "Research",
     "author": "Bhanu Tokas, Rahul Nair, Rockwell Jackson, Hannah Kerner",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3449,7 +3489,7 @@
     "categoryHint": "Research",
     "author": "Bhanu Tokas, Rahul Nair, Rockwell Jackson, Hannah Kerner",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3469,7 +3509,7 @@
     "categoryHint": "Research",
     "author": "Jingyan Xu, Yuanhong Wu, Samuel Yen-Chi Chen, Sean Patten, Christina Schweikert, D. Frank Hsu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3489,7 +3529,7 @@
     "categoryHint": "Research",
     "author": "Hideaki Ishibashi, Takahiro Kawashima, Hideitsu Hino",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3509,7 +3549,7 @@
     "categoryHint": "Research",
     "author": "Giordano Vitale, Giacomo Meanti, Marco Rando, Blanca Ayuso de Dios, Lorenzo Rosasco",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3529,7 +3569,7 @@
     "categoryHint": "Research",
     "author": "Marcel Binz, Eric Schulz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3549,7 +3589,7 @@
     "categoryHint": "Research",
     "author": "Anh L Tran, Arjee Javellana Restar, Bereket Kindo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3569,7 +3609,7 @@
     "categoryHint": "Research",
     "author": "Ayush K. Tarun, Clara Meister, Antoine Bosselut",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3589,7 +3629,7 @@
     "categoryHint": "Research",
     "author": "Ayush K. Tarun, Clara Meister, Antoine Bosselut",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3609,7 +3649,7 @@
     "categoryHint": "Research",
     "author": "Jianhua Li, Yun Xing, Girisha De Silva, Ryan Flint, Kai Yuan, Sean Suchter",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3629,7 +3669,7 @@
     "categoryHint": "Research",
     "author": "Jaehyeon Park, Inhyeok Jeong, Noseong Park",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3649,7 +3689,7 @@
     "categoryHint": "Research",
     "author": "Lukas L\\\"uken, Sergio Lucia",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3669,7 +3709,7 @@
     "categoryHint": "Research",
     "author": "Marco Stefani, Edoardo Parpaiola, Matteo Bino, Gianluca Caregnato, Francesco Roncolato, Daniel Fusaro, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3689,7 +3729,7 @@
     "categoryHint": "Research",
     "author": "Ranajoy Sadhukhan, Euijin Hong, Sheng Cao, Zechun Liu, Shuowei Jin, Sha Li, Changlong Yu, Xin Liu, Qin Lu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3709,7 +3749,7 @@
     "categoryHint": "Research",
     "author": "Yichen Wang, Tenghao Huang, Vishakh Padmakumar, Mina Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3729,7 +3769,7 @@
     "categoryHint": "Research",
     "author": "Seokjun Lee, Sergio A. Ortega, Daniel K. Park, Namshik Han",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3749,7 +3789,7 @@
     "categoryHint": "Research",
     "author": "Fangzhou Lin, Dengzhe Hou, Yinxing Li, Kazunori D Yamada",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3769,7 +3809,7 @@
     "categoryHint": "Research",
     "author": "Paul F. V. Wiemann, Matthias Katzfuss",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3789,7 +3829,7 @@
     "categoryHint": "Research",
     "author": "Minjong Cheon",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3809,7 +3849,7 @@
     "categoryHint": "Research",
     "author": "Aditi Gautam, Manikandan Ravikiran, Saira Qureshi, Sena Fatma Ekiz, Charan Jagwani, Mahmoud Elhadidy, Sanjeev Roka",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3829,7 +3869,7 @@
     "categoryHint": "Research",
     "author": "Shubh Garg, Chen Shani",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3849,7 +3889,7 @@
     "categoryHint": "Research",
     "author": "Zhiyuan Xiang, Peidong Liu, Mingyang Li, Jiawei Li, Wenhow Li, Wenbo Ding, Xiang Deng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3869,7 +3909,7 @@
     "categoryHint": "Research",
     "author": "O. Ozan Koyluoglu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3889,7 +3929,7 @@
     "categoryHint": "Research",
     "author": "Mourchid Adegbindin, Brenda Dietrich, Jamol Pender, Andrea Lodi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3909,7 +3949,7 @@
     "categoryHint": "Research",
     "author": "Sena Kalabalik, Sukru Caglar, Abdullah Umut Hamzaogullari, Arkadas Ozakin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3929,7 +3969,7 @@
     "categoryHint": "Research",
     "author": "Kshitij Ambilduke, Caroline Brun, Thibaut Thonet, Vassilina Nikoulina, Marcely Zanon Boito",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3949,7 +3989,7 @@
     "categoryHint": "Research",
     "author": "Filipe Moura Da Silva, Cl\\'aubio Landney Lima Bandeira",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3969,7 +4009,7 @@
     "categoryHint": "Research",
     "author": "Guillaume Principato, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -3989,7 +4029,7 @@
     "categoryHint": "Research",
     "author": "Tianyi Wu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4009,7 +4049,7 @@
     "categoryHint": "Research",
     "author": "Shivesh Rane",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4029,7 +4069,7 @@
     "categoryHint": "Research",
     "author": "Shivesh Rane",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4049,7 +4089,7 @@
     "categoryHint": "Research",
     "author": "Yuhang Xie, Zhiyi Shi, Zeyi Zhang, Zhisheng Qi, Yushun Dong, Yu Wang, Xiongye Xiao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4069,7 +4109,7 @@
     "categoryHint": "Research",
     "author": "Itai Zilberstein, Ioannis Anagnostides, Arman Kilic, Tuomas Sandholm",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4089,7 +4129,7 @@
     "categoryHint": "Research",
     "author": "Ze-Wei Liou, Harris Nover, Amey Naik, Andrii Skliar, Igor Shovkun, Ido Shahaf, Tri Dao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4109,7 +4149,7 @@
     "categoryHint": "Research",
     "author": "Ze-Wei Liou, Harris Nover, Amey Naik, Andrii Skliar, Igor Shovkun, Ido Shahaf, Tri Dao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4129,7 +4169,7 @@
     "categoryHint": "Research",
     "author": "Shuo Zhang, Aman Sunesh, Semiha Ergan, Kaan Ozbay",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4149,7 +4189,7 @@
     "categoryHint": "Research",
     "author": "Shuo Zhang, Aman Sunesh, Semiha Ergan, Kaan Ozbay",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4169,7 +4209,7 @@
     "categoryHint": "Research",
     "author": "Qingwen Lin, Boyan Xu, Shifeng Xie, Zhifeng Hao, Keli Zhang, Ruichu Cai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4189,7 +4229,7 @@
     "categoryHint": "Research",
     "author": "Oktie Hassanzadeh, Dharmashankar Subramanian",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4209,7 +4249,7 @@
     "categoryHint": "Research",
     "author": "Ibrahim Siddig, Munir Georges",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4229,7 +4269,7 @@
     "categoryHint": "Research",
     "author": "Dongyang Chen, Shudong Liu, Shubo Li, Duoxun Tang, Jinwei Liang, Zehuan Wu, Lewei Lu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4249,7 +4289,7 @@
     "categoryHint": "Research",
     "author": "Kaizhen Li, Xi Zhou, Dan Zhang, Xiaowei Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4269,7 +4309,7 @@
     "categoryHint": "Research",
     "author": "Vakul Raghavan, Utkarsh Grover, Mingyang Mao, Chengwen Wang, Xiaomin Lin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4289,7 +4329,7 @@
     "categoryHint": "Research",
     "author": "Hare Krishna",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4309,7 +4349,7 @@
     "categoryHint": "Research",
     "author": "Hare Krishna",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4329,7 +4369,7 @@
     "categoryHint": "Research",
     "author": "Xiaohuan Jia, Renzhe Xu, Xiao Wang, Jiayun Wu, Shaohua Fan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4349,7 +4389,7 @@
     "categoryHint": "Research",
     "author": "Xiaohuan Jia, Renzhe Xu, Xiao Wang, Jiayun Wu, Shaohua Fan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4369,7 +4409,7 @@
     "categoryHint": "Research",
     "author": "Ronghan Li, Fei Chen, Mingyu Lu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4389,7 +4429,7 @@
     "categoryHint": "Research",
     "author": "Shun Zou, Ziyu Ma, Yi Zou, Yong Wang, Lin Chen, Zehui Chen, Guanhua Chen, Xiangxiang Chu, Feng Zhao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4409,7 +4449,7 @@
     "categoryHint": "Research",
     "author": "Jinjin He, Xinsong Feng, Lucheng Fu, Sinan Wang, Bo Zhu, Jiayun Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4429,7 +4469,7 @@
     "categoryHint": "Research",
     "author": "Jinjin He, Xinsong Feng, Lucheng Fu, Sinan Wang, Bo Zhu, Jiayun Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4449,7 +4489,7 @@
     "categoryHint": "Research",
     "author": "Jingru Yang, Jinhang Wu, Minjing Shi, Shengfeng He, Xuyan Li, Man Tan, Biye Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4469,7 +4509,7 @@
     "categoryHint": "Research",
     "author": "Jingru Yang, Jinhang Wu, Minjing Shi, Shengfeng He, Xuyan Li, Man Tan, Biye Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4489,7 +4529,7 @@
     "categoryHint": "Research",
     "author": "Yongxin Zheng, Hao Wu, Fang Li, Hu Fu, Peiran Yin, Xudong Wang, Haozhe Hu, Xinghao Chen, Yunpu Ma, Wei Zhang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4509,7 +4549,7 @@
     "categoryHint": "Research",
     "author": "Yongxin Zheng, Hao Wu, Fang Li, Hu Fu, Peiran Yin, Xudong Wang, Haozhe Hu, Xinghao Chen, Yunpu Ma, Wei Zhang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4529,7 +4569,7 @@
     "categoryHint": "Research",
     "author": "Jonas Petersen, Pratik Jawahar, Riccardo Maggioni, Gian-Alessandro Lombardi, Matteo Cozzi, Marek Gajewski, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4549,7 +4589,7 @@
     "categoryHint": "Research",
     "author": "Jonas Petersen, Pratik Jawahar, Riccardo Maggioni, Gian-Alessandro Lombardi, Matteo Cozzi, Marek Gajewski, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4569,7 +4609,7 @@
     "categoryHint": "Research",
     "author": "Md. Nesarul Hoque, Rudra Pratap Deb Nath, Umme Salma, Shima Chakraborty, Md. Hanif Seddiqui",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4589,7 +4629,7 @@
     "categoryHint": "Research",
     "author": "Binglei Li, Mengping Yang, Zhiyu Tan, Wenxu Qian, Junping Zhang, Hao Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4609,7 +4649,7 @@
     "categoryHint": "Research",
     "author": "Ahmad Abbas, Hussein Mazeh, Chadi Abou Chakra, Aya Jouni, Mohammad Ballout, Fadi A. Zaraket",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4629,7 +4669,7 @@
     "categoryHint": "Research",
     "author": "Abiel Malkani Talwar, Christopher Nemeth, Henry Moss",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4649,7 +4689,7 @@
     "categoryHint": "Research",
     "author": "Zijun Wang, Yifan Ji, Haidong Xin, Zhenghao Liu, Yukun Yan, Zulong Chen, Yu Gu, Ge Yu, Maosong Sun",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4669,7 +4709,7 @@
     "categoryHint": "Research",
     "author": "Ali Shibli, Andrea Nascetti, Yifang Ban",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4689,7 +4729,7 @@
     "categoryHint": "Research",
     "author": "Ibrahim Siddig, Sviatoslav Tugeev, Munir Georges",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4709,7 +4749,7 @@
     "categoryHint": "Research",
     "author": "Daniel Varela S\\'anchez, Guillermo Mart\\'in-Coello Ju\\'arez",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4729,7 +4769,7 @@
     "categoryHint": "Research",
     "author": "M. Berk Sahin, Ege C. Kaya, Arda Fazla, Behzad Sharif, Abolfazl Hashemi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4749,7 +4789,7 @@
     "categoryHint": "Research",
     "author": "Arzu Burcu G\\\"uven, Anna Rogers, Leonie Weissweiler, Joakim Nivre, Rob van der Goot",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4769,7 +4809,7 @@
     "categoryHint": "Research",
     "author": "Ran Tian, Courtney Paquette",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4789,7 +4829,7 @@
     "categoryHint": "Research",
     "author": "Davide Wiest, Ahanaf Hasan Ariq, Abdul Monaf Chowdhury",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4809,7 +4849,7 @@
     "categoryHint": "Research",
     "author": "Arkajyoti Chakraborty, Adam Zernik, Ishika Kulkarni, Mudit Arora, Hugo Lin, Justin Chiu, Alessandro Di Bari, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4829,7 +4869,7 @@
     "categoryHint": "Research",
     "author": "Jingyi Yang, Alexander Tuzhilin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4849,7 +4889,7 @@
     "categoryHint": "Research",
     "author": "Aravind Reddy, Deeraj S K, Mohd Wasif Raza, Saurav Prakash",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4869,7 +4909,7 @@
     "categoryHint": "Research",
     "author": "Khoi-Nguyen Tran",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4889,7 +4929,7 @@
     "categoryHint": "Research",
     "author": "Gon Buzaglo, Guy Kornowski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4909,7 +4949,7 @@
     "categoryHint": "Research",
     "author": "Manuel H\\\"ulskamp, Julius Kobialka, Emanuel Sommer, Thomas Nagler, David R\\\"ugamer",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4929,7 +4969,7 @@
     "categoryHint": "Research",
     "author": "Haotian Qiao, Robert P. Dick",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4949,7 +4989,7 @@
     "categoryHint": "Research",
     "author": "Drew T. Nguyen, William Fithian",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4969,7 +5009,7 @@
     "categoryHint": "Research",
     "author": "Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -4989,7 +5029,7 @@
     "categoryHint": "Research",
     "author": "Andrea P. Hernandez, Michael Ibrahim, Nagi Gebraeel",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5009,7 +5049,7 @@
     "categoryHint": "Research",
     "author": "Janet Wang, Jiang Guo, Yi Xiang, Jiaqing Yuan, Mingwen Dong, Hideo Kobayashi, Shuaichen Chang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5029,7 +5069,7 @@
     "categoryHint": "Research",
     "author": "Chengyi Yang, Renxu Bao, Jue Hou, Zongpei Teng, Ziheng Wang, Yujie Lin, Chengsong Huang, Junnan Zhu, Delai Qiu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5049,7 +5089,7 @@
     "categoryHint": "Research",
     "author": "Chengyi Yang, Renxu Bao, Jue Hou, Zongpei Teng, Ziheng Wang, Yujie Lin, Chengsong Huang, Junnan Zhu, Delai Qiu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5069,7 +5109,7 @@
     "categoryHint": "Research",
     "author": "Stuart Farmer",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5089,7 +5129,7 @@
     "categoryHint": "Research",
     "author": "Mason Minot, Simon Friedensohn, C\\'edric R. Weber",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5109,7 +5149,7 @@
     "categoryHint": "Research",
     "author": "Songtao Huang, Zhijie Zhong, Xiaohan He, Shuaiyu Zhang, Zhiyin Yu, Li Kang, Heng Zhou, Yutao Fan, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5129,7 +5169,7 @@
     "categoryHint": "Research",
     "author": "Yongzhi Huang, Jiayi Zhao, Kaishun Wu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5149,7 +5189,7 @@
     "categoryHint": "Research",
     "author": "Ning Liu, Ian Li, Kristina Klinkner",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5169,7 +5209,7 @@
     "categoryHint": "Research",
     "author": "Barbara da Silva Oliveira (UniCA, Laboratoire I3S - COMRED, KAIROS), Julien Deantoni (UniCA, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5189,7 +5229,7 @@
     "categoryHint": "Research",
     "author": "Faith Ogunwoye, Didar Seyidov, Konstantin Gubernatorov, Dzmitry Tsetserukou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5209,7 +5249,7 @@
     "categoryHint": "Research",
     "author": "Fabien Furfaro",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5229,7 +5269,7 @@
     "categoryHint": "Research",
     "author": "Fabien Furfaro",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5249,7 +5289,7 @@
     "categoryHint": "Research",
     "author": "Fabien Furfaro",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5269,7 +5309,7 @@
     "categoryHint": "Research",
     "author": "Mohammad Khalooei, Mohammad Sabokrou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5289,7 +5329,7 @@
     "categoryHint": "Research",
     "author": "Mohammad Khalooei, Mohammad Sabokrou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5309,7 +5349,7 @@
     "categoryHint": "Research",
     "author": "Jiahang Sun, Zhiwei Shang, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Shuang Qiu, Zhongxiang Dai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5329,7 +5369,7 @@
     "categoryHint": "Research",
     "author": "Hamza Shafiq, Jialu Tang, Ting Dang, Jun Hu, Aaqib Saeed",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5349,7 +5389,7 @@
     "categoryHint": "Research",
     "author": "Hamza Shafiq, Jialu Tang, Ting Dang, Jun Hu, Aaqib Saeed",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5369,7 +5409,7 @@
     "categoryHint": "Research",
     "author": "Jingwei Song, Zhisheng Chen, Bingfan Zeng, Jing Tang, Yubo Hou, Jinhao Jing, Zhengwei Xie, Linfeng Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5389,7 +5429,7 @@
     "categoryHint": "Research",
     "author": "Duy Nguyen, Lesly Miculicich, Bhavana Dalvi Mishra, Shuo Li, Krishnamurthy Dj Dvijotham, Mohit Bansal, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5409,7 +5449,7 @@
     "categoryHint": "Research",
     "author": "Duy Nguyen, Lesly Miculicich, Bhavana Dalvi Mishra, Shuo Li, Krishnamurthy Dj Dvijotham, Mohit Bansal, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5429,7 +5469,7 @@
     "categoryHint": "Research",
     "author": "Duy Nguyen, Lesly Miculicich, Bhavana Dalvi Mishra, Shuo Li, Krishnamurthy Dj Dvijotham, Mohit Bansal, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5449,7 +5489,7 @@
     "categoryHint": "Research",
     "author": "Xiaoyu Li, Zhizhou Sha, Chiwun Yang, Dai Shi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5469,7 +5509,7 @@
     "categoryHint": "Research",
     "author": "Yeonsung Jung, Zhiyuan Wang, Zifan Wang, V\\'itor Albiero, Benjamin Newman, Edoardo Debenedetti, Ivan Evtimov, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5489,7 +5529,7 @@
     "categoryHint": "Research",
     "author": "Malte Ostendorff",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5509,7 +5549,7 @@
     "categoryHint": "Research",
     "author": "Qiuyun Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5529,7 +5569,7 @@
     "categoryHint": "Research",
     "author": "Qinhan Lyu, Jusheng Zhang, Zhixing Zhang, Hao Liu, Zijie Liang, Jin Jiang, Keze Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5549,7 +5589,7 @@
     "categoryHint": "Research",
     "author": "Siyi Qian, Hanqing Yang, Weihuang Lin, Zihao Yang, Yichen Lu, Yuanhong Zheng, Sheng Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5569,7 +5609,7 @@
     "categoryHint": "Research",
     "author": "Tianjiao Luo, Jianfei Chen, Jun Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5589,7 +5629,7 @@
     "categoryHint": "Research",
     "author": "Chejian Xu, Shujian Zhang, Wenxuan Zhou, John Lambert, Beck Chen, Bo Li, Andrew Hard, Rajiv Mathews",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5609,7 +5649,7 @@
     "categoryHint": "Research",
     "author": "Pablo Manrique, Hai Xia, Stefan Szeider",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5629,7 +5669,7 @@
     "categoryHint": "Research",
     "author": "Pablo Manrique, Hai Xia, Stefan Szeider",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5649,7 +5689,7 @@
     "categoryHint": "Research",
     "author": "Yibo Huang, Yi Cui, Yukai Huang, Huaping Zhou, Jiancong Tong, Zhaoyu Wu, Gen Miao, Haoran Wei, Boyan Ding, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5669,7 +5709,7 @@
     "categoryHint": "Research",
     "author": "Cheuk Hei Chung, Li Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5689,7 +5729,7 @@
     "categoryHint": "Research",
     "author": "Han Luo, Zhan Zhuang, Xu He, Jujia Zhao, Yu Li, Suqin Yuan, Dong Li, Lei Feng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5709,7 +5749,7 @@
     "categoryHint": "Research",
     "author": "Minglu Sun, Lan Chen, Hang Jiang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5729,7 +5769,7 @@
     "categoryHint": "Research",
     "author": "Quentin Le Tellier, Albert Rilliard, Olivier Perrotin, Marc Evrard",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5749,7 +5789,7 @@
     "categoryHint": "Research",
     "author": "Changye Li, Zijian Zhang, Muheng Li, Yiduo Pang, Tingjun Wu, Menghan Li, Yitong Liu, Hongkai Guo, Mengchi Chen, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5769,7 +5809,7 @@
     "categoryHint": "Research",
     "author": "Arvind Raghavan, Inwoo Hwang, Shreyas Havaldar, Kai-Zhan Lee, Aurghya Maiti, Yushu Pan, Jeffrey Wu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5789,7 +5829,7 @@
     "categoryHint": "Research",
     "author": "Arvind Raghavan, Inwoo Hwang, Shreyas Havaldar, Kai-Zhan Lee, Aurghya Maiti, Yushu Pan, Jeffrey Wu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5809,7 +5849,7 @@
     "categoryHint": "Research",
     "author": "Arvind Raghavan, Inwoo Hwang, Shreyas Havaldar, Kai-Zhan Lee, Aurghya Maiti, Yushu Pan, Jeffrey Wu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5829,7 +5869,7 @@
     "categoryHint": "Research",
     "author": "Youshan Zhang, Jialu Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5849,7 +5889,7 @@
     "categoryHint": "Research",
     "author": "Jie Huang, Yanan Chen, Ruixun Liu, Kaichen He, Xinyi He, Rui Huang, Zilong Zheng, Zhenliang Zhang, Yiwu Zhong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5869,7 +5909,7 @@
     "categoryHint": "Research",
     "author": "Jie Huang, Yanan Chen, Ruixun Liu, Kaichen He, Xinyi He, Rui Huang, Zilong Zheng, Zhenliang Zhang, Yiwu Zhong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5889,7 +5929,7 @@
     "categoryHint": "Research",
     "author": "Zekang Wang, Zhe He, Gaojie Jin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5909,7 +5949,7 @@
     "categoryHint": "Research",
     "author": "Zekang Wang, Zhe He, Gaojie Jin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5929,7 +5969,7 @@
     "categoryHint": "Research",
     "author": "Saibo Geng, Andrea Gentilini, Xinxian Ma, Nathan Ranchin, Yunzhen Yao, Robert West",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5949,7 +5989,7 @@
     "categoryHint": "Research",
     "author": "Sangdo Han, Moonsoo Kim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5969,7 +6009,7 @@
     "categoryHint": "Research",
     "author": "Sangdo Han, Moonsoo Kim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -5989,7 +6029,7 @@
     "categoryHint": "Research",
     "author": "Meriem Terki, Nouhaila Innan, Minghao Shao, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6009,7 +6049,7 @@
     "categoryHint": "Research",
     "author": "Meriem Terki, Nouhaila Innan, Minghao Shao, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6029,7 +6069,7 @@
     "categoryHint": "Research",
     "author": "Zahra Batool, Michael Duchesne, Kaiwen Zhang, Ulrich Aivodji",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6049,7 +6089,7 @@
     "categoryHint": "Research",
     "author": "Tianyi Huang, Eric Liu, Jay Chong, Emily Yin, Wanqi Zhao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6069,7 +6109,7 @@
     "categoryHint": "Research",
     "author": "Haowei Wang, Hao Lin, Qi Zhu, Jiayi Ji, Deyi Ji, Liujuan Cao, Rongrong Ji",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6089,7 +6129,7 @@
     "categoryHint": "Research",
     "author": "Kai Li, Hanlin Cai, Zihao Liu, Yichen Li, Jose Alcaraz Calero, Wei Ni, Falko Dressler, \\\"Ozg\\\"ur B. Akan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6109,7 +6149,7 @@
     "categoryHint": "Research",
     "author": "Utkarsh Saxena, Ruijing Yang, Mehdi Rezagholizadeh, Akash Haridas, Vikram Appia, Emad Barsoum",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6129,7 +6169,7 @@
     "categoryHint": "Research",
     "author": "Luc\\'ia Garc\\'ia-Duarte, Miguel \\'Alvarez, Diego Vicente, Javier P\\'erez Trufero, Javier de la Torre",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6149,7 +6189,7 @@
     "categoryHint": "Research",
     "author": "Sovesh Mohapatra, Dani S Bassett",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6169,7 +6209,7 @@
     "categoryHint": "Research",
     "author": "Sovesh Mohapatra, Dani S Bassett",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6189,7 +6229,7 @@
     "categoryHint": "Research",
     "author": "Feifei Qian, Xuan Chen, Lixin Cui, Chaoyang Mei, Fanlin Meng, Shuyao Xiao, Ming Cui, Junxi Yin, Lu Bai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6209,7 +6249,7 @@
     "categoryHint": "Research",
     "author": "Yuhong Chou, Zehao Liu, Yuqi Pan, Qian Liu, Xianwei Chen, Zhongzhu Zhou, Jibin Wu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6229,7 +6269,7 @@
     "categoryHint": "Research",
     "author": "Yuhong Chou, Zehao Liu, Yuqi Pan, Qian Liu, Xianwei Chen, Zhongzhu Zhou, Jibin Wu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6249,7 +6289,7 @@
     "categoryHint": "Research",
     "author": "Yonggang Li, Boqian Han, Rui Sheng, Yushi Sun, Zixin Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6269,7 +6309,7 @@
     "categoryHint": "Research",
     "author": "Julien Kordes, Reuben Dorent",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6289,7 +6329,7 @@
     "categoryHint": "Research",
     "author": "Han Peng, Xing Hu, Feifei Niu, Huan Li, Xin Xia",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6309,7 +6349,7 @@
     "categoryHint": "Research",
     "author": "Joseph Lee, Yanjing Li, Bo Qiang, Gregory Lau, Allyson Ettinger, Noah A. Smith, Rory Donovan-Maiye, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6329,7 +6369,7 @@
     "categoryHint": "Research",
     "author": "Chen Xi, Ding Ruixue, Wang Zhigaoyuan, Zhang Fanrui, Zhang Qiang, Chen Boli, Wang Shihang, Wang Tianfu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6349,7 +6389,7 @@
     "categoryHint": "Research",
     "author": "Alexander Hickey, Joanna Knight, James Bishop",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6369,7 +6409,7 @@
     "categoryHint": "Research",
     "author": "Haiyuan Wan, Yanyi Li, Weicheng Lin, Cong Fang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6389,7 +6429,7 @@
     "categoryHint": "Research",
     "author": "Gangyi Li, LuYao Wang, Jingfu Sun, Jingyi Yuan, Hang Liu, Hao Zong, Yujia Hu, Tingting Gao, Jianyong Wang, Xu Yang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6409,7 +6449,7 @@
     "categoryHint": "Research",
     "author": "Gangyi Li, LuYao Wang, Jingfu Sun, Jingyi Yuan, Hang Liu, Hao Zong, Yujia Hu, Tingting Gao, Jianyong Wang, Xu Yang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6429,7 +6469,7 @@
     "categoryHint": "Research",
     "author": "Saumyaranjan Mohanty, Aravind Reddy, Konda Reddy Mopuri",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6449,7 +6489,7 @@
     "categoryHint": "Research",
     "author": "Jasin Cekinmez, Addison J. Wu, Ryo Mitsuhashi, Linrong Cai, Xingyu Fu, Zhuang Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6469,7 +6509,7 @@
     "categoryHint": "Research",
     "author": "Ziyi Yang, Adel Bibi, Guohao Li, Bernard Ghanem, Carlos Hinojosa",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6489,7 +6529,7 @@
     "categoryHint": "Research",
     "author": "Qing Li, Sara Wade",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6509,7 +6549,7 @@
     "categoryHint": "Research",
     "author": "Chen Peng, Shan Huang, Jianbo Huang, Linrui Qin, Qibo Sun, Mengwei Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6529,7 +6569,7 @@
     "categoryHint": "Research",
     "author": "Taeyoung Yu, Seonbin Jo, Jiwon Kim, Junyoung Byun",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6549,7 +6589,7 @@
     "categoryHint": "Research",
     "author": "Sanghwa Kim, Kyoungseok Jang, Se-Young Yun",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6569,7 +6609,7 @@
     "categoryHint": "Research",
     "author": "Junyou Guo, Chongyang Tao, Yan He, Yong Wang, Shuai Ma",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6589,7 +6629,7 @@
     "categoryHint": "Research",
     "author": "Juan Terven, Diana-Margarita C\\'ordova-Esparza, Ruben Gomez, Carlos Miranda Rocha, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6609,7 +6649,7 @@
     "categoryHint": "Research",
     "author": "Kushagra Chandak, Volodymyr Tkachuk, Xiaoqi Tan, Csaba Szepesv\\'ari",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6629,7 +6669,7 @@
     "categoryHint": "Research",
     "author": "Tianqi Zhao, Jia Guo, Yan Shuo Tan, Qiong Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6649,7 +6689,7 @@
     "categoryHint": "Research",
     "author": "Jiahao Wang, Hongjin Qian, Yuyang Hu, Jiajun Zhang, Zheng Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6669,7 +6709,7 @@
     "categoryHint": "Research",
     "author": "Jiahao Wang, Hongjin Qian, Yuyang Hu, Jiajun Zhang, Zheng Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6689,7 +6729,7 @@
     "categoryHint": "Research",
     "author": "Jason Chen, I-Chun Arthur Liu, Gaurav Sukhatme, Daniel Seita",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6709,7 +6749,7 @@
     "categoryHint": "Research",
     "author": "Fuqiang Wang, Zheng Guo, Xiaoming Wu, Hanlin Kong, Nayu Liu, Chuanting Zhang, Daojun Liang, Jingxuan Wei",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6729,7 +6769,7 @@
     "categoryHint": "Research",
     "author": "Arijit Sehanobish, Byeongchan Kim, Avinava Dubey, Min-hwan Oh, Krzysztof Choromanski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6749,7 +6789,7 @@
     "categoryHint": "Research",
     "author": "Yousef Irshaid, Dara Varam, Mohamed I. AlHajri",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6769,7 +6809,7 @@
     "categoryHint": "Research",
     "author": "Qiao Gao, Yang Huang, Enze Hou, Yuzhi Liu, Jingrun Chen, Han Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6789,7 +6829,7 @@
     "categoryHint": "Research",
     "author": "Helmut Simonis",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6809,7 +6849,7 @@
     "categoryHint": "Research",
     "author": "Sangpil Youm, Annabel Stocks Natalias, Hayden Heninger, Leah Jones, Xiaoyang Jin, Xiaoya Zhang, Bonnie Dorr",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6829,7 +6869,7 @@
     "categoryHint": "Research",
     "author": "Georg Maierhofer, Miles Cranmer, Payel Mukhopadhyay",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6849,7 +6889,7 @@
     "categoryHint": "Research",
     "author": "William Sheffield, Jiahui Chen, Amy Zhang, Alex Warstadt, Junyi Jessy Li, Kanishka Misra",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6869,7 +6909,7 @@
     "categoryHint": "Research",
     "author": "Alessandro Licciardi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6889,7 +6929,7 @@
     "categoryHint": "Research",
     "author": "Talha Ansar (University of Engineering and Technology, Lahore, Pakistan), et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6909,7 +6949,7 @@
     "categoryHint": "Research",
     "author": "Tahmid Imtiaz Imu, Emama Nahid, Prodipta Sen Amartya, Ahsanul Jobayer, Yutong Song, Jiang Wu, Pengfei Zhang, Honghui Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6929,7 +6969,7 @@
     "categoryHint": "Research",
     "author": "Tahmid Imtiaz Imu, Emama Nahid, Prodipta Sen Amartya, Ahsanul Jobayer, Yutong Song, Jiang Wu, Pengfei Zhang, Honghui Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6949,7 +6989,7 @@
     "categoryHint": "Research",
     "author": "Jayanie Bogahawatte, Sachith Seneviratne, Simon Maksour, Dzung Do-Ha, Elizabeth Qian, Samuel Brennan, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6969,7 +7009,7 @@
     "categoryHint": "Research",
     "author": "Robert R. Nerem, Mitchell Black, Antonis Vasileiou, Christopher Morris, Yusu Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -6989,7 +7029,7 @@
     "categoryHint": "Research",
     "author": "Rishabh Jain, Federico Belotti, Stefano Coniglio, Pietro Lio, Stefano Fiorini",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7009,7 +7049,7 @@
     "categoryHint": "Research",
     "author": "Jiwon Jeon, Myungsik Cho, Jeonghye Kim, Youngchul Sung",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7029,7 +7069,7 @@
     "categoryHint": "Research",
     "author": "Jiwon Jeon, Myungsik Cho, Jeonghye Kim, Youngchul Sung",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7049,7 +7089,7 @@
     "categoryHint": "Research",
     "author": "Nan Jiang, Panagiotis Theodoropoulos, Wei Deng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7069,7 +7109,7 @@
     "categoryHint": "Research",
     "author": "Xu He, Homayoon Beigi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7089,7 +7129,7 @@
     "categoryHint": "Research",
     "author": "Xu He, Homayoon Beigi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7109,7 +7149,7 @@
     "categoryHint": "Research",
     "author": "Oscar Davis, Daan Roos, Alice Bizeul, Amitis Shidani, Victor Turrisi, Louis B\\'ethune, Pierre Ablin, Marco Cuturi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7129,7 +7169,7 @@
     "categoryHint": "Research",
     "author": "Joseph Egan, Ciar\\'{a}n M. Gilligan-Lee, Michael O'Riordan, Yuchen Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7149,7 +7189,7 @@
     "categoryHint": "Research",
     "author": "Joseph Egan, Ciar\\'{a}n M. Gilligan-Lee, Michael O'Riordan, Yuchen Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7169,7 +7209,7 @@
     "categoryHint": "Research",
     "author": "Jiankun Wei, Ewan Dunbar, Gerald Penn",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7189,7 +7229,7 @@
     "categoryHint": "Research",
     "author": "Jiankun Wei, Ewan Dunbar, Gerald Penn",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7209,7 +7249,7 @@
     "categoryHint": "Research",
     "author": "Sheza Munir, Ramaravind Kommiya Mothilal, Syed Ishtiaque Ahmed",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7229,7 +7269,7 @@
     "categoryHint": "Research",
     "author": "He Sun, Junyuan Mao, Wenhao Jiang, Mingjun Xiao, Shinan Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7249,7 +7289,7 @@
     "categoryHint": "Research",
     "author": "Max Bourgeat",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7269,7 +7309,7 @@
     "categoryHint": "Research",
     "author": "Weixin Guan, Liang Li, Shiyu Xie, Jiapeng Liu, Bing Li, Peng Fu, Chengyang Fang, Xiaoshuai Hao, Can Ma, Weiping Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7289,7 +7329,7 @@
     "categoryHint": "Research",
     "author": "Simon Olsson, Frank No\\'e, Grant M. Rotskoff, Kresten Lindorff-Larsen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7309,7 +7349,7 @@
     "categoryHint": "Research",
     "author": "Seung Won Wilson Yoo, Chang Zeng, Aditi Somayajula, Sahithi Ankireddy, Rohan Kosalge, Avishree Khare, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7329,7 +7369,7 @@
     "categoryHint": "Research",
     "author": "Seung Won Wilson Yoo, Chang Zeng, Aditi Somayajula, Sahithi Ankireddy, Rohan Kosalge, Avishree Khare, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7349,7 +7389,7 @@
     "categoryHint": "Research",
     "author": "Seung Won Wilson Yoo, Chang Zeng, Aditi Somayajula, Sahithi Ankireddy, Rohan Kosalge, Avishree Khare, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7369,7 +7409,7 @@
     "categoryHint": "Research",
     "author": "Vincent Pauline, Kirill Tamogashev, Arran Carter, Sanghyeok Choi, Stefan Bauer, Esmeralda S. Whitammer",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7389,7 +7429,7 @@
     "categoryHint": "Research",
     "author": "Pratik Maitra, Lauren Kwon, Qi Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7409,7 +7449,7 @@
     "categoryHint": "Research",
     "author": "Teo Deveney, Lea Bogensperger, Hok Shing Wong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7429,7 +7469,7 @@
     "categoryHint": "Research",
     "author": "Jaewoo Lee, Jeongyeon Seo, Sihyun Cho, Gyeongrak Choe, Yutong Wang, Bavin Saravanan, Jia-Bin Huang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7449,7 +7489,7 @@
     "categoryHint": "Research",
     "author": "Max van Duijn, Michiel van der Meer, Aske Plaat, Niki van Stein",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7469,7 +7509,7 @@
     "categoryHint": "Research",
     "author": "Mustafa S. Aljumaily, Ali Ataeemh Allami, Mustafa N. Mnati, Nawar S. Alseelawi, Shahab Abdulla",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7489,7 +7529,7 @@
     "categoryHint": "Research",
     "author": "Cameron Mouangue, Tristan Cazenave",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7509,7 +7549,7 @@
     "categoryHint": "Research",
     "author": "El Mahdi Chayti, Alireza Mirrokni, Martin Jaggi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7529,7 +7569,7 @@
     "categoryHint": "Research",
     "author": "Jingcheng Ni, Zekun Li, Zhiyang Dou, Xiaoyan Cong, Ziyao Zeng, Hongyang Du, Randall Balestriero, Taku Komura, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7549,7 +7589,7 @@
     "categoryHint": "Research",
     "author": "Claudio Altafini",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7569,7 +7609,7 @@
     "categoryHint": "Research",
     "author": "Wenlin Lin, Fanzhe Wei",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7589,7 +7629,7 @@
     "categoryHint": "Research",
     "author": "Wenlin Lin, Fanzhe Wei",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7609,7 +7649,7 @@
     "categoryHint": "Research",
     "author": "David M. Markowitz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7629,7 +7669,7 @@
     "categoryHint": "Research",
     "author": "Catherine Ji, Vivek Myers, Joshua Lin, Alexandra Wingate, Sergey Levine, Benjamin Eysenbach",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7649,7 +7689,7 @@
     "categoryHint": "Research",
     "author": "Catherine Ji, Vivek Myers, Joshua Lin, Alexandra Wingate, Sergey Levine, Benjamin Eysenbach",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7669,7 +7709,7 @@
     "categoryHint": "Research",
     "author": "Mingyu Chen, Zhiqing Zhong, Manyi Wang, Linxi Liang, Rouyu Chen, Pinjia He",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7689,7 +7729,7 @@
     "categoryHint": "Research",
     "author": "Jiatan Huang, Zheyuan Zhang, Ziming Li, Tianyi Ma, Mingchen Li, Yanfang Ye, Chuxu Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7709,7 +7749,7 @@
     "categoryHint": "Research",
     "author": "Theodora Moldovan, Georgios Panayiotou, Davide Vega",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7729,7 +7769,7 @@
     "categoryHint": "Research",
     "author": "Phillip W. Kornberg, Kevin S. Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7749,7 +7789,7 @@
     "categoryHint": "Research",
     "author": "Yu Sun, Renkai Xiang, Zuodong Xiang, Junwei Zhou, Yike Zhang, Jianxin Zhang, Zhihao Zhu, Xiaoyu Cao, Hailu Xu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7769,7 +7809,7 @@
     "categoryHint": "Research",
     "author": "Hongrui Zheng, Aditya Singh, Rahul Mangharam",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7789,7 +7829,7 @@
     "categoryHint": "Research",
     "author": "Hongrui Zheng, Aditya Singh, Rahul Mangharam",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7809,7 +7849,7 @@
     "categoryHint": "Research",
     "author": "Ruige Kong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7829,7 +7869,7 @@
     "categoryHint": "Research",
     "author": "Yuheng Wang, Runde Yang, Zhuohan Bao, Qiran Zhang, Huatao Li, Yiyang Zheng, Lin Wu, Jingru Fan, Shu Yao, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7849,7 +7889,7 @@
     "categoryHint": "Research",
     "author": "Tomo Oga, Devesh Shah, Cailum M. K. Stienstra, Gabriel Asher, Antonio H. de O. Fonseca, Niall O'Connor, Michael Widrich",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7869,7 +7909,7 @@
     "categoryHint": "Research",
     "author": "Emily Xia Meng, Xuanyu Yang, Junaid Hasan, Michael Ruofan Zeng, Henry Kvinge",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7889,7 +7929,7 @@
     "categoryHint": "Research",
     "author": "Bingkui Tong, Daria Korovaitceva, Marina Sheshukova, Sergey Samsonov, Junpei Komiyama",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7909,7 +7949,7 @@
     "categoryHint": "Research",
     "author": "Burla Nur Korkmaz, Petro Moilanen, Ari Salmi, Harsha Vardhan Tetali, Arto Klami",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7929,7 +7969,7 @@
     "categoryHint": "Research",
     "author": "Arnab Dey, Mohammad Mahfuzul Islam",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7949,7 +7989,7 @@
     "categoryHint": "Research",
     "author": "Rong Wu, Daocheng Fu, Yu Yang, Xuemeng Yang, Siqi Li, Shu Zou, Yao Zhu, Botian Shi, Bo Zhang, Cong Zhang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7969,7 +8009,7 @@
     "categoryHint": "Research",
     "author": "Adinath Madhavrao Dukre, Abdullah Mohammad, Yifan Lu, Eran Segal, Ahmed Metwally, Imran Razzak",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -7989,7 +8029,7 @@
     "categoryHint": "Research",
     "author": "Siva Rajesh Kasa, Santhosh Kumar Kasa, Karan Gupta",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8009,7 +8049,7 @@
     "categoryHint": "Research",
     "author": "Anastasia Psarou, Mikolaj Rams, Blazej Torbus, Rafal Kucharski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8029,7 +8069,7 @@
     "categoryHint": "Research",
     "author": "Hadi Keramati, Mohammed A. Hannan, Patrick Kirchen, Sina Tousi, Joonas Riekkinen, Jim Pyra, Rajeev K. Jaiman",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8049,7 +8089,7 @@
     "categoryHint": "Research",
     "author": "Jixin Tang, Ji Guo, Jun Zhao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8069,7 +8109,7 @@
     "categoryHint": "Research",
     "author": "Robert Jenkinson Alvarez",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8089,7 +8129,7 @@
     "categoryHint": "Research",
     "author": "Octi Zhang, Iretiayo Akinola, Rosario Scalise, Mateo Guaman Castro, Patrick Yin, Tobias Widmer, Miles Macklin, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8109,7 +8149,7 @@
     "categoryHint": "Research",
     "author": "Xiaohan Qin, Xiangdong Zhang, Tuo Dai, Sunan Zou, Huaijin Wu, Yebin Yang, Zhuo Xia, Lin Yao, Yuliang Liu, Junchi Yan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8129,7 +8169,7 @@
     "categoryHint": "Research",
     "author": "Mateusz Modrzejewski, Tomasz Radzikowski",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8149,7 +8189,7 @@
     "categoryHint": "Research",
     "author": "Shutian Liang, Yue Song",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8169,7 +8209,7 @@
     "categoryHint": "Research",
     "author": "Hendrik Stumpf, Francesco Quinzan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8189,7 +8229,7 @@
     "categoryHint": "Research",
     "author": "Hendrik Stumpf, Francesco Quinzan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8209,7 +8249,7 @@
     "categoryHint": "Research",
     "author": "Jose Roberto Tello Ayala, Akl C. Fahed, Roy Perlis, Finale Doshi-Velez",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8229,7 +8269,7 @@
     "categoryHint": "Research",
     "author": "Fu-An Chao, Bi-Cheng Yan, Berlin Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8249,7 +8289,7 @@
     "categoryHint": "Research",
     "author": "Zhengyang Zhang, Jing Xiong, Hongzhou Lin, Juihui Chung, Zijian Zhang, Song Han, Sihao Liu, Ligeng Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8269,7 +8309,7 @@
     "categoryHint": "Research",
     "author": "David Garc\\'ia-Lorite, Raul Merino",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8289,7 +8329,7 @@
     "categoryHint": "Research",
     "author": "Jaehyeon Park, Mingu Kang, Dongseok Lee, Woojin Cho, Kookjin Lee, Anthony Gruber, Youngjoon Hong, Noseong Park",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8309,7 +8349,7 @@
     "categoryHint": "Research",
     "author": "Jack Zheng, Hao Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8329,7 +8369,7 @@
     "categoryHint": "Research",
     "author": "Amirhossein Vahdat, Thierry Badard, Luc Lamontagne",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8349,7 +8389,7 @@
     "categoryHint": "Research",
     "author": "Amirhossein Vahdat, Thierry Badard, Luc Lamontagne",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8369,7 +8409,7 @@
     "categoryHint": "Research",
     "author": "Po-Heng Chou, Jen-Yu Chiu, Chun-Yu Yeh, Wei-Lung Mao, Walid Saad",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8389,7 +8429,7 @@
     "categoryHint": "Research",
     "author": "Xu Zhang, Haohan Wang, Zheng Zhang, Yingjie Xia, Wei Feng, Honghe Zhu, Jingjing Lv, Changping Peng, Xuheng Qin, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8409,7 +8449,7 @@
     "categoryHint": "Research",
     "author": "Yuchen Ling, Shengcheng Yu, Zhenyu Chen, Chunrong Fang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8429,7 +8469,7 @@
     "categoryHint": "Research",
     "author": "David Ahmedt-Aristizabal, Abdelwahed Khamis, Mohammad Ali Armin, Lars Petersson",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8449,7 +8489,7 @@
     "categoryHint": "Research",
     "author": "Zhicheng Cai, Xinyuan Guo, Hanlin Wu, Weinan Dai, Yuyan Zhou, Wei-Ying Ma, Ya-Qin Zhang, Hao Zhou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8469,7 +8509,7 @@
     "categoryHint": "Research",
     "author": "Zhicheng Cai, Xinyuan Guo, Hanlin Wu, Weinan Dai, Yuyan Zhou, Wei-Ying Ma, Ya-Qin Zhang, Hao Zhou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8489,7 +8529,7 @@
     "categoryHint": "Research",
     "author": "Zhiyu Guo, Jiwei Jia, Lei Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8509,7 +8549,7 @@
     "categoryHint": "Research",
     "author": "Nektarios Kalampalikis, Pablo M. Olmos, Isabel Valera",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8529,7 +8569,7 @@
     "categoryHint": "Research",
     "author": "Nektarios Kalampalikis, Pablo M. Olmos, Isabel Valera",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8549,7 +8589,7 @@
     "categoryHint": "Research",
     "author": "Chandravardhan Singh Raghaw, Shahid Shafi Dar, Arnav Nishith Sharma, Shrey Modi, Nagendra Kumar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8569,7 +8609,7 @@
     "categoryHint": "Research",
     "author": "P N Bhargav Teja, Velpula Lokesh Reddy, Madhu Basumata, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8589,7 +8629,7 @@
     "categoryHint": "Research",
     "author": "P N Bhargav Teja, Velpula Lokesh Reddy, Madhu Basumata, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8609,7 +8649,7 @@
     "categoryHint": "Research",
     "author": "Snigdha Chandan Khilar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8629,7 +8669,7 @@
     "categoryHint": "Research",
     "author": "Adam Watts, Charles Young, Ryan Bowering, Andrew Jeon, Destry Newton",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8649,7 +8689,7 @@
     "categoryHint": "Research",
     "author": "David Jacob Drexlin, Julius Hense, Jonas Dippel",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8669,7 +8709,7 @@
     "categoryHint": "Research",
     "author": "Ionut Adrian Rotaru",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8689,7 +8729,7 @@
     "categoryHint": "Research",
     "author": "Ionut Adrian Rotaru",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8709,7 +8749,7 @@
     "categoryHint": "Research",
     "author": "Zheng Ren, Yanning Wang, Ziheng Huang, Fei Huang, Shiqi Wang, Ziqian Ye, Yang Yue",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8729,7 +8769,7 @@
     "categoryHint": "Research",
     "author": "Fabian Drexel, Bernhard Kainz, Jakob N. Kather, Daniel Rueckert, Lisa C. Adams, Keno K. Bressem, Cosmin I. Bercea",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8749,7 +8789,7 @@
     "categoryHint": "Research",
     "author": "Xiao Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8769,7 +8809,7 @@
     "categoryHint": "Research",
     "author": "Marco Zullich, Emily Schiller, Ivan Gentile, David Dembinsky, Adriano Lucieri, Kilian G\\\"oller, Steffen Seitz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8789,7 +8829,7 @@
     "categoryHint": "Research",
     "author": "Marco Zullich, Emily Schiller, Ivan Gentile, David Dembinsky, Adriano Lucieri, Kilian G\\\"oller, Steffen Seitz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8809,7 +8849,7 @@
     "categoryHint": "Research",
     "author": "Xiaoqin Feng, Yuqi Li, Weilun Feng, Yi-Cheng Lin, Kai Li, Xianglong Wang, Kuo Yang, Chuanguang Yang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8829,7 +8869,7 @@
     "categoryHint": "Research",
     "author": "Wuzhe Xu, Zhaiming Shen, Yulong Lu, Wenjing Liao, Rongjie Lai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8849,7 +8889,7 @@
     "categoryHint": "Research",
     "author": "Alex Guerra, Joshua Aduol, Yaqian Tang, Daniel Williams, Ryan P. Adams, Peter Orbanz",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8869,7 +8909,7 @@
     "categoryHint": "Research",
     "author": "Carolin Ciss\\'ee, Dennis Fast, Raneen Younis, Alexander L\\\"oser, Wolfgang Nejdl, Zahra Ahmadi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8889,7 +8929,7 @@
     "categoryHint": "Research",
     "author": "Sujith Subramanian, P N Bhargav Teja, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8909,7 +8949,7 @@
     "categoryHint": "Research",
     "author": "Sujith Subramanian, P N Bhargav Teja, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8929,7 +8969,7 @@
     "categoryHint": "Research",
     "author": "Anuj Kumar, Shintaro Ozaki, Yamuna Prasad, Katsuhiko Hayashi, Hidetaka Kamigaito, Taro Watanabe",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8949,7 +8989,7 @@
     "categoryHint": "Research",
     "author": "Anuj Kumar, Shintaro Ozaki, Yamuna Prasad, Katsuhiko Hayashi, Hidetaka Kamigaito, Taro Watanabe",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8969,7 +9009,7 @@
     "categoryHint": "Research",
     "author": "Zeru Zhu, Marco Gamarra, Ji Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -8989,7 +9029,7 @@
     "categoryHint": "Research",
     "author": "Yiran Wu, Andrew Zhao, Yurui Chang, Qingyun Wu, Xuan Feng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9009,7 +9049,7 @@
     "categoryHint": "Research",
     "author": "Sevan Brodjian, Michael Hobley, Pietro Perona",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9029,7 +9069,7 @@
     "categoryHint": "Research",
     "author": "Sevan Brodjian, Michael Hobley, Pietro Perona",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9049,7 +9089,7 @@
     "categoryHint": "Research",
     "author": "Denis Blessing, Onur Celik, Gerhard Neumann",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9069,7 +9109,7 @@
     "categoryHint": "Research",
     "author": "Qiwei Han, Chi Zhou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9089,7 +9129,7 @@
     "categoryHint": "Research",
     "author": "Thai Quoc On, Homayoon Beigi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9109,7 +9149,7 @@
     "categoryHint": "Research",
     "author": "Thai Quoc On, Homayoon Beigi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9129,7 +9169,7 @@
     "categoryHint": "Research",
     "author": "Wenjuan Zhu, Zheming Yang, Yunqing Hu, Qi Guo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9149,7 +9189,7 @@
     "categoryHint": "Research",
     "author": "Yuhang He, Hongyu Ge, Zihan Lin, Siyi Liu, Yongqi Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9169,7 +9209,7 @@
     "categoryHint": "Research",
     "author": "Yuhang He, Hongyu Ge, Zihan Lin, Siyi Liu, Yongqi Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9189,7 +9229,7 @@
     "categoryHint": "Research",
     "author": "Mohammad Wathiq Soualhi, Basem Suleiman",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9209,7 +9249,7 @@
     "categoryHint": "Research",
     "author": "Wei Minn, Zhensu Sun, Lwin Khin Shar, David Lo",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9229,7 +9269,7 @@
     "categoryHint": "Research",
     "author": "Buu Phan, Lester Mackey, David Alvarez-Melis",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9249,7 +9289,7 @@
     "categoryHint": "Research",
     "author": "Songmiao Wang, Yuchen Wang, Chenglin Yu, Hongxia Yang, Ming Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9269,7 +9309,7 @@
     "categoryHint": "Research",
     "author": "Boyuan Deng, Kshitiz Upadhyay, Michael Shields",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9289,7 +9329,7 @@
     "categoryHint": "Research",
     "author": "Yueying Li, Jingxuan Fan, Kiant\\'e Brantley, Sham M. Kakade, Hanlin Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9309,7 +9349,7 @@
     "categoryHint": "Research",
     "author": "Yueying Li, Jingxuan Fan, Kiant\\'e Brantley, Sham M. Kakade, Hanlin Zhang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9329,7 +9369,7 @@
     "categoryHint": "Research",
     "author": "Mohammad Siavashi, Pascal Schwinte, Ali Banaei, Gerald Q. Maguire Jr., Marco Chiesa, Dejan Kosti\\'c",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9349,7 +9389,7 @@
     "categoryHint": "Research",
     "author": "Mohammad Siavashi, Pascal Schwinte, Ali Banaei, Gerald Q. Maguire Jr., Marco Chiesa, Dejan Kosti\\'c",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9369,7 +9409,7 @@
     "categoryHint": "Research",
     "author": "Xiting Liu, Lin Yang, Yitong Zhang, Jia Li, Shi-Min Hu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9389,7 +9429,7 @@
     "categoryHint": "Research",
     "author": "Jiajun Hu, Chun Yong Chong",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9409,7 +9449,7 @@
     "categoryHint": "Research",
     "author": "Sheng Zhao, Yuhao Zhu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9429,7 +9469,7 @@
     "categoryHint": "Research",
     "author": "Lifeng Wang, Xintong Li, Aifei Liu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9449,7 +9489,7 @@
     "categoryHint": "Research",
     "author": "Zhihao Liu, Yitian Cheng, Shuang Liu, Rui Wen, Yuke Hu, Zhan Qin",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9469,7 +9509,7 @@
     "categoryHint": "Research",
     "author": "Anastasia Voznyuk, Andrey Grabovoy",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9489,7 +9529,7 @@
     "categoryHint": "Research",
     "author": "Efstathios Chatziloizos, Konstantinos Vandikas, Aneta Vulgarakis Feljan, Zheng Chen, Nikolaos Pappas",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9509,7 +9549,7 @@
     "categoryHint": "Research",
     "author": "Sangdo Han, Moonsoo Kim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9529,7 +9569,7 @@
     "categoryHint": "Research",
     "author": "Sangdo Han, Moonsoo Kim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9549,7 +9589,7 @@
     "categoryHint": "Research",
     "author": "Alexander Kreusel, Maximilian Beichter, Alexandra Nikoltchovska, Benjamin Sch\\\"afer, Ralf Mikut, Frederik Zahn, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9569,7 +9609,7 @@
     "categoryHint": "Research",
     "author": "Wei Yang, Qing Ping, Youzhi Luo, Yawei Wang, Abhishek Kumar, Panpan Xu, Jun Huan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9589,7 +9629,7 @@
     "categoryHint": "Research",
     "author": "Bahey Tharwat, Iman Nematollahi, Marvin Alles, Xingyuan Zhang, Akshay L Chandra, Abhinav Valada",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9609,7 +9649,7 @@
     "categoryHint": "Research",
     "author": "Bastian Sch\\\"afer, Dominika Matus, Lennart Purucker, Ricardo Knauer, Erik Rodner, Frank Hutter, Anton Sokolov, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9629,7 +9669,7 @@
     "categoryHint": "Research",
     "author": "Bastian Sch\\\"afer, Dominika Matus, Lennart Purucker, Ricardo Knauer, Erik Rodner, Frank Hutter, Anton Sokolov, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9649,7 +9689,7 @@
     "categoryHint": "Research",
     "author": "Matteo Rufolo, Dario Piga, Filippo Pura, Marco Forgione",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9669,7 +9709,7 @@
     "categoryHint": "Research",
     "author": "Matteo Rufolo, Dario Piga, Filippo Pura, Marco Forgione",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9689,7 +9729,7 @@
     "categoryHint": "Research",
     "author": "Zhuolin Fu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9709,7 +9749,7 @@
     "categoryHint": "Research",
     "author": "El Mahdi Chayti, Martin Jaggi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9729,7 +9769,7 @@
     "categoryHint": "Research",
     "author": "Payam Abdisarabshali, Fardis Nadimi, Kasra Borazjani, Naji Khosravan, Richeng Jin, Seyyedali Hosseinalipour",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9749,7 +9789,7 @@
     "categoryHint": "Research",
     "author": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian, Elif Uysal",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9769,7 +9809,7 @@
     "categoryHint": "Research",
     "author": "Pierre Houedry, Romain Tavenard, Nicolas Courty, Romaric Gaudel",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9789,7 +9829,7 @@
     "categoryHint": "Research",
     "author": "Jiajin Liu, Chenxi Xu, Dongzhe Fan, Yuanfu Sun, Qiaoyu Tan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9809,7 +9849,7 @@
     "categoryHint": "Research",
     "author": "Elias Lumer, Sahil Sen, Vamse Kumar Subbiah, Kevin Paul",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9829,7 +9869,7 @@
     "categoryHint": "Research",
     "author": "Yingbo Ma, Kuangshi Ai, Gordon Dai, Chenglong Yu, Chaoli Wang, Hua Shen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9849,7 +9889,7 @@
     "categoryHint": "Research",
     "author": "Jiaqi Tian, Ting Long",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9869,7 +9909,7 @@
     "categoryHint": "Research",
     "author": "Nazar Andrushko, Vera Schmitt, Veronika Solopova",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9889,7 +9929,7 @@
     "categoryHint": "Research",
     "author": "Nazar Andrushko, Vera Schmitt, Veronika Solopova",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9909,7 +9949,7 @@
     "categoryHint": "Research",
     "author": "Mengdi Liu, Chenghao Jia, Hong Chang, Shiguang Shan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9929,7 +9969,7 @@
     "categoryHint": "Research",
     "author": "Mengdi Liu, Chenghao Jia, Hong Chang, Shiguang Shan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9949,7 +9989,7 @@
     "categoryHint": "Research",
     "author": "Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Risheek Garrepalli, Mingu Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9969,7 +10009,7 @@
     "categoryHint": "Research",
     "author": "Raghavv Goel, Sudhanshu Agrawal, Mukul Gagrani, Risheek Garrepalli, Mingu Lee",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -9989,7 +10029,7 @@
     "categoryHint": "Research",
     "author": "Muhammad Usama, Yeoreum Jung",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10009,7 +10049,7 @@
     "categoryHint": "Research",
     "author": "Binh Thuan Tran",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10029,7 +10069,7 @@
     "categoryHint": "Research",
     "author": "Deniz Yunus G\\\"o\\u{g}\\\"u\\c{s}",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10049,7 +10089,7 @@
     "categoryHint": "Research",
     "author": "Du Cheng, Junyu Lu, Jingfan Zhang, Yuzhuo Zhang, Haoxuan Jia, Shichao Weng",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10069,7 +10109,7 @@
     "categoryHint": "Research",
     "author": "Taiga Ikeda, Daisuke Miyashita, Jun Deguchi",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10089,7 +10129,7 @@
     "categoryHint": "Research",
     "author": "Xi Cao, Yijie Li, Yuan Sun, Shiwei Dong, Zeguang Huang, Nuo Qun",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10109,7 +10149,7 @@
     "categoryHint": "Research",
     "author": "Nhan Thanh Nguyen, Phuong Nam Tran, Mengyuan Ma, Huy T. Nguyen, Ahmed Alkhateeb, Markku Juntti",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10129,7 +10169,7 @@
     "categoryHint": "Research",
     "author": "Debajoy Mukherjee, Jeremy Carleton, Sushil Vemuri, Srinivas Shakkottai, Dileep Kalathil",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10149,7 +10189,7 @@
     "categoryHint": "Research",
     "author": "Zixuan Weng, Haoqi He, Weifei Jin, Yue Huang, Yang Bai",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10169,7 +10209,7 @@
     "categoryHint": "Research",
     "author": "Mahsa Salmani, Sayeh Sharify, Hesham Mostafa",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10189,7 +10229,7 @@
     "categoryHint": "Research",
     "author": "Mahsa Salmani, Sayeh Sharify, Hesham Mostafa",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10209,7 +10249,7 @@
     "categoryHint": "Research",
     "author": "Jiayang Gao, Tianyi Zheng, Jiayang Zou, Fengxiang Yang, Luyao Fan, Lv Tang, Bo Li, Jia Wang",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10229,7 +10269,7 @@
     "categoryHint": "Research",
     "author": "Ziyu Luo, Wei Li, Haoping Huang, Kecheng Liu, Min Gao",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10249,7 +10289,7 @@
     "categoryHint": "Research",
     "author": "Amey Vasulkar, Samuel Kernan Freire, Arie-Willem de Leeuw, Tadeo-Baldiri Salcedo-Rahola",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10269,7 +10309,7 @@
     "categoryHint": "Research",
     "author": "Amey Vasulkar, Samuel Kernan Freire, Arie-Willem de Leeuw, Tadeo-Baldiri Salcedo-Rahola",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10289,7 +10329,7 @@
     "categoryHint": "Research",
     "author": "Shengze Huang, Zihao Tang, Jinluan Yang, Xin Yu, Zhenghao Lin, Xiao Liu, Zengxuan Wen, Yeyun Gong, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10309,7 +10349,7 @@
     "categoryHint": "Research",
     "author": "Zhiyuan Shi, Xiang Li, Xingzhuo Guo, Shangchen Miao, Weiliang Chen, Qiyu Dai, Jinshan Ren, Jiangran Lyu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10329,7 +10369,7 @@
     "categoryHint": "Research",
     "author": "Zhiyuan Shi, Xiang Li, Xingzhuo Guo, Shangchen Miao, Weiliang Chen, Qiyu Dai, Jinshan Ren, Jiangran Lyu, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10349,7 +10389,7 @@
     "categoryHint": "Research",
     "author": "Omar El Housni, Marouane Ibn Brahim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10369,7 +10409,7 @@
     "categoryHint": "Research",
     "author": "John M. O'Toole, Sean R. Mathieson, Aurel Luca, Soraia Ventura, Sean Griffin, Geraldine B. Boylan, Robert Hogan",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10389,7 +10429,7 @@
     "categoryHint": "Research",
     "author": "Emily \\\"Ohman, Anna Koufakou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10409,7 +10449,7 @@
     "categoryHint": "Research",
     "author": "Zhentao Zhang, Yanzhao Zheng, Yanlin Liu, Yuanqiang Yu, Tianze Xu, Chao Ma, Jihuai Zhu, Lelun Wu, Baohua Dong, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10429,7 +10469,7 @@
     "categoryHint": "Research",
     "author": "Shi-Yu Tian, Yong Liu, Ximan Liu, Tianrui Zhu, Sule Bai, Xinwei Yang, Ruiqi Liu, Kun-Yang Yu, Ming Yang, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10449,7 +10489,7 @@
     "categoryHint": "Research",
     "author": "Lei Liu, Yunji Liang, Xiaowen Zhang, Jingqi Liu, Qi Li, Bin Guo, Zhiwen Yu",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10469,7 +10509,7 @@
     "categoryHint": "Research",
     "author": "Jinyuan Xu, Shitong Shao, Lichen Bai, Zikai Zhou, Guoxi Huang, Nantheera Anantrasirichai, Zeke Xie",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10489,7 +10529,7 @@
     "categoryHint": "Research",
     "author": "Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, Chaoyun Zhang, Bingxuan Li, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10509,7 +10549,7 @@
     "categoryHint": "Research",
     "author": "Percy S. Zhai, Max Pachman, Peverel D. Shipley, Jungeum Kim",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10529,7 +10569,7 @@
     "categoryHint": "Research",
     "author": "David Yiyang Liu, Aditya Joshi, Paul Dawson, Andrew Piper",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10549,7 +10589,7 @@
     "categoryHint": "Research",
     "author": "Drew Rein, Patrick Oathout, Vishal Kumar, Udari Madhushani Sehwag",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10569,7 +10609,7 @@
     "categoryHint": "Research",
     "author": "Min Lin, Bokai Zhou, Jianqi Lin, Kaiyuan Yang, Yicheng Chang, Junjie Yu, Xiaofan Liu, Jianhua Han, Rui Li, et al.",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10589,7 +10629,7 @@
     "categoryHint": "Research",
     "author": "Shreya Saha, Benjamin Bergen, Meenakshi Khosla",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10609,7 +10649,7 @@
     "categoryHint": "Research",
     "author": "Oktie Hassanzadeh, Dharmashankar Subramanian",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10629,7 +10669,7 @@
     "categoryHint": "Research",
     "author": "Mengdi Liu, Chenghao Jia, Hong Chang, Mingjie He, Shiguang Shan, Xilin Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10649,7 +10689,7 @@
     "categoryHint": "Research",
     "author": "Mengdi Liu, Chenghao Jia, Hong Chang, Mingjie He, Shiguang Shan, Xilin Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10669,7 +10709,7 @@
     "categoryHint": "Research",
     "author": "Meysam Sabbaghan, Nikesh Gyawali, Arman Zareian Jahromi, Sebastian Loera-Lozano, Doina Caragea, Cornelia Caragea",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10689,7 +10729,7 @@
     "categoryHint": "Research",
     "author": "Federico Mazzoni, Andrea Failla",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10709,7 +10749,7 @@
     "categoryHint": "Research",
     "author": "Zhicheng Cai, Weinan Dai, Yuyan Zhou, Wei-Ying Ma, Ya-Qin Zhang, Hao Zhou",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10729,7 +10769,7 @@
     "categoryHint": "Research",
     "author": "Joseph Wilson, Chris van der Heide, Liam Hodgkinson, Zhichao Wang, Fred Roosta, Michael W. Mahoney",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10749,7 +10789,7 @@
     "categoryHint": "Research",
     "author": "Sida Li, Yuanxin Liu, Shicheng Li, Linli Yao, Xu Sun, Haoli Bai, Xiaohui Li",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10769,7 +10809,7 @@
     "categoryHint": "Research",
     "author": "Zhanhong Jiang, Soumik Sarkar",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10789,7 +10829,7 @@
     "categoryHint": "Research",
     "author": "Ke Wan, Chen Chen",
     "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10809,7 +10849,7 @@
     "categoryHint": "Policy & Safety",
     "author": "orthonormal",
     "publishedAt": "2026-10-11T21:55:26Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10829,7 +10869,7 @@
     "categoryHint": "Business",
     "author": "Anthony Ha",
     "publishedAt": "2026-10-11T21:14:40Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10849,10 +10889,10 @@
     "categoryHint": "News",
     "author": null,
     "publishedAt": "2026-10-11T20:20:52Z",
-    "fetchedAt": "2026-10-12T08:13:52Z",
+    "fetchedAt": "2026-10-12T10:08:24Z",
     "signals": {
-      "hnPoints": 436,
-      "hnComments": 614,
+      "hnPoints": 465,
+      "hnComments": 676,
       "redditScore": null,
       "githubStars": null,
       "githubStarsDelta": null,
@@ -10869,7 +10909,7 @@
     "categoryHint": "Business",
     "author": "TechCrunch Events",
     "publishedAt": "2026-10-11T19:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10889,7 +10929,7 @@
     "categoryHint": "News",
     "author": "Terrence O’Brien",
     "publishedAt": "2026-10-11T18:33:56Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10909,7 +10949,7 @@
     "categoryHint": "Business",
     "author": "Anthony Ha",
     "publishedAt": "2026-10-11T16:52:33Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10929,7 +10969,7 @@
     "categoryHint": "Business",
     "author": "Ivan Mehta",
     "publishedAt": "2026-10-11T14:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10949,7 +10989,7 @@
     "categoryHint": "Tutorials",
     "author": "Thomas Reid",
     "publishedAt": "2026-10-11T14:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:55Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10969,7 +11009,7 @@
     "categoryHint": "News",
     "author": "Alex Banks",
     "publishedAt": "2026-10-11T13:03:52Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -10989,7 +11029,7 @@
     "categoryHint": "Tutorials",
     "author": "Partha Sarkar",
     "publishedAt": "2026-10-11T12:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:55Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -11009,7 +11049,7 @@
     "categoryHint": "News",
     "author": "Boone Ashworth",
     "publishedAt": "2026-10-11T11:30:00Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -11029,7 +11069,7 @@
     "categoryHint": "News",
     "author": "Antonio G. Di Benedetto",
     "publishedAt": "2026-10-11T11:00:00Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -11049,10 +11089,10 @@
     "categoryHint": "News",
     "author": null,
     "publishedAt": "2026-10-11T03:41:53Z",
-    "fetchedAt": "2026-10-12T08:13:52Z",
+    "fetchedAt": "2026-10-12T10:08:24Z",
     "signals": {
       "hnPoints": 42,
-      "hnComments": 76,
+      "hnComments": 77,
       "redditScore": null,
       "githubStars": null,
       "githubStarsDelta": null,
@@ -11069,7 +11109,7 @@
     "categoryHint": "Opinion",
     "author": null,
     "publishedAt": "2026-10-11T00:52:37Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -11089,7 +11129,7 @@
     "categoryHint": "Opinion",
     "author": null,
     "publishedAt": "2026-10-10T23:58:04Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
+    "fetchedAt": "2026-10-12T10:08:25Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -11109,47 +11149,7 @@
     "categoryHint": "News",
     "author": "Terrence O’Brien",
     "publishedAt": "2026-10-10T22:10:17Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
-    "signals": {
-      "hnPoints": null,
-      "hnComments": null,
-      "redditScore": null,
-      "githubStars": null,
-      "githubStarsDelta": null,
-      "crossSourceCount": 1
-    }
-  },
-  {
-    "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
-    "url": "https://www.latent.space/p/nyc2026",
-    "canonicalUrl": "https://latent.space/p/nyc2026",
-    "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-    "source": "Latent Space",
-    "sourceTier": 2,
-    "categoryHint": "News",
-    "author": null,
-    "publishedAt": "2026-10-10T22:07:17Z",
-    "fetchedAt": "2026-10-12T08:13:54Z",
-    "signals": {
-      "hnPoints": null,
-      "hnComments": null,
-      "redditScore": null,
-      "githubStars": null,
-      "githubStarsDelta": null,
-      "crossSourceCount": 1
-    }
-  },
-  {
-    "id": "2c9728d3318bed23628c85911ba40b59de81514d",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "canonicalUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "source": "TechCrunch: AI",
-    "sourceTier": 2,
-    "categoryHint": "Business",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-10-10T21:47:51Z",
-    "fetchedAt": "2026-10-12T08:13:53Z",
+    "fetchedAt": "2026-10-12T10:08:26Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,

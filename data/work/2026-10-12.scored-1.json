@@ -7,8 +7,8 @@
       "scores": {
         "importance": 3,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
@@ -16,27 +16,27 @@
         "kv-cache",
         "inference"
       ],
-      "summary": "Preprint on speculative decoding that adapts to load across a tiered KV cache. The title points to serving-efficiency work; results are not visible from the metadata.",
-      "whyItMatters": "Relevant if you run LLM inference at scale; check for code before adopting.",
-      "organization": "academia"
+      "summary": "Preprint on speculative decoding that adapts to load across a tiered key-value cache. Aims at serving efficiency when memory pressure varies.",
+      "whyItMatters": "Relevant if you serve long-context models and tune decoding for throughput.",
+      "organization": "independent-authors"
     },
     {
       "id": "06b836605bb31b0f9892f9d7d5af2a187d163fea",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
-        "sft",
         "post-training",
+        "sft",
         "generalization"
       ],
-      "summary": "Preprint proposing an information-gain view of what supervised fine-tuning should teach for better generalization after post-training.",
-      "whyItMatters": "A possible lens for choosing SFT data; unproven until replicated.",
-      "organization": "academia"
+      "summary": "Preprint proposing an information-gain criterion for deciding what supervised fine-tuning should learn, aimed at better generalization after post-training.",
+      "whyItMatters": "Offers a lens for choosing SFT data before you spend compute on it.",
+      "organization": "harbin-institute-of-technology"
     },
     {
       "id": "0930ea1989dd802cc2fccd7bb5c7dd033380843e",
@@ -44,7 +44,7 @@
         "importance": 3,
         "trend": 2,
         "novelty": 5,
-        "credibility": 5
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
@@ -52,87 +52,89 @@
         "agents",
         "long-horizon"
       ],
-      "summary": "Benchmark that tests agentic models on long-horizon strategic play in the game Slay the Spire.",
-      "whyItMatters": "Adds another long-horizon agent eval to compare models on planning.",
-      "organization": "academia"
+      "summary": "Benchmark that tests agentic models on long-horizon strategic play in the card game Slay the Spire.",
+      "whyItMatters": "A new yardstick for planning over many steps, beyond short tool-use tasks.",
+      "organization": "independent-authors"
     },
     {
       "id": "12dd638496e84794681bc805ccd4bda2a11070bf",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 2,
-        "novelty": 3,
-        "credibility": 4
+        "novelty": 4,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "multi-agent",
+        "automl",
         "hyperparameter-tuning"
       ],
-      "summary": "Preprint describing a multi-agent LLM setup for automatically tuning specialized neural network models.",
-      "whyItMatters": "Shows one more agentic approach to tuning; treat as early-stage.",
-      "organization": "academia"
+      "summary": "Preprint describing a multi-agent LLM setup that tunes specialized neural networks automatically.",
+      "whyItMatters": "Shows one way to hand model-tuning chores to LLM agents.",
+      "organization": "sberbank-and-partners"
     },
     {
       "id": "16e0bb029536ab3028183db0c61774ed47602ba7",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
-        "distillation",
         "reasoning",
+        "distillation",
         "self-distillation"
       ],
-      "summary": "Preprint on on-policy self-distillation for reasoning where the teacher gives critiques rather than only scores.",
-      "whyItMatters": "Relevant to anyone training reasoning models with RL or distillation.",
-      "organization": "academia"
+      "summary": "Preprint on on-policy self-distillation for reasoning where the teacher critiques rather than only scores, arguing scoring alone cannot guide search.",
+      "whyItMatters": "Relevant to anyone training reasoning models with teacher feedback.",
+      "organization": "dublin-city-university"
     },
     {
       "id": "1fdde920bd01f65d3c3172d96c23ff136b9c994e",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 6,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
         "decoding",
-        "causal-models",
-        "edits"
+        "language-models",
+        "editing"
       ],
-      "summary": "Preprint on training causal language models over chains of edits to allow flexible-order decoding.",
-      "whyItMatters": "An alternative to strict left-to-right generation worth watching.",
-      "organization": "academia"
+      "summary": "Preprint training causal language models on chains of edits so they can decode in flexible order rather than strictly left to right.",
+      "whyItMatters": "Points to generation that can revise text, not only append to it.",
+      "organization": "independent-authors"
     },
     {
       "id": "2b1cd6a73a748fb854db31276e28acce1afc990e",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 2,
-        "novelty": 4,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
         "unlearning",
-        "reasoning-models"
+        "reasoning-models",
+        "safety"
       ],
-      "summary": "Preprint on unlearning in large reasoning models without the model collapsing afterwards.",
-      "whyItMatters": "Matters if you must remove data from deployed reasoning models.",
-      "organization": "academia"
+      "summary": "Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.",
+      "whyItMatters": "Matters if you must remove data from a deployed reasoning model.",
+      "organization": "stevens-institute-of-technology"
     },
     {
       "id": "2f9fcda02fea30db85e3aef0238fa89c7d73391c",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 2,
-        "novelty": 3,
-        "credibility": 5
+        "novelty": 4,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
@@ -140,132 +142,102 @@
         "few-shot",
         "question-answering"
       ],
-      "summary": "Preprint using counterfactual guidance for few-shot distillation aimed at LLM question answering.",
-      "whyItMatters": "Narrow technique; skim only if you distill QA models.",
-      "organization": "academia"
+      "summary": "Preprint using counterfactual guidance in few-shot distillation to improve LLM question answering.",
+      "whyItMatters": "A small-data route to compact QA models; check results on your domain.",
+      "organization": "independent-authors"
     },
     {
       "id": "469be7f822de0078e5f16392e8676595c3fd2697",
       "scores": {
-        "importance": 2,
+        "importance": 4,
         "trend": 1,
-        "novelty": 3,
-        "credibility": 5
+        "novelty": 5,
+        "credibility": 7
       },
       "category": "Research",
       "tags": [
         "mixture-of-experts",
-        "data-imbalance"
+        "data-imbalance",
+        "training"
       ],
-      "summary": "Preprint about expert selection biases as a way to handle imbalanced training data.",
-      "whyItMatters": "Niche for most teams; relevant to MoE training.",
-      "organization": "academia"
+      "summary": "Paper on using expert selection biases in mixture-of-experts models to cope with imbalanced training data.",
+      "whyItMatters": "Useful if your MoE training data is skewed across domains or languages.",
+      "organization": "epfl"
     },
     {
       "id": "520b51d6418326f1ba0bc77cd75fedbe29e133a8",
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 4,
-        "credibility": 4
+        "novelty": 5,
+        "credibility": 5
       },
       "category": "Research",
       "tags": [
         "sequence-models",
+        "state-space",
         "architecture"
       ],
-      "summary": "Preprint proposing an input-dependent readout phase for resonant sequence models.",
-      "whyItMatters": "Architecture research far from production use.",
-      "organization": "academia"
+      "summary": "Preprint introducing an input-dependent readout phase for resonant sequence models, a niche alternative to standard attention.",
+      "whyItMatters": "Architecture curiosity; no practical change yet.",
+      "organization": "independent-authors"
     },
     {
       "id": "5ac76d138d2835d99c43c44bac4de5f53311296a",
       "scores": {
         "importance": 2,
         "trend": 1,
-        "novelty": 3,
-        "credibility": 5
-      },
-      "category": "Research",
-      "tags": [
-        "masked-modeling",
-        "evaluation"
-      ],
-      "summary": "Preprint on forecasting where corpus sampling disagrees in masked text reconstruction.",
-      "whyItMatters": "Narrow analysis; low immediate impact.",
-      "organization": "academia"
-    },
-    {
-      "id": "5b6f2731378b34e9f208a5480e8c273baf18cada",
-      "scores": {
-        "importance": 3,
-        "trend": 1,
-        "novelty": 5,
-        "credibility": 5
-      },
-      "category": "Research",
-      "tags": [
-        "diffusion-lm",
-        "parallel-decoding"
-      ],
-      "summary": "Preprint rethinking the roles of diffusion and decoding, with predictive-state flows for parallel text generation.",
-      "whyItMatters": "Part of the push for faster non-autoregressive generation.",
-      "organization": "academia"
-    },
-    {
-      "id": "5b77cb5e374f9a0e57996b206e6e6c9c19763940",
-      "scores": {
-        "importance": 3,
-        "trend": 1,
         "novelty": 4,
         "credibility": 5
       },
       "category": "Research",
       "tags": [
-        "distillation",
-        "tokenizers"
+        "masked-modeling",
+        "sampling",
+        "evaluation"
       ],
-      "summary": "Preprint on credit alignment for on-policy distillation between models with different tokenizers.",
-      "whyItMatters": "Useful if you distill across model families.",
-      "organization": "academia"
+      "summary": "Preprint about forecasting where different corpus-sampling choices will disagree in masked text reconstruction.",
+      "whyItMatters": "Narrow methodology work, mainly for researchers studying data sampling.",
+      "organization": "independent-authors"
+    },
+    {
+      "id": "5b6f2731378b34e9f208a5480e8c273baf18cada",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion-lm",
+        "parallel-decoding",
+        "generation"
+      ],
+      "summary": "Preprint rethinking how diffusion and decoding divide work in parallel language generation, proposing predictive-state flows.",
+      "whyItMatters": "Part of the push toward faster non-autoregressive text generation.",
+      "organization": "independent-authors"
+    },
+    {
+      "id": "5b77cb5e374f9a0e57996b206e6e6c9c19763940",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "distillation",
+        "tokenizers",
+        "on-policy"
+      ],
+      "summary": "Preprint on credit alignment for distilling between models that use different tokenizers.",
+      "whyItMatters": "Helps when the teacher and student models do not share a vocabulary.",
+      "organization": "independent-authors"
     },
     {
       "id": "7f4ba768bbde357a078d82ce1b3dc1db6db274b6",
-      "scores": {
-        "importance": 2,
-        "trend": 1,
-        "novelty": 3,
-        "credibility": 5
-      },
-      "category": "Research",
-      "tags": [
-        "benchmark",
-        "code-generation",
-        "quantum"
-      ],
-      "summary": "Test framework for evaluating LLM-generated quantum code.",
-      "whyItMatters": "Niche eval; helpful only for quantum-software teams.",
-      "organization": "academia"
-    },
-    {
-      "id": "9ee7ceb5603bcaf7d726c74f26be6a4543383deb",
-      "scores": {
-        "importance": 2,
-        "trend": 1,
-        "novelty": 2,
-        "credibility": 5
-      },
-      "category": "Research",
-      "tags": [
-        "speech",
-        "accent-classification"
-      ],
-      "summary": "Preprint revisiting accent classification with DistilHuBERT using speaker-disjoint evaluation and cross-corpus tests.",
-      "whyItMatters": "A reminder to use speaker-disjoint splits in speech evals.",
-      "organization": "academia"
-    },
-    {
-      "id": "c932971c49622d7691b456906b206ad9143917bf",
       "scores": {
         "importance": 3,
         "trend": 1,
@@ -274,13 +246,49 @@
       },
       "category": "Research",
       "tags": [
-        "open-models",
+        "benchmark",
+        "code-generation",
+        "quantum"
+      ],
+      "summary": "Test framework for evaluating how well LLMs write quantum code.",
+      "whyItMatters": "A ready harness if you evaluate code models on quantum SDK tasks.",
+      "organization": "independent-authors"
+    },
+    {
+      "id": "9ee7ceb5603bcaf7d726c74f26be6a4543383deb",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "speech",
+        "accent-classification",
+        "evaluation"
+      ],
+      "summary": "Study revisiting accent classification with a distilled speech model, using speaker-disjoint splits and cross-corpus tests.",
+      "whyItMatters": "A reminder to use speaker-disjoint splits when evaluating speech models.",
+      "organization": "independent-authors"
+    },
+    {
+      "id": "c932971c49622d7691b456906b206ad9143917bf",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
         "romanian",
+        "language-model",
         "multilingual"
       ],
-      "summary": "Preprint introducing a Romanian-first language model family built end to end.",
-      "whyItMatters": "Signals growing language-specific model efforts outside English.",
-      "organization": "neurograf"
+      "summary": "Preprint presenting a Romanian-first language model family trained end to end.",
+      "whyItMatters": "A regional-language model option; check benchmarks before relying on it.",
+      "organization": "independent-authors"
     },
     {
       "id": "00418b183699ae92de22d6c1fbff5c5462a93bf3",
@@ -292,54 +300,54 @@
       },
       "category": "Research",
       "tags": [
-        "llm-evaluation",
-        "human-factors"
+        "llm-facilitation",
+        "human-computer-interaction"
       ],
-      "summary": "Preprint comparing human and LLM facilitators in collaborative design meetings through behavioral analysis.",
-      "whyItMatters": "Early evidence for teams considering LLM facilitation.",
-      "organization": "academia"
+      "summary": "Study comparing human and LLM facilitators in collaborative design meetings using behavioral measures.",
+      "whyItMatters": "Early evidence on where LLMs fit as meeting facilitators.",
+      "organization": "independent-authors"
     },
     {
       "id": "0077b14f71c877f71c16686a726d892f90096117",
       "scores": {
         "importance": 2,
         "trend": 0,
-        "novelty": 2,
-        "credibility": 5
+        "novelty": 3,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
         "causal-discovery",
         "time-series"
       ],
-      "summary": "Paper covering the essentials of causal discovery for time series.",
-      "whyItMatters": "A reference point for time-series analysts.",
-      "organization": "academia"
+      "summary": "Overview paper on the essentials of causal discovery in time series.",
+      "whyItMatters": "Useful reading if you work with temporal data and causal questions.",
+      "organization": "independent-authors"
     },
     {
       "id": "0121d3dbc9db313610ec463c923ff266dad83952",
       "scores": {
-        "importance": 1,
+        "importance": 2,
         "trend": 0,
-        "novelty": 3,
-        "credibility": 5
+        "novelty": 4,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
         "optimization",
-        "theory"
+        "variance-reduction"
       ],
-      "summary": "Theory paper on adaptive variance reduction when the oracle smoothness is unknown.",
-      "whyItMatters": "Optimization theory with little near-term practical effect.",
-      "organization": "academia"
+      "summary": "Paper on variance-reduced optimization that does not need to know the smoothness constant in advance.",
+      "whyItMatters": "Theory work with little near-term effect on practice.",
+      "organization": "independent-authors"
     },
     {
       "id": "039951478475aef5ef55b3e477b021d995212444",
       "scores": {
-        "importance": 2,
+        "importance": 3,
         "trend": 0,
-        "novelty": 3,
-        "credibility": 5
+        "novelty": 4,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
@@ -347,27 +355,27 @@
         "ppo",
         "half-precision"
       ],
-      "summary": "Preprint on numerical stabilization of half-precision PPO using structure-aware methods.",
-      "whyItMatters": "Helps if you train RL in fp16 and see instability.",
-      "organization": "academia"
+      "summary": "Preprint on numerical stabilization techniques for running PPO in half precision.",
+      "whyItMatters": "Could cut memory in RL fine-tuning if it holds up on your setup.",
+      "organization": "independent-authors"
     },
     {
       "id": "052b59152a99596b22b54c3acb4a82b9cfaab689",
       "scores": {
-        "importance": 3,
+        "importance": 4,
         "trend": 0,
         "novelty": 4,
         "credibility": 5
       },
-      "category": "Research",
+      "category": "Tools & Releases",
       "tags": [
         "agents",
         "tool-use",
         "training"
       ],
-      "summary": "Preprint proposing a unified training lifecycle for tool-using LLM agents called AgentTune.",
-      "whyItMatters": "Relevant to agent builders who fine-tune; check for code.",
-      "organization": "academia"
+      "summary": "Preprint describing a unified training lifecycle for LLM agents that use tools.",
+      "whyItMatters": "A possible template for training tool-using agents end to end.",
+      "organization": "independent-authors"
     },
     {
       "id": "05437f531912536d7e1c74ebca3e4d6a3274f891",
@@ -380,81 +388,65 @@
       "category": "Research",
       "tags": [
         "robotics",
-        "world-models",
+        "world-model",
         "edge"
       ],
-      "summary": "Preprint on a compact latent world-action model for robotic manipulation on edge devices.",
-      "whyItMatters": "Points toward lighter robot policies on small hardware.",
-      "organization": "academia"
+      "summary": "Preprint on a compact latent world-action model for robot manipulation on edge hardware.",
+      "whyItMatters": "Shows small world models may fit on robot-grade devices.",
+      "organization": "independent-authors"
     },
     {
       "id": "0591420f3dedb2eff05cdeac9b98abdc8ac5c035",
       "scores": {
-        "importance": 1,
+        "importance": 2,
         "trend": 0,
-        "novelty": 3,
-        "credibility": 5
+        "novelty": 4,
+        "credibility": 6
       },
       "category": "Research",
       "tags": [
         "gflownets",
-        "theory"
+        "theory",
+        "training"
       ],
-      "summary": "Theoretical study of how GFlowNets train.",
-      "whyItMatters": "Background theory; little practical effect now.",
-      "organization": "academia"
+      "summary": "Theoretical analysis of how GFlowNets train.",
+      "whyItMatters": "Background theory; little to act on yet.",
+      "organization": "independent-authors"
     },
     {
       "id": "061dd0f69e44859a51172a57987ca0801de95e59",
       "scores": {
-        "importance": 1,
+        "importance": 2,
         "trend": 0,
-        "novelty": 2,
+        "novelty": 4,
         "credibility": 5
       },
       "category": "Research",
       "tags": [
         "scientific-ml",
-        "pde"
+        "pde",
+        "neural-networks"
       ],
-      "summary": "Paper on enriched holomorphic neural networks for 2D and 3D Laplace problems.",
-      "whyItMatters": "Narrow scientific-ML result.",
-      "organization": "academia"
+      "summary": "Paper on holomorphic neural networks for 2D and 3D Laplace problems.",
+      "whyItMatters": "Niche scientific-computing method.",
+      "organization": "independent-authors"
     },
     {
       "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
       "scores": {
-        "importance": 4,
-        "trend": 3,
-        "novelty": 2,
-        "credibility": 5
-      },
-      "category": "News",
-      "tags": [
-        "safety",
-        "security",
-        "microsoft"
-      ],
-      "summary": "Report on Satya Nadella saying AI models should be assumed compromised. Same topic was already featured, so little here is new.",
-      "whyItMatters": "Reinforces treating model output and weights as untrusted in security reviews.",
-      "organization": "microsoft"
-    },
-    {
-      "id": "2c9728d3318bed23628c85911ba40b59de81514d",
-      "scores": {
         "importance": 5,
         "trend": 2,
         "novelty": 4,
-        "credibility": 5
+        "credibility": 6
       },
-      "category": "Policy & Safety",
+      "category": "News",
       "tags": [
-        "safety",
-        "governance",
+        "security",
+        "model-trust",
         "microsoft"
       ],
-      "summary": "TechCrunch report that Microsoft CEO Satya Nadella called for an emergency brake on AI models.",
-      "whyItMatters": "A major vendor leader framing shutdown controls; watch for concrete commitments.",
+      "summary": "Report on Microsoft CEO Satya Nadella saying teams should treat all AI models as compromised. Drew heavy discussion on Hacker News.",
+      "whyItMatters": "Frames model security as an assumption in system design, not an afterthought.",
       "organization": "microsoft"
     },
     {
@@ -470,33 +462,16 @@
         "llm-capability",
         "discourse"
       ],
-      "summary": "Hacker News discussion of a post arguing that people increasingly disagree about what LLMs can do.",
-      "whyItMatters": "Explains why teams talk past each other on LLM adoption.",
+      "summary": "Hacker News discussion of a post arguing people increasingly disagree about what LLMs can do.",
+      "whyItMatters": "Explains why teams judge model capability so differently.",
       "organization": "community"
-    },
-    {
-      "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
-      "scores": {
-        "importance": 1,
-        "trend": 0,
-        "novelty": 1,
-        "credibility": 5
-      },
-      "category": "Opinion",
-      "tags": [
-        "newsletter",
-        "engineering-management"
-      ],
-      "summary": "Weekly newsletter issue on knowledge capture, human relationships and reading picks.",
-      "whyItMatters": "Mostly general engineering-management reading.",
-      "organization": "refactoring"
     },
     {
       "id": "d6375c0f5b89446521f7dae48b47271a9df74f88",
       "scores": {
         "importance": 4,
         "trend": 0,
-        "novelty": 5,
+        "novelty": 3,
         "credibility": 5
       },
       "category": "Policy & Safety",
@@ -505,35 +480,25 @@
         "safety",
         "pacing"
       ],
-      "summary": "Alignment Forum post arguing for a minimum pacing rule: finish aligning one model before training the next.",
-      "whyItMatters": "A concrete governance idea labs and policy readers may cite.",
+      "summary": "Alignment Forum post arguing alignment work should finish before the next, more capable model is trained.",
+      "whyItMatters": "A viewpoint in the safety-pacing debate, not a policy change.",
       "organization": "alignment-forum"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+      "reason": "sponsored promo"
     },
     {
-      "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
-      "scores": {
-        "importance": 1,
-        "trend": 1,
-        "novelty": 2,
-        "credibility": 4
-      },
-      "category": "Business",
-      "tags": [
-        "apple",
-        "smart-home",
-        "devices"
-      ],
-      "summary": "TechCrunch piece asking whether an Apple HomeView device will succeed in the smart home market.",
-      "whyItMatters": "Only tangential to AI builders.",
-      "organization": "apple"
-    }
-  ],
-  "skipped": [],
-  "clusterLabels": [
+      "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+      "reason": "off topic, not AI"
+    },
     {
-      "id": "c-1d43fa952f",
-      "label": "Nadella on AI model safety"
+      "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
+      "reason": "weekly roundup"
     }
   ],
+  "clusterLabels": [],
   "fetches": []
 }

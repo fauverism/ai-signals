@@ -3,22 +3,40 @@
   "batch": 2,
   "items": [
     {
+      "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "apple",
+        "smart-home",
+        "hardware"
+      ],
+      "summary": "TechCrunch piece asking whether Apple's rumored HomeView device can succeed as its first smart home product.",
+      "whyItMatters": "Mostly product speculation; watch for AI assistant features.",
+      "organization": "apple"
+    },
+    {
       "id": "48092d1d873f6f9c42aa9c42dc05a08e7b872729",
       "scores": {
         "importance": 3,
         "trend": 1,
-        "novelty": 3,
+        "novelty": 2,
         "credibility": 5
       },
-      "category": "News",
+      "category": "Policy & Safety",
       "tags": [
         "policy",
-        "us-government",
-        "naming"
+        "naming",
+        "industry"
       ],
-      "summary": "The Verge reports that tech firms are going along with a US effort to rename AI.",
-      "whyItMatters": "Watch for naming shifts in federal procurement and policy language.",
-      "organization": "us-government"
+      "summary": "The Verge on tech companies going along with an administration push to rename AI.",
+      "whyItMatters": "Signals how terminology is shifting in US policy talk.",
+      "organization": "us-administration"
     },
     {
       "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
@@ -32,10 +50,10 @@
       "tags": [
         "data-centers",
         "nda",
-        "infrastructure"
+        "community"
       ],
-      "summary": "TechCrunch asks whether dropping NDAs could win over data center opponents.",
-      "whyItMatters": "Local opposition affects where compute capacity can be built.",
+      "summary": "TechCrunch asks whether ending NDAs could win over opponents of data center projects.",
+      "whyItMatters": "Local opposition affects where compute capacity gets built.",
       "organization": "ai-industry"
     },
     {
@@ -43,34 +61,34 @@
       "scores": {
         "importance": 3,
         "trend": 0,
-        "novelty": 3,
-        "credibility": 4
+        "novelty": 2,
+        "credibility": 5
       },
       "category": "Business",
       "tags": [
         "voice-ai",
-        "market"
+        "industry"
       ],
       "summary": "TechCrunch interviews executives who think voice AI has not yet had its breakout moment.",
-      "whyItMatters": "Gives a view of where voice AI investors see headroom.",
-      "organization": "voice-ai"
+      "whyItMatters": "Gives a sense of where voice product bets are heading.",
+      "organization": "voice-ai-industry"
     },
     {
       "id": "ee92128ac4624f395088f69c897a80bf4769e6ce",
       "scores": {
         "importance": 4,
         "trend": 0,
-        "novelty": 4,
+        "novelty": 5,
         "credibility": 5
       },
       "category": "Tutorials",
       "tags": [
         "openai",
         "api",
-        "guide"
+        "tutorial"
       ],
-      "summary": "Towards Data Science guide to using a new OpenAI Decisions API.",
-      "whyItMatters": "A hands-on starting point if you plan to try that API.",
+      "summary": "Towards Data Science guide to OpenAI's new Decisions API, as the title describes.",
+      "whyItMatters": "A hands-on starting point if you plan to try this API.",
       "organization": "openai"
     },
     {
@@ -79,17 +97,18 @@
         "importance": 3,
         "trend": 1,
         "novelty": 2,
-        "credibility": 5
+        "credibility": 4
       },
       "category": "News",
       "tags": [
         "newsletter",
         "agents",
-        "roundup"
+        "claude",
+        "openai"
       ],
-      "summary": "The Signal newsletter issue covering an agent product, Claude documentation work and an OpenAI item.",
-      "whyItMatters": "A quick catch-up on agent and lab news.",
-      "organization": "various"
+      "summary": "The Signal newsletter issue covering an agent product, Claude documentation changes and an OpenAI item, per its headline.",
+      "whyItMatters": "A quick scan of the week's lab news, though secondhand.",
+      "organization": "multiple"
     },
     {
       "id": "31276c3a3106709ff201b1dae1afa5f80494fdac",
@@ -105,9 +124,9 @@
         "architecture",
         "patterns"
       ],
-      "summary": "Towards Data Science walkthrough of six architectural patterns for agentic systems.",
-      "whyItMatters": "Gives a vocabulary for choosing agent designs.",
-      "organization": "various"
+      "summary": "Towards Data Science guide to six advanced architectural patterns for agentic systems.",
+      "whyItMatters": "Handy checklist when designing a multi-step agent.",
+      "organization": "independent-authors"
     },
     {
       "id": "0b1518dc9b60572e714097df4b5561081239201f",
@@ -123,8 +142,8 @@
         "ai-playground",
         "games"
       ],
-      "summary": "WIRED writer tries Google AI Playground to make games and reports on the results.",
-      "whyItMatters": "Shows how far casual game generation with Google tools goes.",
+      "summary": "WIRED reporter tries making games with Google's AI Playground and finds the results rough.",
+      "whyItMatters": "Gives a hands-on feel for the tool's current limits.",
       "organization": "google"
     },
     {
@@ -135,58 +154,29 @@
         "novelty": 2,
         "credibility": 5
       },
-      "category": "Opinion",
+      "category": "News",
       "tags": [
-        "local-models",
-        "on-device"
+        "local-ai",
+        "open-weights",
+        "experience"
       ],
-      "summary": "The Verge first-person piece on learning to run AI locally and the frustrations involved.",
-      "whyItMatters": "Sets expectations for people trying local models for the first time.",
-      "organization": "community"
-    },
-    {
-      "id": "e179bee0d893481bcfc17c48c80fb335dd055c05",
-      "scores": {
-        "importance": 1,
-        "trend": 0,
-        "novelty": 2,
-        "credibility": 5
-      },
-      "category": "Opinion",
-      "tags": [
-        "version-control",
-        "games"
-      ],
-      "summary": "Simon Willison note that Dwarf Fortress now uses version control.",
-      "whyItMatters": "Mostly tangential; AI link is thin.",
-      "organization": "bloodfield"
-    },
-    {
-      "id": "24d721d473226f250d79781b08605fb05b8f9291",
-      "scores": {
-        "importance": 2,
-        "trend": 0,
-        "novelty": 2,
-        "credibility": 6
-      },
-      "category": "Tools & Releases",
-      "tags": [
-        "python",
-        "github-actions"
-      ],
-      "summary": "Release note that Python 3.15.0 was added to the actions/python-versions runner list.",
-      "whyItMatters": "Lets CI pipelines test against Python 3.15.0.",
-      "organization": "github"
+      "summary": "The Verge writer recounts learning to run AI models locally, both exciting and frustrating.",
+      "whyItMatters": "Realistic expectations for getting started with local models.",
+      "organization": "the-verge"
     }
   ],
   "skipped": [
     {
       "id": "8d1b5970f0e4c138f22740a6fb37cfd78cddfe2e",
-      "reason": "event promo"
+      "reason": "event promotion"
     },
     {
-      "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
-      "reason": "event promo"
+      "id": "e179bee0d893481bcfc17c48c80fb335dd055c05",
+      "reason": "not AI news"
+    },
+    {
+      "id": "24d721d473226f250d79781b08605fb05b8f9291",
+      "reason": "not AI news"
     }
   ],
   "clusterLabels": [],

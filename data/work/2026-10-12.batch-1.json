@@ -2,19 +2,7 @@
   "date": "2026-10-12",
   "batch": 1,
   "of": 2,
-  "clusters": [
-    {
-      "id": "c-1d43fa952f",
-      "label": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "size": 2,
-      "sources": [
-        "Hacker News: artificial intelligence",
-        "TechCrunch: AI",
-        "The Verge: AI"
-      ],
-      "trendDelta": null
-    }
-  ],
+  "clusters": [],
   "items": [
     {
       "id": "017f336b77ee84378d17541677d664679839b99e",
@@ -579,40 +567,17 @@
       "categoryHint": "News",
       "signals": {
         "hnPoints": 42,
-        "hnComments": 76,
+        "hnComments": 77,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
-        "crossSourceCount": 3
-      },
-      "trendDelta": null,
-      "trendBaseline": 3,
-      "previouslyFeatured": true,
-      "clusterId": "c-1d43fa952f",
-      "clusterLabel": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
-    },
-    {
-      "id": "2c9728d3318bed23628c85911ba40b59de81514d",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "source": "TechCrunch: AI",
-      "sourceTier": 2,
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "author": "Anthony Ha",
-      "publishedAt": "2026-10-10T21:47:51Z",
-      "categoryHint": "Business",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 3
+        "crossSourceCount": 2
       },
       "trendDelta": null,
       "trendBaseline": 2,
-      "previouslyFeatured": false,
-      "clusterId": "c-1d43fa952f",
-      "clusterLabel": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+      "previouslyFeatured": true,
+      "clusterId": null,
+      "clusterLabel": null
     },
     {
       "id": "44c65736f8dd5ac9d4bf0dfeb77dd474b3bddea7",
@@ -624,8 +589,8 @@
       "publishedAt": "2026-10-11T20:20:52Z",
       "categoryHint": "News",
       "signals": {
-        "hnPoints": 436,
-        "hnComments": 614,
+        "hnPoints": 465,
+        "hnComments": 676,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
@@ -633,6 +598,52 @@
       },
       "trendDelta": null,
       "trendBaseline": 2,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+      "source": "IEEE Spectrum: AI",
+      "sourceTier": 2,
+      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+      "author": "Noitom Robotics",
+      "publishedAt": "2026-10-12T10:00:03Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+      "title": "Are You Blocked by the 400-Word Wall?",
+      "source": "More Better Thinking",
+      "sourceTier": 2,
+      "url": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+      "author": "William B. Irvine",
+      "publishedAt": "2026-10-12T09:47:10Z",
+      "categoryHint": "Opinion",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
       "previouslyFeatured": false,
       "clusterId": null,
       "clusterLabel": null
@@ -679,29 +690,6 @@
       },
       "trendDelta": null,
       "trendBaseline": 0,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
-    },
-    {
-      "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "source": "TechCrunch: AI",
-      "sourceTier": 2,
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "author": "Anthony Ha",
-      "publishedAt": "2026-10-11T21:14:40Z",
-      "categoryHint": "Business",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": 1,
-      "trendBaseline": 1,
       "previouslyFeatured": false,
       "clusterId": null,
       "clusterLabel": null

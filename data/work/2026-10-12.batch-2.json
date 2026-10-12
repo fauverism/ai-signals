@@ -5,6 +5,29 @@
   "clusters": [],
   "items": [
     {
+      "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "author": "Anthony Ha",
+      "publishedAt": "2026-10-11T21:14:40Z",
+      "categoryHint": "Business",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
       "id": "8d1b5970f0e4c138f22740a6fb37cfd78cddfe2e",
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "source": "TechCrunch: AI",
@@ -243,29 +266,6 @@
       "author": null,
       "publishedAt": "2026-10-10T23:58:04Z",
       "categoryHint": "Opinion",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "trendDelta": null,
-      "trendBaseline": 0,
-      "previouslyFeatured": false,
-      "clusterId": null,
-      "clusterLabel": null
-    },
-    {
-      "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "source": "Latent Space",
-      "sourceTier": 2,
-      "url": "https://www.latent.space/p/nyc2026",
-      "author": null,
-      "publishedAt": "2026-10-10T22:07:17Z",
-      "categoryHint": "News",
       "signals": {
         "hnPoints": null,
         "hnComments": null,

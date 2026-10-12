@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T08:13:55Z",
+  "generatedAt": "2026-10-12T10:08:28Z",
   "params": {
     "cap": 150,
     "perSourceCap": 8,
@@ -12,7 +12,7 @@
     "before": 558,
     "afterExact": 456,
     "afterNearDup": 456,
-    "clusters": 1,
+    "clusters": 0,
     "afterCap": 42,
     "priorEditions": 4
   },
@@ -27,7 +27,7 @@
       "categoryHint": "Research",
       "author": "Naji Alazhar, Wassel Alazhar",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -56,7 +56,7 @@
       "categoryHint": "Research",
       "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -85,7 +85,7 @@
       "categoryHint": "Research",
       "author": "Scott C. Lowe, Sander W. Keemink",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -114,7 +114,7 @@
       "categoryHint": "Research",
       "author": "Ivan Moloshnikov, Dmitry Kunitsyn, Alexander Sboev, Maksim Skorokhodov, Roman Rybka, Yuanchao Liu",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -143,7 +143,7 @@
       "categoryHint": "Research",
       "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -172,7 +172,7 @@
       "categoryHint": "Research",
       "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -201,7 +201,7 @@
       "categoryHint": "Research",
       "author": "Joshua Maccoby, Wendy Hui Wang",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -230,7 +230,7 @@
       "categoryHint": "Research",
       "author": "Kavinda Kehelella, Sanghamitra Dutta",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -259,7 +259,7 @@
       "categoryHint": "Research",
       "author": "Ayush K. Tarun, Clara Meister, Antoine Bosselut",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -287,7 +287,7 @@
       "categoryHint": "Research",
       "author": "Shivesh Rane",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -315,7 +315,7 @@
       "categoryHint": "Research",
       "author": "Hare Krishna",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -343,7 +343,7 @@
       "categoryHint": "Research",
       "author": "Jinjin He, Xinsong Feng, Lucheng Fu, Sinan Wang, Bo Zhu, Jiayun Wang",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -371,7 +371,7 @@
       "categoryHint": "Research",
       "author": "Jingru Yang, Jinhang Wu, Minjing Shi, Shengfeng He, Xuyan Li, Man Tan, Biye Li",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -399,7 +399,7 @@
       "categoryHint": "Research",
       "author": "Meriem Terki, Nouhaila Innan, Minghao Shao, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -427,7 +427,7 @@
       "categoryHint": "Research",
       "author": "Xu He, Homayoon Beigi",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -455,7 +455,7 @@
       "categoryHint": "Research",
       "author": "Ionut Adrian Rotaru",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -483,7 +483,7 @@
       "categoryHint": "Research",
       "author": "Mohammed Azeez Khan, Aaron Dsouza, Ashutosh Mishra, Ummul Faiz Z. Bibi, Neha K. Nair, Amar Kumar Behera",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -510,7 +510,7 @@
       "categoryHint": "Research",
       "author": "Kurt Butler, Damian Machlanski, Michael P. J. Camilleri, Zhihua Liu, Panagiotis Dimitrakopoulos, Feng Chen, et al.",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -537,7 +537,7 @@
       "categoryHint": "Research",
       "author": "Wei Jiang, Yibo Wang, Zechao Li",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -564,7 +564,7 @@
       "categoryHint": "Research",
       "author": "Linxuan Wu, Liang Chen",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -591,7 +591,7 @@
       "categoryHint": "Research",
       "author": "R E Zera Marveen Lyngkhoi, Abhivansh Gupta, Vidushee Vats, Ram Mohan Rao Kadiyala, Vinay Kumar Sankarapu, Pratinav Seth",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -618,7 +618,7 @@
       "categoryHint": "Research",
       "author": "Timi Owolabi, Hikmah Olawore, Frances Adelakun, Ayotomiwa Oyewumi",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -645,7 +645,7 @@
       "categoryHint": "Research",
       "author": "Rui Hu, Yu Chen, Zhuoran Li, Longbo Huang",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -672,7 +672,7 @@
       "categoryHint": "Research",
       "author": "Kalp Shah, Andrei Vlad Nicula, Mihnea Andrei B\\^arsan, Robert-Stefan Sofroni, Agneya Bhardwaj, Jan Jel\\'inek, et al.",
       "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -699,50 +699,23 @@
       "categoryHint": "News",
       "author": "Terrence O’Brien",
       "publishedAt": "2026-10-10T22:10:17Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": 42,
-        "hnComments": 76,
+        "hnComments": 77,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
-        "crossSourceCount": 3
+        "crossSourceCount": 2
       },
       "mergedSources": [
         "Hacker News: artificial intelligence",
         "The Verge: AI"
       ],
-      "clusterId": "c-1d43fa952f",
+      "clusterId": null,
       "previouslyFeatured": true,
       "trendDelta": null,
-      "preScore": 7.05
-    },
-    {
-      "id": "2c9728d3318bed23628c85911ba40b59de81514d",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "canonicalUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "source": "TechCrunch: AI",
-      "sourceTier": 2,
-      "categoryHint": "Business",
-      "author": "Anthony Ha",
-      "publishedAt": "2026-10-10T21:47:51Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 3
-      },
-      "mergedSources": [
-        "TechCrunch: AI"
-      ],
-      "clusterId": "c-1d43fa952f",
-      "previouslyFeatured": false,
-      "trendDelta": null,
-      "preScore": 5
+      "preScore": 6.05
     },
     {
       "id": "44c65736f8dd5ac9d4bf0dfeb77dd474b3bddea7",
@@ -754,10 +727,10 @@
       "categoryHint": "News",
       "author": null,
       "publishedAt": "2026-10-11T20:20:52Z",
-      "fetchedAt": "2026-10-12T08:13:52Z",
+      "fetchedAt": "2026-10-12T10:08:24Z",
       "signals": {
-        "hnPoints": 436,
-        "hnComments": 614,
+        "hnPoints": 465,
+        "hnComments": 676,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
@@ -769,7 +742,61 @@
       "clusterId": null,
       "previouslyFeatured": false,
       "trendDelta": null,
-      "preScore": 4.97
+      "preScore": 4.98
+    },
+    {
+      "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+      "canonicalUrl": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots",
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+      "source": "IEEE Spectrum: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Noitom Robotics",
+      "publishedAt": "2026-10-12T10:00:03Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "IEEE Spectrum: AI"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": null,
+      "preScore": 3
+    },
+    {
+      "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+      "url": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+      "canonicalUrl": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+      "title": "Are You Blocked by the 400-Word Wall?",
+      "source": "More Better Thinking",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "William B. Irvine",
+      "publishedAt": "2026-10-12T09:47:10Z",
+      "fetchedAt": "2026-10-12T10:08:27Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "mergedSources": [
+        "More Better Thinking"
+      ],
+      "clusterId": null,
+      "previouslyFeatured": false,
+      "trendDelta": 1,
+      "preScore": 3
     },
     {
       "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
@@ -781,7 +808,7 @@
       "categoryHint": "Tutorials",
       "author": "Luca Rossi",
       "publishedAt": "2026-10-12T06:02:09Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -808,7 +835,7 @@
       "categoryHint": "Policy & Safety",
       "author": "orthonormal",
       "publishedAt": "2026-10-11T21:55:26Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -835,7 +862,7 @@
       "categoryHint": "Business",
       "author": "Anthony Ha",
       "publishedAt": "2026-10-11T21:14:40Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -862,7 +889,7 @@
       "categoryHint": "Business",
       "author": "TechCrunch Events",
       "publishedAt": "2026-10-11T19:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -889,7 +916,7 @@
       "categoryHint": "News",
       "author": "Terrence O’Brien",
       "publishedAt": "2026-10-11T18:33:56Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -916,7 +943,7 @@
       "categoryHint": "Business",
       "author": "Anthony Ha",
       "publishedAt": "2026-10-11T16:52:33Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -943,7 +970,7 @@
       "categoryHint": "Business",
       "author": "Ivan Mehta",
       "publishedAt": "2026-10-11T14:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -970,7 +997,7 @@
       "categoryHint": "Tutorials",
       "author": "Thomas Reid",
       "publishedAt": "2026-10-11T14:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:55Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -997,7 +1024,7 @@
       "categoryHint": "News",
       "author": "Alex Banks",
       "publishedAt": "2026-10-11T13:03:52Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1024,7 +1051,7 @@
       "categoryHint": "Tutorials",
       "author": "Partha Sarkar",
       "publishedAt": "2026-10-11T12:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:55Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1051,7 +1078,7 @@
       "categoryHint": "News",
       "author": "Boone Ashworth",
       "publishedAt": "2026-10-11T11:30:00Z",
-      "fetchedAt": "2026-10-12T08:13:53Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1078,7 +1105,7 @@
       "categoryHint": "News",
       "author": "Antonio G. Di Benedetto",
       "publishedAt": "2026-10-11T11:00:00Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:26Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1105,7 +1132,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-11T00:52:37Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1132,7 +1159,7 @@
       "categoryHint": "Opinion",
       "author": null,
       "publishedAt": "2026-10-10T23:58:04Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
+      "fetchedAt": "2026-10-12T10:08:25Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -1148,54 +1175,7 @@
       "previouslyFeatured": false,
       "trendDelta": null,
       "preScore": 3
-    },
-    {
-      "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
-      "url": "https://www.latent.space/p/nyc2026",
-      "canonicalUrl": "https://latent.space/p/nyc2026",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "source": "Latent Space",
-      "sourceTier": 2,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-10T22:07:17Z",
-      "fetchedAt": "2026-10-12T08:13:54Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "mergedSources": [
-        "Latent Space"
-      ],
-      "clusterId": null,
-      "previouslyFeatured": false,
-      "trendDelta": null,
-      "preScore": 3
     }
   ],
-  "clusters": [
-    {
-      "id": "c-1d43fa952f",
-      "label": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "itemIds": [
-        "2c9728d3318bed23628c85911ba40b59de81514d",
-        "4c640ca9263a86389876ced4c54b88bba78433b6"
-      ],
-      "leadItemId": "2c9728d3318bed23628c85911ba40b59de81514d",
-      "sources": [
-        "Hacker News: artificial intelligence",
-        "TechCrunch: AI",
-        "The Verge: AI"
-      ],
-      "size": 2,
-      "entities": [
-        "nadella"
-      ],
-      "trendDelta": null
-    }
-  ]
+  "clusters": []
 }

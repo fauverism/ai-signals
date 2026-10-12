@@ -5,55 +5,55 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:09:25 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Neurograf v1: An End-to-End Romanian-First Language Model Family</title>
-      <link>https://arxiv.org/abs/2610.13134</link>
-      <guid isPermaLink="false">c932971c49622d7691b456906b206ad9143917bf</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <title>Overcoming Data Imbalances with Expert Selection Biases</title>
+      <link>https://arxiv.org/abs/2610.13370</link>
+      <guid isPermaLink="false">469be7f822de0078e5f16392e8676595c3fd2697</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
       <category>Research</category>
-      <description>Preprint introducing a Romanian-first language model family built end to end.</description>
+      <description>Paper on using expert selection biases in mixture-of-experts models to cope with imbalanced training data.</description>
     </item>
     <item>
-      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
-      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
-      <guid isPermaLink="false">2c9728d3318bed23628c85911ba40b59de81514d</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>TechCrunch report that Microsoft CEO Satya Nadella called for an emergency brake on AI models.</description>
-    </item>
-    <item>
-      <title>SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire</title>
-      <link>https://arxiv.org/abs/2610.12596</link>
-      <guid isPermaLink="false">0930ea1989dd802cc2fccd7bb5c7dd033380843e</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <title>AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits</title>
+      <link>https://arxiv.org/abs/2610.12545</link>
+      <guid isPermaLink="false">1fdde920bd01f65d3c3172d96c23ff136b9c994e</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
       <category>Research</category>
-      <description>Benchmark that tests agentic models on long-horizon strategic play in the game Slay the Spire.</description>
+      <description>Preprint training causal language models on chains of edits so they can decode in flexible order rather than strictly left to right.</description>
     </item>
     <item>
-      <title>Minimum required pacing: finish aligning it before you train the next one</title>
-      <link>https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train</link>
-      <guid isPermaLink="false">d6375c0f5b89446521f7dae48b47271a9df74f88</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Alignment Forum post arguing for a minimum pacing rule: finish aligning one model before training the next.</description>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <guid isPermaLink="false">4c640ca9263a86389876ced4c54b88bba78433b6</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
+      <category>News</category>
+      <description>Report on Microsoft CEO Satya Nadella saying teams should treat all AI models as compromised. Drew heavy discussion on Hacker News.</description>
     </item>
     <item>
-      <title>Adaptive DHiSparse: Speculative Decoding over a Load-Adaptive KV Hierarchy</title>
-      <link>https://arxiv.org/abs/2610.13708</link>
-      <guid isPermaLink="false">017f336b77ee84378d17541677d664679839b99e</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <title>What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training</title>
+      <link>https://arxiv.org/abs/2610.12995</link>
+      <guid isPermaLink="false">06b836605bb31b0f9892f9d7d5af2a187d163fea</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
       <category>Research</category>
-      <description>Preprint on speculative decoding that adapts to load across a tiered KV cache. The title points to serving-efficiency work; results are not visible from the metadata.</description>
+      <description>Preprint proposing an information-gain criterion for deciding what supervised fine-tuning should learn, aimed at better generalization after post-training.</description>
     </item>
     <item>
-      <title>The gap in shared understanding of LLM capability is widening</title>
-      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-      <guid isPermaLink="false">44c65736f8dd5ac9d4bf0dfeb77dd474b3bddea7</guid>
-      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
-      <category>Opinion</category>
-      <description>Hacker News discussion of a post arguing that people increasingly disagree about what LLMs can do.</description>
+      <title>A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning</title>
+      <link>https://arxiv.org/abs/2610.13744</link>
+      <guid isPermaLink="false">16e0bb029536ab3028183db0c61774ed47602ba7</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on on-policy self-distillation for reasoning where the teacher critiques rather than only scores, arguing scoring alone cannot guide search.</description>
+    </item>
+    <item>
+      <title>REDaCT: Collapse-Free Unlearning in Large Reasoning Models</title>
+      <link>https://arxiv.org/abs/2610.12769</link>
+      <guid isPermaLink="false">2b1cd6a73a748fb854db31276e28acce1afc990e</guid>
+      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.</description>
     </item>
     <item>
       <title>Anthropic is cutting off its internal evaluations from the internet</title>
