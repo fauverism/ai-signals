@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:14:46 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Neurograf v1: An End-to-End Romanian-First Language Model Family</title>
+      <link>https://arxiv.org/abs/2610.13134</link>
+      <guid isPermaLink="false">c932971c49622d7691b456906b206ad9143917bf</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint introducing a Romanian-first language model family built end to end.</description>
+    </item>
+    <item>
+      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
+      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
+      <guid isPermaLink="false">2c9728d3318bed23628c85911ba40b59de81514d</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch report that Microsoft CEO Satya Nadella called for an emergency brake on AI models.</description>
+    </item>
+    <item>
+      <title>SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire</title>
+      <link>https://arxiv.org/abs/2610.12596</link>
+      <guid isPermaLink="false">0930ea1989dd802cc2fccd7bb5c7dd033380843e</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Research</category>
+      <description>Benchmark that tests agentic models on long-horizon strategic play in the game Slay the Spire.</description>
+    </item>
+    <item>
+      <title>Minimum required pacing: finish aligning it before you train the next one</title>
+      <link>https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train</link>
+      <guid isPermaLink="false">d6375c0f5b89446521f7dae48b47271a9df74f88</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Alignment Forum post arguing for a minimum pacing rule: finish aligning one model before training the next.</description>
+    </item>
+    <item>
+      <title>Adaptive DHiSparse: Speculative Decoding over a Load-Adaptive KV Hierarchy</title>
+      <link>https://arxiv.org/abs/2610.13708</link>
+      <guid isPermaLink="false">017f336b77ee84378d17541677d664679839b99e</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on speculative decoding that adapts to load across a tiered KV cache. The title points to serving-efficiency work; results are not visible from the metadata.</description>
+    </item>
+    <item>
+      <title>The gap in shared understanding of LLM capability is widening</title>
+      <link>https://twitter.com/karpathy/status/2109361546505966046</link>
+      <guid isPermaLink="false">44c65736f8dd5ac9d4bf0dfeb77dd474b3bddea7</guid>
+      <pubDate>Mon, 12 Oct 2026 08:14:46 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Hacker News discussion of a post arguing that people increasingly disagree about what LLMs can do.</description>
+    </item>
     <item>
       <title>Anthropic is cutting off its internal evaluations from the internet</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>

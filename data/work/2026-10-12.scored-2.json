@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-12",
+  "batch": 2,
+  "items": [
+    {
+      "id": "48092d1d873f6f9c42aa9c42dc05a08e7b872729",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "policy",
+        "us-government",
+        "naming"
+      ],
+      "summary": "The Verge reports that tech firms are going along with a US effort to rename AI.",
+      "whyItMatters": "Watch for naming shifts in federal procurement and policy language.",
+      "organization": "us-government"
+    },
+    {
+      "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "data-centers",
+        "nda",
+        "infrastructure"
+      ],
+      "summary": "TechCrunch asks whether dropping NDAs could win over data center opponents.",
+      "whyItMatters": "Local opposition affects where compute capacity can be built.",
+      "organization": "ai-industry"
+    },
+    {
+      "id": "778ab122b6ef9260b6e465550fb532d73d5724a8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Business",
+      "tags": [
+        "voice-ai",
+        "market"
+      ],
+      "summary": "TechCrunch interviews executives who think voice AI has not yet had its breakout moment.",
+      "whyItMatters": "Gives a view of where voice AI investors see headroom.",
+      "organization": "voice-ai"
+    },
+    {
+      "id": "ee92128ac4624f395088f69c897a80bf4769e6ce",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "openai",
+        "api",
+        "guide"
+      ],
+      "summary": "Towards Data Science guide to using a new OpenAI Decisions API.",
+      "whyItMatters": "A hands-on starting point if you plan to try that API.",
+      "organization": "openai"
+    },
+    {
+      "id": "738bfae7f3b8a61f71cd81cb689774b0f4082f94",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "agents",
+        "roundup"
+      ],
+      "summary": "The Signal newsletter issue covering an agent product, Claude documentation work and an OpenAI item.",
+      "whyItMatters": "A quick catch-up on agent and lab news.",
+      "organization": "various"
+    },
+    {
+      "id": "31276c3a3106709ff201b1dae1afa5f80494fdac",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "architecture",
+        "patterns"
+      ],
+      "summary": "Towards Data Science walkthrough of six architectural patterns for agentic systems.",
+      "whyItMatters": "Gives a vocabulary for choosing agent designs.",
+      "organization": "various"
+    },
+    {
+      "id": "0b1518dc9b60572e714097df4b5561081239201f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "google",
+        "ai-playground",
+        "games"
+      ],
+      "summary": "WIRED writer tries Google AI Playground to make games and reports on the results.",
+      "whyItMatters": "Shows how far casual game generation with Google tools goes.",
+      "organization": "google"
+    },
+    {
+      "id": "f379902df709de45f86c62279dbd81718e4fd7d8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "local-models",
+        "on-device"
+      ],
+      "summary": "The Verge first-person piece on learning to run AI locally and the frustrations involved.",
+      "whyItMatters": "Sets expectations for people trying local models for the first time.",
+      "organization": "community"
+    },
+    {
+      "id": "e179bee0d893481bcfc17c48c80fb335dd055c05",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "version-control",
+        "games"
+      ],
+      "summary": "Simon Willison note that Dwarf Fortress now uses version control.",
+      "whyItMatters": "Mostly tangential; AI link is thin.",
+      "organization": "bloodfield"
+    },
+    {
+      "id": "24d721d473226f250d79781b08605fb05b8f9291",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "python",
+        "github-actions"
+      ],
+      "summary": "Release note that Python 3.15.0 was added to the actions/python-versions runner list.",
+      "whyItMatters": "Lets CI pipelines test against Python 3.15.0.",
+      "organization": "github"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "8d1b5970f0e4c138f22740a6fb37cfd78cddfe2e",
+      "reason": "event promo"
+    },
+    {
+      "id": "45bc2fccc930f51751163591b5807fca42d28c2b",
+      "reason": "event promo"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}
