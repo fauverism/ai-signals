@@ -1,56 +1,93 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T10:09:25Z",
-  "editorNote": "A quiet day with no major releases. Research leads: a paper on training mixture-of-experts models with skewed data, plus work on flexible-order decoding, SFT data selection and unlearning in reasoning models. On the news side, Satya Nadella told teams to assume AI models are compromised, which drew heavy discussion.",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:10:26Z",
+  "editorNote": "Meta released Muse Wonder, which it presents as its first frontier model, and four outlets covered it; it is the biggest story of the day even though our lead rule favored a primary-source item. The second thread is a report that Claude sent a false murder tip to Philadelphia police, a reminder to limit what agents can do outside their sandbox. Otherwise a quiet day: inference engineering posts and agent context research.",
   "lead": {
-    "id": "469be7f822de0078e5f16392e8676595c3fd2697",
-    "url": "https://arxiv.org/abs/2610.13370",
-    "canonicalUrl": "https://arxiv.org/abs/2610.13370",
-    "title": "Overcoming Data Imbalances with Expert Selection Biases",
-    "source": "arXiv cs.CL",
+    "id": "55338a2f5e2cb58f883e9a95f661f85dba4ed5b6",
+    "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+    "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+    "source": "NVIDIA Technical Blog",
     "sourceTier": 1,
-    "categoryHint": "Research",
-    "author": "Ayush K. Tarun, Clara Meister, Antoine Bosselut",
-    "publishedAt": "2026-10-12T04:00:00Z",
-    "fetchedAt": "2026-10-12T10:08:26Z",
+    "categoryHint": "Tools & Releases",
+    "author": "Michelle Horton",
+    "publishedAt": "2026-10-12T16:00:54Z",
+    "fetchedAt": "2026-10-13T10:08:58Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
       "redditScore": null,
       "githubStars": null,
       "githubStarsDelta": null,
-      "crossSourceCount": 2
+      "crossSourceCount": 1
     },
     "scores": {
       "importance": 4,
-      "trend": 1,
-      "novelty": 5,
-      "credibility": 7
+      "trend": 0,
+      "novelty": 6,
+      "credibility": 9
     },
-    "total": 4,
+    "total": 4.3,
     "category": "Research",
     "tags": [
-      "mixture-of-experts",
-      "data-imbalance",
-      "training"
+      "state-space-models",
+      "hybrid-models",
+      "decoding"
     ],
-    "summary": "Paper on using expert selection biases in mixture-of-experts models to cope with imbalanced training data.",
-    "whyItMatters": "Useful if your MoE training data is skewed across domains or languages.",
+    "summary": "NVIDIA engineering post on ReplaySSM, a way of storing state to speed up decoding in hybrid state-space/attention models.",
+    "whyItMatters": "Relevant if you serve hybrid SSM models and care about decode latency.",
     "featuredSlot": "lead",
     "previouslyFeatured": false
   },
   "top": [
     {
-      "id": "1fdde920bd01f65d3c3172d96c23ff136b9c994e",
-      "url": "https://arxiv.org/abs/2610.12545",
-      "canonicalUrl": "https://arxiv.org/abs/2610.12545",
-      "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
-      "source": "arXiv cs.AI",
-      "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
-      "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T10:08:25Z",
+      "id": "9726aa3a5f66ec7f41ada6ab24e69cf56461d144",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Russell Brandom",
+      "publishedAt": "2026-10-12T17:56:56Z",
+      "fetchedAt": "2026-10-13T10:08:58Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 4
+      },
+      "scores": {
+        "importance": 8,
+        "trend": 5,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "total": 6.7,
+      "category": "Business",
+      "tags": [
+        "meta",
+        "frontier-models",
+        "muse-wonder"
+      ],
+      "summary": "TechCrunch reports Meta has released Muse Wonder, described as the company's first frontier model.",
+      "whyItMatters": "A new frontier-model vendor changes your options and negotiating position.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "1cb84cfd891ad0c07fb68c3001be5c2c17e36c36",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jon Brodkin",
+      "publishedAt": "2026-10-12T18:21:36Z",
+      "fetchedAt": "2026-10-13T10:08:58Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -58,712 +95,446 @@
         "githubStars": null,
         "githubStarsDelta": null,
         "crossSourceCount": 3
-      },
-      "scores": {
-        "importance": 4,
-        "trend": 2,
-        "novelty": 6,
-        "credibility": 6
-      },
-      "total": 4.3,
-      "category": "Research",
-      "tags": [
-        "decoding",
-        "language-models",
-        "editing"
-      ],
-      "summary": "Preprint training causal language models on chains of edits so they can decode in flexible order rather than strictly left to right.",
-      "whyItMatters": "Points to generation that can revise text, not only append to it.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "source": "The Verge: AI",
-      "sourceTier": 2,
-      "categoryHint": "News",
-      "author": "Terrence O’Brien",
-      "publishedAt": "2026-10-10T22:10:17Z",
-      "fetchedAt": "2026-10-12T10:08:26Z",
-      "signals": {
-        "hnPoints": 42,
-        "hnComments": 77,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
       },
       "scores": {
         "importance": 5,
-        "trend": 2,
-        "novelty": 4,
+        "trend": 4,
+        "novelty": 6,
         "credibility": 6
       },
-      "total": 4.2,
+      "total": 5.2,
       "category": "News",
       "tags": [
-        "security",
-        "model-trust",
-        "microsoft"
+        "claude",
+        "hallucination",
+        "safety-incident"
       ],
-      "summary": "Report on Microsoft CEO Satya Nadella saying teams should treat all AI models as compromised. Drew heavy discussion on Hacker News.",
-      "whyItMatters": "Frames model security as an assumption in system design, not an afterthought.",
-      "featuredSlot": "top",
-      "previouslyFeatured": true
-    },
-    {
-      "id": "06b836605bb31b0f9892f9d7d5af2a187d163fea",
-      "url": "https://arxiv.org/abs/2610.12995",
-      "canonicalUrl": "https://arxiv.org/abs/2610.12995",
-      "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
-      "source": "arXiv cs.AI",
-      "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
-      "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T10:08:25Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 3
-      },
-      "scores": {
-        "importance": 4,
-        "trend": 2,
-        "novelty": 5,
-        "credibility": 6
-      },
-      "total": 4.1,
-      "category": "Research",
-      "tags": [
-        "post-training",
-        "sft",
-        "generalization"
-      ],
-      "summary": "Preprint proposing an information-gain criterion for deciding what supervised fine-tuning should learn, aimed at better generalization after post-training.",
-      "whyItMatters": "Offers a lens for choosing SFT data before you spend compute on it.",
+      "summary": "Ars Technica reports that Claude submitted a false murder tip to Philadelphia police.",
+      "whyItMatters": "Real-world agent actions can cause harm; review what tools your agents hold.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "16e0bb029536ab3028183db0c61774ed47602ba7",
-      "url": "https://arxiv.org/abs/2610.13744",
-      "canonicalUrl": "https://arxiv.org/abs/2610.13744",
-      "title": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
-      "source": "arXiv cs.AI",
-      "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
-      "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T10:08:25Z",
+      "id": "12c0d0baba3de7f10e38aebdba47d551b6391c10",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "canonicalUrl": "https://theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Tom Warren",
+      "publishedAt": "2026-10-12T13:00:00Z",
+      "fetchedAt": "2026-10-13T10:08:58Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
-        "crossSourceCount": 3
+        "crossSourceCount": 1
       },
       "scores": {
-        "importance": 4,
-        "trend": 2,
+        "importance": 6,
+        "trend": 1,
         "novelty": 5,
         "credibility": 6
       },
-      "total": 4.1,
-      "category": "Research",
+      "total": 4.5,
+      "category": "News",
       "tags": [
-        "reasoning",
-        "distillation",
-        "self-distillation"
+        "microsoft",
+        "ai-chips",
+        "nvidia"
       ],
-      "summary": "Preprint on on-policy self-distillation for reasoning where the teacher critiques rather than only scores, arguing scoring alone cannot guide search.",
-      "whyItMatters": "Relevant to anyone training reasoning models with teacher feedback.",
+      "summary": "The Verge reports Microsoft's new AI chip is meant to reduce its reliance on Nvidia GPUs.",
+      "whyItMatters": "Hyperscaler silicon could shift cloud GPU pricing and availability.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "2b1cd6a73a748fb854db31276e28acce1afc990e",
-      "url": "https://arxiv.org/abs/2610.12769",
-      "canonicalUrl": "https://arxiv.org/abs/2610.12769",
-      "title": "REDaCT: Collapse-Free Unlearning in Large Reasoning Models",
-      "source": "arXiv cs.AI",
+      "id": "9ca2bcd34e5443c6480bf13681d07467f3b17aa3",
+      "url": "https://github.com/prabanta-dev/janas",
+      "canonicalUrl": "https://github.com/prabanta-dev/janas",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-12T22:05:43Z",
+      "fetchedAt": "2026-10-13T10:08:57Z",
+      "signals": {
+        "hnPoints": 143,
+        "hnComments": 47,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 7,
+        "credibility": 4
+      },
+      "total": 4.3,
+      "category": "Tools & Releases",
+      "tags": [
+        "local-llm",
+        "moe",
+        "ssd-streaming"
+      ],
+      "summary": "Hacker News post about Janas, a project for running models larger than RAM by streaming expert weights from SSD.",
+      "whyItMatters": "Could let you try big mixture-of-experts models on modest hardware.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "770df069ccb53165a35ccc7116d8c7b13dda61a6",
+      "url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+      "canonicalUrl": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+      "title": "Self-Compacting Language Model Agents",
+      "source": "Apple Machine Learning Research",
       "sourceTier": 1,
       "categoryHint": "Research",
-      "author": "Joshua Maccoby, Wendy Hui Wang",
-      "publishedAt": "2026-10-12T04:00:00Z",
-      "fetchedAt": "2026-10-12T10:08:25Z",
+      "author": null,
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "fetchedAt": "2026-10-13T10:08:58Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
-        "crossSourceCount": 3
+        "crossSourceCount": 1
       },
       "scores": {
         "importance": 4,
-        "trend": 2,
-        "novelty": 5,
-        "credibility": 6
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
       },
       "total": 4.1,
       "category": "Research",
       "tags": [
-        "unlearning",
-        "reasoning-models",
-        "safety"
+        "agents",
+        "context-management",
+        "long-context"
       ],
-      "summary": "Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.",
-      "whyItMatters": "Matters if you must remove data from a deployed reasoning model.",
+      "summary": "Apple research paper on language-model agents that compact their own working context as they run.",
+      "whyItMatters": "Context bloat limits long agent runs; this is one approach to try.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     }
   ],
   "innovations": [],
-  "trending": [],
+  "trending": [
+    {
+      "id": "c-b3cd055108",
+      "label": "Meta Muse Wonder model launch",
+      "itemIds": [
+        "9726aa3a5f66ec7f41ada6ab24e69cf56461d144",
+        "a2c304623a61d6cf82e35f0b69ad27b773367dfd",
+        "b4d86ddbd9eb13ac119684d51b4e422c2dd6bf45",
+        "b6332d929c4772b9cff89a8e4950334ea149a686"
+      ],
+      "leadItemId": "b4d86ddbd9eb13ac119684d51b4e422c2dd6bf45",
+      "sources": [
+        "Latent Space",
+        "TechCrunch: AI",
+        "The Verge: AI",
+        "WIRED: AI"
+      ],
+      "trendDelta": 4
+    },
+    {
+      "id": "c-d29f2ec203",
+      "label": "Claude false police tip",
+      "itemIds": [
+        "1cb84cfd891ad0c07fb68c3001be5c2c17e36c36",
+        "fb1ef7d0ad58870a09beeca48b9d2d7507a74451",
+        "13b0230e9df62ae9998f3f7ba429ef0d0250e3a4"
+      ],
+      "leadItemId": "fb1ef7d0ad58870a09beeca48b9d2d7507a74451",
+      "sources": [
+        "Ars Technica: AI",
+        "Latent Space",
+        "ZDNET: AI"
+      ],
+      "trendDelta": 2.8
+    }
+  ],
   "byCategory": {
     "News": [
       {
-        "id": "4c640ca9263a86389876ced4c54b88bba78433b6",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "source": "The Verge: AI",
+        "id": "a2c304623a61d6cf82e35f0b69ad27b773367dfd",
+        "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+        "canonicalUrl": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder",
+        "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+        "source": "Latent Space",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Terrence O’Brien",
-        "publishedAt": "2026-10-10T22:10:17Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "author": null,
+        "publishedAt": "2026-10-13T09:37:04Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
-          "hnPoints": 42,
-          "hnComments": 77,
+          "hnPoints": null,
+          "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
-          "crossSourceCount": 2
+          "crossSourceCount": 4
         },
         "scores": {
-          "importance": 5,
-          "trend": 2,
-          "novelty": 4,
+          "importance": 7,
+          "trend": 5,
+          "novelty": 7,
           "credibility": 6
         },
-        "total": 4.2,
+        "total": 6.4,
         "category": "News",
         "tags": [
-          "security",
-          "model-trust",
-          "microsoft"
+          "meta",
+          "frontier-models",
+          "muse-wonder"
         ],
-        "summary": "Report on Microsoft CEO Satya Nadella saying teams should treat all AI models as compromised. Drew heavy discussion on Hacker News.",
-        "whyItMatters": "Frames model security as an assumption in system design, not an afterthought.",
-        "featuredSlot": "top",
-        "previouslyFeatured": true
-      },
-      {
-        "id": "738bfae7f3b8a61f71cd81cb689774b0f4082f94",
-        "url": "https://thesignal.substack.com/p/hark-the-herald-agent-claude-gets",
-        "canonicalUrl": "https://thesignal.substack.com/p/hark-the-herald-agent-claude-gets",
-        "title": "Hark the Herald Agent, Claude Gets Its Docs in a Row, and OpenAI’s Sign of the Times",
-        "source": "The Signal",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Alex Banks",
-        "publishedAt": "2026-10-11T13:03:52Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 2,
-          "credibility": 4
-        },
-        "total": 2.4,
-        "category": "News",
-        "tags": [
-          "newsletter",
-          "agents",
-          "claude",
-          "openai"
-        ],
-        "summary": "The Signal newsletter issue covering an agent product, Claude documentation changes and an OpenAI item, per its headline.",
-        "whyItMatters": "A quick scan of the week's lab news, though secondhand.",
+        "summary": "Newsletter roundup covering Meta Superintelligence Labs releasing Muse Wonder and Wonder Full models, positioned by the author as near the top tier.",
+        "whyItMatters": "Adds a new frontier-class model family to evaluate against your current vendor.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "f379902df709de45f86c62279dbd81718e4fd7d8",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+        "id": "b4d86ddbd9eb13ac119684d51b4e422c2dd6bf45",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "title": "Meta has some Wonder Full new AI models",
         "source": "The Verge: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Antonio G. Di Benedetto",
-        "publishedAt": "2026-10-11T11:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "author": "Robert Hart",
+        "publishedAt": "2026-10-12T17:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
-          "crossSourceCount": 1
+          "crossSourceCount": 4
         },
         "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 5
+          "importance": 7,
+          "trend": 5,
+          "novelty": 6,
+          "credibility": 6
         },
-        "total": 2.3,
+        "total": 6.1,
         "category": "News",
         "tags": [
-          "local-ai",
-          "open-weights",
-          "experience"
+          "meta",
+          "frontier-models",
+          "muse-wonder"
         ],
-        "summary": "The Verge writer recounts learning to run AI models locally, both exciting and frustrating.",
-        "whyItMatters": "Realistic expectations for getting started with local models.",
-        "featuredSlot": null,
+        "summary": "The Verge reports on Meta's new Muse Wonder and Wonder Full AI models.",
+        "whyItMatters": "Shows what Meta is shipping; check the model lineup before choosing.",
+        "featuredSlot": "trending",
         "previouslyFeatured": false
       },
       {
-        "id": "0b1518dc9b60572e714097df4b5561081239201f",
-        "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-        "canonicalUrl": "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground",
-        "title": "I Made Terrible Games With Google’s AI Playground",
+        "id": "b6332d929c4772b9cff89a8e4950334ea149a686",
+        "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+        "canonicalUrl": "https://wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
+        "title": "Muse Wonder Puts Meta Back at the AI Frontier",
         "source": "WIRED: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Boone Ashworth",
-        "publishedAt": "2026-10-11T11:30:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
+        "author": "Will Knight",
+        "publishedAt": "2026-10-12T17:00:27Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
-          "crossSourceCount": 1
+          "crossSourceCount": 4
         },
         "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 5
+          "importance": 7,
+          "trend": 5,
+          "novelty": 6,
+          "credibility": 6
         },
-        "total": 2,
+        "total": 6.1,
         "category": "News",
         "tags": [
-          "google",
-          "ai-playground",
-          "games"
+          "meta",
+          "frontier-models",
+          "muse-wonder"
         ],
-        "summary": "WIRED reporter tries making games with Google's AI Playground and finds the results rough.",
-        "whyItMatters": "Gives a hands-on feel for the tool's current limits.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Research": [
-      {
-        "id": "1fdde920bd01f65d3c3172d96c23ff136b9c994e",
-        "url": "https://arxiv.org/abs/2610.12545",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12545",
-        "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 2,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 4.3,
-        "category": "Research",
-        "tags": [
-          "decoding",
-          "language-models",
-          "editing"
-        ],
-        "summary": "Preprint training causal language models on chains of edits so they can decode in flexible order rather than strictly left to right.",
-        "whyItMatters": "Points to generation that can revise text, not only append to it.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "06b836605bb31b0f9892f9d7d5af2a187d163fea",
-        "url": "https://arxiv.org/abs/2610.12995",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12995",
-        "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Yuxuan Gu, Kequan Niu, Xiaocheng Feng, Yun Li, Yiqiao Yang, Bing Qin",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 4.1,
-        "category": "Research",
-        "tags": [
-          "post-training",
-          "sft",
-          "generalization"
-        ],
-        "summary": "Preprint proposing an information-gain criterion for deciding what supervised fine-tuning should learn, aimed at better generalization after post-training.",
-        "whyItMatters": "Offers a lens for choosing SFT data before you spend compute on it.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "16e0bb029536ab3028183db0c61774ed47602ba7",
-        "url": "https://arxiv.org/abs/2610.13744",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13744",
-        "title": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Mayug Maniparambil, Ayush Rai, Ekansh Verma, Noel E. O'Connor, Fergal Reid",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 4.1,
-        "category": "Research",
-        "tags": [
-          "reasoning",
-          "distillation",
-          "self-distillation"
-        ],
-        "summary": "Preprint on on-policy self-distillation for reasoning where the teacher critiques rather than only scores, arguing scoring alone cannot guide search.",
-        "whyItMatters": "Relevant to anyone training reasoning models with teacher feedback.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2b1cd6a73a748fb854db31276e28acce1afc990e",
-        "url": "https://arxiv.org/abs/2610.12769",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12769",
-        "title": "REDaCT: Collapse-Free Unlearning in Large Reasoning Models",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Joshua Maccoby, Wendy Hui Wang",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 4.1,
-        "category": "Research",
-        "tags": [
-          "unlearning",
-          "reasoning-models",
-          "safety"
-        ],
-        "summary": "Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.",
-        "whyItMatters": "Matters if you must remove data from a deployed reasoning model.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "5b6f2731378b34e9f208a5480e8c273baf18cada",
-        "url": "https://arxiv.org/abs/2610.12898",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12898",
-        "title": "Rethinking the Roles of Diffusion and Decoding: Predictive-State Flows for Parallel Language Generation",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Jinjin He, Xinsong Feng, Lucheng Fu, Sinan Wang, Bo Zhu, Jiayun Wang",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 4.1,
-        "category": "Research",
-        "tags": [
-          "diffusion-lm",
-          "parallel-decoding",
-          "generation"
-        ],
-        "summary": "Preprint rethinking how diffusion and decoding divide work in parallel language generation, proposing predictive-state flows.",
-        "whyItMatters": "Part of the push toward faster non-autoregressive text generation.",
+        "summary": "WIRED covers Muse Wonder as Meta's return to the leading edge of AI model development.",
+        "whyItMatters": "Context on how the new Meta release shifts the competitive field.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "469be7f822de0078e5f16392e8676595c3fd2697",
-        "url": "https://arxiv.org/abs/2610.13370",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13370",
-        "title": "Overcoming Data Imbalances with Expert Selection Biases",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Ayush K. Tarun, Clara Meister, Antoine Bosselut",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 7
-        },
-        "total": 4,
-        "category": "Research",
-        "tags": [
-          "mixture-of-experts",
-          "data-imbalance",
-          "training"
-        ],
-        "summary": "Paper on using expert selection biases in mixture-of-experts models to cope with imbalanced training data.",
-        "whyItMatters": "Useful if your MoE training data is skewed across domains or languages.",
-        "featuredSlot": "lead",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "5b77cb5e374f9a0e57996b206e6e6c9c19763940",
-        "url": "https://arxiv.org/abs/2610.13257",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13257",
-        "title": "CAST: Credit Alignment for Cross-Tokenizer On-Policy Distillation",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Jingru Yang, Jinhang Wu, Minjing Shi, Shengfeng He, Xuyan Li, Man Tan, Biye Li",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.8,
-        "category": "Research",
-        "tags": [
-          "distillation",
-          "tokenizers",
-          "on-policy"
-        ],
-        "summary": "Preprint on credit alignment for distilling between models that use different tokenizers.",
-        "whyItMatters": "Helps when the teacher and student models do not share a vocabulary.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "017f336b77ee84378d17541677d664679839b99e",
-        "url": "https://arxiv.org/abs/2610.13708",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13708",
-        "title": "Adaptive DHiSparse: Speculative Decoding over a Load-Adaptive KV Hierarchy",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Naji Alazhar, Wassel Alazhar",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.7,
-        "category": "Research",
-        "tags": [
-          "speculative-decoding",
-          "kv-cache",
-          "inference"
-        ],
-        "summary": "Preprint on speculative decoding that adapts to load across a tiered key-value cache. Aims at serving efficiency when memory pressure varies.",
-        "whyItMatters": "Relevant if you serve long-context models and tune decoding for throughput.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0930ea1989dd802cc2fccd7bb5c7dd033380843e",
-        "url": "https://arxiv.org/abs/2610.12596",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12596",
-        "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Scott C. Lowe, Sander W. Keemink",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.7,
-        "category": "Research",
-        "tags": [
-          "benchmark",
-          "agents",
-          "long-horizon"
-        ],
-        "summary": "Benchmark that tests agentic models on long-horizon strategic play in the card game Slay the Spire.",
-        "whyItMatters": "A new yardstick for planning over many steps, beyond short tool-use tasks.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2f9fcda02fea30db85e3aef0238fa89c7d73391c",
-        "url": "https://arxiv.org/abs/2610.12837",
-        "canonicalUrl": "https://arxiv.org/abs/2610.12837",
-        "title": "COFFEQA: Counterfactual-Guided Few-Shot Distillation for LLM Question Answering",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Kavinda Kehelella, Sanghamitra Dutta",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 2,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "distillation",
-          "few-shot",
-          "question-answering"
-        ],
-        "summary": "Preprint using counterfactual guidance in few-shot distillation to improve LLM question answering.",
-        "whyItMatters": "A small-data route to compact QA models; check results on your domain.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tutorials": [
-      {
-        "id": "ee92128ac4624f395088f69c897a80bf4769e6ce",
-        "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/",
-        "canonicalUrl": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api",
-        "title": "A Practical Guide to OpenAI's New Decisions API",
-        "source": "Towards Data Science",
+        "id": "1cb84cfd891ad0c07fb68c3001be5c2c17e36c36",
+        "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+        "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "source": "Ars Technica: AI",
         "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Thomas Reid",
-        "publishedAt": "2026-10-11T14:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "categoryHint": "News",
+        "author": "Jon Brodkin",
+        "publishedAt": "2026-10-12T18:21:36Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 5.2,
+        "category": "News",
+        "tags": [
+          "claude",
+          "hallucination",
+          "safety-incident"
+        ],
+        "summary": "Ars Technica reports that Claude submitted a false murder tip to Philadelphia police.",
+        "whyItMatters": "Real-world agent actions can cause harm; review what tools your agents hold.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fb1ef7d0ad58870a09beeca48b9d2d7507a74451",
+        "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+        "canonicalUrl": "https://zdnet.com/innovation/claude-false-homicide-tip",
+        "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Radhika Rajkumar",
+        "publishedAt": "2026-10-12T17:45:44Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 4.8,
+        "category": "News",
+        "tags": [
+          "claude",
+          "safety-incident",
+          "police"
+        ],
+        "summary": "ZDNET covers the false homicide tip Claude sent to police and frames it as part of a wider pattern of AI mistakes.",
+        "whyItMatters": "A reminder to gate agent actions that reach outside systems.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "13b0230e9df62ae9998f3f7ba429ef0d0250e3a4",
+        "url": "https://www.latent.space/p/claude-dynamic-workflows",
+        "canonicalUrl": "https://latent.space/p/claude-dynamic-workflows",
+        "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard MacManus",
+        "publishedAt": "2026-10-12T18:18:17Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.6,
+        "category": "News",
+        "tags": [
+          "claude",
+          "agents",
+          "workflows"
+        ],
+        "summary": "Latent Space piece on how Anthropic's dynamic workflows coordinate multiple Claude agents.",
+        "whyItMatters": "Shows an orchestration pattern you can compare to your own agent setups.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "12c0d0baba3de7f10e38aebdba47d551b6391c10",
+        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "canonicalUrl": "https://theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Tom Warren",
+        "publishedAt": "2026-10-12T13:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.5,
+        "category": "News",
+        "tags": [
+          "microsoft",
+          "ai-chips",
+          "nvidia"
+        ],
+        "summary": "The Verge reports Microsoft's new AI chip is meant to reduce its reliance on Nvidia GPUs.",
+        "whyItMatters": "Hyperscaler silicon could shift cloud GPU pricing and availability.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "45ad9337ee37b95bc77482e31a2ff927d72c8f27",
+        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+        "title": "AI labs are buying data from dead startups to train their models",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Matthew King",
+        "publishedAt": "2026-10-13T09:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -776,31 +547,67 @@
           "importance": 4,
           "trend": 0,
           "novelty": 5,
-          "credibility": 5
+          "credibility": 6
         },
-        "total": 3.4,
-        "category": "Tutorials",
+        "total": 3.6,
+        "category": "News",
         "tags": [
-          "openai",
-          "api",
-          "tutorial"
+          "training-data",
+          "data-licensing"
         ],
-        "summary": "Towards Data Science guide to OpenAI's new Decisions API, as the title describes.",
-        "whyItMatters": "A hands-on starting point if you plan to try this API.",
+        "summary": "MIT Technology Review reports that AI labs are purchasing data from defunct startups for model training.",
+        "whyItMatters": "Raises data-provenance questions for anyone relying on model outputs.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "31276c3a3106709ff201b1dae1afa5f80494fdac",
-        "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/",
-        "canonicalUrl": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns",
-        "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-        "source": "Towards Data Science",
+        "id": "b3d04b5f805f38bf6566af108b3ba76e3c0163d2",
+        "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+        "canonicalUrl": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+        "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+        "source": "Import AI",
         "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Partha Sarkar",
-        "publishedAt": "2026-10-11T12:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "categoryHint": "News",
+        "author": "Jack Clark",
+        "publishedAt": "2026-10-12T12:30:39Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "News",
+        "tags": [
+          "newsletter",
+          "open-weights",
+          "china"
+        ],
+        "summary": "Import AI issue 476 covering creativity and recursive self-improvement, open-weight models versus China, and AI in space.",
+        "whyItMatters": "A weekly roundup; skim for research pointers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "db958e2353fb73d9bfcb0b6ca24f04841bc840c4",
+        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+        "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jeremy Hsu",
+        "publishedAt": "2026-10-12T12:43:10Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -813,70 +620,591 @@
           "importance": 4,
           "trend": 0,
           "novelty": 3,
-          "credibility": 5
+          "credibility": 6
         },
-        "total": 2.9,
-        "category": "Tutorials",
+        "total": 3.1,
+        "category": "News",
         "tags": [
-          "agents",
-          "architecture",
-          "patterns"
+          "robotics",
+          "automation",
+          "labor"
         ],
-        "summary": "Towards Data Science guide to six advanced architectural patterns for agentic systems.",
-        "whyItMatters": "Handy checklist when designing a multi-step agent.",
+        "summary": "Ars Technica reports Amazon has over one million robots and asks what comes next for its human staff.",
+        "whyItMatters": "Scale benchmark for warehouse automation and its labor effects.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
-    "Tools & Releases": [
+    "Research": [
       {
-        "id": "c932971c49622d7691b456906b206ad9143917bf",
-        "url": "https://arxiv.org/abs/2610.13134",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13134",
-        "title": "Neurograf v1: An End-to-End Romanian-First Language Model Family",
-        "source": "arXiv cs.CL",
+        "id": "55338a2f5e2cb58f883e9a95f661f85dba4ed5b6",
+        "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+        "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+        "source": "NVIDIA Technical Blog",
         "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Ionut Adrian Rotaru",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "categoryHint": "Tools & Releases",
+        "author": "Michelle Horton",
+        "publishedAt": "2026-10-12T16:00:54Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
-          "crossSourceCount": 2
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 4.3,
+        "category": "Research",
+        "tags": [
+          "state-space-models",
+          "hybrid-models",
+          "decoding"
+        ],
+        "summary": "NVIDIA engineering post on ReplaySSM, a way of storing state to speed up decoding in hybrid state-space/attention models.",
+        "whyItMatters": "Relevant if you serve hybrid SSM models and care about decode latency.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "770df069ccb53165a35ccc7116d8c7b13dda61a6",
+        "url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+        "canonicalUrl": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+        "title": "Self-Compacting Language Model Agents",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-12T00:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "context-management",
+          "long-context"
+        ],
+        "summary": "Apple research paper on language-model agents that compact their own working context as they run.",
+        "whyItMatters": "Context bloat limits long agent runs; this is one approach to try.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "438f8f82161f19ed747b0ccca6f2f4064534b514",
+        "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "canonicalUrl": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-12T00:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
         },
         "scores": {
           "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 5
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
         },
-        "total": 3.3,
-        "category": "Tools & Releases",
+        "total": 3.8,
+        "category": "Research",
         "tags": [
-          "romanian",
-          "language-model",
-          "multilingual"
+          "distributed-computing",
+          "apple-silicon",
+          "gpu-cloud"
         ],
-        "summary": "Preprint presenting a Romanian-first language model family trained end to end.",
-        "whyItMatters": "A regional-language model option; check benchmarks before relying on it.",
+        "summary": "Apple research paper describing Minions, a virtual GPU cloud assembled from idle Apple Silicon devices.",
+        "whyItMatters": "An early look at pooling spare consumer hardware for compute.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "052b59152a99596b22b54c3acb4a82b9cfaab689",
-        "url": "https://arxiv.org/abs/2610.13335",
-        "canonicalUrl": "https://arxiv.org/abs/2610.13335",
-        "title": "AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents",
-        "source": "arXiv cs.LG",
+        "id": "8a70427187b8981c8844d823441e1695d77c4776",
+        "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+        "canonicalUrl": "https://microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+        "title": "Simulating student learning for better AI tutoring",
+        "source": "Microsoft Research",
         "sourceTier": 1,
         "categoryHint": "Research",
-        "author": "R E Zera Marveen Lyngkhoi, Abhivansh Gupta, Vidushee Vats, Ram Mohan Rao Kadiyala, Vinay Kumar Sankarapu, Pratinav Seth",
-        "publishedAt": "2026-10-12T04:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "author": "Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao",
+        "publishedAt": "2026-10-12T16:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 3.7,
+        "category": "Research",
+        "tags": [
+          "education",
+          "tutoring",
+          "simulation"
+        ],
+        "summary": "Microsoft Research work on simulating how students learn so AI tutoring systems can be built and tested against those simulations.",
+        "whyItMatters": "Gives tutoring-product teams a way to test without live students.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+        "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+        "canonicalUrl": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots",
+        "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+        "source": "IEEE Spectrum: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Noitom Robotics",
+        "publishedAt": "2026-10-12T10:00:03Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "Research",
+        "tags": [
+          "humanoid-robots",
+          "motion-planning",
+          "robotics"
+        ],
+        "summary": "IEEE Spectrum item on adaptive motion planning and tracking for humanoid robots.",
+        "whyItMatters": "Robotics progress signal; limited near-term impact for software teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "78d6d66a2b4f943a71ce2d6a122aa10c9d5caa83",
+        "url": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+        "canonicalUrl": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+        "title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-12T00:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 2.9,
+        "category": "Research",
+        "tags": [
+          "machine-translation",
+          "evaluation",
+          "annotation"
+        ],
+        "summary": "Apple paper examining whether LLMs can annotate machine-translation quality, with the finding that both humans and models struggle.",
+        "whyItMatters": "Cautions against treating LLM judges as ground truth for translation.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "9b76487086db0e68a9e45f360f8f186f11092d43",
+        "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
+        "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Ananth Raghavendra",
+        "publishedAt": "2026-10-12T15:50:14Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.4,
+        "category": "Tutorials",
+        "tags": [
+          "ray",
+          "multi-node-inference",
+          "containers"
+        ],
+        "summary": "AWS guide to running multi-node LLM inference using its Ray deep learning containers.",
+        "whyItMatters": "Useful when a model is too big for one node and you are on AWS.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1241afcd37b68e81c197917effc43ad44cc8a35a",
+        "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
+        "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Jyothirmai Kottu",
+        "publishedAt": "2026-10-12T15:51:46Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.4,
+        "category": "Tutorials",
+        "tags": [
+          "llama-cpp",
+          "sagemaker",
+          "deployment"
+        ],
+        "summary": "AWS walkthrough for hosting decision models on SageMaker AI using llama.cpp.",
+        "whyItMatters": "A concrete recipe if you want llama.cpp serving on managed AWS infrastructure.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f015c02ec66de1c35a3c2ede96379f5e7bf26149",
+        "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/",
+        "canonicalUrl": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one",
+        "title": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Abdullahi Dattijo",
+        "publishedAt": "2026-10-12T11:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "llm-as-judge",
+          "image-evaluation",
+          "experiments"
+        ],
+        "summary": "Towards Data Science write-up of an experiment testing AI image judges with a deliberately built trap.",
+        "whyItMatters": "Shows how automated judges can be fooled; check yours.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8894d3c13f2e1cc70175cf6fd089c7f69e4aa068",
+        "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+        "canonicalUrl": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+        "title": "How to Build Models Without Language, with Logical Intelligence",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-12T15:00:45Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "non-language-models",
+          "logic",
+          "interview"
+        ],
+        "summary": "ByteByteGo piece on building models that do not rely on language, featuring Logical Intelligence.",
+        "whyItMatters": "An alternative to LLM-centric design worth knowing exists.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
+        "url": "https://refactoring.fm/p/knowledge-capturing-human-relationships",
+        "canonicalUrl": "https://refactoring.fm/p/knowledge-capturing-human-relationships",
+        "title": "Knowledge capturing, human relationships, and weekly readings! 💡",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-12T06:02:09Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 1.6,
+        "category": "Tutorials",
+        "tags": [
+          "knowledge-management",
+          "newsletter"
+        ],
+        "summary": "Refactoring newsletter on knowledge capture, relationships and weekly readings.",
+        "whyItMatters": "General engineering management reading.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "9ca2bcd34e5443c6480bf13681d07467f3b17aa3",
+        "url": "https://github.com/prabanta-dev/janas",
+        "canonicalUrl": "https://github.com/prabanta-dev/janas",
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-12T22:05:43Z",
+        "fetchedAt": "2026-10-13T10:08:57Z",
+        "signals": {
+          "hnPoints": 143,
+          "hnComments": 47,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 7,
+          "credibility": 4
+        },
+        "total": 4.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "local-llm",
+          "moe",
+          "ssd-streaming"
+        ],
+        "summary": "Hacker News post about Janas, a project for running models larger than RAM by streaming expert weights from SSD.",
+        "whyItMatters": "Could let you try big mixture-of-experts models on modest hardware.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "024d9eece6c046fd69b85b244ce0095fd0c36ff0",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
+        "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Traci Lim",
+        "publishedAt": "2026-10-12T17:52:22Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "amazon-bedrock",
+          "openai-models",
+          "inference"
+        ],
+        "summary": "AWS post explaining how OpenAI GPT models can be reached through Bedrock with global cross-Region inference for five Asia-Pacific locations.",
+        "whyItMatters": "If you run on Bedrock in these regions, you can route GPT calls across Regions.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "efadf9441346330ca7e03c6a292b992bfa873c12",
+        "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/12/web-edit",
+        "title": "web-edit 0.1a0",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-12T15:54:36Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 2.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "cli-tools",
+          "release"
+        ],
+        "summary": "Simon Willison released an early alpha, version 0.1a0, of a tool called web-edit.",
+        "whyItMatters": "Early alpha; watch it if you like his small developer tools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a318bce54a37467953115a30cfda7857d7f5b7a1",
+        "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+        "title": "datasette-ports 0.4",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-12T04:57:07Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 8
+        },
+        "total": 2.7,
+        "category": "Tools & Releases",
+        "tags": [
+          "datasette",
+          "release"
+        ],
+        "summary": "Release 0.4 of datasette-ports, a plugin from Simon Willison.",
+        "whyItMatters": "Small plugin update for Datasette users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "c1f7ee8c97718d088938e98df24669ca32577222",
+        "url": "https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
+        "canonicalUrl": "https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
+        "title": "OpenAI Fires Three Safety Researchers",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-12T21:00:53Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -892,30 +1220,28 @@
           "credibility": 5
         },
         "total": 3.2,
-        "category": "Tools & Releases",
+        "category": "Policy & Safety",
         "tags": [
-          "agents",
-          "tool-use",
-          "training"
+          "openai",
+          "safety-research",
+          "governance"
         ],
-        "summary": "Preprint describing a unified training lifecycle for LLM agents that use tools.",
-        "whyItMatters": "A possible template for training tool-using agents end to end.",
+        "summary": "Zvi Mowshowitz commentary on reports that OpenAI fired three safety researchers.",
+        "whyItMatters": "Signals how seriously a major lab treats internal safety staff.",
         "featuredSlot": null,
         "previouslyFeatured": false
-      }
-    ],
-    "Policy & Safety": [
+      },
       {
-        "id": "d6375c0f5b89446521f7dae48b47271a9df74f88",
-        "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
-        "canonicalUrl": "https://alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
-        "title": "Minimum required pacing: finish aligning it before you train the next one",
-        "source": "Alignment Forum",
+        "id": "5974203bb3c7b557bf41531f2a5bd630c35cc434",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "source": "TechCrunch: AI",
         "sourceTier": 2,
-        "categoryHint": "Policy & Safety",
-        "author": "orthonormal",
-        "publishedAt": "2026-10-11T21:55:26Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-12T15:31:19Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -928,31 +1254,330 @@
           "importance": 4,
           "trend": 0,
           "novelty": 3,
-          "credibility": 5
+          "credibility": 6
         },
-        "total": 2.9,
+        "total": 3.1,
         "category": "Policy & Safety",
         "tags": [
-          "alignment",
-          "safety",
-          "pacing"
+          "regulation",
+          "uk",
+          "policy"
         ],
-        "summary": "Alignment Forum post arguing alignment work should finish before the next, more capable model is trained.",
-        "whyItMatters": "A viewpoint in the safety-pacing debate, not a policy change.",
+        "summary": "TechCrunch reports Microsoft's president saying the UK is well placed to lead on AI regulation.",
+        "whyItMatters": "Hints at where industry lobbying for AI rules is heading.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "48092d1d873f6f9c42aa9c42dc05a08e7b872729",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "source": "The Verge: AI",
+        "id": "67fade8e9451424d799bea0c945e6ff1cfdb2d50",
+        "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising",
+        "canonicalUrl": "https://alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising",
+        "title": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+        "source": "Alignment Forum",
+        "sourceTier": 2,
+        "categoryHint": "Policy & Safety",
+        "author": "TurnTrout",
+        "publishedAt": "2026-10-12T16:51:50Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "openai",
+          "safety",
+          "governance"
+        ],
+        "summary": "Alignment Forum post arguing OpenAI cannot police itself when it dismisses people who raise concerns.",
+        "whyItMatters": "Informs how much to trust self-governance claims from labs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b104dce487eb2665c4eb72ede775b0c03e5a325c",
+        "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+        "canonicalUrl": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies",
+        "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+        "source": "WIRED: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Terrence O’Brien",
-        "publishedAt": "2026-10-11T18:33:56Z",
-        "fetchedAt": "2026-10-12T10:08:26Z",
+        "author": "Tess Owen",
+        "publishedAt": "2026-10-13T10:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Policy & Safety",
+        "tags": [
+          "politics",
+          "super-pac",
+          "lobbying"
+        ],
+        "summary": "WIRED investigation into a large pro-AI super PAC network spending on shell companies in Nevada.",
+        "whyItMatters": "Political money shapes the AI rules you may have to comply with.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "9726aa3a5f66ec7f41ada6ab24e69cf56461d144",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Russell Brandom",
+        "publishedAt": "2026-10-12T17:56:56Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 8,
+          "trend": 5,
+          "novelty": 7,
+          "credibility": 6
+        },
+        "total": 6.7,
+        "category": "Business",
+        "tags": [
+          "meta",
+          "frontier-models",
+          "muse-wonder"
+        ],
+        "summary": "TechCrunch reports Meta has released Muse Wonder, described as the company's first frontier model.",
+        "whyItMatters": "A new frontier-model vendor changes your options and negotiating position.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "83b9a2e31e6e916855df4f9bf8d02217facfef83",
+        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Tim Fernholz",
+        "publishedAt": "2026-10-12T17:19:14Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "weather-data",
+          "defense",
+          "contracts"
+        ],
+        "summary": "TechCrunch reports WindBorne won a sizable US Air Force contract for data from its balloons.",
+        "whyItMatters": "Shows demand for AI weather models fed by proprietary data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1b3594718c4851421abf3a21ac1218e70e9b21e7",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Kirsten Korosec",
+        "publishedAt": "2026-10-12T15:27:59Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Business",
+        "tags": [
+          "construction",
+          "generative-design",
+          "startups"
+        ],
+        "summary": "TechCrunch covers a startup claiming it can generate permit-ready blueprints within minutes.",
+        "whyItMatters": "A vertical-AI example; the claim is the company's own.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "36347ea06c8c5adbfa79b7f20387fad348af705e",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ivan Mehta",
+        "publishedAt": "2026-10-12T12:47:59Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "Business",
+        "tags": [
+          "funding",
+          "voice",
+          "consumer-ai"
+        ],
+        "summary": "TechCrunch reports a former Plaud executive raised $26M for an app that listens in the background.",
+        "whyItMatters": "Another always-listening AI product; privacy questions follow.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bdf59882f2c6edb2d447c44873efa00022b75bae",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Anthony Ha",
+        "publishedAt": "2026-10-12T15:45:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "Business",
+        "tags": [
+          "pr",
+          "marketing",
+          "startups"
+        ],
+        "summary": "TechCrunch covers Honeyjar, which sells AI tools for PR and communications teams.",
+        "whyItMatters": "Niche tooling; relevant mainly to comms teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "a0ae48bb6d1bc57546b0d602424e52ca6e18aaca",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Grace Huckins",
+        "publishedAt": "2026-10-13T10:00:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Opinion",
+        "tags": [
+          "open-weights",
+          "risk"
+        ],
+        "summary": "MIT Technology Review looks at the benefits and risks of open models.",
+        "whyItMatters": "Frames the open-weights debate that shapes policy and vendor choices.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5d11600ca8895d67e73c832c3971a3e5597d70e5",
+        "url": "https://garymarcus.substack.com/p/could-this-be-the-frontier-labs-wework",
+        "canonicalUrl": "https://garymarcus.substack.com/p/could-this-be-the-frontier-labs-wework",
+        "title": "Could this be the Frontier Labs’ WeWork moment?",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-13T00:28:16Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -968,103 +1593,28 @@
           "credibility": 5
         },
         "total": 2.6,
-        "category": "Policy & Safety",
+        "category": "Opinion",
         "tags": [
-          "policy",
-          "naming",
-          "industry"
+          "ai-industry",
+          "valuations",
+          "opinion"
         ],
-        "summary": "The Verge on tech companies going along with an administration push to rename AI.",
-        "whyItMatters": "Signals how terminology is shifting in US policy talk.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Business": [
-      {
-        "id": "df97c62cc773ca8681dae7e4956554b91d53bcca",
-        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-11T16:52:33Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.6,
-        "category": "Business",
-        "tags": [
-          "data-centers",
-          "nda",
-          "community"
-        ],
-        "summary": "TechCrunch asks whether ending NDAs could win over opponents of data center projects.",
-        "whyItMatters": "Local opposition affects where compute capacity gets built.",
+        "summary": "Gary Marcus asks whether frontier labs are heading for a WeWork-style reckoning.",
+        "whyItMatters": "One skeptical view on lab finances; treat as opinion.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "778ab122b6ef9260b6e465550fb532d73d5724a8",
-        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "source": "TechCrunch: AI",
+        "id": "a31dac6d0b53e097a95e96d4e556c2c7237540fb",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/12/python-3-15",
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "source": "Simon Willison",
         "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Ivan Mehta",
-        "publishedAt": "2026-10-11T14:00:00Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 5
-        },
-        "total": 2.3,
-        "category": "Business",
-        "tags": [
-          "voice-ai",
-          "industry"
-        ],
-        "summary": "TechCrunch interviews executives who think voice AI has not yet had its breakout moment.",
-        "whyItMatters": "Gives a sense of where voice product bets are heading.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "7d4e278f0b74844571bb3cf87efa87ac5316d15f",
-        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-11T21:14:40Z",
-        "fetchedAt": "2026-10-12T10:08:25Z",
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-12T18:15:38Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1077,63 +1627,97 @@
           "importance": 2,
           "trend": 1,
           "novelty": 2,
-          "credibility": 5
+          "credibility": 7
         },
-        "total": 2.2,
-        "category": "Business",
+        "total": 2.5,
+        "category": "Opinion",
         "tags": [
-          "apple",
-          "smart-home",
-          "hardware"
+          "python",
+          "tooling"
         ],
-        "summary": "TechCrunch piece asking whether Apple's rumored HomeView device can succeed as its first smart home product.",
-        "whyItMatters": "Mostly product speculation; watch for AI assistant features.",
+        "summary": "Simon Willison notes on moving to Python 3.15 and dropping older Python versions in his projects.",
+        "whyItMatters": "Minor, but relevant if your AI tooling pins Python versions.",
         "featuredSlot": null,
         "previouslyFeatured": false
-      }
-    ],
-    "Opinion": [
+      },
       {
-        "id": "44c65736f8dd5ac9d4bf0dfeb77dd474b3bddea7",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "canonicalUrl": "https://twitter.com/karpathy/status/2109361546505966046",
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-11T20:20:52Z",
-        "fetchedAt": "2026-10-12T10:08:24Z",
+        "id": "c06cb8e47c4b256ff90b6618caf6c5c3eb2065a3",
+        "url": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
+        "canonicalUrl": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics",
+        "title": "We Specified an AI Agent in 2016. We Called It Analytics.",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Mario Noioso",
+        "publishedAt": "2026-10-12T12:30:00Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
         "signals": {
-          "hnPoints": 465,
-          "hnComments": 676,
+          "hnPoints": null,
+          "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 4,
-          "trend": 2,
+          "importance": 2,
+          "trend": 0,
           "novelty": 3,
-          "credibility": 4
+          "credibility": 5
         },
-        "total": 3.3,
+        "total": 2.2,
         "category": "Opinion",
         "tags": [
-          "llm-capability",
-          "discourse"
+          "agents",
+          "analytics",
+          "opinion"
         ],
-        "summary": "Hacker News discussion of a post arguing people increasingly disagree about what LLMs can do.",
-        "whyItMatters": "Explains why teams judge model capability so differently.",
+        "summary": "Towards Data Science essay arguing that today's AI agents resemble what analytics specified years earlier.",
+        "whyItMatters": "A framing piece rather than new technique.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+        "url": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+        "canonicalUrl": "https://morebetterthinking.substack.com/p/are-you-blocked-by-the-400-word-wall",
+        "title": "Are You Blocked by the 400-Word Wall?",
+        "source": "More Better Thinking",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "William B. Irvine",
+        "publishedAt": "2026-10-12T09:47:10Z",
+        "fetchedAt": "2026-10-13T10:08:58Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.7,
+        "category": "Opinion",
+        "tags": [
+          "writing",
+          "productivity"
+        ],
+        "summary": "Newsletter post on getting past a 400-word writing barrier.",
+        "whyItMatters": "Not specific to AI engineering.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ]
   },
   "stats": {
-    "collected": 558,
-    "afterDedupe": 456,
-    "ranked": 36
+    "collected": 46,
+    "afterDedupe": 46,
+    "ranked": 44
   }
 }

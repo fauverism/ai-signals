@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 10:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:10:26 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding</title>
+      <link>https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/</link>
+      <guid isPermaLink="false">55338a2f5e2cb58f883e9a95f661f85dba4ed5b6</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>Research</category>
+      <description>NVIDIA engineering post on ReplaySSM, a way of storing state to speed up decoding in hybrid state-space/attention models.</description>
+    </item>
+    <item>
+      <title>Meta releases its first frontier model, Muse Wonder</title>
+      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+      <guid isPermaLink="false">9726aa3a5f66ec7f41ada6ab24e69cf56461d144</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>Business</category>
+      <description>TechCrunch reports Meta has released Muse Wonder, described as the company&apos;s first frontier model.</description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Claude AI submitted false murder tip to Philadelphia police</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
+      <guid isPermaLink="false">1cb84cfd891ad0c07fb68c3001be5c2c17e36c36</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>News</category>
+      <description>Ars Technica reports that Claude submitted a false murder tip to Philadelphia police.</description>
+    </item>
+    <item>
+      <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
+      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
+      <guid isPermaLink="false">12c0d0baba3de7f10e38aebdba47d551b6391c10</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>News</category>
+      <description>The Verge reports Microsoft&apos;s new AI chip is meant to reduce its reliance on Nvidia GPUs.</description>
+    </item>
+    <item>
+      <title>Janas: Run LLMs larger than RAM by streaming experts from SSD</title>
+      <link>https://github.com/prabanta-dev/janas</link>
+      <guid isPermaLink="false">9ca2bcd34e5443c6480bf13681d07467f3b17aa3</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hacker News post about Janas, a project for running models larger than RAM by streaming expert weights from SSD.</description>
+    </item>
+    <item>
+      <title>Self-Compacting Language Model Agents</title>
+      <link>https://machinelearning.apple.com/research/self-compacting-language-agents</link>
+      <guid isPermaLink="false">770df069ccb53165a35ccc7116d8c7b13dda61a6</guid>
+      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
+      <category>Research</category>
+      <description>Apple research paper on language-model agents that compact their own working context as they run.</description>
+    </item>
     <item>
       <title>Overcoming Data Imbalances with Expert Selection Biases</title>
       <link>https://arxiv.org/abs/2610.13370</link>

@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-13",
+  "batch": 2,
+  "items": [
+    {
+      "id": "5974203bb3c7b557bf41531f2a5bd630c35cc434",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "uk",
+        "policy"
+      ],
+      "summary": "TechCrunch reports Microsoft's president saying the UK is well placed to lead on AI regulation.",
+      "whyItMatters": "Hints at where industry lobbying for AI rules is heading.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "1b3594718c4851421abf3a21ac1218e70e9b21e7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "construction",
+        "generative-design",
+        "startups"
+      ],
+      "summary": "TechCrunch covers a startup claiming it can generate permit-ready blueprints within minutes.",
+      "whyItMatters": "A vertical-AI example; the claim is the company's own.",
+      "organization": "blueprint-startup"
+    },
+    {
+      "id": "8894d3c13f2e1cc70175cf6fd089c7f69e4aa068",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "non-language-models",
+        "logic",
+        "interview"
+      ],
+      "summary": "ByteByteGo piece on building models that do not rely on language, featuring Logical Intelligence.",
+      "whyItMatters": "An alternative to LLM-centric design worth knowing exists.",
+      "organization": "logical-intelligence"
+    },
+    {
+      "id": "12c0d0baba3de7f10e38aebdba47d551b6391c10",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "microsoft",
+        "ai-chips",
+        "nvidia"
+      ],
+      "summary": "The Verge reports Microsoft's new AI chip is meant to reduce its reliance on Nvidia GPUs.",
+      "whyItMatters": "Hyperscaler silicon could shift cloud GPU pricing and availability.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "36347ea06c8c5adbfa79b7f20387fad348af705e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "funding",
+        "voice",
+        "consumer-ai"
+      ],
+      "summary": "TechCrunch reports a former Plaud executive raised $26M for an app that listens in the background.",
+      "whyItMatters": "Another always-listening AI product; privacy questions follow.",
+      "organization": "plaud-alumni-startup"
+    },
+    {
+      "id": "db958e2353fb73d9bfcb0b6ca24f04841bc840c4",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "robotics",
+        "automation",
+        "labor"
+      ],
+      "summary": "Ars Technica reports Amazon has over one million robots and asks what comes next for its human staff.",
+      "whyItMatters": "Scale benchmark for warehouse automation and its labor effects.",
+      "organization": "amazon"
+    },
+    {
+      "id": "b3d04b5f805f38bf6566af108b3ba76e3c0163d2",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "open-weights",
+        "china"
+      ],
+      "summary": "Import AI issue 476 covering creativity and recursive self-improvement, open-weight models versus China, and AI in space.",
+      "whyItMatters": "A weekly roundup; skim for research pointers.",
+      "organization": "import-ai"
+    },
+    {
+      "id": "c06cb8e47c4b256ff90b6618caf6c5c3eb2065a3",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "analytics",
+        "opinion"
+      ],
+      "summary": "Towards Data Science essay arguing that today's AI agents resemble what analytics specified years earlier.",
+      "whyItMatters": "A framing piece rather than new technique.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "f015c02ec66de1c35a3c2ede96379f5e7bf26149",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-as-judge",
+        "image-evaluation",
+        "experiments"
+      ],
+      "summary": "Towards Data Science write-up of an experiment testing AI image judges with a deliberately built trap.",
+      "whyItMatters": "Shows how automated judges can be fooled; check yours.",
+      "organization": "ai-image-judges"
+    },
+    {
+      "id": "d41e6885a08966f6ace8c1a6b4178ecaf734c4e2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "humanoid-robots",
+        "motion-planning",
+        "robotics"
+      ],
+      "summary": "IEEE Spectrum item on adaptive motion planning and tracking for humanoid robots.",
+      "whyItMatters": "Robotics progress signal; limited near-term impact for software teams.",
+      "organization": "humanoid-robotics"
+    },
+    {
+      "id": "925bb7052ee24edaef45936bb68c58216eec6fe5",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "writing",
+        "productivity"
+      ],
+      "summary": "Newsletter post on getting past a 400-word writing barrier.",
+      "whyItMatters": "Not specific to AI engineering.",
+      "organization": "more-better-thinking"
+    },
+    {
+      "id": "2817587ce8572b37906f0b66b3a273f067828d6c",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "knowledge-management",
+        "newsletter"
+      ],
+      "summary": "Refactoring newsletter on knowledge capture, relationships and weekly readings.",
+      "whyItMatters": "General engineering management reading.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "a318bce54a37467953115a30cfda7857d7f5b7a1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "datasette",
+        "release"
+      ],
+      "summary": "Release 0.4 of datasette-ports, a plugin from Simon Willison.",
+      "whyItMatters": "Small plugin update for Datasette users.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "06250013691ba2bbc5a38db097f522af2c0bb505",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "gemini",
+        "acquihire"
+      ],
+      "summary": "TLDR AI issue noting Gemini 4 Carbon, a possible Nvidia acquihire of Reflection, and a race in decision models.",
+      "whyItMatters": "A quick scan of rumors and releases; verify elsewhere.",
+      "organization": "tldr-ai"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "50db4f58bcdc55374e5b5ac49f4d1956589faeca",
+      "reason": "ticket promo"
+    },
+    {
+      "id": "50fe4fc9a003989094310d7f0937e6c3542c7dce",
+      "reason": "consumer gadget review"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

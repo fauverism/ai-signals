@@ -1,0 +1,553 @@
+{
+  "date": "2026-10-13",
+  "batch": 1,
+  "items": [
+    {
+      "id": "024d9eece6c046fd69b85b244ce0095fd0c36ff0",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "amazon-bedrock",
+        "openai-models",
+        "inference"
+      ],
+      "summary": "AWS post explaining how OpenAI GPT models can be reached through Bedrock with global cross-Region inference for five Asia-Pacific locations.",
+      "whyItMatters": "If you run on Bedrock in these regions, you can route GPT calls across Regions.",
+      "organization": "aws"
+    },
+    {
+      "id": "55338a2f5e2cb58f883e9a95f661f85dba4ed5b6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "state-space-models",
+        "hybrid-models",
+        "decoding"
+      ],
+      "summary": "NVIDIA engineering post on ReplaySSM, a way of storing state to speed up decoding in hybrid state-space/attention models.",
+      "whyItMatters": "Relevant if you serve hybrid SSM models and care about decode latency.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "8a70427187b8981c8844d823441e1695d77c4776",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "education",
+        "tutoring",
+        "simulation"
+      ],
+      "summary": "Microsoft Research work on simulating how students learn so AI tutoring systems can be built and tested against those simulations.",
+      "whyItMatters": "Gives tutoring-product teams a way to test without live students.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "1241afcd37b68e81c197917effc43ad44cc8a35a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llama-cpp",
+        "sagemaker",
+        "deployment"
+      ],
+      "summary": "AWS walkthrough for hosting decision models on SageMaker AI using llama.cpp.",
+      "whyItMatters": "A concrete recipe if you want llama.cpp serving on managed AWS infrastructure.",
+      "organization": "aws"
+    },
+    {
+      "id": "9b76487086db0e68a9e45f360f8f186f11092d43",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ray",
+        "multi-node-inference",
+        "containers"
+      ],
+      "summary": "AWS guide to running multi-node LLM inference using its Ray deep learning containers.",
+      "whyItMatters": "Useful when a model is too big for one node and you are on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "438f8f82161f19ed747b0ccca6f2f4064534b514",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "distributed-computing",
+        "apple-silicon",
+        "gpu-cloud"
+      ],
+      "summary": "Apple research paper describing Minions, a virtual GPU cloud assembled from idle Apple Silicon devices.",
+      "whyItMatters": "An early look at pooling spare consumer hardware for compute.",
+      "organization": "apple"
+    },
+    {
+      "id": "770df069ccb53165a35ccc7116d8c7b13dda61a6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "context-management",
+        "long-context"
+      ],
+      "summary": "Apple research paper on language-model agents that compact their own working context as they run.",
+      "whyItMatters": "Context bloat limits long agent runs; this is one approach to try.",
+      "organization": "apple"
+    },
+    {
+      "id": "78d6d66a2b4f943a71ce2d6a122aa10c9d5caa83",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "machine-translation",
+        "evaluation",
+        "annotation"
+      ],
+      "summary": "Apple paper examining whether LLMs can annotate machine-translation quality, with the finding that both humans and models struggle.",
+      "whyItMatters": "Cautions against treating LLM judges as ground truth for translation.",
+      "organization": "apple"
+    },
+    {
+      "id": "a2c304623a61d6cf82e35f0b69ad27b773367dfd",
+      "scores": {
+        "importance": 7,
+        "trend": 5,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "frontier-models",
+        "muse-wonder"
+      ],
+      "summary": "Newsletter roundup covering Meta Superintelligence Labs releasing Muse Wonder and Wonder Full models, positioned by the author as near the top tier.",
+      "whyItMatters": "Adds a new frontier-class model family to evaluate against your current vendor.",
+      "organization": "meta"
+    },
+    {
+      "id": "9726aa3a5f66ec7f41ada6ab24e69cf56461d144",
+      "scores": {
+        "importance": 8,
+        "trend": 5,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "meta",
+        "frontier-models",
+        "muse-wonder"
+      ],
+      "summary": "TechCrunch reports Meta has released Muse Wonder, described as the company's first frontier model.",
+      "whyItMatters": "A new frontier-model vendor changes your options and negotiating position.",
+      "organization": "meta"
+    },
+    {
+      "id": "b6332d929c4772b9cff89a8e4950334ea149a686",
+      "scores": {
+        "importance": 7,
+        "trend": 5,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "frontier-models",
+        "muse-wonder"
+      ],
+      "summary": "WIRED covers Muse Wonder as Meta's return to the leading edge of AI model development.",
+      "whyItMatters": "Context on how the new Meta release shifts the competitive field.",
+      "organization": "meta"
+    },
+    {
+      "id": "b4d86ddbd9eb13ac119684d51b4e422c2dd6bf45",
+      "scores": {
+        "importance": 7,
+        "trend": 5,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "frontier-models",
+        "muse-wonder"
+      ],
+      "summary": "The Verge reports on Meta's new Muse Wonder and Wonder Full AI models.",
+      "whyItMatters": "Shows what Meta is shipping; check the model lineup before choosing.",
+      "organization": "meta"
+    },
+    {
+      "id": "1cb84cfd891ad0c07fb68c3001be5c2c17e36c36",
+      "scores": {
+        "importance": 5,
+        "trend": 4,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "hallucination",
+        "safety-incident"
+      ],
+      "summary": "Ars Technica reports that Claude submitted a false murder tip to Philadelphia police.",
+      "whyItMatters": "Real-world agent actions can cause harm; review what tools your agents hold.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "13b0230e9df62ae9998f3f7ba429ef0d0250e3a4",
+      "scores": {
+        "importance": 4,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "agents",
+        "workflows"
+      ],
+      "summary": "Latent Space piece on how Anthropic's dynamic workflows coordinate multiple Claude agents.",
+      "whyItMatters": "Shows an orchestration pattern you can compare to your own agent setups.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "fb1ef7d0ad58870a09beeca48b9d2d7507a74451",
+      "scores": {
+        "importance": 5,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "safety-incident",
+        "police"
+      ],
+      "summary": "ZDNET covers the false homicide tip Claude sent to police and frames it as part of a wider pattern of AI mistakes.",
+      "whyItMatters": "A reminder to gate agent actions that reach outside systems.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "9ca2bcd34e5443c6480bf13681d07467f3b17aa3",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 7,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "local-llm",
+        "moe",
+        "ssd-streaming"
+      ],
+      "summary": "Hacker News post about Janas, a project for running models larger than RAM by streaming expert weights from SSD.",
+      "whyItMatters": "Could let you try big mixture-of-experts models on modest hardware.",
+      "organization": "janas"
+    },
+    {
+      "id": "a0ae48bb6d1bc57546b0d602424e52ca6e18aaca",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "open-weights",
+        "risk"
+      ],
+      "summary": "MIT Technology Review looks at the benefits and risks of open models.",
+      "whyItMatters": "Frames the open-weights debate that shapes policy and vendor choices.",
+      "organization": "open-models-debate"
+    },
+    {
+      "id": "b104dce487eb2665c4eb72ede775b0c03e5a325c",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "politics",
+        "super-pac",
+        "lobbying"
+      ],
+      "summary": "WIRED investigation into a large pro-AI super PAC network spending on shell companies in Nevada.",
+      "whyItMatters": "Political money shapes the AI rules you may have to comply with.",
+      "organization": "pro-ai-super-pac"
+    },
+    {
+      "id": "45ad9337ee37b95bc77482e31a2ff927d72c8f27",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "training-data",
+        "data-licensing"
+      ],
+      "summary": "MIT Technology Review reports that AI labs are purchasing data from defunct startups for model training.",
+      "whyItMatters": "Raises data-provenance questions for anyone relying on model outputs.",
+      "organization": "ai-data-market"
+    },
+    {
+      "id": "5d11600ca8895d67e73c832c3971a3e5597d70e5",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-industry",
+        "valuations",
+        "opinion"
+      ],
+      "summary": "Gary Marcus asks whether frontier labs are heading for a WeWork-style reckoning.",
+      "whyItMatters": "One skeptical view on lab finances; treat as opinion.",
+      "organization": "frontier-labs"
+    },
+    {
+      "id": "c1f7ee8c97718d088938e98df24669ca32577222",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "safety-research",
+        "governance"
+      ],
+      "summary": "Zvi Mowshowitz commentary on reports that OpenAI fired three safety researchers.",
+      "whyItMatters": "Signals how seriously a major lab treats internal safety staff.",
+      "organization": "openai"
+    },
+    {
+      "id": "1950a6eafc69d45a2d93f6b118be0f6e117d53d2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "game-development",
+        "generative-ai",
+        "industry"
+      ],
+      "summary": "Ars Technica reports that Epic Games is reportedly moving toward an AI-first approach to game development.",
+      "whyItMatters": "Shows how generative AI is reshaping game studio workflows.",
+      "organization": "epic-games"
+    },
+    {
+      "id": "a31dac6d0b53e097a95e96d4e556c2c7237540fb",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "python",
+        "tooling"
+      ],
+      "summary": "Simon Willison notes on moving to Python 3.15 and dropping older Python versions in his projects.",
+      "whyItMatters": "Minor, but relevant if your AI tooling pins Python versions.",
+      "organization": "python"
+    },
+    {
+      "id": "0ed98d3b2521f33b45e0c05754daf0fff0d88486",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "anthropic",
+        "agents",
+        "profile"
+      ],
+      "summary": "IEEE Spectrum profile of an Anthropic engineer working to keep the company's AI agent trustworthy.",
+      "whyItMatters": "Gives a view into how agent reliability work is organized.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "c23d03e789ab7917c877cd82897395dba98cd75e",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "grok",
+        "social-media"
+      ],
+      "summary": "WIRED story about users pranking Elon Musk after he posted about a Grok-related purchase.",
+      "whyItMatters": "Light news with little practical effect for builders.",
+      "organization": "xai"
+    },
+    {
+      "id": "8c286df7888a82e9479fb01ce1a3ebdf1e8f1264",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "data-centers",
+        "geopolitics",
+        "infrastructure"
+      ],
+      "summary": "Ars Technica examines how data centers have become targets in the Russia-Ukraine conflict.",
+      "whyItMatters": "Physical risk to infrastructure matters for resilience planning.",
+      "organization": "russia-ukraine-data-centers"
+    },
+    {
+      "id": "83b9a2e31e6e916855df4f9bf8d02217facfef83",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "weather-data",
+        "defense",
+        "contracts"
+      ],
+      "summary": "TechCrunch reports WindBorne won a sizable US Air Force contract for data from its balloons.",
+      "whyItMatters": "Shows demand for AI weather models fed by proprietary data.",
+      "organization": "windborne"
+    },
+    {
+      "id": "67fade8e9451424d799bea0c945e6ff1cfdb2d50",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "safety",
+        "governance"
+      ],
+      "summary": "Alignment Forum post arguing OpenAI cannot police itself when it dismisses people who raise concerns.",
+      "whyItMatters": "Informs how much to trust self-governance claims from labs.",
+      "organization": "openai"
+    },
+    {
+      "id": "efadf9441346330ca7e03c6a292b992bfa873c12",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cli-tools",
+        "release"
+      ],
+      "summary": "Simon Willison released an early alpha, version 0.1a0, of a tool called web-edit.",
+      "whyItMatters": "Early alpha; watch it if you like his small developer tools.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "bdf59882f2c6edb2d447c44873efa00022b75bae",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "pr",
+        "marketing",
+        "startups"
+      ],
+      "summary": "TechCrunch covers Honeyjar, which sells AI tools for PR and communications teams.",
+      "whyItMatters": "Niche tooling; relevant mainly to comms teams.",
+      "organization": "honeyjar"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-b3cd055108",
+      "label": "Meta Muse Wonder model launch"
+    },
+    {
+      "id": "c-d29f2ec203",
+      "label": "Claude false police tip"
+    }
+  ],
+  "fetches": []
+}

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-13",
+    "leadTitle": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+    "count": 39
+  },
+  {
     "date": "2026-10-12",
     "leadTitle": "Overcoming Data Imbalances with Expert Selection Biases",
     "count": 24
