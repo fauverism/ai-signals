@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:09:44 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
+      <guid isPermaLink="false">66cb1e68848fee2d2e7273d89bc171d7c7a24862</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Google announces Gemini 4 Argon, a new Gemini model for hard problems, rolling out in the Gemini app and developer tools.</description>
+    </item>
+    <item>
+      <title>[AINews] Meta Muse Wonder &amp; Wonder Full: MSL’s Claude 5.5-tier Frontier Model</title>
+      <link>https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder</link>
+      <guid isPermaLink="false">a2c304623a61d6cf82e35f0b69ad27b773367dfd</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>News</category>
+      <description>Newsletter reports Meta&apos;s superintelligence lab models Muse Wonder as a frontier-tier release.</description>
+    </item>
+    <item>
+      <title>Google lets you make personal Android apps for free now – with just prompts</title>
+      <link>https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/</link>
+      <guid isPermaLink="false">37a2f0af6df73c3d02055cbeaeccaa191810ff46</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>News</category>
+      <description>ZDNET reports Google now lets people build personal Android apps free using prompts.</description>
+    </item>
+    <item>
+      <title>NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform</title>
+      <link>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/</link>
+      <guid isPermaLink="false">01fed557964ce22456664b0804defa6a1d7bfb16</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>NVIDIA is open-sourcing Run:ai as part of its DSX AI Factory platform.</description>
+    </item>
+    <item>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid isPermaLink="false">550c4c02e9ff21a9dd88243eaf13df56c12e35f4</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face blog on running private agents on-device with LFM2.5-24B-A2B.</description>
+    </item>
+    <item>
+      <title>Linus Torvalds is using AI to develop Linux kernel code now</title>
+      <link>https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/</link>
+      <guid isPermaLink="false">759bb825983a36603b1a00ec21c5c4f3239b961e</guid>
+      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
+      <category>News</category>
+      <description>ZDNET reports Linus Torvalds is now using AI to develop Linux kernel code.</description>
+    </item>
     <item>
       <title>ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding</title>
       <link>https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/</link>

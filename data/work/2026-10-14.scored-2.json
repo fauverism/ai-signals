@@ -1,0 +1,525 @@
+{
+ "date": "2026-10-14",
+ "batch": 2,
+ "items": [
+  {
+   "id": "5cb1618c1db568b5987239fb7604905d493f5d44",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "scam-detection",
+    "singapore"
+   ],
+   "summary": "Google DeepMind and the Singapore government are building a fine-tuned model to detect scams.",
+   "whyItMatters": "Government-backed fine-tuning for fraud is a template for public-sector use.",
+   "organization": "google"
+  },
+  {
+   "id": "b9dcdda324f20786ee68f536e222dd62be12fce2",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "ethics",
+    "deepmind"
+   ],
+   "summary": "IEEE Spectrum profiles the philosopher Google DeepMind recently hired for AI ethics.",
+   "whyItMatters": "Signals how labs staff ethics work; little to act on.",
+   "organization": "google"
+  },
+  {
+   "id": "0047fefc5ef4ee466439342d97711cd97c95c67a",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "world-models",
+    "datasets"
+   ],
+   "summary": "Preprint releasing a dataset for esports world models.",
+   "whyItMatters": "Niche dataset for game world-model work.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "0063d76bc9f67bdeb376a82ee43c33ae473e5033",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "remote-sensing",
+    "multimodal"
+   ],
+   "summary": "Preprint on self-evolving diagnosis-based reasoning for remote-sensing multimodal models.",
+   "whyItMatters": "Narrow remote-sensing research.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "01be3c0fe731000ba9e765985f79beeddc71864e",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "cryo-em",
+    "synthetic-data"
+   ],
+   "summary": "Preprint on a synthetic-to-real system for tracing filaments in cryo-EM images.",
+   "whyItMatters": "Niche scientific imaging.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "02e85c22ab6b00c72ff8307dbb363b89ddb37930",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "world-models",
+    "continual-learning"
+   ],
+   "summary": "Preprint on data-free continual learning for world action models via generative replay.",
+   "whyItMatters": "Narrow robotics-learning research.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "02e9d948d2ac9d05b650d5007919aa30c4e362d5",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "image-generation",
+    "masked-models"
+   ],
+   "summary": "Preprint on a failure mode in masked image generation exploration.",
+   "whyItMatters": "Narrow generative-image research.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "032138f1c372a2fb4dc699c378e11dd0bdec556a",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "simulation",
+    "embodied-ai"
+   ],
+   "summary": "Preprint on an agent harness for physically plausible embodied world simulation.",
+   "whyItMatters": "Niche embodied-AI tooling.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "04a87e3bf462afb568f750da67626beffaca78b9",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "robotics",
+    "4d-reconstruction"
+   ],
+   "summary": "Preprint on object-centric 4D hand reconstruction from human demos for robot learning.",
+   "whyItMatters": "Relevant to learning from human video in robotics.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "06292ac6828a0f02bfa3a5f5debcedb4ad11ac39",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "image-factuality",
+    "agents"
+   ],
+   "summary": "Preprint on assessing factuality of images with agents beyond AI-or-not detection.",
+   "whyItMatters": "Narrow media-verification research.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "2f3282e483141f68421d2a0f33b7c26326fcc689",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "eu-ai-act",
+    "agents"
+   ],
+   "summary": "OpenAI post on the EU's direction on agentic AI and how it sees regulation developing.",
+   "whyItMatters": "Vendor policy view; useful for EU compliance planning.",
+   "organization": "openai"
+  },
+  {
+   "id": "68e3de130cf5b6d1f9998645e237ff1661cfbf2d",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "Tutorials",
+   "tags": [
+    "gpu",
+    "spark",
+    "agents"
+   ],
+   "summary": "NVIDIA walkthrough on using AI agents to rewrite Apache Spark UDFs for GPU acceleration.",
+   "whyItMatters": "Practical path to port Spark UDFs to GPUs.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "cdd5fd8d13268c375fc692564c0d701105fc43c7",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "agents",
+    "payments",
+    "bedrock"
+   ],
+   "summary": "AWS post on agents that can transact via Anchor Browser and AgentCore payments.",
+   "whyItMatters": "Shows a concrete pattern for agent payments.",
+   "organization": "aws"
+  },
+  {
+   "id": "4826ab478a6a20b831e254732a82e092c436c474",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "bedrock",
+    "pricing"
+   ],
+   "summary": "AWS post on managing private pricing offers for Bedrock with managed entitlements.",
+   "whyItMatters": "Relevant only for Bedrock marketplace admins.",
+   "organization": "aws"
+  },
+  {
+   "id": "550c4c02e9ff21a9dd88243eaf13df56c12e35f4",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "on-device",
+    "open-weights",
+    "agents"
+   ],
+   "summary": "Hugging Face blog on running private agents on-device with LFM2.5-24B-A2B.",
+   "whyItMatters": "Option for local agents without sending data to an API.",
+   "organization": "liquid-ai"
+  },
+  {
+   "id": "958759977490d99c0e8494fdb8fd97a5d4337670",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "bedrock",
+    "security",
+    "case-study"
+   ],
+   "summary": "AWS customer story on Orca Security using Bedrock for natural-language security queries.",
+   "whyItMatters": "Concrete example of natural-language querying in security tooling.",
+   "organization": "aws"
+  },
+  {
+   "id": "576253ed894737fcad7a58bdb805b73420f7d814",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "agentcore",
+    "case-study"
+   ],
+   "summary": "AWS customer story on ShipStation building an AI IT help desk on Bedrock AgentCore.",
+   "whyItMatters": "Reference architecture for an internal help desk agent.",
+   "organization": "aws"
+  },
+  {
+   "id": "c4d6082c07a1abccc40648eaa495cd80290eb7a6",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "grok",
+    "bedrock",
+    "agents"
+   ],
+   "summary": "AWS post on building long-horizon agents with Grok 4.7 on Amazon Bedrock.",
+   "whyItMatters": "Grok 4.7 is now callable through Bedrock.",
+   "organization": "xai"
+  },
+  {
+   "id": "ba8a6ffbbe0f764096136eb7feba746d2b6e1889",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "moe",
+    "kernels",
+    "sagemaker"
+   ],
+   "summary": "AWS post on mixture-of-experts kernel engineering on SageMaker AI.",
+   "whyItMatters": "Kernel-level tuning tips for MoE training and serving.",
+   "organization": "aws"
+  },
+  {
+   "id": "01fed557964ce22456664b0804defa6a1d7bfb16",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "open-source",
+    "gpu-scheduling",
+    "kubernetes"
+   ],
+   "summary": "NVIDIA is open-sourcing Run:ai as part of its DSX AI Factory platform.",
+   "whyItMatters": "Open GPU scheduling you can inspect and self-host.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "ffc748cb8d88a919ca05994bbdf2a485643ad1da",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Business",
+   "tags": [
+    "video",
+    "case-study"
+   ],
+   "summary": "OpenAI post on Higgsfield extending AI video generation from one minute to over ten.",
+   "whyItMatters": "Customer story; limited technical detail.",
+   "organization": "openai"
+  },
+  {
+   "id": "adadd90b83d78209dc0aa18570c57f368078b066",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Research",
+   "tags": [
+    "pretraining",
+    "multilingual"
+   ],
+   "summary": "Apple research on mixing bilingual data in pretraining versus hyperparameter search in data-limited settings.",
+   "whyItMatters": "Data mixing may beat tuning when data is scarce.",
+   "organization": "apple"
+  },
+  {
+   "id": "247e23899cea368f20035475c7a003ad78c76aff",
+   "scores": {
+    "importance": 3,
+    "trend": 3,
+    "novelty": 6,
+    "credibility": 4
+   },
+   "category": "News",
+   "tags": [
+    "bankruptcy",
+    "chatbots"
+   ],
+   "summary": "Hacker News post on Character.ai filing for bankruptcy.",
+   "whyItMatters": "Chatbot platform risk if you depend on one.",
+   "organization": "character-ai"
+  },
+  {
+   "id": "33c0b505464624f8938ce0654163772aba09b04c",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "bankruptcy",
+    "chatbots"
+   ],
+   "summary": "TechCrunch reports Character.AI filed for bankruptcy five years after launching.",
+   "whyItMatters": "Vendor viability matters for companion and chatbot products.",
+   "organization": "character-ai"
+  },
+  {
+   "id": "f17adc20acb8f8537f3a9928c3c51fb4d223d22d",
+   "scores": {
+    "importance": 4,
+    "trend": 4,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "android",
+    "vibe-coding",
+    "play-store"
+   ],
+   "summary": "Ars Technica reports Google will host personal, prompt-built apps in the Play Store.",
+   "whyItMatters": "Opens a distribution route for prompt-built apps.",
+   "organization": "google"
+  },
+  {
+   "id": "37a2f0af6df73c3d02055cbeaeccaa191810ff46",
+   "scores": {
+    "importance": 4,
+    "trend": 4,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "android",
+    "vibe-coding"
+   ],
+   "summary": "ZDNET reports Google now lets people build personal Android apps free using prompts.",
+   "whyItMatters": "Low-cost way to prototype private Android apps.",
+   "organization": "google"
+  },
+  {
+   "id": "5b75b71a645976a1608bdfa4a545d83d1f22394a",
+   "scores": {
+    "importance": 4,
+    "trend": 4,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "android",
+    "vibe-coding",
+    "play-store"
+   ],
+   "summary": "TechCrunch reports Google Play now supports private apps built with prompts.",
+   "whyItMatters": "Private distribution of prompt-built apps is now supported.",
+   "organization": "google"
+  },
+  {
+   "id": "61514929f532a5bfba4a41fb0d1d744d4312064e",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 4
+   },
+   "category": "News",
+   "tags": [
+    "bankruptcy",
+    "chatbots"
+   ],
+   "summary": "Hacker News post saying Character.ai has started a voluntary Chapter 11 case.",
+   "whyItMatters": "Chapter 11 suggests a restructuring, not a shutdown.",
+   "organization": "character-ai"
+  },
+  {
+   "id": "6bfaaf873eeb7d24996322d4b425b8d41581d1d5",
+   "scores": {
+    "importance": 2,
+    "trend": 3,
+    "novelty": 5,
+    "credibility": 4
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "local-ai",
+    "mac",
+    "privacy"
+   ],
+   "summary": "Show HN post for Pulse Local, a Mac budgeting app that runs its AI models locally.",
+   "whyItMatters": "Example of a local-first AI app.",
+   "organization": "pulse-local"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [
+  {
+   "id": "c-87b33f39e2",
+   "label": "DeepMind-Singapore scam detection"
+  },
+  {
+   "id": "c-e80fdff5af",
+   "label": "Character.ai bankruptcy fallout"
+  },
+  {
+   "id": "c-c547b817c4",
+   "label": "Prompt-built Android apps"
+  }
+ ],
+ "fetches": []
+}

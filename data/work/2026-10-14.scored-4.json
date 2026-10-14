@@ -1,0 +1,346 @@
+{
+ "date": "2026-10-14",
+ "batch": 4,
+ "items": [
+  {
+   "id": "eecef77bb55471cfeb9ca90f76b7dea3391886f9",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "smart-home"
+   ],
+   "summary": "ZDNET lists Apple's seven new smart home devices with prices and dates.",
+   "whyItMatters": "Consumer product roundup.",
+   "organization": "apple"
+  },
+  {
+   "id": "a8c5a79e07c538360195d6d2575ac0967377a372",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "embeddings",
+    "explainer"
+   ],
+   "summary": "ByteByteGo explainer linking 19th-century heat physics math to how LLMs read sentences.",
+   "whyItMatters": "Conceptual explainer on attention-style math.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "10bbeecc852c8bc9b2a37e778e42afd2b2a0a889",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "smart-home"
+   ],
+   "summary": "ZDNET lists upgrades of the HomePod Mini 2 over its predecessor.",
+   "whyItMatters": "Consumer product piece.",
+   "organization": "apple"
+  },
+  {
+   "id": "a2352b9071f96ed2dd83561e309e87add3183d77",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "climate",
+    "geoengineering"
+   ],
+   "summary": "Ars Technica reports on a war game about dimming the Sun.",
+   "whyItMatters": "Not AI-specific.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "fe3efb35f9264663461f9eb9e5eadcc591b395c9",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "smart-home"
+   ],
+   "summary": "ZDNET lists features of Apple's $299 HomeView smart hub.",
+   "whyItMatters": "Consumer product piece.",
+   "organization": "apple"
+  },
+  {
+   "id": "32c1df5976df6df3be07e897dbc49767086e1de7",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "consciousness",
+    "opinion"
+   ],
+   "summary": "Essay arguing that claims about AI consciousness are motivated and overconfident.",
+   "whyItMatters": "Philosophical opinion.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "aa29e37d9922444aea841554e72eaa2008cf7829",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "bayesian",
+    "sampling"
+   ],
+   "summary": "Towards Data Science comparison of NUTS, Emcee and nested sampling for the same posterior.",
+   "whyItMatters": "Useful for choosing a Bayesian sampler.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "858ce7e14d9130e534eadb21c6c881825f088b27",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "coding-agents",
+    "opinion"
+   ],
+   "summary": "Simon Willison quotes Geoffrey Huntley on AI coding.",
+   "whyItMatters": "Short quote post.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "502d5278f9ffa7284212e43b4564fe5d7f657dcf",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "langchain",
+    "explainer"
+   ],
+   "summary": "Technically explainer of what LangChain does.",
+   "whyItMatters": "Beginner overview.",
+   "organization": "langchain"
+  },
+  {
+   "id": "4695bfbc467f3d26d42a8a1d903de002b56827fa",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "pytorch",
+    "inductor",
+    "accelerators"
+   ],
+   "summary": "PyTorch blog on extending Inductor to support the IBM Spyre accelerator.",
+   "whyItMatters": "Shows how to add new accelerators to PyTorch compile.",
+   "organization": "pytorch"
+  },
+  {
+   "id": "7ccfc490d786096e43df68a9684a0694349c4482",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "coding-agents",
+    "efficiency"
+   ],
+   "summary": "Towards Data Science article on how much work coding agents waste while solving tasks.",
+   "whyItMatters": "Prompts you to measure agent cost, not just success.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "7bc0b27f9d960abf7966502ca40c602377810d45",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "open-source",
+    "sovereignty"
+   ],
+   "summary": "ZDNET reports Dutch tax authorities canceled a Microsoft 365 rollout and are moving to open source.",
+   "whyItMatters": "Data sovereignty pressure on cloud office suites.",
+   "organization": "dutch-tax-authority"
+  },
+  {
+   "id": "b2de8f8936bac132a8e731347f384077998a3251",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "nlp",
+    "data-science"
+   ],
+   "summary": "Towards Data Science guide to using NLP for product data science.",
+   "whyItMatters": "Basic how-to.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "cd4a609f745e0d9d0c896d421220223f7c55d60a",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "wikipedia",
+    "content"
+   ],
+   "summary": "WIRED reports Wikipedia editors now accept AI is staying.",
+   "whyItMatters": "Shows shifting community policy on AI.",
+   "organization": "wikipedia"
+  },
+  {
+   "id": "a0ae48bb6d1bc57546b0d602424e52ca6e18aaca",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "open-weights",
+    "risk"
+   ],
+   "summary": "MIT Technology Review weighs open models' benefits against risks.",
+   "whyItMatters": "Frames the open-weights policy debate.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "b104dce487eb2665c4eb72ede775b0c03e5a325c",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "politics",
+    "lobbying"
+   ],
+   "summary": "WIRED reports a pro-AI super PAC network sent millions through Nevada shell companies.",
+   "whyItMatters": "Policy-influence story.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "a2c304623a61d6cf82e35f0b69ad27b773367dfd",
+   "scores": {
+    "importance": 7,
+    "trend": 1,
+    "novelty": 7,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "frontier-model",
+    "meta"
+   ],
+   "summary": "Newsletter reports Meta's superintelligence lab models Muse Wonder as a frontier-tier release.",
+   "whyItMatters": "If confirmed, a new frontier competitor; await primary source.",
+   "organization": "meta"
+  },
+  {
+   "id": "45ad9337ee37b95bc77482e31a2ff927d72c8f27",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "training-data"
+   ],
+   "summary": "MIT Technology Review reports labs are buying data from defunct startups for training.",
+   "whyItMatters": "Raises data-provenance and consent questions.",
+   "organization": "unspecified"
+  },
+  {
+   "id": "230053f72cafea174d816e3c56ae765ad0b3a764",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "tools",
+    "release"
+   ],
+   "summary": "Alpha release 0.1a1 of web-edit.",
+   "whyItMatters": "Minor alpha release.",
+   "organization": "simon-willison"
+  },
+  {
+   "id": "5d11600ca8895d67e73c832c3971a3e5597d70e5",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "ai-economics",
+    "opinion"
+   ],
+   "summary": "Marcus on AI asks whether frontier labs are nearing a WeWork-style moment.",
+   "whyItMatters": "Opinion on lab finances.",
+   "organization": "unspecified"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}
