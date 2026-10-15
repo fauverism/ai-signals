@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-15",
+  "batch": 1,
+  "items": [
+    {
+      "id": "06713f350ff2ea7792dc5cb4010798b2030e20b3",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "code-models",
+        "multimodal"
+      ],
+      "summary": "Preprint on training open multimodal models for code, using synthesized rubrics to break tasks into parts. No code or data are indicated by the title.",
+      "whyItMatters": "Watch for a released model before changing any code-assistant evaluation.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "e5a11d0063b70f8c394f8c5013dafb2d057cc53b",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "memory",
+        "context"
+      ],
+      "summary": "Preprint proposing to fold long context into a model's parametric memory rather than keeping it in the prompt.",
+      "whyItMatters": "An early idea for cutting context costs; wait for replication.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "4318e1a09ca2c36f8ff71182d51065dac7c0d35c",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "pretraining"
+      ],
+      "summary": "Paper on continuing the pretraining of a vision transformer on prostate MRI scans so it fits downstream tasks better.",
+      "whyItMatters": "Narrow medical-imaging result; relevant only to that subfield.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "022dd2fdb420f7d4d35151e87538a9b38d499ef3",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "activations"
+      ],
+      "summary": "Study of whether language models can learn to steer their own internal activations from in-context feedback, with the title reporting limited success.",
+      "whyItMatters": "A reminder that self-monitoring of internals is weak today.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "2eedf5a6e4d0edf3628de76b8a8227e17ff1160e",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "drug-discovery",
+        "reinforcement-learning"
+      ],
+      "summary": "Paper applying agentic reinforcement learning to scaffold hopping, a step in designing new molecules.",
+      "whyItMatters": "Shows agent-style RL reaching chemistry workflows; still preprint-stage.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "b2462310afc760a2ed77f173712a2cef6722df86",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "theory",
+        "language-models"
+      ],
+      "summary": "Theoretical paper bounding what language models can articulate about their own behavior.",
+      "whyItMatters": "Mostly of interest to those studying model self-reports.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "8f3d1edda7952acc5274840a91b3685629574d87",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "distillation"
+      ],
+      "summary": "Method paper using self-distillation across time steps to improve policy optimization.",
+      "whyItMatters": "Incremental RL technique; check whether code is released.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "3906dc7185378adbdc664032d5e50bd4186cff2e",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reasoning",
+        "frozen-models"
+      ],
+      "summary": "Paper on inducing latent reasoning in a frozen backbone model without retraining it fully.",
+      "whyItMatters": "If it holds up, a cheaper way to add reasoning to existing models.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "47f5f3c0b6dc7aad9ae07928c81f4f85bb09507c",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reward-hacking",
+        "instruction-following"
+      ],
+      "summary": "Paper diagnosing reward hacking in training on verifiable instruction-following tasks and proposing a correction.",
+      "whyItMatters": "Relevant if you train with verifiable rewards; check your own reward checks.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "5e635d5b0c9f5a8e8a67eed20ae64beb66e2d703",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "evaluation"
+      ],
+      "summary": "Study finding that vision-language models weigh conflicting evidence in a way resembling biased Bayesian observers.",
+      "whyItMatters": "Helps explain odd multimodal failure modes when inputs disagree.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0750871f32b4be2e07a4c58b8f63dc1a2f7cc4f5",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "tabular-data",
+        "decision-models"
+      ],
+      "summary": "Preprint on typed decision models for tabular data.",
+      "whyItMatters": "Niche; skim only if you model tabular decisions.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "083281616cd86251d33e75a6e98ebc736b9a0151",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "test-time-adaptation",
+        "multimodal"
+      ],
+      "summary": "Paper on the limits of representation-based test-time adaptation for multimodal language models.",
+      "whyItMatters": "Negative results help avoid wasted adaptation experiments.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0d7d60ed19e143aa01d383967bbd0e7cc6c180c5",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "tracking"
+      ],
+      "summary": "Empirical study of how detector design, model size and crowd density affect multi-pedestrian tracking.",
+      "whyItMatters": "Useful baseline for tracking system choices.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "103d4e3860c1b472057fb836ec7ee0b100bed9cc",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "long-context",
+        "test-time-training"
+      ],
+      "summary": "Preprint on compacting latent context using test-time training.",
+      "whyItMatters": "A candidate approach for long-context memory costs; early.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "16a8646641a69087263a605e32f3323b77b4860e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "authorship",
+        "attribution"
+      ],
+      "summary": "Paper on robustly attributing text to the model that wrote it.",
+      "whyItMatters": "Bears on AI-text provenance and detection work.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "17ea3ef488a0f01cbdf7536bca21d6df6636a021",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "transformers"
+      ],
+      "summary": "Analysis arguing that asymmetry in target tokens can look like specialization by layer depth.",
+      "whyItMatters": "Caution before reading layer-wise findings as real specialization.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "18939f003f35c8153f6893428529290c657dd993",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "architecture",
+        "transformers"
+      ],
+      "summary": "Proposes predicting a global graph of cross-layer connections in transformers.",
+      "whyItMatters": "Architecture idea without evidence yet of scale benefits.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "21debf414e7ec18ff809048b815e6980a1c715ea",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "sparse-autoencoders",
+        "interpretability"
+      ],
+      "summary": "Paper arguing sparse autoencoders provide a shared coordinate system for matching symbolic content.",
+      "whyItMatters": "Adds evidence on what SAE features represent.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "48c32415b6cbc432c370f8445c942421ce9e2cd8",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "lora"
+      ],
+      "summary": "Paper using task-specific low-rank adapters for multimodal medical image parsing.",
+      "whyItMatters": "Applies a known adapter method to a clinical setting.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "525b48e00448ccff5dbd64c3c52f65f7e3b45508",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "generative-models",
+        "priors"
+      ],
+      "summary": "Method for turning pretrained models into functional generative priors via a discriminative score function.",
+      "whyItMatters": "Technical; of interest to generative-modeling researchers.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "533f70d2cfca968b762a7cff86185a2133652a4b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "video"
+      ],
+      "summary": "Adds abstract-state reasoning to video world models.",
+      "whyItMatters": "Early work on making world models track state, not just pixels.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "55a0cc0abd39c7726f1f187f72d39adc4f13b935",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "image-classification",
+        "continuous-thought"
+      ],
+      "summary": "Studies image classification in the Continuous Thought Machine, following its fixed-point behavior.",
+      "whyItMatters": "Niche exploration of a new architecture.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "598122a000ca4acde1cbac6646adf8ebd36c86c9",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "optimization",
+        "explainability"
+      ],
+      "summary": "Preprint on explaining structured optimization networks with a robust analysis method called REASON.",
+      "whyItMatters": "Limited reach beyond optimization-network researchers.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "5e17af96e0ad9f4d1d3b27bfbc636b8612a60b72",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "vision",
+        "efficiency"
+      ],
+      "summary": "Paper on allocating image resolution with learnable resizing and spectral filter parameterization.",
+      "whyItMatters": "Possible efficiency gain for vision pipelines.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "001bb0d836c03d9f1d1c75cc60bcf5dfb0965106",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "video-generation",
+        "agents"
+      ],
+      "summary": "Framework that organizes agentic video generation around an explicit world state across time and space.",
+      "whyItMatters": "Early idea for more consistent generated video; no results to judge yet.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "00e91fc8c86ebf0c1ebd9fc01edcd07496c4bc6a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "benchmarks"
+      ],
+      "summary": "Benchmark testing how robust vision-language-action models are to changes in hardware setup.",
+      "whyItMatters": "Useful if you deploy robot policies on hardware unlike the training rig.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0150e070b0bc228b958cc3ba328e2d925dd29ddd",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "defect-detection",
+        "domain-adaptation"
+      ],
+      "summary": "Paper on industrial defect detection that holds up across scenarios, using domain-robust training and a matched selection metric.",
+      "whyItMatters": "Narrow industrial vision result.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "016b7629fb55a3380f104983b4b71ebc225d9c60",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "attribution",
+        "vision-language"
+      ],
+      "summary": "Method for tracing which training image patches influence a vision-language model's outputs.",
+      "whyItMatters": "A data-attribution tool for debugging multimodal models.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "01882acba995a15b44a7522296e22a73316136f7",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "theorem-proving",
+        "coding-agents"
+      ],
+      "summary": "Tests a plain coding-agent setup as a baseline for Lean theorem proving, asking if specialized prover agents are needed.",
+      "whyItMatters": "A simple baseline may rival specialized provers; worth trying first.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "01a6a3d958c6ede92761702190fb8290780bd1a5",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "retail",
+        "recommendation"
+      ],
+      "summary": "Paper revisiting negative sampling for modeling which products shoppers pick together in a basket.",
+      "whyItMatters": "Niche retail modeling result.",
+      "organization": "academic researchers"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

@@ -1,0 +1,517 @@
+{
+  "date": "2026-10-15",
+  "batch": 2,
+  "items": [
+    {
+      "id": "01e37e2e29e975ef7bfabe40ea5d23998c87ed74",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "benchmarks",
+        "evaluation"
+      ],
+      "summary": "Preprint on how to design a benchmark that measures taste, a subjective quality that usual scoring misses.",
+      "whyItMatters": "Relevant if you evaluate creative or preference-driven outputs.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "01e82e147295fdc188b9eeca60dde57b59882eae",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "tabular-data",
+        "foundation-models"
+      ],
+      "summary": "Introduces TabGift, a foundation model for generating tabular data while keeping context use low.",
+      "whyItMatters": "Could help with synthetic tabular data if released.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "01f4d7ed67d1cf88f10dbc46c0ff1054a9ec4394",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "search-agents",
+        "reward-models"
+      ],
+      "summary": "Benchmark and training approach for reward models that judge whether search agents ground answers in evidence from several sources.",
+      "whyItMatters": "Useful for evaluating and training retrieval agents.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0233e29756cc915196e52794b6e0970241689617",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Research",
+      "tags": [
+        "theory",
+        "workflows"
+      ],
+      "summary": "Theory paper proposing a finite-window response framework linking physical systems and distributed AI workflows.",
+      "whyItMatters": "Abstract framing; little to act on yet.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "049925e27334d1059320a7cdc0434ada47bc0743",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "sentiment"
+      ],
+      "summary": "Sentiment prediction method that weighs how reliable each modality is when one is missing locally.",
+      "whyItMatters": "Niche multimodal robustness result.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "06a06a11f796e4726608d667b435b3c822cbdeae",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "manifolds"
+      ],
+      "summary": "Paper on learning the local shape of the action-conditioned data manifold.",
+      "whyItMatters": "Theory-leaning; of interest to world-model researchers.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "06d0977968ce4bd72ae8e36021c7e7f876c89036",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "hyperspectral",
+        "3d"
+      ],
+      "summary": "Unified 3D hyperspectral unmixing approach called Spectral World Renderer.",
+      "whyItMatters": "Narrow remote-sensing and imaging method.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "06f4cae52e8a408c25a2d876057b8e6029c88822",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "safety"
+      ],
+      "summary": "Attention-based spatio-temporal model for detecting fire and smoke in video.",
+      "whyItMatters": "Standard application paper; limited novelty.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0b82d99fd8cd3e44427e672fab0d86192625cb16",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "image-generation",
+        "evaluation"
+      ],
+      "summary": "TextVerifier checks whether generated images render Chinese text correctly, beyond simple recognition.",
+      "whyItMatters": "Helpful if you test text rendering in image models.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "0cc622d29a9be0b7687244d2a3359e3572786baa",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "watermarking",
+        "face-recognition"
+      ],
+      "summary": "Paper showing adversarial face evasion that keeps a watermark intact, so a valid watermark does not prove identity.",
+      "whyItMatters": "Warns against treating watermarks as identity proof.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "b7cd31d958bda34d9f9a77ce7f911ad60ff92636",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "aws",
+        "document-processing"
+      ],
+      "summary": "AWS walkthrough of document processing that improves itself, built on Amazon Bedrock AgentCore.",
+      "whyItMatters": "A vendor reference design for document-processing agents.",
+      "organization": "amazon web services"
+    },
+    {
+      "id": "09678c4af34302447d16574d6b28137803a51b4d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "google-research",
+        "documents"
+      ],
+      "summary": "Google Research describes Deep Review, a way to analyze technical documents.",
+      "whyItMatters": "Look if you review long technical documents with AI.",
+      "organization": "google"
+    },
+    {
+      "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "geospatial",
+        "agents",
+        "earth-ai"
+      ],
+      "summary": "Google describes applying geospatial agents from its Earth AI work to large planetary problems.",
+      "whyItMatters": "A sign of agent products reaching geospatial analysis.",
+      "organization": "google"
+    },
+    {
+      "id": "672ebf75c430cf70c5939989b244112c7eac909f",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "weather",
+        "climate",
+        "open-models"
+      ],
+      "summary": "Hugging Face blog on HiRO-ACEv2, which simulates extreme weather at 3 km resolution at far lower cost.",
+      "whyItMatters": "Cheaper high-resolution climate runs could reach more teams.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "9dd119a51b88127318588501d48db189362532d0",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "nvidia",
+        "agents",
+        "tool-calling"
+      ],
+      "summary": "NVIDIA shows how NeMo Gym is used to make agents more reliable and efficient at tool calling for chip design.",
+      "whyItMatters": "A worked example of training agents in an environment for tool use.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "bf440f7f3fb44381626f826da138f831447c1195",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "aws",
+        "agents"
+      ],
+      "summary": "AWS post on generating presentations with Amazon Bedrock AgentCore.",
+      "whyItMatters": "A vendor example; useful mainly to AgentCore users.",
+      "organization": "amazon web services"
+    },
+    {
+      "id": "af833b42b8bd8e0212c37d65dcebf7cc781db00b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "aws",
+        "security",
+        "case-study"
+      ],
+      "summary": "AWS customer story about Tamnoon using Amazon Bedrock for cloud security remediation.",
+      "whyItMatters": "A case study of AI used in security triage workflows.",
+      "organization": "amazon web services"
+    },
+    {
+      "id": "9b317f01752ab26322306b09b0431b530657dcbf",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "model-evaluation"
+      ],
+      "summary": "AWS post on deploying and evaluating models with SageMaker JumpStart.",
+      "whyItMatters": "Routine how-to for SageMaker users.",
+      "organization": "amazon web services"
+    },
+    {
+      "id": "24cc989c02dbc2a2daf4f04185de8060d33da4a8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "security",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story saying SentinelOne cut malware analysis from weeks to hours.",
+      "whyItMatters": "Vendor-reported figure; treat the speedup as unverified.",
+      "organization": "openai"
+    },
+    {
+      "id": "a0e0fec2c2b5f568672ddffd97e5dbcc17df031b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "agents",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story on Amp using OpenAI models for agents that do work beyond coding.",
+      "whyItMatters": "Shows coding-agent vendors widening into other tasks.",
+      "organization": "openai"
+    },
+    {
+      "id": "7d10f0ddfecf202c0b2cc2a533b94c794cdf0d1c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "security",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story on how Block builds AI-powered security tooling.",
+      "whyItMatters": "Vendor case study; limited technical detail implied.",
+      "organization": "openai"
+    },
+    {
+      "id": "e181547094b0a112cf0b18eccd2fd79396c82dce",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "agents",
+        "long-running"
+      ],
+      "summary": "OpenAI customer story about Third Moment Research running 10,000 agents for more than 36 hours.",
+      "whyItMatters": "Shows scale claims for long-running agent fleets; details unknown.",
+      "organization": "openai"
+    },
+    {
+      "id": "5cb1618c1db568b5987239fb7604905d493f5d44",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "scam-detection",
+        "deepmind"
+      ],
+      "summary": "Google DeepMind and the Singapore government are fine-tuning a model to detect scams.",
+      "whyItMatters": "Government partnership on fraud detection; follows earlier coverage.",
+      "organization": "google deepmind"
+    },
+    {
+      "id": "15a88e7ee9145ee86caed21d92e06737bd685081",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "speech",
+        "multilingual"
+      ],
+      "summary": "Apple research on detecting code-switching using language-selective dimensions in speech foundation models.",
+      "whyItMatters": "Niche speech-model finding.",
+      "organization": "apple"
+    },
+    {
+      "id": "2f3282e483141f68421d2a0f33b7c26326fcc689",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "eu",
+        "regulation",
+        "agents"
+      ],
+      "summary": "OpenAI post on how Europe's next stage of AI centers on agents.",
+      "whyItMatters": "Company view on EU policy; useful as a signal of lobbying priorities.",
+      "organization": "openai"
+    },
+    {
+      "id": "e612dc941250a7d637175cfdfa25d93981bc336a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion",
+        "multimodal"
+      ],
+      "summary": "Apple research on the design space of tri-modal masked diffusion models.",
+      "whyItMatters": "Design guidance for builders of diffusion-based multimodal models.",
+      "organization": "apple"
+    },
+    {
+      "id": "3d3aec967750f99229a9c054de8eddb90610a5bc",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "llm-behavior",
+        "images"
+      ],
+      "summary": "Hacker News discussion of why LLM-drawn pelicans tend to look the way they do.",
+      "whyItMatters": "Light read on a popular informal image test.",
+      "organization": "community"
+    },
+    {
+      "id": "b0e702832e00df4e30dc169b2e90e6d18d293247",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "open-source",
+        "coding-assistants"
+      ],
+      "summary": "Hacker News thread on Linus Torvalds's first patch series made with LLM help.",
+      "whyItMatters": "Signals maintainers of core projects trying AI-assisted patches.",
+      "organization": "linux kernel"
+    },
+    {
+      "id": "6bfaaf873eeb7d24996322d4b425b8d41581d1d5",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "on-device",
+        "local-models"
+      ],
+      "summary": "Show HN for Pulse Local, a Mac budgeting app that runs its AI models on the user's machine.",
+      "whyItMatters": "Small example of privacy-first local AI in a consumer app.",
+      "organization": "pulse local"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "18b611693debbbf2b49126bcf0aec3ce9cc7624a",
+      "reason": "roundup listicle"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

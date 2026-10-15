@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:11:13 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
+      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
+      <guid isPermaLink="false">672ebf75c430cf70c5939989b244112c7eac909f</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face blog on HiRO-ACEv2, which simulates extreme weather at 3 km resolution at far lower cost.</description>
+    </item>
+    <item>
+      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <guid isPermaLink="false">e422d5ed36814fbc0b7ef8ba7849d220df092706</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Eight US states have sued OpenAI, arguing ChatGPT is unsafe for children, as The Verge reports.</description>
+    </item>
+    <item>
+      <title>Anthropic warns small AI models could self-replicate through IoT devices</title>
+      <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</link>
+      <guid isPermaLink="false">339da82e2ea922e31ba57ecd3cb307799119db97</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Ars Technica reports Anthropic warning that small AI models could self-replicate through IoT devices.</description>
+    </item>
+    <item>
+      <title>Putting Earth AI to work: Geospatial agents for our planet&apos;s biggest challenges</title>
+      <link>https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/</link>
+      <guid isPermaLink="false">09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Google describes applying geospatial agents from its Earth AI work to large planetary problems.</description>
+    </item>
+    <item>
+      <title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
+      <link>https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/</link>
+      <guid isPermaLink="false">d0bcab019ed52470940af9243cb61b44be6ee2c0</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>WIRED reports AI models can be easily modified to assist terrorist and extremist activity.</description>
+    </item>
+    <item>
+      <title>OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/</link>
+      <guid isPermaLink="false">64950daaf518492b34ad3586b80f86c93cdb003f</guid>
+      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.</description>
+    </item>
     <item>
       <title>Gemini 4 Argon: Built to solve your hardest problems</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
@@ -294,54 +342,6 @@
       <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>Report that Anthropic updated its policy to ban abusive or cruel behavior toward Claude.</description>
-    </item>
-    <item>
-      <title>GPT-6 and Intelligent UI for everyone</title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <guid isPermaLink="false">0ca1450969b5beb55904e9fac4f7d0e7720785ad</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>News</category>
-      <description>OpenAI&apos;s own post pairing GPT-6 with an &apos;Intelligent UI&apos; for ChatGPT, aimed at a broad user base.</description>
-    </item>
-    <item>
-      <title>[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in &gt;100 years of mathematics</title>
-      <link>https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai</link>
-      <guid isPermaLink="false">264cab26a08dfb8e666b53a8d0b6981d690cb769</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>News</category>
-      <description>Newsletter reports OpenAI published a large set of math papers claiming progress on open problems; its description of impact is the newsletter&apos;s own.</description>
-    </item>
-    <item>
-      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <guid isPermaLink="false">5bdd694c62903534c1d8981979d5770bf3d2e4ec</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>Research</category>
-      <description>Hugging Face blog on fine-tuning one Nemotron model family to gold-level results on IOI and IMO problems.</description>
-    </item>
-    <item>
-      <title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
-      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
-      <guid isPermaLink="false">7818bdc9321f6143f555e05644f97028104338fe</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Microsoft Research releases Agent Lightning v1.0, a compact framework for training agents with RL on real harnesses.</description>
-    </item>
-    <item>
-      <title>Multimodal open d1 decision models for the edge</title>
-      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-      <guid isPermaLink="false">0825a4897dea2e8280a620cd72c7dc55f2c953c0</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face blog on open multimodal decision models sized for edge devices.</description>
-    </item>
-    <item>
-      <title>Google’s new SynthID website can identify AI-generated media</title>
-      <link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
-      <guid isPermaLink="false">952e69e18b6d12b2615ffa0bacbb2401a827b3e0</guid>
-      <pubDate>Thu, 08 Oct 2026 11:55:30 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>TechCrunch covers Google&apos;s new SynthID site for identifying AI-generated media.</description>
     </item>
   </channel>
 </rss>

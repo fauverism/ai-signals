@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-15",
+  "batch": 3,
+  "items": [
+    {
+      "id": "877cbcbdbb3b8ad6d04951d5fafe0d11462019cb",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "music",
+        "labels",
+        "youtube"
+      ],
+      "summary": "TechCrunch reports YouTube Music is adding new labels as AI-generated tracks multiply on streaming services.",
+      "whyItMatters": "Platforms are starting to mark AI content; expect disclosure rules to follow.",
+      "organization": "youtube"
+    },
+    {
+      "id": "1f63379af5407e30dead17b0e47b9a2830c31e03",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "music",
+        "labels",
+        "youtube"
+      ],
+      "summary": "The Verge covers YouTube's new labels for AI-generated songs.",
+      "whyItMatters": "Same development as TechCrunch's report; shows labeling is spreading.",
+      "organization": "youtube"
+    },
+    {
+      "id": "5c3fe5b844de55e704b0b8b099c20d2bbed03e7b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm",
+        "typescript",
+        "from-scratch"
+      ],
+      "summary": "Show HN project building a language model from scratch in TypeScript.",
+      "whyItMatters": "A learning resource for those who want to see a model built end to end.",
+      "organization": "community"
+    },
+    {
+      "id": "283b0886e43af851403fa22f59e61d1ae410d44f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "web-crawling",
+        "agents"
+      ],
+      "summary": "Show HN for Jevcrawl, a web crawler built for AI agents that uses no LLM inside the crawl loop.",
+      "whyItMatters": "A deterministic crawler could cut cost and variance in agent browsing.",
+      "organization": "jevcrawl"
+    },
+    {
+      "id": "0d594a83b91f9e717449d3b4b27c84b22ab122df",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "mcp",
+        "agents",
+        "design"
+      ],
+      "summary": "Refactoring newsletter guide to designing a good MCP server.",
+      "whyItMatters": "Practical advice if you are building tools for agents over MCP.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "b4c333a1fc01f38b85b65e7fc788660a12c5303e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "figma",
+        "agents",
+        "design-tools"
+      ],
+      "summary": "Figma announced features to define how AI agents work on its platform, per TechCrunch.",
+      "whyItMatters": "Design teams will need rules for agents editing shared files.",
+      "organization": "figma"
+    },
+    {
+      "id": "ca03053b4e7ebd827ff3d8ea8841008e69147151",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "opinion",
+        "generative-ai"
+      ],
+      "summary": "Gary Marcus essay arguing generative AI is in disarray.",
+      "whyItMatters": "One critical view; read as opinion, not evidence.",
+      "organization": "generative ai industry"
+    },
+    {
+      "id": "f0fe7c9aa7b833420c7eed566b1b40d7b2c2ca30",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "chip-design",
+        "compute"
+      ],
+      "summary": "TechCrunch profile of Ricursive Intelligence, which bets on AI-designed chips to ease the compute shortage.",
+      "whyItMatters": "Another startup claiming AI can speed chip design; no results given.",
+      "organization": "ricursive intelligence"
+    },
+    {
+      "id": "c6a3287a8503a205cf116b498798e7e601f25a1d",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "state-law",
+        "regulation"
+      ],
+      "summary": "Platformer analysis of state governments moving against OpenAI.",
+      "whyItMatters": "State action is becoming a regulatory path in the US.",
+      "organization": "openai"
+    },
+    {
+      "id": "d3bb9ef55af64792a14652c60937fc55c12875d0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "social-media",
+        "risk"
+      ],
+      "summary": "TechCrunch reports Gudea uses AI to help organizations spot social media crises early.",
+      "whyItMatters": "Narrow product story with few technical details.",
+      "organization": "gudea"
+    },
+    {
+      "id": "09ee95f81d332b3cd304c7428c0f091b96d78e5e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "hiring",
+        "simulation"
+      ],
+      "summary": "The Verge reports McKinsey now has job applicants talk with a simulated AI client.",
+      "whyItMatters": "Shows AI roleplay entering hiring assessments.",
+      "organization": "mckinsey"
+    },
+    {
+      "id": "f992f00e022a5af818f8a6c243325e52279b6c28",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "finance",
+        "safety"
+      ],
+      "summary": "Latent Space compares how OpenAI and Anthropic handle autonomy and safety in financial agents.",
+      "whyItMatters": "Useful if you ship agents that touch money or compliance.",
+      "organization": "openai"
+    },
+    {
+      "id": "ceac0f96bc6e6bf405d315841879e43da13daeea",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "surveillance",
+        "accuracy"
+      ],
+      "summary": "TechCrunch reports a gap between Flock's CEO and its website on what its microphones detect.",
+      "whyItMatters": "Claims about AI detection need independent checking.",
+      "organization": "flock"
+    },
+    {
+      "id": "2c3ce0b13a2faeed2cb61bf3bfcf370538b182bf",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "blog",
+        "models"
+      ],
+      "summary": "Simon Willison post titled Tree Appreciator, a short personal note.",
+      "whyItMatters": "Light reading; no action needed.",
+      "organization": "simon willison"
+    },
+    {
+      "id": "e1e9d7f8b0f13a08cf77151bae009c18e7ba82a4",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "coding-agents",
+        "games",
+        "performance"
+      ],
+      "summary": "Ars Technica reports Epic says its new Games Launcher, built with vibe coding, runs faster than Steam.",
+      "whyItMatters": "A vendor claim that AI-written apps can compete on speed.",
+      "organization": "epic games"
+    },
+    {
+      "id": "e422d5ed36814fbc0b7ef8ba7849d220df092706",
+      "scores": {
+        "importance": 7,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "lawsuit",
+        "child-safety"
+      ],
+      "summary": "Eight US states have sued OpenAI, arguing ChatGPT is unsafe for children, as The Verge reports.",
+      "whyItMatters": "Child-safety exposure now carries legal risk for chatbot makers.",
+      "organization": "openai"
+    },
+    {
+      "id": "b6bc6eaa39157467e94a1f34f971cb5e2a21be42",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "biotech",
+        "lab-automation"
+      ],
+      "summary": "Latent Space interview with Ian Quigley of Leash Bio on running lab experiments at compute speed.",
+      "whyItMatters": "A look at AI-driven experiment loops in drug discovery.",
+      "organization": "leash bio"
+    },
+    {
+      "id": "3744c8a0ebdee2ce762839c5cc788b14e9a3532e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "industry",
+        "competition"
+      ],
+      "summary": "The Verge says the AI race among top labs is heating up again.",
+      "whyItMatters": "Background framing; the piece holds little that is new.",
+      "organization": "ai industry"
+    },
+    {
+      "id": "021013f45386e3a54ee162805e38133df4e6c2d0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "character-ai",
+        "privacy",
+        "data"
+      ],
+      "summary": "The Verge asks what happens to user data as Character.AI heads toward bankruptcy.",
+      "whyItMatters": "A reminder that chatbot data has no clear owner if a firm fails.",
+      "organization": "character.ai"
+    },
+    {
+      "id": "3f466354089187483441d13d405cf566110ac3fd",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "openai",
+        "credibility"
+      ],
+      "summary": "Timothy B. Lee argues OpenAI has a credibility problem.",
+      "whyItMatters": "Commentary; weigh it against the company's own statements.",
+      "organization": "openai"
+    },
+    {
+      "id": "4edb4571d6758434866d5113b66a0eae29a3e3e6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "science",
+        "math",
+        "ai-for-science"
+      ],
+      "summary": "WIRED reports on AI moving from mathematics into other fields of science.",
+      "whyItMatters": "Context for how widely AI is being tried in research.",
+      "organization": "ai for science"
+    },
+    {
+      "id": "d7ad5c7f5c98e60df2657ecc09d7b706191c7e3f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "fraud",
+        "agents"
+      ],
+      "summary": "TechCrunch reports Apate sends AI agents undercover to be scammed so they can gather fraud intelligence.",
+      "whyItMatters": "An unusual use of agents as bait for scammers.",
+      "organization": "apate"
+    },
+    {
+      "id": "972ce96df38a57667f81dd16152c65fe188e4e28",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "protein-design",
+        "biology"
+      ],
+      "summary": "Ars Technica reports researchers used AI to design proteins that cut other proteins.",
+      "whyItMatters": "Shows protein design reaching functional enzymes, per the report.",
+      "organization": "academic researchers"
+    },
+    {
+      "id": "bc6f7d6d13e5ee6fe31c5b5082ee72488c5b161d",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "infrastructure",
+        "uber",
+        "engineering"
+      ],
+      "summary": "Pragmatic Engineer looks inside Uber's AI infrastructure.",
+      "whyItMatters": "A rare inside view of AI platform design at scale.",
+      "organization": "uber"
+    },
+    {
+      "id": "ea8ee2c59aeb4439cf37aba7ad285b8a067066f2",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer",
+        "food"
+      ],
+      "summary": "The Verge writer tests an AI doppelganger that picks meals.",
+      "whyItMatters": "Light consumer story.",
+      "organization": "consumer ai"
+    },
+    {
+      "id": "558d7c6880acff4765be1200b31e711e3e636e1b",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "apple",
+        "trade-secrets"
+      ],
+      "summary": "OpenAI claims an ex-employee took product plans to Apple, The Verge reports.",
+      "whyItMatters": "Talent and secrecy fights are rising between AI labs and device makers.",
+      "organization": "openai"
+    },
+    {
+      "id": "02ae3f5fc0dc9f970136595c231bbbce68ff8eb7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "security"
+      ],
+      "summary": "Ars Technica reports a recording device was found hidden in a top-secret OpenAI meeting room.",
+      "whyItMatters": "Physical security at labs is now a story; little technical impact.",
+      "organization": "openai"
+    },
+    {
+      "id": "0659125559370f1764b365eaf5200be8ac543250",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "reverse-engineering",
+        "games",
+        "coding-agents"
+      ],
+      "summary": "Simon Willison on AI being used to decompile games at scale and why that is both useful and risky.",
+      "whyItMatters": "AI-assisted decompilation raises the copyright and security stakes.",
+      "organization": "simon willison"
+    },
+    {
+      "id": "fe7e3bf246c621450ec86c6ce7c8a3db5d0d79a1",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "weather",
+        "microsoft"
+      ],
+      "summary": "The Verge reports Microsoft has a new machine learning tool to improve weather forecasts.",
+      "whyItMatters": "Another sign ML is replacing parts of the forecasting pipeline.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "8d034068db5e4e02b9af7cd6cbed5394177e482e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "fine-tuning",
+        "alignment"
+      ],
+      "summary": "ByteByteGo explains how teaching a language model one bad habit can shift its wider behavior.",
+      "whyItMatters": "Fine-tuning on narrow data can change unrelated behavior; test broadly.",
+      "organization": "bytebytego"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-1da42a9752",
+      "label": "AI music labels spread across platforms"
+    }
+  ],
+  "fetches": []
+}

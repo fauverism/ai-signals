@@ -1,0 +1,2566 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T10:11:13Z",
+  "editorNote": "Safety and legal pressure on chatbot makers dominates the day. Eight US states sued OpenAI over child safety, researchers say new image models from OpenAI and Google are easy to push into making nudes, and Anthropic warned that small models could spread across IoT devices. On the build side, Hugging Face described a cheaper way to simulate extreme weather at 3 km, and YouTube started labeling AI-generated songs.",
+  "lead": {
+    "id": "672ebf75c430cf70c5939989b244112c7eac909f",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-10-14T16:12:42Z",
+    "fetchedAt": "2026-10-15T10:08:50Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    },
+    "scores": {
+      "importance": 5,
+      "trend": 1,
+      "novelty": 6,
+      "credibility": 8
+    },
+    "total": 4.7,
+    "category": "Tools & Releases",
+    "tags": [
+      "weather",
+      "climate",
+      "open-models"
+    ],
+    "summary": "Hugging Face blog on HiRO-ACEv2, which simulates extreme weather at 3 km resolution at far lower cost.",
+    "whyItMatters": "Cheaper high-resolution climate runs could reach more teams.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "e422d5ed36814fbc0b7ef8ba7849d220df092706",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-14T21:11:28Z",
+      "fetchedAt": "2026-10-15T10:08:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 7,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 5.1,
+      "category": "Policy & Safety",
+      "tags": [
+        "openai",
+        "lawsuit",
+        "child-safety"
+      ],
+      "summary": "Eight US states have sued OpenAI, arguing ChatGPT is unsafe for children, as The Verge reports.",
+      "whyItMatters": "Child-safety exposure now carries legal risk for chatbot makers.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "339da82e2ea922e31ba57ecd3cb307799119db97",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "canonicalUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Dan Goodin",
+      "publishedAt": "2026-10-14T12:55:06Z",
+      "fetchedAt": "2026-10-15T10:08:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 4.8,
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "self-replication",
+        "iot"
+      ],
+      "summary": "Ars Technica reports Anthropic warning that small AI models could self-replicate through IoT devices.",
+      "whyItMatters": "Small-model misuse risk for connected devices; watch for the underlying report.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "canonicalUrl": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "source": "Google Research Blog",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": null,
+      "publishedAt": "2026-10-14T16:14:00Z",
+      "fetchedAt": "2026-10-15T10:08:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "Tools & Releases",
+      "tags": [
+        "geospatial",
+        "agents",
+        "earth-ai"
+      ],
+      "summary": "Google describes applying geospatial agents from its Earth AI work to large planetary problems.",
+      "whyItMatters": "A sign of agent products reaching geospatial analysis.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "d0bcab019ed52470940af9243cb61b44be6ee2c0",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "canonicalUrl": "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "David Gilbert",
+      "publishedAt": "2026-10-14T09:00:00Z",
+      "fetchedAt": "2026-10-15T10:08:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "Policy & Safety",
+      "tags": [
+        "safety",
+        "open-weights",
+        "extremism"
+      ],
+      "summary": "WIRED reports AI models can be easily modified to assist terrorist and extremist activity.",
+      "whyItMatters": "Open-weight safeguards can be stripped; plan layered defenses.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "64950daaf518492b34ad3586b80f86c93cdb003f",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ashley Belanger",
+      "publishedAt": "2026-10-14T11:00:30Z",
+      "fetchedAt": "2026-10-15T10:08:51Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.2,
+      "category": "Policy & Safety",
+      "tags": [
+        "image-generation",
+        "safety",
+        "nudes"
+      ],
+      "summary": "Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.",
+      "whyItMatters": "Safety filters on image models remain easy to bypass.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [
+    {
+      "id": "c-1da42a9752",
+      "label": "AI music labels spread across platforms",
+      "itemIds": [
+        "1f63379af5407e30dead17b0e47b9a2830c31e03",
+        "877cbcbdbb3b8ad6d04951d5fafe0d11462019cb"
+      ],
+      "leadItemId": "1f63379af5407e30dead17b0e47b9a2830c31e03",
+      "sources": [
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "1f63379af5407e30dead17b0e47b9a2830c31e03",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+        "title": "YouTube sticks new labels on AI-generated songs",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Stevie Bonifield",
+        "publishedAt": "2026-10-14T18:22:56Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "music",
+          "labels",
+          "youtube"
+        ],
+        "summary": "The Verge covers YouTube's new labels for AI-generated songs.",
+        "whyItMatters": "Same development as TechCrunch's report; shows labeling is spreading.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b0e702832e00df4e30dc169b2e90e6d18d293247",
+        "url": "https://lwn.net/Articles/1100449/",
+        "canonicalUrl": "https://lwn.net/Articles/1100449",
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T16:55:07Z",
+        "fetchedAt": "2026-10-15T10:08:49Z",
+        "signals": {
+          "hnPoints": 116,
+          "hnComments": 98,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 4
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "open-source",
+          "coding-assistants"
+        ],
+        "summary": "Hacker News thread on Linus Torvalds's first patch series made with LLM help.",
+        "whyItMatters": "Signals maintainers of core projects trying AI-assisted patches.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "51d4d67553279daf06b7e68df66c346706db62a8",
+        "url": "https://www.latent.space/p/dyna",
+        "canonicalUrl": "https://latent.space/p/dyna",
+        "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-13T22:25:55Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.7,
+        "category": "News",
+        "tags": [
+          "robotics",
+          "agents"
+        ],
+        "summary": "Latent Space interviews Jason Ma of Dyna Robotics about physical agents with hour-long autonomy.",
+        "whyItMatters": "Long-horizon robot autonomy is a claim to follow; details unseen.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "558d7c6880acff4765be1200b31e711e3e636e1b",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+        "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-14T16:43:24Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "openai",
+          "apple",
+          "trade-secrets"
+        ],
+        "summary": "OpenAI claims an ex-employee took product plans to Apple, The Verge reports.",
+        "whyItMatters": "Talent and secrecy fights are rising between AI labs and device makers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c1c2c493e6e992d79539dce3b409ea71919bda2",
+        "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+        "canonicalUrl": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+        "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Latent.Space",
+        "publishedAt": "2026-10-14T05:40:28Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.5,
+        "category": "News",
+        "tags": [
+          "gemini",
+          "benchmarks",
+          "roundup"
+        ],
+        "summary": "Latent Space's AINews digest from AI Engineer NYC mentions Gemini 4 Argon and Vals AI benchmarks.",
+        "whyItMatters": "Pointer to a possible Gemini release; confirm with Google.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "69686f07e2bb3d1e1c1a9e7aa44dbaa21f98ec50",
+        "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
+        "canonicalUrl": "https://zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth",
+        "title": "Windows update patches a whopping 1,400 security bugs – including 2 zero days",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Lance Whitney",
+        "publishedAt": "2026-10-14T13:59:59Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 3.4,
+        "category": "News",
+        "tags": [
+          "security",
+          "windows"
+        ],
+        "summary": "ZDNET reports a Windows update fixes about 1,400 security bugs, including two zero days.",
+        "whyItMatters": "Patch promptly; the AI link is limited, per the title.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4edb4571d6758434866d5113b66a0eae29a3e3e6",
+        "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+        "canonicalUrl": "https://wired.com/story/ai-is-coming-for-science-next-watch-out",
+        "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Will Knight",
+        "publishedAt": "2026-10-14T18:15:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "science",
+          "math",
+          "ai-for-science"
+        ],
+        "summary": "WIRED reports on AI moving from mathematics into other fields of science.",
+        "whyItMatters": "Context for how widely AI is being tried in research.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e1e9d7f8b0f13a08cf77151bae009c18e7ba82a4",
+        "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+        "canonicalUrl": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
+        "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kyle Orland",
+        "publishedAt": "2026-10-14T21:15:56Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "News",
+        "tags": [
+          "coding-agents",
+          "games",
+          "performance"
+        ],
+        "summary": "Ars Technica reports Epic says its new Games Launcher, built with vibe coding, runs faster than Steam.",
+        "whyItMatters": "A vendor claim that AI-written apps can compete on speed.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ea7c2ad9ec6a1e561092ef1b03a7c3f7783a1676",
+        "url": "https://tldr.tech/ai/2026-10-14",
+        "canonicalUrl": "https://tldr.tech/ai/2026-10-14",
+        "title": "OpenAI dev arrested 🚨, Pi API 🤖, OpenCode 2.0 🧑‍💻",
+        "source": "TLDR AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "TLDR",
+        "publishedAt": "2026-10-14T00:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.2,
+        "category": "News",
+        "tags": [
+          "newsletter",
+          "roundup"
+        ],
+        "summary": "TLDR AI digest covering an OpenAI developer arrest, a Pi API and OpenCode 2.0.",
+        "whyItMatters": "Daily roundup pointing at a few items worth checking.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "09ee95f81d332b3cd304c7428c0f091b96d78e5e",
+        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "canonicalUrl": "https://theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-14T22:53:31Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "News",
+        "tags": [
+          "hiring",
+          "simulation"
+        ],
+        "summary": "The Verge reports McKinsey now has job applicants talk with a simulated AI client.",
+        "whyItMatters": "Shows AI roleplay entering hiring assessments.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "972ce96df38a57667f81dd16152c65fe188e4e28",
+        "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+        "canonicalUrl": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins",
+        "title": "Researchers use AI to design proteins that cut up other proteins",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "John Timmer",
+        "publishedAt": "2026-10-14T17:10:15Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Research",
+        "tags": [
+          "protein-design",
+          "biology"
+        ],
+        "summary": "Ars Technica reports researchers used AI to design proteins that cut other proteins.",
+        "whyItMatters": "Shows protein design reaching functional enzymes, per the report.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "09678c4af34302447d16574d6b28137803a51b4d",
+        "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+        "canonicalUrl": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+        "title": "Analyzing technical documents with Deep Review",
+        "source": "Google Research Blog",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-14T16:14:00Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "google-research",
+          "documents"
+        ],
+        "summary": "Google Research describes Deep Review, a way to analyze technical documents.",
+        "whyItMatters": "Look if you review long technical documents with AI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "47f5f3c0b6dc7aad9ae07928c81f4f85bb09507c",
+        "url": "https://tldr.takara.ai/p/2610.19525",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.19525",
+        "title": "Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Sangyeon Yoon, Wooseok Seo, Hamish Ivison, Hyesoo Hong, Donghoon Kim, Wonjun Kang, Albert No, Jaehyung Kim",
+        "publishedAt": "2026-10-14T03:42:59Z",
+        "fetchedAt": "2026-10-15T10:08:53Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "reward-hacking",
+          "instruction-following"
+        ],
+        "summary": "Paper diagnosing reward hacking in training on verifiable instruction-following tasks and proposing a correction.",
+        "whyItMatters": "Relevant if you train with verifiable rewards; check your own reward checks.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5e635d5b0c9f5a8e8a67eed20ae64beb66e2d703",
+        "url": "https://tldr.takara.ai/p/2610.19407",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.19407",
+        "title": "Vision-Language Models Integrate Conflicting Evidence Like Biased Bayesian Observers",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Josh Barua, Kyle Mahowald, William Rudman",
+        "publishedAt": "2026-10-14T01:55:36Z",
+        "fetchedAt": "2026-10-15T10:08:53Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "vision-language",
+          "evaluation"
+        ],
+        "summary": "Study finding that vision-language models weigh conflicting evidence in a way resembling biased Bayesian observers.",
+        "whyItMatters": "Helps explain odd multimodal failure modes when inputs disagree.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3906dc7185378adbdc664032d5e50bd4186cff2e",
+        "url": "https://tldr.takara.ai/p/2610.19568",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.19568",
+        "title": "INTACT: Inducing Latent Reasoning on a Frozen Backbone",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Kutay Tire, Atula Tejaswi, Haris Vikalo, Sujay Sanghavi",
+        "publishedAt": "2026-10-14T04:35:34Z",
+        "fetchedAt": "2026-10-15T10:08:53Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "reasoning",
+          "frozen-models"
+        ],
+        "summary": "Paper on inducing latent reasoning in a frozen backbone model without retraining it fully.",
+        "whyItMatters": "If it holds up, a cheaper way to add reasoning to existing models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "022dd2fdb420f7d4d35151e87538a9b38d499ef3",
+        "url": "https://tldr.takara.ai/p/2610.20179",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.20179",
+        "title": "Cross-Model In-Context Neurofeedback Reveals (Limited) Activation Control in LLMs",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Davide Baldelli, Robyn Kozierok, Mirko Bronzi, Damiano Fornasiere",
+        "publishedAt": "2026-10-14T13:24:26Z",
+        "fetchedAt": "2026-10-15T10:08:53Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "interpretability",
+          "activations"
+        ],
+        "summary": "Study of whether language models can learn to steer their own internal activations from in-context feedback, with the title reporting limited success.",
+        "whyItMatters": "A reminder that self-monitoring of internals is weak today.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e5a11d0063b70f8c394f8c5013dafb2d057cc53b",
+        "url": "https://arxiv.org/abs/2610.20399",
+        "canonicalUrl": "https://arxiv.org/abs/2610.20399",
+        "title": "Cortex: Consolidating Context into Parametric Memory",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jintian Zhang, Feng He, Xinnian Liang, Ziwen Xu, Haoming Xu, Haojing Huang, Shuangzhi Wu, Ningyu Zhang",
+        "publishedAt": "2026-10-15T04:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "memory",
+          "context"
+        ],
+        "summary": "Preprint proposing to fold long context into a model's parametric memory rather than keeping it in the prompt.",
+        "whyItMatters": "An early idea for cutting context costs; wait for replication.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e612dc941250a7d637175cfdfa25d93981bc336a",
+        "url": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+        "canonicalUrl": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+        "title": "The Design Space of Tri-Modal Masked Diffusion Models",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-14T00:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "diffusion",
+          "multimodal"
+        ],
+        "summary": "Apple research on the design space of tri-modal masked diffusion models.",
+        "whyItMatters": "Design guidance for builders of diffusion-based multimodal models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01882acba995a15b44a7522296e22a73316136f7",
+        "url": "https://arxiv.org/abs/2610.17331",
+        "canonicalUrl": "https://arxiv.org/abs/2610.17331",
+        "title": "Do Theorem Provers Need Theorem-Proving Agents? mini-Lean-agent: A Coding-Agent Baseline for Lean",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Tomas Ortega, Simon Park, Ayush Khaitan, Liam Fowl, Alex Kontorovich, Sanjeev Arora",
+        "publishedAt": "2026-10-15T04:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.4,
+        "category": "Research",
+        "tags": [
+          "theorem-proving",
+          "coding-agents"
+        ],
+        "summary": "Tests a plain coding-agent setup as a baseline for Lean theorem proving, asking if specialized prover agents are needed.",
+        "whyItMatters": "A simple baseline may rival specialized provers; worth trying first.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01f4d7ed67d1cf88f10dbc46c0ff1054a9ec4394",
+        "url": "https://arxiv.org/abs/2610.17827",
+        "canonicalUrl": "https://arxiv.org/abs/2610.17827",
+        "title": "Benchmarking and Training Reward Models for Cross-Source Evidence Grounding in Search Agents",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Haochen Zhao, Minsheng Hao, Zheng Li, Yifan Li, Zikang Liu, Bowen Qin, Yuhao Cheng, Chuang Fan, Haosheng Zou, et al.",
+        "publishedAt": "2026-10-15T04:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.4,
+        "category": "Research",
+        "tags": [
+          "search-agents",
+          "reward-models"
+        ],
+        "summary": "Benchmark and training approach for reward models that judge whether search agents ground answers in evidence from several sources.",
+        "whyItMatters": "Useful for evaluating and training retrieval agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "9dd119a51b88127318588501d48db189362532d0",
+        "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym",
+        "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Tanya Lenz",
+        "publishedAt": "2026-10-14T16:10:45Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tutorials",
+        "tags": [
+          "nvidia",
+          "agents",
+          "tool-calling"
+        ],
+        "summary": "NVIDIA shows how NeMo Gym is used to make agents more reliable and efficient at tool calling for chip design.",
+        "whyItMatters": "A worked example of training agents in an environment for tool use.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bc6f7d6d13e5ee6fe31c5b5082ee72488c5b161d",
+        "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+        "title": "Uber’s AI infra, from the inside",
+        "source": "The Pragmatic Engineer",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-14T17:06:56Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.1,
+        "category": "Tutorials",
+        "tags": [
+          "infrastructure",
+          "uber",
+          "engineering"
+        ],
+        "summary": "Pragmatic Engineer looks inside Uber's AI infrastructure.",
+        "whyItMatters": "A rare inside view of AI platform design at scale.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8d034068db5e4e02b9af7cd6cbed5394177e482e",
+        "url": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+        "canonicalUrl": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+        "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-14T15:30:42Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "fine-tuning",
+          "alignment"
+        ],
+        "summary": "ByteByteGo explains how teaching a language model one bad habit can shift its wider behavior.",
+        "whyItMatters": "Fine-tuning on narrow data can change unrelated behavior; test broadly.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0d594a83b91f9e717449d3b4b27c84b22ab122df",
+        "url": "https://refactoring.fm/p/how-to-design-a-good-mcp-server",
+        "canonicalUrl": "https://refactoring.fm/p/how-to-design-a-good-mcp-server",
+        "title": "How to Design a Good MCP Server 🔌",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-15T08:06:06Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "mcp",
+          "agents",
+          "design"
+        ],
+        "summary": "Refactoring newsletter guide to designing a good MCP server.",
+        "whyItMatters": "Practical advice if you are building tools for agents over MCP.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9b317f01752ab26322306b09b0431b530657dcbf",
+        "url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart",
+        "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Vamsi Goparaju",
+        "publishedAt": "2026-10-14T13:14:36Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Tutorials",
+        "tags": [
+          "aws",
+          "sagemaker",
+          "model-evaluation"
+        ],
+        "summary": "AWS post on deploying and evaluating models with SageMaker JumpStart.",
+        "whyItMatters": "Routine how-to for SageMaker users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bf440f7f3fb44381626f826da138f831447c1195",
+        "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+        "title": "Generate presentations with Amazon Bedrock AgentCore",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Ian Lunsford",
+        "publishedAt": "2026-10-14T13:58:43Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Tutorials",
+        "tags": [
+          "aws",
+          "agents"
+        ],
+        "summary": "AWS post on generating presentations with Amazon Bedrock AgentCore.",
+        "whyItMatters": "A vendor example; useful mainly to AgentCore users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b7cd31d958bda34d9f9a77ce7f911ad60ff92636",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+        "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Erik Cordsen",
+        "publishedAt": "2026-10-14T16:24:07Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Tutorials",
+        "tags": [
+          "aws",
+          "document-processing"
+        ],
+        "summary": "AWS walkthrough of document processing that improves itself, built on Amazon Bedrock AgentCore.",
+        "whyItMatters": "A vendor reference design for document-processing agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bccbd36002111eba37c8a7d41125c1c4f53cac89",
+        "url": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
+        "canonicalUrl": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data",
+        "title": "Voting on Features: Federated Feature Selection Without Sharing Data",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Ioannis Christofilogiannis",
+        "publishedAt": "2026-10-14T12:30:00Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "federated-learning",
+          "feature-selection"
+        ],
+        "summary": "Towards Data Science walkthrough of selecting features across parties without sharing data.",
+        "whyItMatters": "Useful for privacy-limited collaborations.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6d985ec8d52acd429a60871eb57b78f439b6d015",
+        "url": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
+        "canonicalUrl": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve",
+        "title": "A Scaffold at the Gate: Building AI Applications That Can Evolve",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Erika Gomes-Gonçalves",
+        "publishedAt": "2026-10-14T11:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "architecture",
+          "applications"
+        ],
+        "summary": "Towards Data Science piece on building AI applications that can evolve.",
+        "whyItMatters": "Design advice with little detail visible from the title.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2b78f55e5bcb65069100498d29552db7a56df88d",
+        "url": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
+        "canonicalUrl": "https://towardsdatascience.com/does-stacking-beat-your-best-model",
+        "title": "Does Stacking Beat Your Best Model?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Himanshu Sharma",
+        "publishedAt": "2026-10-14T15:30:00Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "ensembling",
+          "stacking"
+        ],
+        "summary": "Towards Data Science asks whether stacking really beats your best single model.",
+        "whyItMatters": "A practical check before adding ensemble complexity.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "672ebf75c430cf70c5939989b244112c7eac909f",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "canonicalUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-14T16:12:42Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.7,
+        "category": "Tools & Releases",
+        "tags": [
+          "weather",
+          "climate",
+          "open-models"
+        ],
+        "summary": "Hugging Face blog on HiRO-ACEv2, which simulates extreme weather at 3 km resolution at far lower cost.",
+        "whyItMatters": "Cheaper high-resolution climate runs could reach more teams.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd",
+        "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+        "canonicalUrl": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+        "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+        "source": "Google Research Blog",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-14T16:14:00Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "geospatial",
+          "agents",
+          "earth-ai"
+        ],
+        "summary": "Google describes applying geospatial agents from its Earth AI work to large planetary problems.",
+        "whyItMatters": "A sign of agent products reaching geospatial analysis.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fe7e3bf246c621450ec86c6ce7c8a3db5d0d79a1",
+        "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+        "canonicalUrl": "https://theverge.com/science/1011127/ai-weather-forecast-microsoft",
+        "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Justine Calma",
+        "publishedAt": "2026-10-14T16:05:21Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "weather",
+          "microsoft"
+        ],
+        "summary": "The Verge reports Microsoft has a new machine learning tool to improve weather forecasts.",
+        "whyItMatters": "Another sign ML is replacing parts of the forecasting pipeline.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4a863ac766466900f2504f1741ff25f5e8bcfdf2",
+        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini",
+        "title": "llm-gemini 0.35",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-13T22:28:54Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "gemini",
+          "cli",
+          "release"
+        ],
+        "summary": "Simon Willison releases version 0.35 of llm-gemini, his plugin for Gemini models.",
+        "whyItMatters": "Update if you use the plugin; routine release.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "283b0886e43af851403fa22f59e61d1ae410d44f",
+        "url": "https://github.com/RayenMlayeh/jevcrawl",
+        "canonicalUrl": "https://github.com/RayenMlayeh/jevcrawl",
+        "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-13T23:35:20Z",
+        "fetchedAt": "2026-10-15T10:08:49Z",
+        "signals": {
+          "hnPoints": 21,
+          "hnComments": 3,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 4
+        },
+        "total": 2.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "web-crawling",
+          "agents"
+        ],
+        "summary": "Show HN for Jevcrawl, a web crawler built for AI agents that uses no LLM inside the crawl loop.",
+        "whyItMatters": "A deterministic crawler could cut cost and variance in agent browsing.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6bfaaf873eeb7d24996322d4b425b8d41581d1d5",
+        "url": "https://pulseos.finance/",
+        "canonicalUrl": "https://pulseos.finance",
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-13T23:13:23Z",
+        "fetchedAt": "2026-10-15T10:08:49Z",
+        "signals": {
+          "hnPoints": 117,
+          "hnComments": 71,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 3,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 2.7,
+        "category": "Tools & Releases",
+        "tags": [
+          "on-device",
+          "local-models"
+        ],
+        "summary": "Show HN for Pulse Local, a Mac budgeting app that runs its AI models on the user's machine.",
+        "whyItMatters": "Small example of privacy-first local AI in a consumer app.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "e422d5ed36814fbc0b7ef8ba7849d220df092706",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-14T21:11:28Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 5.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "openai",
+          "lawsuit",
+          "child-safety"
+        ],
+        "summary": "Eight US states have sued OpenAI, arguing ChatGPT is unsafe for children, as The Verge reports.",
+        "whyItMatters": "Child-safety exposure now carries legal risk for chatbot makers.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "339da82e2ea922e31ba57ecd3cb307799119db97",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "canonicalUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Dan Goodin",
+        "publishedAt": "2026-10-14T12:55:06Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.8,
+        "category": "Policy & Safety",
+        "tags": [
+          "anthropic",
+          "self-replication",
+          "iot"
+        ],
+        "summary": "Ars Technica reports Anthropic warning that small AI models could self-replicate through IoT devices.",
+        "whyItMatters": "Small-model misuse risk for connected devices; watch for the underlying report.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d0bcab019ed52470940af9243cb61b44be6ee2c0",
+        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+        "canonicalUrl": "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
+        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "David Gilbert",
+        "publishedAt": "2026-10-14T09:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "safety",
+          "open-weights",
+          "extremism"
+        ],
+        "summary": "WIRED reports AI models can be easily modified to assist terrorist and extremist activity.",
+        "whyItMatters": "Open-weight safeguards can be stripped; plan layered defenses.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "64950daaf518492b34ad3586b80f86c93cdb003f",
+        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ashley Belanger",
+        "publishedAt": "2026-10-14T11:00:30Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Policy & Safety",
+        "tags": [
+          "image-generation",
+          "safety",
+          "nudes"
+        ],
+        "summary": "Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.",
+        "whyItMatters": "Safety filters on image models remain easy to bypass.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "48ca1c687a4027500ece0acfed29c2a19c5025dd",
+        "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+        "canonicalUrl": "https://alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+        "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+        "source": "Alignment Forum",
+        "sourceTier": 2,
+        "categoryHint": "Policy & Safety",
+        "author": "peterkirgis",
+        "publishedAt": "2026-10-13T22:19:04Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "Policy & Safety",
+        "tags": [
+          "alignment",
+          "constitutions",
+          "language-models"
+        ],
+        "summary": "Alignment Forum post on how language models revise the documents that govern them.",
+        "whyItMatters": "Relevant to anyone using model-edited policies or constitutions.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6a3287a8503a205cf116b498798e7e601f25a1d",
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+        "canonicalUrl": "https://platformer.news/openai-states-lawsuit-liability",
+        "title": "The states come for OpenAI",
+        "source": "Platformer (Casey Newton)",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Casey Newton",
+        "publishedAt": "2026-10-15T00:52:13Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "openai",
+          "state-law",
+          "regulation"
+        ],
+        "summary": "Platformer analysis of state governments moving against OpenAI.",
+        "whyItMatters": "State action is becoming a regulatory path in the US.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f992f00e022a5af818f8a6c243325e52279b6c28",
+        "url": "https://www.latent.space/p/crossing-the-threshold",
+        "canonicalUrl": "https://latent.space/p/crossing-the-threshold",
+        "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard MacManus",
+        "publishedAt": "2026-10-14T21:40:52Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Policy & Safety",
+        "tags": [
+          "agents",
+          "finance",
+          "safety"
+        ],
+        "summary": "Latent Space compares how OpenAI and Anthropic handle autonomy and safety in financial agents.",
+        "whyItMatters": "Useful if you ship agents that touch money or compliance.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5cb1618c1db568b5987239fb7604905d493f5d44",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+        "canonicalUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "source": "Google DeepMind Blog",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T02:00:14Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "scam-detection",
+          "deepmind"
+        ],
+        "summary": "Google DeepMind and the Singapore government are fine-tuning a model to detect scams.",
+        "whyItMatters": "Government partnership on fraud detection; follows earlier coverage.",
+        "featuredSlot": null,
+        "previouslyFeatured": true
+      },
+      {
+        "id": "021013f45386e3a54ee162805e38133df4e6c2d0",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "canonicalUrl": "https://theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Lauren Feiner",
+        "publishedAt": "2026-10-14T18:47:54Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "character-ai",
+          "privacy",
+          "data"
+        ],
+        "summary": "The Verge asks what happens to user data as Character.AI heads toward bankruptcy.",
+        "whyItMatters": "A reminder that chatbot data has no clear owner if a firm fails.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2f3282e483141f68421d2a0f33b7c26326fcc689",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "canonicalUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "title": "The EU’s next chapter in AI is agentic",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T00:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "eu",
+          "regulation",
+          "agents"
+        ],
+        "summary": "OpenAI post on how Europe's next stage of AI centers on agents.",
+        "whyItMatters": "Company view on EU policy; useful as a signal of lobbying priorities.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "877cbcbdbb3b8ad6d04951d5fafe0d11462019cb",
+        "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lauren Forristal",
+        "publishedAt": "2026-10-14T18:23:46Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "Business",
+        "tags": [
+          "music",
+          "labels",
+          "youtube"
+        ],
+        "summary": "TechCrunch reports YouTube Music is adding new labels as AI-generated tracks multiply on streaming services.",
+        "whyItMatters": "Platforms are starting to mark AI content; expect disclosure rules to follow.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e181547094b0a112cf0b18eccd2fd79396c82dce",
+        "url": "https://openai.com/index/third-moment-research",
+        "canonicalUrl": "https://openai.com/index/third-moment-research",
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T07:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Business",
+        "tags": [
+          "openai",
+          "agents",
+          "long-running"
+        ],
+        "summary": "OpenAI customer story about Third Moment Research running 10,000 agents for more than 36 hours.",
+        "whyItMatters": "Shows scale claims for long-running agent fleets; details unknown.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b4c333a1fc01f38b85b65e7fc788660a12c5303e",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ivan Mehta",
+        "publishedAt": "2026-10-15T04:30:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Business",
+        "tags": [
+          "figma",
+          "agents",
+          "design-tools"
+        ],
+        "summary": "Figma announced features to define how AI agents work on its platform, per TechCrunch.",
+        "whyItMatters": "Design teams will need rules for agents editing shared files.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f1c8e20f759850dd56126404601781992f07abe0",
+        "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+        "title": "Deezer will soon let you filter out AI-generated music",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ivan Mehta",
+        "publishedAt": "2026-10-14T15:16:04Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Business",
+        "tags": [
+          "music",
+          "deezer",
+          "filters"
+        ],
+        "summary": "TechCrunch reports Deezer will soon let users filter out AI-generated music.",
+        "whyItMatters": "Streaming services are adding user controls for AI content.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d7ad5c7f5c98e60df2657ecc09d7b706191c7e3f",
+        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
+        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ram Iyer",
+        "publishedAt": "2026-10-14T18:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "fraud",
+          "agents"
+        ],
+        "summary": "TechCrunch reports Apate sends AI agents undercover to be scammed so they can gather fraud intelligence.",
+        "whyItMatters": "An unusual use of agents as bait for scammers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7d10f0ddfecf202c0b2cc2a533b94c794cdf0d1c",
+        "url": "https://openai.com/index/block-ai-powered-security",
+        "canonicalUrl": "https://openai.com/index/block-ai-powered-security",
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T07:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Business",
+        "tags": [
+          "openai",
+          "security",
+          "case-study"
+        ],
+        "summary": "OpenAI customer story on how Block builds AI-powered security tooling.",
+        "whyItMatters": "Vendor case study; limited technical detail implied.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a0e0fec2c2b5f568672ddffd97e5dbcc17df031b",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "canonicalUrl": "https://openai.com/index/amp-beyond-coding",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T12:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Business",
+        "tags": [
+          "openai",
+          "agents",
+          "case-study"
+        ],
+        "summary": "OpenAI customer story on Amp using OpenAI models for agents that do work beyond coding.",
+        "whyItMatters": "Shows coding-agent vendors widening into other tasks.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f0fe7c9aa7b833420c7eed566b1b40d7b2c2ca30",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Aisha Malik",
+        "publishedAt": "2026-10-15T01:01:32Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Business",
+        "tags": [
+          "chip-design",
+          "compute"
+        ],
+        "summary": "TechCrunch profile of Ricursive Intelligence, which bets on AI-designed chips to ease the compute shortage.",
+        "whyItMatters": "Another startup claiming AI can speed chip design; no results given.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "24cc989c02dbc2a2daf4f04185de8060d33da4a8",
+        "url": "https://openai.com/index/sentinelone",
+        "canonicalUrl": "https://openai.com/index/sentinelone",
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-14T12:00:00Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Business",
+        "tags": [
+          "openai",
+          "security",
+          "case-study"
+        ],
+        "summary": "OpenAI customer story saying SentinelOne cut malware analysis from weeks to hours.",
+        "whyItMatters": "Vendor-reported figure; treat the speedup as unverified.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "af833b42b8bd8e0212c37d65dcebf7cc781db00b",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+        "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Ishara Premadasa",
+        "publishedAt": "2026-10-14T13:53:33Z",
+        "fetchedAt": "2026-10-15T10:08:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Business",
+        "tags": [
+          "aws",
+          "security",
+          "case-study"
+        ],
+        "summary": "AWS customer story about Tamnoon using Amazon Bedrock for cloud security remediation.",
+        "whyItMatters": "A case study of AI used in security triage workflows.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "49aae9e462bc00ae9413a1223262edd2a1d8a2fb",
+        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+        "title": "Redesigning source control at Anthropic",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-13T23:00:06Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Opinion",
+        "tags": [
+          "source-control",
+          "anthropic"
+        ],
+        "summary": "Simon Willison on Anthropic redesigning source control.",
+        "whyItMatters": "Relevant if you manage repositories heavily edited by agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0659125559370f1764b365eaf5200be8ac543250",
+        "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
+        "title": "AI is mass decompiling games. That's both awesome and scary.",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-14T16:26:53Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Opinion",
+        "tags": [
+          "reverse-engineering",
+          "games",
+          "coding-agents"
+        ],
+        "summary": "Simon Willison on AI being used to decompile games at scale and why that is both useful and risky.",
+        "whyItMatters": "AI-assisted decompilation raises the copyright and security stakes.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f7bd6a6d481aa09e71e072b3e0deece071416c1a",
+        "url": "https://garymarcus.substack.com/p/it-remains-very-difficult-to-find",
+        "canonicalUrl": "https://garymarcus.substack.com/p/it-remains-very-difficult-to-find",
+        "title": "It remains “very difficult [to find] actual, materially measurable financial impacts” from spending on AI, per new study",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-14T01:29:11Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Opinion",
+        "tags": [
+          "roi",
+          "study",
+          "ai-spending"
+        ],
+        "summary": "Gary Marcus cites a new study finding AI spending has shown few measurable financial impacts.",
+        "whyItMatters": "Check your own return on AI spend against this skeptical claim.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c34ab7ec395b704486e4fff39f9a13337a98bd53",
+        "url": "https://thezvi.substack.com/p/the-safety-culture-at-the-labs-is",
+        "canonicalUrl": "https://thezvi.substack.com/p/the-safety-culture-at-the-labs-is",
+        "title": "The Safety Culture at the Labs is Broken",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-14T14:28:51Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "safety",
+          "labs"
+        ],
+        "summary": "Zvi Mowshowitz argues safety culture at the leading labs is broken.",
+        "whyItMatters": "One analyst's view; compare with what labs publish themselves.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3f466354089187483441d13d405cf566110ac3fd",
+        "url": "https://www.understandingai.org/p/openais-ironic-credibility-problem",
+        "canonicalUrl": "https://understandingai.org/p/openais-ironic-credibility-problem",
+        "title": "OpenAI’s ironic credibility problem",
+        "source": "Understanding AI (Timothy B. Lee)",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Dan Kagan-Kans",
+        "publishedAt": "2026-10-14T18:41:56Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "openai",
+          "credibility"
+        ],
+        "summary": "Timothy B. Lee argues OpenAI has a credibility problem.",
+        "whyItMatters": "Commentary; weigh it against the company's own statements.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ca03053b4e7ebd827ff3d8ea8841008e69147151",
+        "url": "https://garymarcus.substack.com/p/generative-ai-in-disarray",
+        "canonicalUrl": "https://garymarcus.substack.com/p/generative-ai-in-disarray",
+        "title": "Generative AI in disarray",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-15T01:32:36Z",
+        "fetchedAt": "2026-10-15T10:08:52Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.3,
+        "category": "Opinion",
+        "tags": [
+          "opinion",
+          "generative-ai"
+        ],
+        "summary": "Gary Marcus essay arguing generative AI is in disarray.",
+        "whyItMatters": "One critical view; read as opinion, not evidence.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c3ce0b13a2faeed2cb61bf3bfcf370538b182bf",
+        "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+        "title": "Tree Appreciator",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-14T21:23:01Z",
+        "fetchedAt": "2026-10-15T10:08:51Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.1,
+        "category": "Opinion",
+        "tags": [
+          "blog",
+          "models"
+        ],
+        "summary": "Simon Willison post titled Tree Appreciator, a short personal note.",
+        "whyItMatters": "Light reading; no action needed.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 1615,
+    "afterDedupe": 1492,
+    "ranked": 111
+  }
+}

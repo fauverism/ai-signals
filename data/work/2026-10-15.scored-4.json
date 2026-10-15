@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-15",
+  "batch": 4,
+  "items": [
+    {
+      "id": "2b78f55e5bcb65069100498d29552db7a56df88d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ensembling",
+        "stacking"
+      ],
+      "summary": "Towards Data Science asks whether stacking really beats your best single model.",
+      "whyItMatters": "A practical check before adding ensemble complexity.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "f1c8e20f759850dd56126404601781992f07abe0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "music",
+        "deezer",
+        "filters"
+      ],
+      "summary": "TechCrunch reports Deezer will soon let users filter out AI-generated music.",
+      "whyItMatters": "Streaming services are adding user controls for AI content.",
+      "organization": "deezer"
+    },
+    {
+      "id": "c34ab7ec395b704486e4fff39f9a13337a98bd53",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "safety",
+        "labs"
+      ],
+      "summary": "Zvi Mowshowitz argues safety culture at the leading labs is broken.",
+      "whyItMatters": "One analyst's view; compare with what labs publish themselves.",
+      "organization": "ai labs"
+    },
+    {
+      "id": "fca580161234c0d555dd3a7dcf3b0c266af548c5",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "embeddings",
+        "nlp"
+      ],
+      "summary": "Towards Data Science explainer on how word embeddings capture relationships between words.",
+      "whyItMatters": "Introductory material for newcomers.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "69686f07e2bb3d1e1c1a9e7aa44dbaa21f98ec50",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "windows"
+      ],
+      "summary": "ZDNET reports a Windows update fixes about 1,400 security bugs, including two zero days.",
+      "whyItMatters": "Patch promptly; the AI link is limited, per the title.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "e49d3c1f3bc73abbccd0f1b175c737c23fc40e9b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "mathematics",
+        "protest"
+      ],
+      "summary": "The Signal reports mathematicians protesting AI in a manner it likens to 1986.",
+      "whyItMatters": "Shows friction between mathematicians and AI tools.",
+      "organization": "mathematicians"
+    },
+    {
+      "id": "339da82e2ea922e31ba57ecd3cb307799119db97",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "self-replication",
+        "iot"
+      ],
+      "summary": "Ars Technica reports Anthropic warning that small AI models could self-replicate through IoT devices.",
+      "whyItMatters": "Small-model misuse risk for connected devices; watch for the underlying report.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "bccbd36002111eba37c8a7d41125c1c4f53cac89",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "federated-learning",
+        "feature-selection"
+      ],
+      "summary": "Towards Data Science walkthrough of selecting features across parties without sharing data.",
+      "whyItMatters": "Useful for privacy-limited collaborations.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "64950daaf518492b34ad3586b80f86c93cdb003f",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "image-generation",
+        "safety",
+        "nudes"
+      ],
+      "summary": "Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.",
+      "whyItMatters": "Safety filters on image models remain easy to bypass.",
+      "organization": "openai"
+    },
+    {
+      "id": "6d985ec8d52acd429a60871eb57b78f439b6d015",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "architecture",
+        "applications"
+      ],
+      "summary": "Towards Data Science piece on building AI applications that can evolve.",
+      "whyItMatters": "Design advice with little detail visible from the title.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "eadccdd63496fac3a924be396c877b759b1fd9b5",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "culture",
+        "chatbots"
+      ],
+      "summary": "WIRED essay titled My Friend Has No Soul about relationships with AI.",
+      "whyItMatters": "Cultural commentary; no technical news.",
+      "organization": "consumer ai"
+    },
+    {
+      "id": "f80d7048c2cdb08f35e890240837f7df79656605",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "culture",
+        "ai-literacy"
+      ],
+      "summary": "WIRED column on men overstating what they know about AI.",
+      "whyItMatters": "Light commentary.",
+      "organization": "consumer ai"
+    },
+    {
+      "id": "d0bcab019ed52470940af9243cb61b44be6ee2c0",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "safety",
+        "open-weights",
+        "extremism"
+      ],
+      "summary": "WIRED reports AI models can be easily modified to assist terrorist and extremist activity.",
+      "whyItMatters": "Open-weight safeguards can be stripped; plan layered defenses.",
+      "organization": "ai labs"
+    },
+    {
+      "id": "2c1c2c493e6e992d79539dce3b409ea71919bda2",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "gemini",
+        "benchmarks",
+        "roundup"
+      ],
+      "summary": "Latent Space's AINews digest from AI Engineer NYC mentions Gemini 4 Argon and Vals AI benchmarks.",
+      "whyItMatters": "Pointer to a possible Gemini release; confirm with Google.",
+      "organization": "google"
+    },
+    {
+      "id": "f7bd6a6d481aa09e71e072b3e0deece071416c1a",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "roi",
+        "study",
+        "ai-spending"
+      ],
+      "summary": "Gary Marcus cites a new study finding AI spending has shown few measurable financial impacts.",
+      "whyItMatters": "Check your own return on AI spend against this skeptical claim.",
+      "organization": "ai industry"
+    },
+    {
+      "id": "e4b20f559bfdd52f3f660f84067fd6fae688cfe2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "social-media",
+        "x"
+      ],
+      "summary": "Platformer's Casey Newton writes about X's reverse eternal September.",
+      "whyItMatters": "Platform-culture commentary, little AI-specific news.",
+      "organization": "x"
+    },
+    {
+      "id": "ea7c2ad9ec6a1e561092ef1b03a7c3f7783a1676",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "TLDR AI digest covering an OpenAI developer arrest, a Pi API and OpenCode 2.0.",
+      "whyItMatters": "Daily roundup pointing at a few items worth checking.",
+      "organization": "ai industry"
+    },
+    {
+      "id": "e540598aacd912ec6edf2c6fa93bc1d637bf1a70",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "security"
+      ],
+      "summary": "WIRED reports an OpenAI employee allegedly used a chatbot to help plant a recording device at the office.",
+      "whyItMatters": "Same story as other coverage; novelty is the chatbot angle.",
+      "organization": "openai"
+    },
+    {
+      "id": "49aae9e462bc00ae9413a1223262edd2a1d8a2fb",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "source-control",
+        "anthropic"
+      ],
+      "summary": "Simon Willison on Anthropic redesigning source control.",
+      "whyItMatters": "Relevant if you manage repositories heavily edited by agents.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "4a863ac766466900f2504f1741ff25f5e8bcfdf2",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gemini",
+        "cli",
+        "release"
+      ],
+      "summary": "Simon Willison releases version 0.35 of llm-gemini, his plugin for Gemini models.",
+      "whyItMatters": "Update if you use the plugin; routine release.",
+      "organization": "simon willison"
+    },
+    {
+      "id": "51d4d67553279daf06b7e68df66c346706db62a8",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "robotics",
+        "agents"
+      ],
+      "summary": "Latent Space interviews Jason Ma of Dyna Robotics about physical agents with hour-long autonomy.",
+      "whyItMatters": "Long-horizon robot autonomy is a claim to follow; details unseen.",
+      "organization": "dyna robotics"
+    },
+    {
+      "id": "48ca1c687a4027500ece0acfed29c2a19c5025dd",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "alignment",
+        "constitutions",
+        "language-models"
+      ],
+      "summary": "Alignment Forum post on how language models revise the documents that govern them.",
+      "whyItMatters": "Relevant to anyone using model-edited policies or constitutions.",
+      "organization": "alignment forum authors"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "2e447a71d8fc2e9a1df05f8f583444fc95248365",
+      "reason": "event ticket promotion"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}
