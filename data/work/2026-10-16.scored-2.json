@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-16",
+  "batch": 2,
+  "items": [
+    {
+      "id": "2992eba465b70168f72795243ca305d99ddc9e53",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "flow-matching",
+        "generative-models"
+      ],
+      "summary": "Preprint on aligning semantic latents for flow matching using invertible adapters.",
+      "whyItMatters": "Narrow generative-modeling theory.",
+      "organization": "unknown"
+    },
+    {
+      "id": "330659d1e9f2593555f26527c34060e8431f95dd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "on-device",
+        "time-series",
+        "privacy"
+      ],
+      "summary": "Paper on a soft-prompt time-series language model that runs on smartphones for private sensing tasks.",
+      "whyItMatters": "Example of on-device inference for private data.",
+      "organization": "unknown"
+    },
+    {
+      "id": "43c649eeeab3666e67a9ed81e1b90116bd390450",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "image-registration"
+      ],
+      "summary": "Paper applying implicit neural representations to periodic image registration.",
+      "whyItMatters": "Very niche.",
+      "organization": "unknown"
+    },
+    {
+      "id": "7236ab2f52d6261ab8c0ff537db495cd254818b4",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging"
+      ],
+      "summary": "Paper on recovering coexisting lesion evidence using multiple instance learning.",
+      "whyItMatters": "Niche medical-imaging method.",
+      "organization": "unknown"
+    },
+    {
+      "id": "74877cce6183eafedf988d7ba6d3bd01b79fde39",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "distillation",
+        "vision-language-models"
+      ],
+      "summary": "Paper finding that on-policy distillation in vision-language models carries over traits of the teacher.",
+      "whyItMatters": "Warns that distillation can inherit teacher flaws.",
+      "organization": "unknown"
+    },
+    {
+      "id": "808d2c0fbacd602916ab37153884fbe308250c5e",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "materials",
+        "representation-learning"
+      ],
+      "summary": "Paper on topology-aware representations for metamaterial mechanics.",
+      "whyItMatters": "Very niche.",
+      "organization": "unknown"
+    },
+    {
+      "id": "92f02b5b2811534e114f9963f21ee8359762cb9d",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language-models",
+        "benchmarks",
+        "safety"
+      ],
+      "summary": "Benchmark probing vision-language models on latent driving hazards in Bangladesh road scenes.",
+      "whyItMatters": "Shows regional gaps in driving-scene VLMs.",
+      "organization": "unknown"
+    },
+    {
+      "id": "b382a6d08a5fad47657b74a0396d7466baa1a1c5",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nemotron",
+        "nvidia",
+        "multimodal",
+        "agents",
+        "open-weights"
+      ],
+      "summary": "Nvidia's technical blog presents Nemotron 3.5 Super VL, a vision-language model aimed at specialized agents.",
+      "whyItMatters": "Another open multimodal option for agent builders on Nvidia hardware.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "3acf1ce3b7a126f869992ff17c294a23d481be7f",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "nemotron",
+        "open-weights",
+        "nvidia"
+      ],
+      "summary": "ZDNET frames Nemotron 3.5 Super VL as a step forward for US open-weight models.",
+      "whyItMatters": "Context on the open-weight race; the primary source has the specifics.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "046a4991ca0582f88c14f7204f67a662f0d472a1",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vlm",
+        "audit",
+        "ocr"
+      ],
+      "summary": "Audit of vision-language models reading Arabic calligraphy.",
+      "whyItMatters": "Shows script-specific failure modes.",
+      "organization": "unknown"
+    },
+    {
+      "id": "06112e20cae3e59d4ab01623dcbdb72cf82e0504",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "3d-gaussian-splatting"
+      ],
+      "summary": "Paper on feed-forward Gaussian splatting with compact anchor representations.",
+      "whyItMatters": "Relevant to 3D reconstruction pipelines.",
+      "organization": "unknown"
+    },
+    {
+      "id": "06a30eacc1d6fa1f4c14cf24dfb26f003b5bc8f4",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion",
+        "image-editing"
+      ],
+      "summary": "Paper on training-free object removal in few-step diffusion models via noise-aware state correction.",
+      "whyItMatters": "Niche image-editing technique.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0740059b32b721ef2cc2872ae71d173b85c44537",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "image-generation",
+        "latent-diffusion"
+      ],
+      "summary": "Preprint on transferring priors into compressed latent spaces for high-resolution image generation.",
+      "whyItMatters": "Possible cheaper high-resolution generation.",
+      "organization": "unknown"
+    },
+    {
+      "id": "077eb920e0ddee1e2d992b5fd519af36559e0085",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "segmentation",
+        "vision-transformers"
+      ],
+      "summary": "Paper on fusing modalities in a vision transformer for segmentation in varied lighting.",
+      "whyItMatters": "Niche.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0820f87be8f16353ae41dae4e86b44b341e3b082",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "slam",
+        "robotics",
+        "nvidia"
+      ],
+      "summary": "Paper adding line features to cuVSLAM for odometry in low-texture scenes.",
+      "whyItMatters": "Helps robot navigation in featureless spaces.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "0efc3184576190624b7af6e4feec21febf5f6350",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "3d",
+        "vision-language"
+      ],
+      "summary": "Preprint on models that reason and explore actively in 3D environments.",
+      "whyItMatters": "Early embodied-reasoning work.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0fbd89e616204d526e85b328c6f1a8cfe4625d91",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "edge-ai",
+        "agriculture"
+      ],
+      "summary": "Paper on an edge system estimating insect leaf damage in grapevines.",
+      "whyItMatters": "Niche applied vision.",
+      "organization": "unknown"
+    },
+    {
+      "id": "ba4e7337aba280a43aa0c8a66d42089649fa3da6",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pretraining",
+        "indic-languages",
+        "datasets",
+        "open-source"
+      ],
+      "summary": "Hugging Face post on pretraining with 2.8 trillion tokens for Indic languages and an open data-generation pipeline.",
+      "whyItMatters": "A reusable recipe for low-resource language pretraining.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "a01e02239da0a38ee49f2989916454516c49e83e",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "granite",
+        "ibm",
+        "speech",
+        "open-weights"
+      ],
+      "summary": "Hugging Face post on Granite Switch 4.1, offering chat, decision and speech tasks behind one endpoint.",
+      "whyItMatters": "Simplifies serving by consolidating tasks into one model endpoint.",
+      "organization": "ibm"
+    },
+    {
+      "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "gpt-rosalind",
+        "science"
+      ],
+      "summary": "OpenAI announces access to GPT-Rosalind for academic research labs.",
+      "whyItMatters": "Matters if you run life-science research and want access.",
+      "organization": "openai"
+    },
+    {
+      "id": "d259b094fe0e06218df0518dc09d01a6217a4d03",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "muse-spark",
+        "nvidia",
+        "inference",
+        "coding-agents"
+      ],
+      "summary": "Nvidia describes running Muse Spark Open on GB300 NVL72 systems for agentic coding workloads.",
+      "whyItMatters": "Reference for serving the new open model at scale on Nvidia.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "13e122947fcaa3ffca2c34949d01bb10907334f3",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "muse-spark",
+        "aws",
+        "sagemaker"
+      ],
+      "summary": "AWS announces Muse Spark Open availability in SageMaker JumpStart.",
+      "whyItMatters": "Managed deployment path for the new open-weight model.",
+      "organization": "aws"
+    },
+    {
+      "id": "1d4cff712a9a12812912916b09ee2f570c14be95",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "google-deepmind",
+        "antigravity",
+        "biology"
+      ],
+      "summary": "DeepMind describes using its Antigravity tool to speed the search for antimicrobial peptides.",
+      "whyItMatters": "Case study of agentic tooling applied to drug discovery.",
+      "organization": "google deepmind"
+    },
+    {
+      "id": "4046eeecbe56b543280521963264b62b6f63d722",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "verification",
+        "computing",
+        "microsoft-research"
+      ],
+      "summary": "Microsoft Research introduces Magnetar, an approach to proof-based general-purpose computing.",
+      "whyItMatters": "Verifiable computation could matter for auditing AI workloads.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "25dcb59795ffe17eb57c6f8b6a2c92dee4295f32",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "security",
+        "aws"
+      ],
+      "summary": "AWS outlines a layered approach to giving agents more autonomy while keeping control.",
+      "whyItMatters": "Practical guardrail patterns for production agents.",
+      "organization": "aws"
+    },
+    {
+      "id": "fa14b8f7db4605dfa58d6966f0032b53bc43f042",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "education"
+      ],
+      "summary": "OpenAI post on helping students learn through questions.",
+      "whyItMatters": "Product positioning; little technical change.",
+      "organization": "openai"
+    },
+    {
+      "id": "1aaf9ecdd8b26e6841062b60a86f8fb47c4cd5e9",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "multimodal",
+        "search"
+      ],
+      "summary": "Apple research on selection-based structured reasoning for efficient multimodal search agents.",
+      "whyItMatters": "Idea for cheaper search-agent loops.",
+      "organization": "apple"
+    },
+    {
+      "id": "3733c75a28bf26df988281155bac3e5cdfdea7ba",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "flux",
+        "diffusers",
+        "image-generation"
+      ],
+      "summary": "Hugging Face post on running FLUX.3 Image Klein in the Diffusers library.",
+      "whyItMatters": "Ready-to-use path for the new FLUX variant.",
+      "organization": "black forest labs"
+    },
+    {
+      "id": "7f2975ae8e0c0069427f9aeee7f658795abe20f6",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "tool-use",
+        "agents",
+        "retrieval"
+      ],
+      "summary": "Apple study comparing plan-first and retrieve-first designs for tool discovery at scale.",
+      "whyItMatters": "Evidence for architecture choices in large tool catalogs.",
+      "organization": "apple"
+    },
+    {
+      "id": "98e6a11f87f3c75ff09f029c60c62757139be47d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "mlx",
+        "inference",
+        "apple-silicon",
+        "distributed"
+      ],
+      "summary": "Apple research on running large LLMs locally and distributed across Mac Studios with MLX and RDMA.",
+      "whyItMatters": "Shows how far Mac clusters can stretch for large local inference.",
+      "organization": "apple"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-7d8227baa4",
+      "label": "Nvidia Nemotron 3.5 Super VL"
+    }
+  ],
+  "fetches": []
+}

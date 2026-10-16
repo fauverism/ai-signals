@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-16",
+  "batch": 4,
+  "items": [
+    {
+      "id": "a3f7cd60d423bf9c31ecaa45105b8bd27ffa3f68",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "windows",
+        "nvidia",
+        "laptops"
+      ],
+      "summary": "The Verge reports on how Windows is being tuned for Nvidia's RTX Spark laptops.",
+      "whyItMatters": "Platform support for local AI on new laptops.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "8328bf79bca4f01fc127a0c503a25a602bd51d38",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "openai",
+        "mathematics"
+      ],
+      "summary": "Towards Data Science piece on what OpenAI's math papers mean for data science.",
+      "whyItMatters": "Interpretive take; verify claims against the papers.",
+      "organization": "openai"
+    },
+    {
+      "id": "40b611a330c7478c028f8a5cac8062e80ead7ceb",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "revenue",
+        "ipo"
+      ],
+      "summary": "Simon Willison relays reporting that Anthropic told investors quarterly revenue rose nearly 50% ahead of an IPO.",
+      "whyItMatters": "Signals commercial strength of a major API vendor.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "9b7714f40f9b481d4f7bc9f42ed10ad451e95000",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "randomness",
+        "llm"
+      ],
+      "summary": "Towards Data Science experiment on how predictable an AI's random numbers are.",
+      "whyItMatters": "Fun exercise showing model number bias.",
+      "organization": "unknown"
+    },
+    {
+      "id": "9a556c5d266337a7ea3504a5e3314cf33758c64a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Weekly AI roundup newsletter from Zvi Mowshowitz.",
+      "whyItMatters": "Roundup; skim for pointers.",
+      "organization": "zvi mowshowitz"
+    },
+    {
+      "id": "24c7389afe46c47b5b192f9b8ca54edbaf5da595",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "memory",
+        "assistants",
+        "cost"
+      ],
+      "summary": "Towards Data Science test of four ways to add memory to an AI assistant, comparing value.",
+      "whyItMatters": "Practical cost comparison for assistant memory design.",
+      "organization": "unknown"
+    },
+    {
+      "id": "54389908e07ca0097275af423ca66f1dc6d17189",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "rag",
+        "chunking"
+      ],
+      "summary": "Machine Learning Mastery decision tree for choosing a chunking strategy in LLM apps.",
+      "whyItMatters": "Handy checklist for RAG builders.",
+      "organization": "machine learning mastery"
+    },
+    {
+      "id": "b2481d1228ebf07d1a1828c9647afc9b8e62ddbe",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "essay",
+        "mental-health"
+      ],
+      "summary": "Short opinion post titled Mindcare.",
+      "whyItMatters": "Light commentary.",
+      "organization": "more better thinking"
+    },
+    {
+      "id": "7908d899cb3e3fcc9a4b43b847f9c3f2a54fd87f",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "modal",
+        "infrastructure",
+        "funding"
+      ],
+      "summary": "Newsletter notes Modal's reported revenue and valuation growth as an AI infrastructure company.",
+      "whyItMatters": "Indicates demand for serverless GPU infrastructure.",
+      "organization": "modal"
+    },
+    {
+      "id": "0d594a83b91f9e717449d3b4b27c84b22ab122df",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "mcp",
+        "api-design",
+        "agents"
+      ],
+      "summary": "Refactoring guide to designing a good MCP server.",
+      "whyItMatters": "Practical advice for tool authors building MCP servers.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "ca03053b4e7ebd827ff3d8ea8841008e69147151",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary",
+        "generative-ai"
+      ],
+      "summary": "Gary Marcus essay arguing the generative AI field is in disarray.",
+      "whyItMatters": "Critical viewpoint; pair with primary data.",
+      "organization": "gary marcus"
+    },
+    {
+      "id": "c6a3287a8503a205cf116b498798e7e601f25a1d",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "openai",
+        "states"
+      ],
+      "summary": "Platformer reports on US states moving against OpenAI.",
+      "whyItMatters": "State-level action could shape compliance for AI vendors.",
+      "organization": "openai"
+    },
+    {
+      "id": "8fbb1278b1546649968491ef730cfd01de125809",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup",
+        "voice"
+      ],
+      "summary": "TLDR AI issue covering a Grok voice release and other items.",
+      "whyItMatters": "Quick roundup; follow links for specifics.",
+      "organization": "tldr"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-16",
+  "batch": 3,
+  "items": [
+    {
+      "id": "dd00c04c9b95848ea0ec2f0b57fc95409902cbbb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "legal"
+      ],
+      "summary": "OpenAI describes a law firm applying its models to agreement review.",
+      "whyItMatters": "Customer example of AI in contract review.",
+      "organization": "openai"
+    },
+    {
+      "id": "244831af62488291746c094805c773184e49f261",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "google",
+        "shopping",
+        "agents"
+      ],
+      "summary": "TechCrunch reports Google's Universal Cart shopping tool is launching in the US.",
+      "whyItMatters": "Another agentic shopping surface from Google.",
+      "organization": "google"
+    },
+    {
+      "id": "a6d305e8949d43bb502519dde260e145335ee20c",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "google",
+        "shopping"
+      ],
+      "summary": "ZDNET walks through what Universal Cart does, including price tracking.",
+      "whyItMatters": "Consumer-facing detail on the same launch.",
+      "organization": "google"
+    },
+    {
+      "id": "4f9baf27c734f70f9e8f2651ea25900395da9407",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "management",
+        "teams"
+      ],
+      "summary": "Interview-style newsletter on treating a team as a system.",
+      "whyItMatters": "General management reading, not AI-specific.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "483d6307e687a2d8c3a870289c58f09535bb969c",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "interpretability",
+        "agents",
+        "alignment"
+      ],
+      "summary": "Newsletter issue claiming agents help disprove polysemanticity and improve interpretability.",
+      "whyItMatters": "Interesting claim; check the underlying papers before relying on it.",
+      "organization": "various"
+    },
+    {
+      "id": "aae90d6b2dab6fff163fe59285c9969a63208f76",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "marketing",
+        "apps"
+      ],
+      "summary": "TechCrunch reports how influencer paid promotion drove an AI calorie-tracking app's viral growth.",
+      "whyItMatters": "Marketing lesson, not a technology change.",
+      "organization": "cal ai"
+    },
+    {
+      "id": "090e3a2ea56614e95508467893967fc195358a3f",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "browser",
+        "privacy"
+      ],
+      "summary": "The Verge reports ChatGPT can now view your open Chrome tabs.",
+      "whyItMatters": "Raises new privacy and context-sharing considerations for assistant users.",
+      "organization": "openai"
+    },
+    {
+      "id": "efa164a3921b8db46a8b6f27135a85792268d801",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "culture",
+        "backlash"
+      ],
+      "summary": "The Verge essay on tech backlash showing up in film.",
+      "whyItMatters": "Cultural commentary.",
+      "organization": "the verge"
+    },
+    {
+      "id": "ac13ec21a7ae4ad55291dcf422ea684e56fe2f26",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "image-editing",
+        "politics"
+      ],
+      "summary": "The Verge reports on an AI-edited photo posted by a political figure.",
+      "whyItMatters": "Example of synthetic-media misuse.",
+      "organization": "white house"
+    },
+    {
+      "id": "90ac7b4578468e9cabab8ecc70b5ab0ab6ecd131",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "liability",
+        "agents"
+      ],
+      "summary": "WIRED examines damage from AI-driven hacks and who ends up paying for it.",
+      "whyItMatters": "Liability question for anyone shipping agents.",
+      "organization": "various"
+    },
+    {
+      "id": "41c3c04694055f9db1d85fa2334efad46b7af29c",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "market",
+        "bubble"
+      ],
+      "summary": "Opinion essay arguing the AI investment boom is close to a pullback.",
+      "whyItMatters": "Opinion; weigh accordingly.",
+      "organization": "the algorithmic bridge"
+    },
+    {
+      "id": "661320cc40ff6411df0aedca5ca895b285ac5e6f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "bluesky",
+        "app-building",
+        "agents"
+      ],
+      "summary": "The Verge reports Bluesky's AI tool can now build games and apps to share socially.",
+      "whyItMatters": "Vibe-coding spreading into social platforms.",
+      "organization": "bluesky"
+    },
+    {
+      "id": "a983409c8d0b9cd03f62ff4dcaab0ef42d2ea36a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "devices",
+        "agents"
+      ],
+      "summary": "TechCrunch interview where Amazon's devices chief predicts AI devices replacing apps.",
+      "whyItMatters": "Executive forecast, not a product release.",
+      "organization": "amazon"
+    },
+    {
+      "id": "fc710191e832cb3be981ea55ce85fd685cf4e510",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "simon-willison",
+        "experiments"
+      ],
+      "summary": "Short blog post from Simon Willison on a small project called Chirp Pong.",
+      "whyItMatters": "Light read; could inspire small experiments.",
+      "organization": "simon willison"
+    },
+    {
+      "id": "e925c3137a8af8ad4b86cdc573df0a8e88ba79b3",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "metr",
+        "evaluation",
+        "safety"
+      ],
+      "summary": "TechCrunch reports Anthropic is giving METR researchers employee-level access to its systems.",
+      "whyItMatters": "Deeper third-party access could improve credibility of safety evaluations.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "35f04bc99ba5e049d094eb0dd6d79a517b00df44",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "bluesky",
+        "app-building"
+      ],
+      "summary": "TechCrunch covers Bluesky widening its Attie app to build websites, games and more.",
+      "whyItMatters": "Same launch as above from a second outlet.",
+      "organization": "bluesky"
+    },
+    {
+      "id": "84f965895b6b8baafbb3fedee4b887eaf9d8fec3",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "code-review",
+        "ci-cd",
+        "developer-tools"
+      ],
+      "summary": "Essay arguing AI code review may become a standard CI/CD stage.",
+      "whyItMatters": "Frames a workflow change for engineering teams.",
+      "organization": "tech scoop"
+    },
+    {
+      "id": "0e4f8374803f0b7c68099515797f014d4488fcba",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "security",
+        "industry"
+      ],
+      "summary": "Newsletter issue covering an allegation of spying involving an OpenAI engineer.",
+      "whyItMatters": "Industry security story; details are allegations.",
+      "organization": "openai"
+    },
+    {
+      "id": "6d26dc845c51e3d06183bcde171361d7325a8510",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "privacy",
+        "security"
+      ],
+      "summary": "The Verge argues against handing personal data to AI agents.",
+      "whyItMatters": "Reminder to scope agent permissions carefully.",
+      "organization": "the verge"
+    },
+    {
+      "id": "12f70f9144a8a1f106ce0facd34c0f8991c14e35",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "ftc",
+        "openai",
+        "anthropic"
+      ],
+      "summary": "Ars Technica reports the FTC is probing Anthropic and OpenAI, based on a report.",
+      "whyItMatters": "Regulatory attention could affect both major API vendors.",
+      "organization": "ftc"
+    },
+    {
+      "id": "74169f8e3242f582d435f381a3420cfcca4296be",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "alignment",
+        "agent-theory"
+      ],
+      "summary": "Alignment Forum preface introducing a sequence on computational agent theory and superintelligence alignment.",
+      "whyItMatters": "Theory series; early to judge impact.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c63936c9cf32bdb5bec5bd9628d63f45b3a43945",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "reliability",
+        "system-design"
+      ],
+      "summary": "ByteByteGo guide to designing systems for failure.",
+      "whyItMatters": "Sound general reliability reading.",
+      "organization": "bytebytego"
+    },
+    {
+      "id": "7a140a3d194d5457ca4a6b82bd1a3626c60ac116",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "decision-models",
+        "llm"
+      ],
+      "summary": "Towards Data Science comparison of open decision models against a generative LLM.",
+      "whyItMatters": "Practical comparison for choosing model types.",
+      "organization": "unknown"
+    },
+    {
+      "id": "6388b3d480b1995c3098b7ad6a553367cee49f84",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "youtube",
+        "labeling",
+        "synthetic-media"
+      ],
+      "summary": "Ars Technica reports YouTube Music is adding labels for generative-AI music.",
+      "whyItMatters": "Disclosure labeling is becoming a platform norm.",
+      "organization": "youtube"
+    },
+    {
+      "id": "2c9392a52f2061c8f2328f9a574753464c05688d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "automotive",
+        "agents"
+      ],
+      "summary": "TechCrunch reports AI agents coming to Rivian vehicles.",
+      "whyItMatters": "Agents moving into in-car software.",
+      "organization": "rivian"
+    },
+    {
+      "id": "93f5d3187e2cb10708f53a49434625f03b23ab3f",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "executorch",
+        "arm",
+        "on-device",
+        "pytorch"
+      ],
+      "summary": "PyTorch blog on bringing ExecuTorch to Arm Cortex-M CPUs.",
+      "whyItMatters": "Brings PyTorch deployment to tiny microcontroller-class devices.",
+      "organization": "pytorch"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "12fa98d37cbb975f7ab7d3cb5a9c94e8f8316753",
+      "reason": "not AI news"
+    },
+    {
+      "id": "d9d8114df72167e6fc4d8e082bc5512d5cc0a293",
+      "reason": "event ticket promo"
+    },
+    {
+      "id": "49eb2ca597c6e74d86938d25a244fe34247a1d12",
+      "reason": "consumer product advice"
+    },
+    {
+      "id": "c34d8a83a29a5a506c941e829a06b391a861fe25",
+      "reason": "consumer hardware rumor"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-6a197c9576",
+      "label": "Google Universal Cart shopping launch"
+    }
+  ],
+  "fetches": []
+}

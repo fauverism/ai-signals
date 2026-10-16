@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:10:57 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <guid isPermaLink="false">9d251ac6836a600d8fed2294d5c3f8928f6177ed</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face documents the open-weight release of Meta&apos;s Muse Spark, a multimodal mixture-of-experts model, with usage notes for developers.</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning</title>
+      <link>https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/</link>
+      <guid isPermaLink="false">b382a6d08a5fad47657b74a0396d7466baa1a1c5</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Nvidia&apos;s technical blog presents Nemotron 3.5 Super VL, a vision-language model aimed at specialized agents.</description>
+    </item>
+    <item>
+      <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
+      <guid isPermaLink="false">12f70f9144a8a1f106ce0facd34c0f8991c14e35</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Ars Technica reports the FTC is probing Anthropic and OpenAI, based on a report.</description>
+    </item>
+    <item>
+      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
+      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
+      <guid isPermaLink="false">e925c3137a8af8ad4b86cdc573df0a8e88ba79b3</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch reports Anthropic is giving METR researchers employee-level access to its systems.</description>
+    </item>
+    <item>
+      <title>Welcome FLUX.3 Image Klein in Diffusers</title>
+      <link>https://huggingface.co/blog/flux-3</link>
+      <guid isPermaLink="false">3733c75a28bf26df988281155bac3e5cdfdea7ba</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on running FLUX.3 Image Klein in the Diffusers library.</description>
+    </item>
+    <item>
+      <title>Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/</link>
+      <guid isPermaLink="false">13e122947fcaa3ffca2c34949d01bb10907334f3</guid>
+      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>AWS announces Muse Spark Open availability in SageMaker JumpStart.</description>
+    </item>
     <item>
       <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
       <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
@@ -294,54 +342,6 @@
       <pubDate>Sat, 10 Oct 2026 10:08:49 GMT</pubDate>
       <category>News</category>
       <description>Platformer discusses AI producing math solutions faster than people can check them.</description>
-    </item>
-    <item>
-      <title>Disrupting AI-enabled “false front” operations</title>
-      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
-      <guid isPermaLink="false">077dea1e8a7adb2ecc693b38c1b71a2d4ebc694c</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>OpenAI report on disrupting influence operations that use AI to run false-front accounts.</description>
-    </item>
-    <item>
-      <title>Google is launching a one-stop Gemini agent for your work tasks</title>
-      <link>https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise</link>
-      <guid isPermaLink="false">94028437ade776ca92b6f161d0c720715855a422</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>The Verge reports Google launching a Gemini agent aimed at workplace tasks.</description>
-    </item>
-    <item>
-      <title>[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing</title>
-      <link>https://www.latent.space/p/ainews-claude-haiku-55-better-than</link>
-      <guid isPermaLink="false">9fa009655eac92fd7a2382f1fd8bcbaebf774eb0</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>News</category>
-      <description>AINews recap saying Claude Haiku 5.5 beats a rival small model at similar pricing; the comparison comes from the newsletter headline.</description>
-    </item>
-    <item>
-      <title>Port of the TypeScript compiler, checker and lsp to Rust, by LLM</title>
-      <link>https://github.com/pingdotgg/ts-rust</link>
-      <guid isPermaLink="false">1b35443cec6d3b4d1a0e2adb2d2e3e9da67487e7</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>News</category>
-      <description>Hacker News link about an LLM-driven port of the TypeScript compiler, checker and language server to Rust.</description>
-    </item>
-    <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://github.com/SamsungLabs/LittleBit</link>
-      <guid isPermaLink="false">3295fd7388cdcc6b9960f1a156f29a0ebf71bbe0</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Research</category>
-      <description>Hacker News link to work on compressing LLMs below one bit per weight using latent factorization.</description>
-    </item>
-    <item>
-      <title>Anthropic bans ‘abusive or cruel behavior’ toward Claude</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
-      <guid isPermaLink="false">f526dbecf422929fb1d36cadc551daf690edf8c6</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Report that Anthropic updated its policy to ban abusive or cruel behavior toward Claude.</description>
     </item>
   </channel>
 </rss>

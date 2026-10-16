@@ -1,0 +1,2475 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T10:10:57Z",
+  "editorNote": "Meta released Muse Spark as an open-weight multimodal model, and the follow-on coverage is the day’s main thread: Hugging Face, PyTorch, Nvidia and AWS all posted support, with Apple working on Mac performance. Nvidia also published its Nemotron 3.5 Super VL for agents. On the policy side, the FTC is reportedly probing Anthropic and OpenAI, and Anthropic is giving METR deeper access for evaluations.",
+  "lead": {
+    "id": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "canonicalUrl": "https://huggingface.co/blog/meta-muse-spark-open",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-10-15T00:00:00Z",
+    "fetchedAt": "2026-10-16T10:09:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 5
+    },
+    "scores": {
+      "importance": 8,
+      "trend": 7,
+      "novelty": 8,
+      "credibility": 9
+    },
+    "total": 7.9,
+    "category": "Tools & Releases",
+    "tags": [
+      "open-weights",
+      "muse-spark",
+      "multimodal",
+      "moe"
+    ],
+    "summary": "Hugging Face documents the open-weight release of Meta's Muse Spark, a multimodal mixture-of-experts model, with usage notes for developers.",
+    "whyItMatters": "Open frontier-class weights change build-or-buy math for teams hosting their own models.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "b382a6d08a5fad47657b74a0396d7466baa1a1c5",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Michelle Horton",
+      "publishedAt": "2026-10-15T18:01:00Z",
+      "fetchedAt": "2026-10-16T10:09:06Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "total": 5.3,
+      "category": "Tools & Releases",
+      "tags": [
+        "nemotron",
+        "nvidia",
+        "multimodal",
+        "agents",
+        "open-weights"
+      ],
+      "summary": "Nvidia's technical blog presents Nemotron 3.5 Super VL, a vision-language model aimed at specialized agents.",
+      "whyItMatters": "Another open multimodal option for agent builders on Nvidia hardware.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "12f70f9144a8a1f106ce0facd34c0f8991c14e35",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "source": "Ars Technica: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Ashley Belanger",
+      "publishedAt": "2026-10-15T15:43:24Z",
+      "fetchedAt": "2026-10-16T10:09:06Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 4.8,
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "ftc",
+        "openai",
+        "anthropic"
+      ],
+      "summary": "Ars Technica reports the FTC is probing Anthropic and OpenAI, based on a report.",
+      "whyItMatters": "Regulatory attention could affect both major API vendors.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "e925c3137a8af8ad4b86cdc573df0a8e88ba79b3",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Aditya Mehta",
+      "publishedAt": "2026-10-15T19:14:26Z",
+      "fetchedAt": "2026-10-16T10:09:06Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 4.8,
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "metr",
+        "evaluation",
+        "safety"
+      ],
+      "summary": "TechCrunch reports Anthropic is giving METR researchers employee-level access to its systems.",
+      "whyItMatters": "Deeper third-party access could improve credibility of safety evaluations.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "3733c75a28bf26df988281155bac3e5cdfdea7ba",
+      "url": "https://huggingface.co/blog/flux-3",
+      "canonicalUrl": "https://huggingface.co/blog/flux-3",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "source": "Hugging Face Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "fetchedAt": "2026-10-16T10:09:06Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "Tools & Releases",
+      "tags": [
+        "flux",
+        "diffusers",
+        "image-generation"
+      ],
+      "summary": "Hugging Face post on running FLUX.3 Image Klein in the Diffusers library.",
+      "whyItMatters": "Ready-to-use path for the new FLUX variant.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "13e122947fcaa3ffca2c34949d01bb10907334f3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Aris Tsakpinis",
+      "publishedAt": "2026-10-15T17:43:35Z",
+      "fetchedAt": "2026-10-16T10:09:06Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "Tools & Releases",
+      "tags": [
+        "muse-spark",
+        "aws",
+        "sagemaker"
+      ],
+      "summary": "AWS announces Muse Spark Open availability in SageMaker JumpStart.",
+      "whyItMatters": "Managed deployment path for the new open-weight model.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [
+    {
+      "id": "c-0ef47f92a6",
+      "label": "Meta Muse Spark goes open-weight",
+      "itemIds": [
+        "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+        "7b4e8f58fbe641dbc50b63278f4c8f8373ab8e9d",
+        "d5bac5a69bce90a0a930f42b78047fcdacbf44c1",
+        "a4975bebfd36893f3dfb4aa4b7361688b57edab7",
+        "7b45a5eb01c2a2c86d634fc5e2a2daaf94feca02"
+      ],
+      "leadItemId": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+      "sources": [
+        "Hugging Face Blog",
+        "PyTorch Blog",
+        "TechCrunch: AI",
+        "The Verge: AI",
+        "WIRED: AI"
+      ],
+      "trendDelta": 4.86
+    },
+    {
+      "id": "c-6a197c9576",
+      "label": "Google Universal Cart shopping launch",
+      "itemIds": [
+        "244831af62488291746c094805c773184e49f261",
+        "a6d305e8949d43bb502519dde260e145335ee20c"
+      ],
+      "leadItemId": "a6d305e8949d43bb502519dde260e145335ee20c",
+      "sources": [
+        "TechCrunch: AI",
+        "ZDNET: AI"
+      ],
+      "trendDelta": 2
+    },
+    {
+      "id": "c-7d8227baa4",
+      "label": "Nvidia Nemotron 3.5 Super VL",
+      "itemIds": [
+        "b382a6d08a5fad47657b74a0396d7466baa1a1c5",
+        "3acf1ce3b7a126f869992ff17c294a23d481be7f"
+      ],
+      "leadItemId": "b382a6d08a5fad47657b74a0396d7466baa1a1c5",
+      "sources": [
+        "NVIDIA Technical Blog",
+        "ZDNET: AI"
+      ],
+      "trendDelta": 2
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "a4975bebfd36893f3dfb4aa4b7361688b57edab7",
+        "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+        "canonicalUrl": "https://theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-15T18:15:36Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 7,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 5.9,
+        "category": "News",
+        "tags": [
+          "muse-spark",
+          "apple-silicon",
+          "local-inference"
+        ],
+        "summary": "The Verge covers a Meta and Apple collaboration aimed at making Muse models run better on Macs.",
+        "whyItMatters": "If you target Macs for local inference, expect optimized paths to appear.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7b45a5eb01c2a2c86d634fc5e2a2daaf94feca02",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+        "canonicalUrl": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
+        "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Brian Barrett, Leah Feiger, Reece Rogers",
+        "publishedAt": "2026-10-15T21:18:15Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 7,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 4.5,
+        "category": "News",
+        "tags": [
+          "muse-spark",
+          "apple"
+        ],
+        "summary": "WIRED reports hands-on time with Meta's Muse and with an Apple home device, with mixed impressions of both.",
+        "whyItMatters": "Hands-on color only; read it for product feel, not technical detail.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1d4cff712a9a12812912916b09ee2f570c14be95",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "canonicalUrl": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "source": "Google DeepMind Blog",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-15T16:08:03Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.4,
+        "category": "News",
+        "tags": [
+          "google-deepmind",
+          "antigravity",
+          "biology"
+        ],
+        "summary": "DeepMind describes using its Antigravity tool to speed the search for antimicrobial peptides.",
+        "whyItMatters": "Case study of agentic tooling applied to drug discovery.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "483d6307e687a2d8c3a870289c58f09535bb969c",
+        "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "canonicalUrl": "https://latent.space/p/ainews-agents-disprove-polysemanticity",
+        "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-16T04:16:45Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.4,
+        "category": "News",
+        "tags": [
+          "interpretability",
+          "agents",
+          "alignment"
+        ],
+        "summary": "Newsletter issue claiming agents help disprove polysemanticity and improve interpretability.",
+        "whyItMatters": "Interesting claim; check the underlying papers before relying on it.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a72d1e4da6b0e1062a21232ab241fb1975aaab08",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "canonicalUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-15T19:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 4,
+        "category": "News",
+        "tags": [
+          "openai",
+          "gpt-rosalind",
+          "science"
+        ],
+        "summary": "OpenAI announces access to GPT-Rosalind for academic research labs.",
+        "whyItMatters": "Matters if you run life-science research and want access.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3acf1ce3b7a126f869992ff17c294a23d481be7f",
+        "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+        "canonicalUrl": "https://zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai",
+        "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Radhika Rajkumar",
+        "publishedAt": "2026-10-15T15:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "nemotron",
+          "open-weights",
+          "nvidia"
+        ],
+        "summary": "ZDNET frames Nemotron 3.5 Super VL as a step forward for US open-weight models.",
+        "whyItMatters": "Context on the open-weight race; the primary source has the specifics.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "090e3a2ea56614e95508467893967fc195358a3f",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Stevie Bonifield",
+        "publishedAt": "2026-10-15T22:43:23Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "chatgpt",
+          "browser",
+          "privacy"
+        ],
+        "summary": "The Verge reports ChatGPT can now view your open Chrome tabs.",
+        "whyItMatters": "Raises new privacy and context-sharing considerations for assistant users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0e4f8374803f0b7c68099515797f014d4488fcba",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+        "title": "The Pulse: OpenAI software engineer accused of spying",
+        "source": "The Pragmatic Engineer",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-15T16:55:18Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "openai",
+          "security",
+          "industry"
+        ],
+        "summary": "Newsletter issue covering an allegation of spying involving an OpenAI engineer.",
+        "whyItMatters": "Industry security story; details are allegations.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "661320cc40ff6411df0aedca5ca895b285ac5e6f",
+        "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "canonicalUrl": "https://theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-15T19:57:16Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "bluesky",
+          "app-building",
+          "agents"
+        ],
+        "summary": "The Verge reports Bluesky's AI tool can now build games and apps to share socially.",
+        "whyItMatters": "Vibe-coding spreading into social platforms.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a6d305e8949d43bb502519dde260e145335ee20c",
+        "url": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+        "canonicalUrl": "https://zdnet.com/tech/google-universal-cart-when-to-buy-guide",
+        "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kayla Solino",
+        "publishedAt": "2026-10-15T13:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "google",
+          "shopping"
+        ],
+        "summary": "ZDNET walks through what Universal Cart does, including price tracking.",
+        "whyItMatters": "Consumer-facing detail on the same launch.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "98e6a11f87f3c75ff09f029c60c62757139be47d",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "canonicalUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "mlx",
+          "inference",
+          "apple-silicon",
+          "distributed"
+        ],
+        "summary": "Apple research on running large LLMs locally and distributed across Mac Studios with MLX and RDMA.",
+        "whyItMatters": "Shows how far Mac clusters can stretch for large local inference.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4046eeecbe56b543280521963264b62b6f63d722",
+        "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+        "canonicalUrl": "https://microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+        "title": "Proof-based general-purpose computing with Magnetar",
+        "source": "Microsoft Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Srinath Setty",
+        "publishedAt": "2026-10-15T16:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "verification",
+          "computing",
+          "microsoft-research"
+        ],
+        "summary": "Microsoft Research introduces Magnetar, an approach to proof-based general-purpose computing.",
+        "whyItMatters": "Verifiable computation could matter for auditing AI workloads.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "90ab7340cb1d60da411bf5846c83d6fb6961a8b4",
+        "url": "https://tldr.takara.ai/p/2610.22300",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.22300",
+        "title": "Knowledge That Is Linear Before Fine-Tuning Generalizes After It",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Faridoun Mehri, Hinrich Sch\\\"utze",
+        "publishedAt": "2026-10-15T17:47:52Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4,
+        "category": "Research",
+        "tags": [
+          "fine-tuning",
+          "generalization",
+          "representations"
+        ],
+        "summary": "Paper studying whether knowledge that is linearly encoded before fine-tuning carries over to new settings afterward.",
+        "whyItMatters": "Informs when fine-tuning will or will not generalize what the model already knows.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "db66a7fb73d4aeebc478e52e8ca3c8138c5999e6",
+        "url": "https://tldr.takara.ai/p/2610.22100",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.22100",
+        "title": "Patch where the text is new: a compression view of where byte-level models should spend compute",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Nicol\\'as Vera Z\\'u\\~niga",
+        "publishedAt": "2026-10-15T15:47:08Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Research",
+        "tags": [
+          "tokenization",
+          "byte-level-models"
+        ],
+        "summary": "Paper arguing byte-level models should spend compute where text is new, framed as compression.",
+        "whyItMatters": "Relevant to tokenizer-free model design and efficiency.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0e83cd4444ce96aa94193ce2310c7ebd5e777479",
+        "url": "https://arxiv.org/abs/2610.21244",
+        "canonicalUrl": "https://arxiv.org/abs/2610.21244",
+        "title": "System1-Arena: Which Decisions Can Be Left to System 1?",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Tianyu Chen, Xinyang Liu, Ruyi An, Zhendong Wang, Mingyuan Zhou",
+        "publishedAt": "2026-10-16T04:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "benchmarks",
+          "agents",
+          "decision-making"
+        ],
+        "summary": "New arena benchmark probing which decisions an agent can handle without slower deliberate reasoning.",
+        "whyItMatters": "Could guide where to skip expensive reasoning in agent pipelines.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2a3a8c33e4616899a49773dbde2d40b16a9fccdd",
+        "url": "https://arxiv.org/abs/2610.22273",
+        "canonicalUrl": "https://arxiv.org/abs/2610.22273",
+        "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Anikait Singh, Teresa Zhang, Yoonho Lee, Roshen Sanjay Nair, Aviral Kumar, Chelsea Finn",
+        "publishedAt": "2026-10-16T04:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "long-context",
+          "agents",
+          "retrieval"
+        ],
+        "summary": "Preprint training models to curate long-context workspaces in anticipation of later queries.",
+        "whyItMatters": "Offers an angle on managing agent context beyond plain retrieval.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1aaf9ecdd8b26e6841062b60a86f8fb47c4cd5e9",
+        "url": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+        "canonicalUrl": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+        "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "multimodal",
+          "search"
+        ],
+        "summary": "Apple research on selection-based structured reasoning for efficient multimodal search agents.",
+        "whyItMatters": "Idea for cheaper search-agent loops.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7f2975ae8e0c0069427f9aeee7f658795abe20f6",
+        "url": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+        "canonicalUrl": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+        "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+        "source": "Apple Machine Learning Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "tool-use",
+          "agents",
+          "retrieval"
+        ],
+        "summary": "Apple study comparing plan-first and retrieve-first designs for tool discovery at scale.",
+        "whyItMatters": "Evidence for architecture choices in large tool catalogs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f7cc2bf626c1861325b4a3b6ce5616676d18c102",
+        "url": "https://tldr.takara.ai/p/2610.21087",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.21087",
+        "title": "SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jongann Lee, Sun Woo Park, Yun Young Choi",
+        "publishedAt": "2026-10-15T01:42:50Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.4,
+        "category": "Research",
+        "tags": [
+          "self-supervised-learning",
+          "equivariance"
+        ],
+        "summary": "Paper addressing a topological limitation in equivariant self-supervised representation learning.",
+        "whyItMatters": "Narrow theory result; mainly useful for representation-learning researchers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "467dffcfeee5dfaee0e6d3f720ed186ec5b9d571",
+        "url": "https://tldr.takara.ai/p/2610.22327",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.22327",
+        "title": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Hedi Zisling, Liran Nochumsohn, Ilan Naiman, Mihir Parmar, Omri Azencot",
+        "publishedAt": "2026-10-15T17:52:18Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.4,
+        "category": "Research",
+        "tags": [
+          "time-series",
+          "reasoning"
+        ],
+        "summary": "Preprint on combining complementary representations to improve reasoning over time-series data.",
+        "whyItMatters": "Niche, but relevant if you build forecasting or sensor-analysis agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "0d594a83b91f9e717449d3b4b27c84b22ab122df",
+        "url": "https://refactoring.fm/p/how-to-design-a-good-mcp-server",
+        "canonicalUrl": "https://refactoring.fm/p/how-to-design-a-good-mcp-server",
+        "title": "How to Design a Good MCP Server 🔌",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-15T08:06:06Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Tutorials",
+        "tags": [
+          "mcp",
+          "api-design",
+          "agents"
+        ],
+        "summary": "Refactoring guide to designing a good MCP server.",
+        "whyItMatters": "Practical advice for tool authors building MCP servers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "24c7389afe46c47b5b192f9b8ca54edbaf5da595",
+        "url": "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value/",
+        "canonicalUrl": "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value",
+        "title": "I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value.",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Abdullahi Dattijo",
+        "publishedAt": "2026-10-15T11:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:08Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.2,
+        "category": "Tutorials",
+        "tags": [
+          "memory",
+          "assistants",
+          "cost"
+        ],
+        "summary": "Towards Data Science test of four ways to add memory to an AI assistant, comparing value.",
+        "whyItMatters": "Practical cost comparison for assistant memory design.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "54389908e07ca0097275af423ca66f1dc6d17189",
+        "url": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
+        "canonicalUrl": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach",
+        "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
+        "source": "Machine Learning Mastery",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Bala Priya C",
+        "publishedAt": "2026-10-15T11:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Tutorials",
+        "tags": [
+          "rag",
+          "chunking"
+        ],
+        "summary": "Machine Learning Mastery decision tree for choosing a chunking strategy in LLM apps.",
+        "whyItMatters": "Handy checklist for RAG builders.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c63936c9cf32bdb5bec5bd9628d63f45b3a43945",
+        "url": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+        "canonicalUrl": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+        "title": "How to Design for Failures",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-15T15:31:01Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "reliability",
+          "system-design"
+        ],
+        "summary": "ByteByteGo guide to designing systems for failure.",
+        "whyItMatters": "Sound general reliability reading.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8328bf79bca4f01fc127a0c503a25a602bd51d38",
+        "url": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/",
+        "canonicalUrl": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science",
+        "title": "What OpenAI’s 719 Math Papers Mean for Data Science",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Sean Moran",
+        "publishedAt": "2026-10-15T14:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:08Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "openai",
+          "mathematics"
+        ],
+        "summary": "Towards Data Science piece on what OpenAI's math papers mean for data science.",
+        "whyItMatters": "Interpretive take; verify claims against the papers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7a140a3d194d5457ca4a6b82bd1a3626c60ac116",
+        "url": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+        "canonicalUrl": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm",
+        "title": "Jev Your Engines: Seven Open Decision Models vs. a Generative LLM",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Lambert Leong",
+        "publishedAt": "2026-10-15T15:30:00Z",
+        "fetchedAt": "2026-10-16T10:09:08Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "decision-models",
+          "llm"
+        ],
+        "summary": "Towards Data Science comparison of open decision models against a generative LLM.",
+        "whyItMatters": "Practical comparison for choosing model types.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9b7714f40f9b481d4f7bc9f42ed10ad451e95000",
+        "url": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number/",
+        "canonicalUrl": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number",
+        "title": "How Many Guesses Does It Take to Crack an AI's \"Random\" Number?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Utkarsh Mangal",
+        "publishedAt": "2026-10-15T12:30:00Z",
+        "fetchedAt": "2026-10-16T10:09:08Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "randomness",
+          "llm"
+        ],
+        "summary": "Towards Data Science experiment on how predictable an AI's random numbers are.",
+        "whyItMatters": "Fun exercise showing model number bias.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4f9baf27c734f70f9e8f2651ea25900395da9407",
+        "url": "https://refactoring.fm/p/your-team-is-a-system-with-francisco",
+        "canonicalUrl": "https://refactoring.fm/p/your-team-is-a-system-with-francisco",
+        "title": "Your Team is a System ⚙️ — with Francisco Trindade",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-16T07:03:10Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2,
+        "category": "Tutorials",
+        "tags": [
+          "management",
+          "teams"
+        ],
+        "summary": "Interview-style newsletter on treating a team as a system.",
+        "whyItMatters": "General management reading, not AI-specific.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+        "url": "https://huggingface.co/blog/meta-muse-spark-open",
+        "canonicalUrl": "https://huggingface.co/blog/meta-muse-spark-open",
+        "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 8,
+          "trend": 7,
+          "novelty": 8,
+          "credibility": 9
+        },
+        "total": 7.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "open-weights",
+          "muse-spark",
+          "multimodal",
+          "moe"
+        ],
+        "summary": "Hugging Face documents the open-weight release of Meta's Muse Spark, a multimodal mixture-of-experts model, with usage notes for developers.",
+        "whyItMatters": "Open frontier-class weights change build-or-buy math for teams hosting their own models.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7b4e8f58fbe641dbc50b63278f4c8f8373ab8e9d",
+        "url": "https://pytorch.org/blog/muse-spark-open/",
+        "canonicalUrl": "https://pytorch.org/blog/muse-spark-open",
+        "title": "Muse Spark Is Now an Open-Weights Model",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "PyTorch Team at Meta",
+        "publishedAt": "2026-10-15T17:55:52Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 7,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 6.6,
+        "category": "Tools & Releases",
+        "tags": [
+          "open-weights",
+          "pytorch",
+          "muse-spark"
+        ],
+        "summary": "The PyTorch blog notes Muse Spark is now available as an open-weights model, from the framework's own channel.",
+        "whyItMatters": "Confirms PyTorch-side availability, so tooling support should follow quickly.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b382a6d08a5fad47657b74a0396d7466baa1a1c5",
+        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+        "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Michelle Horton",
+        "publishedAt": "2026-10-15T18:01:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 5.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "nemotron",
+          "nvidia",
+          "multimodal",
+          "agents",
+          "open-weights"
+        ],
+        "summary": "Nvidia's technical blog presents Nemotron 3.5 Super VL, a vision-language model aimed at specialized agents.",
+        "whyItMatters": "Another open multimodal option for agent builders on Nvidia hardware.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3733c75a28bf26df988281155bac3e5cdfdea7ba",
+        "url": "https://huggingface.co/blog/flux-3",
+        "canonicalUrl": "https://huggingface.co/blog/flux-3",
+        "title": "Welcome FLUX.3 Image Klein in Diffusers",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-15T00:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "flux",
+          "diffusers",
+          "image-generation"
+        ],
+        "summary": "Hugging Face post on running FLUX.3 Image Klein in the Diffusers library.",
+        "whyItMatters": "Ready-to-use path for the new FLUX variant.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "13e122947fcaa3ffca2c34949d01bb10907334f3",
+        "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+        "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Aris Tsakpinis",
+        "publishedAt": "2026-10-15T17:43:35Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "muse-spark",
+          "aws",
+          "sagemaker"
+        ],
+        "summary": "AWS announces Muse Spark Open availability in SageMaker JumpStart.",
+        "whyItMatters": "Managed deployment path for the new open-weight model.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d259b094fe0e06218df0518dc09d01a6217a4d03",
+        "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+        "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Tanya Lenz",
+        "publishedAt": "2026-10-15T18:00:01Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "muse-spark",
+          "nvidia",
+          "inference",
+          "coding-agents"
+        ],
+        "summary": "Nvidia describes running Muse Spark Open on GB300 NVL72 systems for agentic coding workloads.",
+        "whyItMatters": "Reference for serving the new open model at scale on Nvidia.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ba4e7337aba280a43aa0c8a66d42089649fa3da6",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "canonicalUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-16T01:44:47Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "pretraining",
+          "indic-languages",
+          "datasets",
+          "open-source"
+        ],
+        "summary": "Hugging Face post on pretraining with 2.8 trillion tokens for Indic languages and an open data-generation pipeline.",
+        "whyItMatters": "A reusable recipe for low-resource language pretraining.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "93f5d3187e2cb10708f53a49434625f03b23ab3f",
+        "url": "https://pytorch.org/blog/bringing-executorch-to-arm-cortex-m-cpus/",
+        "canonicalUrl": "https://pytorch.org/blog/bringing-executorch-to-arm-cortex-m-cpus",
+        "title": "Bringing ExecuTorch to Arm Cortex-M CPUs",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "RJ Ascani (Meta), Adrian Lundell (Arm), Siddartha Pothapragada (Meta), Digant Desai (Meta), et al.",
+        "publishedAt": "2026-10-15T14:40:35Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.2,
+        "category": "Tools & Releases",
+        "tags": [
+          "executorch",
+          "arm",
+          "on-device",
+          "pytorch"
+        ],
+        "summary": "PyTorch blog on bringing ExecuTorch to Arm Cortex-M CPUs.",
+        "whyItMatters": "Brings PyTorch deployment to tiny microcontroller-class devices.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "25dcb59795ffe17eb57c6f8b6a2c92dee4295f32",
+        "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+        "title": "Trust in Depth: Giving agents more autonomy without losing control",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Shawn Bice",
+        "publishedAt": "2026-10-15T15:05:35Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "agents",
+          "security",
+          "aws"
+        ],
+        "summary": "AWS outlines a layered approach to giving agents more autonomy while keeping control.",
+        "whyItMatters": "Practical guardrail patterns for production agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a01e02239da0a38ee49f2989916454516c49e83e",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "canonicalUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-15T20:34:01Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "granite",
+          "ibm",
+          "speech",
+          "open-weights"
+        ],
+        "summary": "Hugging Face post on Granite Switch 4.1, offering chat, decision and speech tasks behind one endpoint.",
+        "whyItMatters": "Simplifies serving by consolidating tasks into one model endpoint.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "12f70f9144a8a1f106ce0facd34c0f8991c14e35",
+        "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+        "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ashley Belanger",
+        "publishedAt": "2026-10-15T15:43:24Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.8,
+        "category": "Policy & Safety",
+        "tags": [
+          "regulation",
+          "ftc",
+          "openai",
+          "anthropic"
+        ],
+        "summary": "Ars Technica reports the FTC is probing Anthropic and OpenAI, based on a report.",
+        "whyItMatters": "Regulatory attention could affect both major API vendors.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e925c3137a8af8ad4b86cdc573df0a8e88ba79b3",
+        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Aditya Mehta",
+        "publishedAt": "2026-10-15T19:14:26Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.8,
+        "category": "Policy & Safety",
+        "tags": [
+          "anthropic",
+          "metr",
+          "evaluation",
+          "safety"
+        ],
+        "summary": "TechCrunch reports Anthropic is giving METR researchers employee-level access to its systems.",
+        "whyItMatters": "Deeper third-party access could improve credibility of safety evaluations.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6a3287a8503a205cf116b498798e7e601f25a1d",
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability/",
+        "canonicalUrl": "https://platformer.news/openai-states-lawsuit-liability",
+        "title": "The states come for OpenAI",
+        "source": "Platformer (Casey Newton)",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Casey Newton",
+        "publishedAt": "2026-10-15T00:52:13Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Policy & Safety",
+        "tags": [
+          "regulation",
+          "openai",
+          "states"
+        ],
+        "summary": "Platformer reports on US states moving against OpenAI.",
+        "whyItMatters": "State-level action could shape compliance for AI vendors.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "90ac7b4578468e9cabab8ecc70b5ab0ab6ecd131",
+        "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+        "canonicalUrl": "https://wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up",
+        "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Paresh Dave",
+        "publishedAt": "2026-10-15T21:00:28Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "security",
+          "liability",
+          "agents"
+        ],
+        "summary": "WIRED examines damage from AI-driven hacks and who ends up paying for it.",
+        "whyItMatters": "Liability question for anyone shipping agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6d26dc845c51e3d06183bcde171361d7325a8510",
+        "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+        "canonicalUrl": "https://theverge.com/tech/1011938/muse-ai-data-friends-consent",
+        "title": "Friends don’t let friends feed their data to AI agents",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Janus Rose",
+        "publishedAt": "2026-10-15T16:21:45Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "agents",
+          "privacy",
+          "security"
+        ],
+        "summary": "The Verge argues against handing personal data to AI agents.",
+        "whyItMatters": "Reminder to scope agent permissions carefully.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fa53aa09446ccc90b9f7a096fd9dc8ae32d25d05",
+        "url": "https://tldr.takara.ai/p/2610.21948",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.21948",
+        "title": "Following Delegation Traces to Study Human Oversight in Interaction with Multimodal AI",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Agnese Chiatti, Matteo Matteucci, Viola Schiaffonati",
+        "publishedAt": "2026-10-15T14:18:29Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "human-oversight",
+          "multimodal"
+        ],
+        "summary": "Study of delegation traces to understand how people oversee multimodal AI.",
+        "whyItMatters": "Evidence for designing oversight in agent products.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "74169f8e3242f582d435f381a3420cfcca4296be",
+        "url": "https://www.alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment",
+        "canonicalUrl": "https://alignmentforum.org/posts/NQLCdfeNsQHZaJ8iC/preface-to-the-computational-agent-theory-and-asi-alignment",
+        "title": "Preface to the Computational Agent Theory and ASI Alignment Sequence",
+        "source": "Alignment Forum",
+        "sourceTier": 2,
+        "categoryHint": "Policy & Safety",
+        "author": "Vanessa Kosoy",
+        "publishedAt": "2026-10-15T15:33:50Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "alignment",
+          "agent-theory"
+        ],
+        "summary": "Alignment Forum preface introducing a sequence on computational agent theory and superintelligence alignment.",
+        "whyItMatters": "Theory series; early to judge impact.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "171e2404d7fa15c8b670f3ae0decae10afd37810",
+        "url": "https://arxiv.org/abs/2610.21633",
+        "canonicalUrl": "https://arxiv.org/abs/2610.21633",
+        "title": "ContextLift: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Florian Mai, David Kacz\\'er",
+        "publishedAt": "2026-10-16T04:00:00Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "alignment",
+          "emergent-misalignment"
+        ],
+        "summary": "Paper on a spurious correlation behind conditional emergent misalignment in fine-tuned models.",
+        "whyItMatters": "Relevant to anyone fine-tuning models and checking for hidden behavior shifts.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "d5bac5a69bce90a0a930f42b78047fcdacbf44c1",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-15T20:04:53Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 5
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 7,
+          "novelty": 7,
+          "credibility": 6
+        },
+        "total": 6.5,
+        "category": "Business",
+        "tags": [
+          "open-weights",
+          "muse-spark",
+          "apple-silicon"
+        ],
+        "summary": "TechCrunch reports that Meta is releasing an open-weight model that runs on Macs.",
+        "whyItMatters": "Signals local, laptop-class inference of a frontier-family model is now practical.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "244831af62488291746c094805c773184e49f261",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lauren Forristal",
+        "publishedAt": "2026-10-15T14:29:33Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.1,
+        "category": "Business",
+        "tags": [
+          "google",
+          "shopping",
+          "agents"
+        ],
+        "summary": "TechCrunch reports Google's Universal Cart shopping tool is launching in the US.",
+        "whyItMatters": "Another agentic shopping surface from Google.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "40b611a330c7478c028f8a5cac8062e80ead7ceb",
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-15T13:04:03Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.8,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "revenue",
+          "ipo"
+        ],
+        "summary": "Simon Willison relays reporting that Anthropic told investors quarterly revenue rose nearly 50% ahead of an IPO.",
+        "whyItMatters": "Signals commercial strength of a major API vendor.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "35f04bc99ba5e049d094eb0dd6d79a517b00df44",
+        "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Sarah Perez",
+        "publishedAt": "2026-10-15T18:56:46Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Business",
+        "tags": [
+          "bluesky",
+          "app-building"
+        ],
+        "summary": "TechCrunch covers Bluesky widening its Attie app to build websites, games and more.",
+        "whyItMatters": "Same launch as above from a second outlet.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a983409c8d0b9cd03f62ff4dcaab0ef42d2ea36a",
+        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Sarah Perez",
+        "publishedAt": "2026-10-15T19:55:25Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Business",
+        "tags": [
+          "devices",
+          "agents"
+        ],
+        "summary": "TechCrunch interview where Amazon's devices chief predicts AI devices replacing apps.",
+        "whyItMatters": "Executive forecast, not a product release.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c9392a52f2061c8f2328f9a574753464c05688d",
+        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
+        "title": "AI agents are coming to Rivian’s cars",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Sean O'Kane",
+        "publishedAt": "2026-10-15T15:02:36Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "automotive",
+          "agents"
+        ],
+        "summary": "TechCrunch reports AI agents coming to Rivian vehicles.",
+        "whyItMatters": "Agents moving into in-car software.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "aae90d6b2dab6fff163fe59285c9969a63208f76",
+        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-15T23:44:56Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Business",
+        "tags": [
+          "marketing",
+          "apps"
+        ],
+        "summary": "TechCrunch reports how influencer paid promotion drove an AI calorie-tracking app's viral growth.",
+        "whyItMatters": "Marketing lesson, not a technology change.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "fc710191e832cb3be981ea55ce85fd685cf4e510",
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+        "title": "Chirp Pong",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-15T19:47:52Z",
+        "fetchedAt": "2026-10-16T10:09:06Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 2.8,
+        "category": "Opinion",
+        "tags": [
+          "simon-willison",
+          "experiments"
+        ],
+        "summary": "Short blog post from Simon Willison on a small project called Chirp Pong.",
+        "whyItMatters": "Light read; could inspire small experiments.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9a556c5d266337a7ea3504a5e3314cf33758c64a",
+        "url": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
+        "canonicalUrl": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
+        "title": "AI #190: Scion of the Times",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-15T12:03:51Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "newsletter",
+          "roundup"
+        ],
+        "summary": "Weekly AI roundup newsletter from Zvi Mowshowitz.",
+        "whyItMatters": "Roundup; skim for pointers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ca03053b4e7ebd827ff3d8ea8841008e69147151",
+        "url": "https://garymarcus.substack.com/p/generative-ai-in-disarray",
+        "canonicalUrl": "https://garymarcus.substack.com/p/generative-ai-in-disarray",
+        "title": "Generative AI in disarray",
+        "source": "Marcus on AI",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Gary Marcus",
+        "publishedAt": "2026-10-15T01:32:36Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.3,
+        "category": "Opinion",
+        "tags": [
+          "commentary",
+          "generative-ai"
+        ],
+        "summary": "Gary Marcus essay arguing the generative AI field is in disarray.",
+        "whyItMatters": "Critical viewpoint; pair with primary data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "41c3c04694055f9db1d85fa2334efad46b7af29c",
+        "url": "https://www.thealgorithmicbridge.com/p/you-have-no-idea-how-close-the-ai",
+        "canonicalUrl": "https://thealgorithmicbridge.com/p/you-have-no-idea-how-close-the-ai",
+        "title": "You Have No Idea How Close the AI Bubble Is to Popping",
+        "source": "The Algorithmic Bridge",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Alberto Romero",
+        "publishedAt": "2026-10-15T20:26:31Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 2.2,
+        "category": "Opinion",
+        "tags": [
+          "market",
+          "bubble"
+        ],
+        "summary": "Opinion essay arguing the AI investment boom is close to a pullback.",
+        "whyItMatters": "Opinion; weigh accordingly.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "efa164a3921b8db46a8b6f27135a85792268d801",
+        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "canonicalUrl": "https://theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "title": "The tech backlash is now in theaters",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Charles Pulliam-Moore",
+        "publishedAt": "2026-10-15T21:39:52Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2,
+        "category": "Opinion",
+        "tags": [
+          "culture",
+          "backlash"
+        ],
+        "summary": "The Verge essay on tech backlash showing up in film.",
+        "whyItMatters": "Cultural commentary.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b2481d1228ebf07d1a1828c9647afc9b8e62ddbe",
+        "url": "https://morebetterthinking.substack.com/p/mindcare",
+        "canonicalUrl": "https://morebetterthinking.substack.com/p/mindcare",
+        "title": "Mindcare",
+        "source": "More Better Thinking",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "William B. Irvine",
+        "publishedAt": "2026-10-15T10:11:51Z",
+        "fetchedAt": "2026-10-16T10:09:07Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Opinion",
+        "tags": [
+          "essay",
+          "mental-health"
+        ],
+        "summary": "Short opinion post titled Mindcare.",
+        "whyItMatters": "Light commentary.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 1054,
+    "afterDedupe": 744,
+    "ranked": 99
+  }
+}

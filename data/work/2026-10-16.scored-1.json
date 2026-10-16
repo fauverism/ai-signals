@@ -1,0 +1,535 @@
+{
+  "date": "2026-10-16",
+  "batch": 1,
+  "items": [
+    {
+      "id": "9d251ac6836a600d8fed2294d5c3f8928f6177ed",
+      "scores": {
+        "importance": 8,
+        "trend": 7,
+        "novelty": 8,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "open-weights",
+        "muse-spark",
+        "multimodal",
+        "moe"
+      ],
+      "summary": "Hugging Face documents the open-weight release of Meta's Muse Spark, a multimodal mixture-of-experts model, with usage notes for developers.",
+      "whyItMatters": "Open frontier-class weights change build-or-buy math for teams hosting their own models.",
+      "organization": "meta"
+    },
+    {
+      "id": "7b45a5eb01c2a2c86d634fc5e2a2daaf94feca02",
+      "scores": {
+        "importance": 3,
+        "trend": 7,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "muse-spark",
+        "apple"
+      ],
+      "summary": "WIRED reports hands-on time with Meta's Muse and with an Apple home device, with mixed impressions of both.",
+      "whyItMatters": "Hands-on color only; read it for product feel, not technical detail.",
+      "organization": "meta"
+    },
+    {
+      "id": "d5bac5a69bce90a0a930f42b78047fcdacbf44c1",
+      "scores": {
+        "importance": 6,
+        "trend": 7,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "open-weights",
+        "muse-spark",
+        "apple-silicon"
+      ],
+      "summary": "TechCrunch reports that Meta is releasing an open-weight model that runs on Macs.",
+      "whyItMatters": "Signals local, laptop-class inference of a frontier-family model is now practical.",
+      "organization": "meta"
+    },
+    {
+      "id": "a4975bebfd36893f3dfb4aa4b7361688b57edab7",
+      "scores": {
+        "importance": 5,
+        "trend": 7,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "muse-spark",
+        "apple-silicon",
+        "local-inference"
+      ],
+      "summary": "The Verge covers a Meta and Apple collaboration aimed at making Muse models run better on Macs.",
+      "whyItMatters": "If you target Macs for local inference, expect optimized paths to appear.",
+      "organization": "meta"
+    },
+    {
+      "id": "7b4e8f58fbe641dbc50b63278f4c8f8373ab8e9d",
+      "scores": {
+        "importance": 6,
+        "trend": 7,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "open-weights",
+        "pytorch",
+        "muse-spark"
+      ],
+      "summary": "The PyTorch blog notes Muse Spark is now available as an open-weights model, from the framework's own channel.",
+      "whyItMatters": "Confirms PyTorch-side availability, so tooling support should follow quickly.",
+      "organization": "meta"
+    },
+    {
+      "id": "467dffcfeee5dfaee0e6d3f720ed186ec5b9d571",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "time-series",
+        "reasoning"
+      ],
+      "summary": "Preprint on combining complementary representations to improve reasoning over time-series data.",
+      "whyItMatters": "Niche, but relevant if you build forecasting or sensor-analysis agents.",
+      "organization": "unknown"
+    },
+    {
+      "id": "90ab7340cb1d60da411bf5846c83d6fb6961a8b4",
+      "scores": {
+        "importance": 3,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "fine-tuning",
+        "generalization",
+        "representations"
+      ],
+      "summary": "Paper studying whether knowledge that is linearly encoded before fine-tuning carries over to new settings afterward.",
+      "whyItMatters": "Informs when fine-tuning will or will not generalize what the model already knows.",
+      "organization": "unknown"
+    },
+    {
+      "id": "f7cc2bf626c1861325b4a3b6ce5616676d18c102",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "self-supervised-learning",
+        "equivariance"
+      ],
+      "summary": "Paper addressing a topological limitation in equivariant self-supervised representation learning.",
+      "whyItMatters": "Narrow theory result; mainly useful for representation-learning researchers.",
+      "organization": "unknown"
+    },
+    {
+      "id": "03d23af20d252ebec024b732636ca39454ae5ffc",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reasoning",
+        "decision-models"
+      ],
+      "summary": "Preprint on looped decision models that trade extra iterations for deeper reasoning.",
+      "whyItMatters": "Early idea; watch for code and benchmarks before adopting.",
+      "organization": "unknown"
+    },
+    {
+      "id": "090fa21ed11f1a0b4e6356ab4d6b40dae6021f53",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "decision-models",
+        "efficiency"
+      ],
+      "summary": "Preprint describing a design that encodes input once and supports many downstream decisions.",
+      "whyItMatters": "Possible inference-cost saver if results hold up.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0cbbb4ebf20a2673f0c8e56030dcb224e433ac9a",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "cad"
+      ],
+      "summary": "Paper on training action policies for CAD agents using grounded harness feedback.",
+      "whyItMatters": "Niche; relevant to engineering-design automation.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0e83cd4444ce96aa94193ce2310c7ebd5e777479",
+      "scores": {
+        "importance": 3,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "benchmarks",
+        "agents",
+        "decision-making"
+      ],
+      "summary": "New arena benchmark probing which decisions an agent can handle without slower deliberate reasoning.",
+      "whyItMatters": "Could guide where to skip expensive reasoning in agent pipelines.",
+      "organization": "unknown"
+    },
+    {
+      "id": "1cdd9cf2d5e53ab9e8f53bcf26b426af5428aa81",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "document-understanding",
+        "agents"
+      ],
+      "summary": "Preprint on orchestrating and training agents for long visual documents.",
+      "whyItMatters": "Relevant if you process long PDFs and scans.",
+      "organization": "unknown"
+    },
+    {
+      "id": "241da0bb21b906ac433468cfbd15f35a4de62c61",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-use",
+        "agents",
+        "gui"
+      ],
+      "summary": "Paper on computer-using agents that combine GUI interaction with direct code execution.",
+      "whyItMatters": "Mixed GUI and code control is a growing pattern for desktop agents.",
+      "organization": "unknown"
+    },
+    {
+      "id": "2a3a8c33e4616899a49773dbde2d40b16a9fccdd",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "long-context",
+        "agents",
+        "retrieval"
+      ],
+      "summary": "Preprint training models to curate long-context workspaces in anticipation of later queries.",
+      "whyItMatters": "Offers an angle on managing agent context beyond plain retrieval.",
+      "organization": "unknown"
+    },
+    {
+      "id": "2c2c0934e475cdb40ef48693cf43e71bb501d81d",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "3d"
+      ],
+      "summary": "Paper on learning geometry states decoupled from camera view for 3D world modeling.",
+      "whyItMatters": "Narrow; of interest to robotics and 3D vision work.",
+      "organization": "unknown"
+    },
+    {
+      "id": "9c7f913b85b35801ae2633c7532662ef6cf8445d",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "document-parsing",
+        "reinforcement-learning"
+      ],
+      "summary": "Preprint on assigning credit from page level down to tokens when training full-page document parsers.",
+      "whyItMatters": "Niche training detail for document-parsing teams.",
+      "organization": "unknown"
+    },
+    {
+      "id": "a74b0a05a9e703a4fe213341868eaa99bfe16d31",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "video",
+        "evaluation",
+        "audio"
+      ],
+      "summary": "Paper proposing an event-centric reward for checking audio and video consistency.",
+      "whyItMatters": "Useful metric idea for audio-visual generation evaluation.",
+      "organization": "unknown"
+    },
+    {
+      "id": "e75922265f467b2b9b465e8bb153ff165342cd11",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "continual-learning",
+        "fine-tuning"
+      ],
+      "summary": "Paper on reducing forgetting during continual learning through subspace tuning.",
+      "whyItMatters": "Relevant if you keep updating a model without retraining from scratch.",
+      "organization": "unknown"
+    },
+    {
+      "id": "bd15e4458cc6454698db228712c15630072f42aa",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "vla",
+        "robotics"
+      ],
+      "summary": "Preprint on registering knowledge inside vision-language-action models.",
+      "whyItMatters": "Niche robotics research.",
+      "organization": "unknown"
+    },
+    {
+      "id": "db66a7fb73d4aeebc478e52e8ca3c8138c5999e6",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "tokenization",
+        "byte-level-models"
+      ],
+      "summary": "Paper arguing byte-level models should spend compute where text is new, framed as compression.",
+      "whyItMatters": "Relevant to tokenizer-free model design and efficiency.",
+      "organization": "unknown"
+    },
+    {
+      "id": "fa53aa09446ccc90b9f7a096fd9dc8ae32d25d05",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "human-oversight",
+        "multimodal"
+      ],
+      "summary": "Study of delegation traces to understand how people oversee multimodal AI.",
+      "whyItMatters": "Evidence for designing oversight in agent products.",
+      "organization": "unknown"
+    },
+    {
+      "id": "0a792baf5c597ac3240eec9d4f00b13c6830d627",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "multilingual",
+        "tokenization"
+      ],
+      "summary": "Paper looking at UTF-16 encoding as a help for multilingual boundary prediction in byte models.",
+      "whyItMatters": "Niche tokenization trick for multilingual work.",
+      "organization": "unknown"
+    },
+    {
+      "id": "15170f8272d7b122ed23c6ac1ca3948c8260f489",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "datasets",
+        "document-qa"
+      ],
+      "summary": "Dataset for question answering that must point to visual evidence in long documents.",
+      "whyItMatters": "A new benchmark for grounded document QA.",
+      "organization": "unknown"
+    },
+    {
+      "id": "171e2404d7fa15c8b670f3ae0decae10afd37810",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "alignment",
+        "emergent-misalignment"
+      ],
+      "summary": "Paper on a spurious correlation behind conditional emergent misalignment in fine-tuned models.",
+      "whyItMatters": "Relevant to anyone fine-tuning models and checking for hidden behavior shifts.",
+      "organization": "unknown"
+    },
+    {
+      "id": "2018c0bf859f79f867dee549522c6fbe78afd1b9",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video",
+        "tracking"
+      ],
+      "summary": "Paper on identifying and tracking dogs in real-world audio-visual video.",
+      "whyItMatters": "Very niche.",
+      "organization": "unknown"
+    },
+    {
+      "id": "2105b8bf677a5973098873f960375baa66663f21",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "kv-cache",
+        "reasoning",
+        "efficiency"
+      ],
+      "summary": "Preprint compressing long reasoning into the KV cache via learned pause tokens.",
+      "whyItMatters": "Could cut the cost of long reasoning outputs if it replicates.",
+      "organization": "unknown"
+    },
+    {
+      "id": "251a1df01a5a445c82514dd607ff741a67fbe34b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "llm-cascades",
+        "auditing"
+      ],
+      "summary": "Paper on counterfactual auditing of information and resource integrity in LLM cascades.",
+      "whyItMatters": "Useful framing for auditing multi-model pipelines.",
+      "organization": "unknown"
+    },
+    {
+      "id": "2850957821034f8f05a4ed0716e87148cc12034b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "benchmarks",
+        "finance"
+      ],
+      "summary": "Paper on defining when post-call text becomes available in earnings-call NLP benchmarks, to avoid leakage.",
+      "whyItMatters": "Check your finance benchmarks for time-leakage.",
+      "organization": "unknown"
+    },
+    {
+      "id": "287272a264c303f2f2a9d5857917602d8bc0c78b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "active-learning",
+        "segmentation"
+      ],
+      "summary": "Paper on token-efficient active learning for segmentation under low labeling budgets.",
+      "whyItMatters": "Niche labeling-cost technique.",
+      "organization": "unknown"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-0ef47f92a6",
+      "label": "Meta Muse Spark goes open-weight"
+    }
+  ],
+  "fetches": []
+}
