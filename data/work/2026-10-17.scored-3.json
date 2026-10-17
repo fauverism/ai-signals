@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-17",
+  "batch": 3,
+  "items": [
+    {
+      "id": "4185f7d423c281208499cc83eb2ab0b1d61f6392",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "open-models"
+      ],
+      "summary": "TLDR AI issue mentioning an open Muse Spark and a Microsoft 3T-parameter model.",
+      "whyItMatters": "Pointers only; verify the claims at the sources.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "090e3a2ea56614e95508467893967fc195358a3f",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "chatgpt",
+        "browser"
+      ],
+      "summary": "The Verge reports ChatGPT can now view your Chrome tabs.",
+      "whyItMatters": "Consider the privacy and workflow impact before enabling it.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "12fa98d37cbb975f7ab7d3cb5a9c94e8f8316753",
+      "reason": "game industry news"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

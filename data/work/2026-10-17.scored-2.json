@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-17",
+  "batch": 2,
+  "items": [
+    {
+      "id": "2e346e307e2ac277e2810775dd095869b9ee04fe",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "terms-of-service",
+        "data-scraping",
+        "meta"
+      ],
+      "summary": "ZDNET reports legal experts say Meta business accounts now consent to AI scraping under new terms.",
+      "whyItMatters": "Check what your Meta business account allows Meta to use for AI.",
+      "organization": "meta"
+    },
+    {
+      "id": "61baa7c2d36993da683745e42a70bd28ea338bf5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "biosecurity",
+        "generative-biology"
+      ],
+      "summary": "MIT Technology Review roundtable with the creator of AI-designed viruses.",
+      "whyItMatters": "A look at a biosecurity-adjacent use of generative models.",
+      "organization": "ai-designed-viruses"
+    },
+    {
+      "id": "c74e5a79a0e1f484fb7ec0f1092c6646ecf7543c",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "agents",
+        "incidents",
+        "india"
+      ],
+      "summary": "TechCrunch reports India has reported rogue AI agent activity, following other countries.",
+      "whyItMatters": "More regulators are tracking misbehaving agents; plan for incident reporting.",
+      "organization": "india"
+    },
+    {
+      "id": "9a543a40171f68a572c25962b443e79a5c756417",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "audits",
+        "safety",
+        "anthropic"
+      ],
+      "summary": "ZDNET reports Anthropic will give third-party auditors employee-like access, which it calls an industry first.",
+      "whyItMatters": "A possible model for external oversight of frontier labs.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "62145d24f47cc7648e55b99e810be9143af011e7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "simulation",
+        "batteries"
+      ],
+      "summary": "IEEE Spectrum covers a simulation app for speeding up electric truck battery design.",
+      "whyItMatters": "Peripheral to AI practitioners.",
+      "organization": "none"
+    },
+    {
+      "id": "a9d513a8f0e2cc395b254d0350db2339f85223b7",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "torchtitan",
+        "data-loading"
+      ],
+      "summary": "PyTorch blog post on elastically deterministic data loading for TorchTitan using Zephon.",
+      "whyItMatters": "Helps training runs that need reproducible data order when resizing jobs.",
+      "organization": "pytorch"
+    },
+    {
+      "id": "1db14d807722c8b3c2c1b1f25c09ee3ffa9a3c85",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "robotics",
+        "investing"
+      ],
+      "summary": "TechCrunch interview with an Nvidia veteran turned investor on physical AI.",
+      "whyItMatters": "Opinion-heavy; informs how investors frame robotics.",
+      "organization": "none"
+    },
+    {
+      "id": "84c2c565c396ae83e605db987f544eac54cf869f",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "robotics",
+        "investing"
+      ],
+      "summary": "TechCrunch piece on why robotics has not had its ChatGPT moment, per an ex-Nvidia investor.",
+      "whyItMatters": "Overlaps the other interview; one read is enough.",
+      "organization": "none"
+    },
+    {
+      "id": "619520319e57a9f56fdb6e61a5f735243e05f876",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "venture-capital",
+        "essay"
+      ],
+      "summary": "Ed Zitron essay on venture capital, behind a premium wall.",
+      "whyItMatters": "Opinion on funding trends.",
+      "organization": "none"
+    },
+    {
+      "id": "1aa8b1ac1c09583d0f9dc1bcc6747aa7814875dd",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "multimodal",
+        "reasoning",
+        "new-model"
+      ],
+      "summary": "TechCrunch covers Elorian's first model, built to reason with images rather than just about them.",
+      "whyItMatters": "A new multimodal entrant; wait for independent evaluations.",
+      "organization": "elorian"
+    },
+    {
+      "id": "3c203c9854b8cde16caf0e11b7f10eebfbe2d6dc",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "terms-of-service",
+        "licensing",
+        "meta"
+      ],
+      "summary": "Ars Technica reports Meta's new commercial terms may help it avoid AI licensing fees.",
+      "whyItMatters": "Publishers and content owners should read Meta's terms.",
+      "organization": "meta"
+    },
+    {
+      "id": "e874f1181e686a821c0b37fddedcd903863a5318",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "terms-of-service",
+        "training-data",
+        "meta"
+      ],
+      "summary": "The Verge reports Meta's new terms may let it train AI on news sites for free.",
+      "whyItMatters": "Affects publishers who rely on Meta platforms.",
+      "organization": "meta"
+    },
+    {
+      "id": "3514787761594313f590f9bb7a0ba8a795ec195d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "vercel",
+        "models",
+        "adoption"
+      ],
+      "summary": "TechCrunch says Jev is the fastest-adopted AI model on Vercel.",
+      "whyItMatters": "A signal of what developers on Vercel are choosing.",
+      "organization": "vercel"
+    },
+    {
+      "id": "2f1603134d3031f60b2703f412d636968e6d7cf9",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "code-ownership",
+        "measurement"
+      ],
+      "summary": "Towards Data Science walkthrough of building a tool to measure how much AI-written code you still own.",
+      "whyItMatters": "A practical metric idea for teams using coding assistants.",
+      "organization": "none"
+    },
+    {
+      "id": "354d47fa51262bd45e0cfc3b4af0bc27f2dee2ff",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "chatbots",
+        "design"
+      ],
+      "summary": "WIRED argues chatbots should not refer to themselves with first-person pronouns.",
+      "whyItMatters": "Design opinion; relevant to assistant UX choices.",
+      "organization": "none"
+    },
+    {
+      "id": "34db801981d2b0f5a1685eca5d45a7402b2708df",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "codex",
+        "evaluation",
+        "writing"
+      ],
+      "summary": "Towards Data Science post about a claim-checker built with Codex that still passed a wrong claim.",
+      "whyItMatters": "A cautionary example of testing verification tools.",
+      "organization": "openai"
+    },
+    {
+      "id": "55580df44d21f72c5fc3c2e0170215ec8034a5a1",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "roundup",
+        "newsletter"
+      ],
+      "summary": "Zvi's monthly roundup for October 2026.",
+      "whyItMatters": "Roundup; skim for pointers.",
+      "organization": "none"
+    },
+    {
+      "id": "be15867dd0412246c67297338e2c43f61f325dde",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "deployment",
+        "data-science"
+      ],
+      "summary": "First part of a Towards Data Science series on deploying data science tools.",
+      "whyItMatters": "Introductory; useful mainly for newer practitioners.",
+      "organization": "none"
+    },
+    {
+      "id": "31cd426700d0b7c1db5ebe6d91129be67cecd157",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "jobs",
+        "labor"
+      ],
+      "summary": "ZDNET covers a dashboard that tracks AI-related job cuts by US state.",
+      "whyItMatters": "A data point for workforce-impact discussions.",
+      "organization": "none"
+    },
+    {
+      "id": "1a126febe4ec2776c1a30544c7ebb56d3f17abd9",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "python",
+        "jit",
+        "benchmarks"
+      ],
+      "summary": "Towards Data Science reruns Python 3.14 JIT benchmarks on Python 3.15.",
+      "whyItMatters": "Useful if you tune Python workloads for ML tooling.",
+      "organization": "python"
+    },
+    {
+      "id": "4f9baf27c734f70f9e8f2651ea25900395da9407",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "engineering-management",
+        "podcast"
+      ],
+      "summary": "Refactoring episode with Francisco Trindade on treating a team as a system.",
+      "whyItMatters": "Management content, loosely related to AI work.",
+      "organization": "none"
+    },
+    {
+      "id": "483d6307e687a2d8c3a870289c58f09535bb969c",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "alignment",
+        "agents"
+      ],
+      "summary": "Latent Space AINews issue on agents that challenge polysemanticity and improve interpretability and alignment work.",
+      "whyItMatters": "Pointers to interpretability results; verify the underlying papers.",
+      "organization": "none"
+    },
+    {
+      "id": "f00bf43bf21bc4fdb156009ac377221288d35b48",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "scalable-oversight",
+        "debate",
+        "alignment"
+      ],
+      "summary": "Alignment Forum post proposing a simpler debate protocol for scalable oversight.",
+      "whyItMatters": "Relevant if you follow oversight methods for strong models.",
+      "organization": "none"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "acafffd394bdad0a1a3676bf525fa2bd32e16d96",
+      "reason": "gossip"
+    },
+    {
+      "id": "e4b43ed34ecf8855bed6b8ba08f2d62e1b2bb2b3",
+      "reason": "not AI"
+    },
+    {
+      "id": "f6c9d62495cbeac929b7e8d65e62e553accd7cff",
+      "reason": "shopping advice"
+    },
+    {
+      "id": "de3d82224bc1f3f28f01c97550b8a35e7ad91332",
+      "reason": "celebrity interview"
+    },
+    {
+      "id": "82d931a544c9a6f3654a5a022e838ff8c2ad8b52",
+      "reason": "documentary"
+    },
+    {
+      "id": "311fa86942b350f533df27234a467ccf7f820663",
+      "reason": "not AI"
+    },
+    {
+      "id": "9ecf29b97b87511a84b4cb45bee36d0e54400418",
+      "reason": "spam content"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

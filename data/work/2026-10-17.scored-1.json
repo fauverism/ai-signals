@@ -1,0 +1,515 @@
+{
+  "date": "2026-10-17",
+  "batch": 1,
+  "items": [
+    {
+      "id": "5f4c93b184e43bfecc7fe316c5cde0d36a3fb7b5",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "minecraft"
+      ],
+      "summary": "Preprint on a team of Gemini-based agents completing Minecraft. Posted to arXiv alongside a Hacker News demo of similar agents in StarCraft.",
+      "whyItMatters": "Shows multi-agent setups on long games; treat as a preprint, not a verified result.",
+      "organization": "google"
+    },
+    {
+      "id": "3d3011b3b2f663f46f2b7f57f71e6f8ca911b550",
+      "scores": {
+        "importance": 2,
+        "trend": 4,
+        "novelty": 4,
+        "credibility": 3
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "gaming"
+      ],
+      "summary": "Show HN post demoing a Gemini-driven agent playing StarCraft. It drew solid Hacker News discussion.",
+      "whyItMatters": "A community demo of long-horizon agents; useful for ideas, not evidence.",
+      "organization": "google"
+    },
+    {
+      "id": "b365342473574312563e42a2cbcc395c99cc409c",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nvidia",
+        "local-dev",
+        "hardware"
+      ],
+      "summary": "Nvidia describes using its RTX Spark machines to code, test and deploy on a single local system.",
+      "whyItMatters": "If you run local dev loops, this shows Nvidia's intended workflow on the new hardware.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "c4df85e2ae7d28dcde876b85798eeb1558cd1163",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "nvidia",
+        "hardware",
+        "review"
+      ],
+      "summary": "The Verge reports on a week of using laptops built around Nvidia's RTX Spark.",
+      "whyItMatters": "A hands-on view of the hardware before you decide on a local-AI laptop.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "00ceb8dbcff8ed592569d9c4b414105bd62284c2",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "root-cause-analysis"
+      ],
+      "summary": "Paper on an agent-based approach to root-cause analysis in large infrastructure, with humans governing how it adapts.",
+      "whyItMatters": "Relevant mainly to ops teams exploring agentic incident analysis.",
+      "organization": "diviner-authors"
+    },
+    {
+      "id": "00db44e6dff48f2836cbf071e8d63488e88e12ef",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "privacy",
+        "embeddings",
+        "recommenders"
+      ],
+      "summary": "Paper arguing that language embeddings used in recommender systems can leak more user information than expected.",
+      "whyItMatters": "If you embed user text for recommendations, review what those vectors expose.",
+      "organization": "recsys-researchers"
+    },
+    {
+      "id": "00deb52f45370c0bb9923caa0183d4ff7a654c5f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "federated-learning",
+        "privacy"
+      ],
+      "summary": "Paper on privacy-aware representation sharing in federated settings, designed so users can audit what is shared.",
+      "whyItMatters": "Niche, but relevant if you build federated or on-device systems.",
+      "organization": "fedsumup-authors"
+    },
+    {
+      "id": "01580d7fed2ad77c3e9fa97d710f771eb5d38115",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "gui-agents",
+        "evaluation",
+        "reinforcement-learning"
+      ],
+      "summary": "Paper presenting an open platform for evaluating and RL-training GUI agents across mobile and desktop environments.",
+      "whyItMatters": "A shared testbed could make GUI-agent results easier to compare.",
+      "organization": "mai-gym"
+    },
+    {
+      "id": "03b28cd9817de88852fe03989301d97178ebd117",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "multi-agent"
+      ],
+      "summary": "Paper on agents in a decentralized swarm learning to organize themselves.",
+      "whyItMatters": "Early research; watch if you design multi-agent systems.",
+      "organization": "swarm-authors"
+    },
+    {
+      "id": "03d23af20d252ebec024b732636ca39454ae5ffc",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reasoning",
+        "decision-models"
+      ],
+      "summary": "Paper proposing looped decision models meant to combine quick and deeper reasoning.",
+      "whyItMatters": "Early-stage method; no practical change yet.",
+      "organization": "lev-authors"
+    },
+    {
+      "id": "06199d6855ce830cf7c0b61e1ccd44e8098194b0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "search-agents",
+        "reinforcement-learning"
+      ],
+      "summary": "Paper on a policy optimization method that groups knowledge for search agents.",
+      "whyItMatters": "Niche training method for search-agent builders.",
+      "organization": "knowgpo-authors"
+    },
+    {
+      "id": "c22ce4d9c5995d4a0e885e557681fd19d60a2b9b",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-evaluation",
+        "bedrock",
+        "aws"
+      ],
+      "summary": "AWS blog post describing an evaluation framework for production agents using Bedrock AgentCore.",
+      "whyItMatters": "A concrete pattern for testing agents before and after launch if you are on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "65442e708214c10b88da99a535be852d30396736",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "case-study",
+        "enterprise",
+        "openai"
+      ],
+      "summary": "OpenAI case study on how Itaú is rolling out generative AI to its customer base.",
+      "whyItMatters": "A vendor-written example of large-scale bank deployment.",
+      "organization": "openai"
+    },
+    {
+      "id": "081a8c34a65824f16cd4b268c46050881e65cc9a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "lab-automation",
+        "agents",
+        "biology"
+      ],
+      "summary": "Google Research post on building blocks for AI agents that run autonomous wet labs, grounded in biological reality.",
+      "whyItMatters": "Signals where agentic systems are heading in science workflows.",
+      "organization": "google"
+    },
+    {
+      "id": "7bd3e3f63e0f7daa9eb10a9e54ace03c2cef3502",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 7,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "open-weights",
+        "coding-agents",
+        "aws"
+      ],
+      "summary": "AWS announces Reflection Beam, an open-weight model aimed at agentic coding on its platform.",
+      "whyItMatters": "Adds an open-weight option for coding agents hosted on AWS.",
+      "organization": "reflection"
+    },
+    {
+      "id": "ba4e7337aba280a43aa0c8a66d42089649fa3da6",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pretraining",
+        "indic-languages",
+        "datasets"
+      ],
+      "summary": "Hugging Face post on Indic pretraining at 2.8 trillion tokens, with an open data generation pipeline.",
+      "whyItMatters": "Open data and pipeline help teams building for Indic languages.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "4a2f3ca18eb9cee6e404d64432a48a189cc310da",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "case-study",
+        "codex"
+      ],
+      "summary": "OpenAI customer story about Benefit Street Partners using Codex to answer questions faster.",
+      "whyItMatters": "Vendor case study; limited technical detail.",
+      "organization": "openai"
+    },
+    {
+      "id": "849b423196d125cc3aaed178ce976945d3094cba",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "open-weights",
+        "501b",
+        "hugging-face"
+      ],
+      "summary": "Hugging Face introduces Beam, a 501B-parameter open model positioned for customization and self-hosting.",
+      "whyItMatters": "A very large open model you can host yourself; check licence and hardware needs.",
+      "organization": "reflection"
+    },
+    {
+      "id": "9db4940a53f868400a117abeba82d09071409b87",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "plugins"
+      ],
+      "summary": "OpenAI story on Stack Overflow for Agents tripling signups after launching a ChatGPT plugin.",
+      "whyItMatters": "Shows plugin distribution working for a developer-focused product.",
+      "organization": "openai"
+    },
+    {
+      "id": "0342f39befa102611a3964a64d81ac28b555e319",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "llama-cpp",
+        "local-llm",
+        "gguf"
+      ],
+      "summary": "Hacker News project running llama.cpp natively on a jailbroken PS5 for any GGUF model.",
+      "whyItMatters": "A hobbyist curiosity that shows how portable GGUF inference has become.",
+      "organization": "llama-cpp"
+    },
+    {
+      "id": "812f37373a59f79dbaea3efaef4b3e81560554dc",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "essay",
+        "economics"
+      ],
+      "summary": "Essay arguing AI is where capitalism is heading. It drew a long Hacker News debate.",
+      "whyItMatters": "Opinion; useful as discussion, not as information.",
+      "organization": "none"
+    },
+    {
+      "id": "1557ed18b56735c6b8c5e8615009133e164a2ec5",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "local-llm",
+        "benchmarks",
+        "hardware"
+      ],
+      "summary": "Show HN tool that lets you gauge how fast a local LLM runs before buying hardware.",
+      "whyItMatters": "Handy for sizing local inference purchases.",
+      "organization": "llmspeed"
+    },
+    {
+      "id": "192b815aaef74bfd661b97d66ef8dc2502f947aa",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "reasoning",
+        "llm"
+      ],
+      "summary": "Hacker News thread asking how fast-answering LLMs can show slower, deliberate reasoning skills.",
+      "whyItMatters": "Discussion only; no new result.",
+      "organization": "none"
+    },
+    {
+      "id": "f8d655888dc5f63a107624e05b867b12e0d05c29",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "genomics",
+        "science"
+      ],
+      "summary": "WIRED piece on why AI struggles with the complexity of genomes.",
+      "whyItMatters": "Context on limits of AI in biology.",
+      "organization": "none"
+    },
+    {
+      "id": "dc3d830e0a0da47370bc164d94efeb764de46e29",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Latent Space AINews issue titled High Taste Testers Ep. 1.",
+      "whyItMatters": "A newsletter roundup; skim for pointers.",
+      "organization": "none"
+    },
+    {
+      "id": "50e25bfb1e8370f92ea85417fd3783834074078f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison collects quoted remarks from three engineers.",
+      "whyItMatters": "Short commentary; skim if you follow the topic.",
+      "organization": "none"
+    },
+    {
+      "id": "18f9fd0105553a047098e98b4ed860192a96060c",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "coding-tools",
+        "vendor-relations"
+      ],
+      "summary": "TechCrunch reports Replit's CEO said the company no longer works with Anthropic.",
+      "whyItMatters": "If your coding tool depends on one model vendor, this shows the risk of a split.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "e86f92efb2651db53d684299bf466ba2775c2d91",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "agents",
+        "safety"
+      ],
+      "summary": "Ars Technica reports OpenAI models were used to hack a crypto wallet and breach more websites.",
+      "whyItMatters": "Raises the stakes for sandboxing and monitoring agents with tool access.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "fb1137ec4a402ecbd3466e63d1e3d9b72c96c7e1",
+      "reason": "not AI"
+    },
+    {
+      "id": "2727d1daacce7964a612d259814abc72f2b0c3c4",
+      "reason": "crime report, not AI industry"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-d5c964585c",
+      "label": "Gemini agents in video games"
+    },
+    {
+      "id": "c-119d2d0fd8",
+      "label": "Nvidia RTX Spark local dev"
+    }
+  ],
+  "fetches": []
+}

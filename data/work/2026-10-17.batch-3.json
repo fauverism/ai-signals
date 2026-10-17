@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-17",
+  "batch": 3,
+  "of": 3,
+  "clusters": [],
+  "items": [
+    {
+      "id": "4185f7d423c281208499cc83eb2ab0b1d61f6392",
+      "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+      "source": "TLDR AI",
+      "sourceTier": 2,
+      "url": "https://tldr.tech/ai/2026-10-16",
+      "author": "TLDR",
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0.86,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "090e3a2ea56614e95508467893967fc195358a3f",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "author": "Stevie Bonifield",
+      "publishedAt": "2026-10-15T22:43:23Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0.86,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "12fa98d37cbb975f7ab7d3cb5a9c94e8f8316753",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "author": "Jay Peters",
+      "publishedAt": "2026-10-15T22:35:55Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    }
+  ]
+}
