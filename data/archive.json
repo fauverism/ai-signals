@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-19",
+    "leadTitle": "llm-echo 0.5",
+    "count": 32
+  },
+  {
     "date": "2026-10-17",
     "leadTitle": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
     "count": 53

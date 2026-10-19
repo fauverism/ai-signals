@@ -1,0 +1,529 @@
+{
+  "date": "2026-10-19",
+  "batch": 1,
+  "items": [
+    {
+      "id": "03e5fac279eff6b1f3ad38a4283e3f4e06d124f4",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "topic-modeling",
+        "nlp"
+      ],
+      "summary": "Preprint on topic modeling at the sentence level that combines lexical and contextual signals. The title gives no results to report.",
+      "whyItMatters": "Niche method; worth a look only if you build topic-analysis tooling.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "064555b5c0576e79942d3ee4a18817983555ec0c",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "embeddings",
+        "explainability"
+      ],
+      "summary": "Preprint on aligning multimodal embeddings with domain-specific language so predictions can be explained.",
+      "whyItMatters": "Relevant mainly to teams needing explainable multimodal predictions.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0940916375471446ce6534f38d747c1dedc2c17c",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "3d-reconstruction",
+        "foundation-models"
+      ],
+      "summary": "Paper on using 3D foundation models to reconstruct architecture from diverse regions of the world.",
+      "whyItMatters": "Narrow vision subfield; a pointer for 3D-reconstruction work.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0ad8fa55fb59426502f8e5df74cc1c964fac4a33",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "image-generation",
+        "loss-functions"
+      ],
+      "summary": "Preprint proposing a loss for visual generation that takes language information into account.",
+      "whyItMatters": "Possible training trick for generative-image teams.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "16ae82e1ac8050a6a3d4170c9439a5241d90e220",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "llm-evaluation",
+        "ml-experiments"
+      ],
+      "summary": "Paper asking whether language models can predict how machine learning experiments turn out.",
+      "whyItMatters": "Bears on using LLMs to prioritize experiment queues.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "182b9274acaa3245b8e5db0e5cb4fc90eacdc37b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "domain-shift"
+      ],
+      "summary": "Preprint on test-time adaptation under domain shift, evaluated on five diabetic retinopathy datasets.",
+      "whyItMatters": "Specialized medical-imaging result; skim if you handle domain shift.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "1999e0fd632ec70b08827d4a1ea9108cad39168b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "hallucination",
+        "vision-language"
+      ],
+      "summary": "Paper rethinking how object hallucination is detected in vision-language models, arguing a mention is not always a claim.",
+      "whyItMatters": "Useful if you evaluate hallucination in multimodal models.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "21dce9da975f71a0e4f920cf9ba8efd8f815b9c6",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "post-training",
+        "bias"
+      ],
+      "summary": "Preprint on a shared circuit that post-training tunes to route cues, tied to several model biases.",
+      "whyItMatters": "Interpretability angle on why post-training shifts model biases.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "2f3514e89af97a30db7f1fd836a365f91056f066",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "rag",
+        "medical-vqa",
+        "multimodal"
+      ],
+      "summary": "Paper on a retrieval-augmented medical visual question answering system using gated multimodal representations.",
+      "whyItMatters": "Narrow medical RAG variant; incremental by its title.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "3032c5a09875d064868e9ec23cdfd074abecaa20",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "recommender-systems",
+        "reranking",
+        "semantic-ids"
+      ],
+      "summary": "Preprint on reasoning-based reranking where semantic IDs are the only item representation.",
+      "whyItMatters": "Relevant to teams building generative recommenders.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "33d9d5d52a0450c1192893cc74b3e836d924c743",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "finance",
+        "topic-modeling",
+        "nlp"
+      ],
+      "summary": "Paper linking topics from a time-restricted language model to the cross-section of stock returns.",
+      "whyItMatters": "Niche finance-NLP study; no hindsight leakage is the point.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "348da356e41781a78f153830ffd010bce0e3ce76",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "reasoning-models",
+        "chain-of-thought",
+        "safety"
+      ],
+      "summary": "Preprint finding that reasoning models can control their chains of thought when they instruct themselves to.",
+      "whyItMatters": "Matters for anyone relying on chain-of-thought monitoring for safety.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "4489335a601b94975e721822a00982db8b37c15d",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "abstention",
+        "calibration"
+      ],
+      "summary": "Paper testing how accuracy, confidence and abstention in vision-language models change as visibility degrades.",
+      "whyItMatters": "Informs when a VLM should decline instead of answer.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "6a6a7d718586c2cc438c8b7b8fed913ea34204d3",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "embodied-ai",
+        "evaluation"
+      ],
+      "summary": "Paper whose title asks if a model called GPT-6-Astra has achieved embodied intelligence. The title alone does not show the answer.",
+      "whyItMatters": "Treat the framing with caution until the claims are checked.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "777ff40350ed4a9de8067c164ae38df533b4377a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "evaluation"
+      ],
+      "summary": "Preprint proposing an alignment measure that ranks vision-language models by the cues they rely on.",
+      "whyItMatters": "A new lens for comparing VLMs beyond accuracy.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "7940b2c9aaf59d9810d1956b06310263aa006e37",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "classification",
+        "theory"
+      ],
+      "summary": "Theory paper on optimal tradeoffs between two ranking scores in two-class classification.",
+      "whyItMatters": "Mostly of interest to theorists.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "013bd66a5aa5441a1239e573af421a2bc7bd3205",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "pathology",
+        "graph-neural-networks"
+      ],
+      "summary": "Preprint on an adaptive masked-convolution encoder for tissue graphs of varying size and form.",
+      "whyItMatters": "Niche computational-pathology architecture.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0501a0e22fc3804ffe28852667a0461604d1950c",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "mri",
+        "agents"
+      ],
+      "summary": "Paper describing an agentic framework with loop reasoning for enhancing MRI at different field strengths.",
+      "whyItMatters": "Specialized medical-imaging work with an agent-style design.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "09c26a2a6bf2f5a18e5c788d372f7fb383b56038",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "point-clouds",
+        "vision"
+      ],
+      "summary": "Preprint on a brain-inspired recurrent encoder for completing point clouds through illusory contours.",
+      "whyItMatters": "Narrow 3D-vision research.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "09ed63d37ebdd66927f7dc3e48efbf12b56751d1",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "quantization",
+        "spiking-neural-networks"
+      ],
+      "summary": "Paper on post-training quantization for spiking neural networks guided by spike activity.",
+      "whyItMatters": "Relevant if you deploy spiking models on constrained hardware.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0b1b59788a4d7c9f534a4d52939135ece3252cb5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "benchmark",
+        "autonomous-driving",
+        "spatiotemporal-reasoning"
+      ],
+      "summary": "Benchmark paper evaluating spatiotemporal reasoning on rare edge cases in driving.",
+      "whyItMatters": "A new test set for driving-model failure modes.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0c40e4d70f544f265f40d8ae708ccc693fb7074c",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "video"
+      ],
+      "summary": "Preprint on persistent dynamics for video world models.",
+      "whyItMatters": "Tracks progress on keeping video world models consistent over time.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0c457641516f89ecf83c82ed828d939ac6216589",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-vlm",
+        "distillation"
+      ],
+      "summary": "Paper on distilling visual-evidence dependency into medical vision-language models.",
+      "whyItMatters": "Niche; touches on models that ignore the image.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "0d13c95d60a650eb09a597804d0a3fc768a1d694",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "localization"
+      ],
+      "summary": "Paper on localizing mobile robots precisely from microscopic ground texture.",
+      "whyItMatters": "Interesting sensing approach for robotics teams.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "a5bb32320853f4db899f960fab78f0afa3dea1e6",
+      "scores": {
+        "importance": 4,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "latent-reasoning"
+      ],
+      "summary": "Community-discussed post on LLM agents that reason in latent space and act through text. Title alone does not show the evidence.",
+      "whyItMatters": "Heavy HN interest suggests an agent design worth a read.",
+      "organization": "unknown"
+    },
+    {
+      "id": "768304b3cd48b568db5beb2e11d2833002499302",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "programming-languages",
+        "llm"
+      ],
+      "summary": "A developer shares a programming language built to be unusable by LLMs, which drew a long HN thread.",
+      "whyItMatters": "Light curiosity piece on code that resists LLM use.",
+      "organization": "independent"
+    },
+    {
+      "id": "b9a4c6eaaadf6fb2901bc8ba291ea9ee28a39351",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "ai-regulation",
+        "safety-bill",
+        "anthropic"
+      ],
+      "summary": "HN thread on a safety bill Anthropic proposed, which applies only after 50 deaths or $1B in damages.",
+      "whyItMatters": "Shows where a major lab wants the regulatory threshold set.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "d2e2b582e2726ffa96b65fa8514c77ddbf349956",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-proxy",
+        "observability"
+      ],
+      "summary": "HN discussion asking how teams keep visibility into LLM traffic without running their own proxy.",
+      "whyItMatters": "Prompts a check on whether you log and audit LLM calls.",
+      "organization": "independent"
+    },
+    {
+      "id": "f155d49d3345aeb54c3ec25d23d05d86572a924e",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "ai-agents",
+        "web-access",
+        "crawling"
+      ],
+      "summary": "Discussion of websites increasingly blocking AI agents from access.",
+      "whyItMatters": "Agent builders should expect more blocked sites.",
+      "organization": "independent"
+    },
+    {
+      "id": "9ce9b16cd98843e736b2e99e3d5c34ba732a9d52",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 3
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "llm",
+        "local-inference"
+      ],
+      "summary": "Show HN project that compiles an LLM's intent once and then runs decisions locally.",
+      "whyItMatters": "Early idea for cutting repeated LLM calls; unproven.",
+      "organization": "independent"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

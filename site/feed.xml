@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:09:19 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>llm-echo 0.5</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
+      <guid isPermaLink="false">8f1b78fcf0c44ef0c87541f7b22cdd85b51b9081</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Release 0.5 of llm-echo, a plugin for the llm command-line tool.</description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
+      <guid isPermaLink="false">b9a4c6eaaadf6fb2901bc8ba291ea9ee28a39351</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>HN thread on a safety bill Anthropic proposed, which applies only after 50 deaths or $1B in damages.</description>
+    </item>
+    <item>
+      <title>Websites are closing their doors to AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <guid isPermaLink="false">f155d49d3345aeb54c3ec25d23d05d86572a924e</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>News</category>
+      <description>Discussion of websites increasingly blocking AI agents from access.</description>
+    </item>
+    <item>
+      <title>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</title>
+      <link>https://arxiv.org/abs/2610.18861</link>
+      <guid isPermaLink="false">a5bb32320853f4db899f960fab78f0afa3dea1e6</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>Research</category>
+      <description>Community-discussed post on LLM agents that reason in latent space and act through text. Title alone does not show the evidence.</description>
+    </item>
+    <item>
+      <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
+      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
+      <guid isPermaLink="false">efeb3746fdd37d801674c72b785de49682be6da8</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>Business</category>
+      <description>TechCrunch reports Anthropic will commit 5% of its shares to a public benefit fund.</description>
+    </item>
+    <item>
+      <title>Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To</title>
+      <link>https://arxiv.org/abs/2610.23257</link>
+      <guid isPermaLink="false">348da356e41781a78f153830ffd010bce0e3ce76</guid>
+      <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Preprint finding that reasoning models can control their chains of thought when they instruct themselves to.</description>
+    </item>
     <item>
       <title>Introducing Reflection Beam: an open-weight model for agentic coding on AWS</title>
       <link>https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/</link>
@@ -294,54 +342,6 @@
       <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
       <category>Research</category>
       <description>Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.</description>
-    </item>
-    <item>
-      <title>Anthropic is cutting off its internal evaluations from the internet</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
-      <guid isPermaLink="false">e07ad26d1e7d044f36b7f46752cabcaee5d2de64</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Anthropic is isolating its internal model evaluations from internet access.</description>
-    </item>
-    <item>
-      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <guid isPermaLink="false">4c640ca9263a86389876ced4c54b88bba78433b6</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Microsoft CEO Satya Nadella reportedly argued that organizations should work on the assumption that AI models can be compromised. The remark drew an active discussion on Hacker News.</description>
-    </item>
-    <item>
-      <title>AI agent makers are promising privacy — will they deliver?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
-      <guid isPermaLink="false">50bdc14666b3c2b58ba1f1d0fcb7e93d9dfa4a91</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>The Verge examines whether makers of AI agents will keep their privacy promises.</description>
-    </item>
-    <item>
-      <title>AI Is Getting Really Good at Messing With Cybercriminals</title>
-      <link>https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/</link>
-      <guid isPermaLink="false">f34536c255b8301ea1f3119f326650bbd1539288</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>News</category>
-      <description>WIRED reports on defenders using AI to waste the time of cybercriminals.</description>
-    </item>
-    <item>
-      <title>How Can AI Agents Read Untrusted Sources Safely?</title>
-      <link>https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/</link>
-      <guid isPermaLink="false">5551ed0262321c3b2243b80a351346d9b71c96ca</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>Tutorials</category>
-      <description>A walkthrough of ways AI agents can read untrusted content more safely.</description>
-    </item>
-    <item>
-      <title>Why Temperature 0 Isn&apos;t Deterministic</title>
-      <link>https://towardsdatascience.com/why-temperature-0-isnt-deterministic/</link>
-      <guid isPermaLink="false">fa55969b5c56e35ecae29633f976dba08add9698</guid>
-      <pubDate>Sun, 11 Oct 2026 13:43:19 GMT</pubDate>
-      <category>Tutorials</category>
-      <description>An explainer on why setting temperature to zero still does not make LLM output deterministic.</description>
     </item>
   </channel>
 </rss>
