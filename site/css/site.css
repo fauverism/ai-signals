@@ -159,6 +159,7 @@ main:focus { outline: none; }
 }
 .edition-meta { display: flex; flex-wrap: wrap; gap: 0 var(--sp-4); color: var(--fg); }
 .edition-meta time + time { color: var(--fg-muted); }
+.edition-meta .issue[hidden] { display: none; }
 
 .btn-toggle {
   display: inline-flex; align-items: center; gap: var(--sp-2); min-block-size: var(--touch); padding: 0 var(--sp-3); margin-inline-start: auto;
