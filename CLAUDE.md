@@ -1,6 +1,6 @@
-# CLAUDE.md — AI Signal
+# CLAUDE.md — The Intelligencer
 
-AI Signal is a daily aggregator of AI industry news, research, tutorials, tools
+The Intelligencer (repo: ai-signals) is a daily aggregator of AI industry news, research, tutorials, tools
 and releases. It ranks links by **importance**, **trend momentum** and
 **novelty**, then features the best ones on a static site with a Buttondown
 newsletter signup.

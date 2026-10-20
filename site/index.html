@@ -3,27 +3,28 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI Signal: the day's AI news, research and releases</title>
+  <title>The Intelligencer: the day's AI news, research and releases</title>
   <meta name="description" content="A daily edition of the AI news, research, tutorials, tools and releases worth your time, ranked by importance, momentum and novelty. Every link goes to the original publisher.">
   <!-- og-meta:start -->
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="AI Signal">
+  <meta property="og:site_name" content="The Intelligencer">
   <meta property="og:title" content="TorchNeuron: running HF models on AWS Trainium is easier than ever">
   <meta property="og:description" content="Amazon is pushing Trainium toward PyTorch users: TorchNeuron, a native backend, was announced across the PyTorch, Hugging Face and AWS blogs. Separately, security stayed in view: a report of AI agents used to break into two companies, hackers abusing the OpenCode coding tool, and Meta chatbot…">
   <meta property="og:url" content="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/">
   <meta property="og:image" content="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/og/2026-10-20.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="AI Signal, Tuesday, October 20, 2026: TorchNeuron: running HF models on AWS Trainium is easier than ever">
+  <meta property="og:image:alt" content="The Intelligencer, Tuesday, October 20, 2026: TorchNeuron: running HF models on AWS Trainium is easier than ever">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="TorchNeuron: running HF models on AWS Trainium is easier than ever">
   <meta name="twitter:description" content="Amazon is pushing Trainium toward PyTorch users: TorchNeuron, a native backend, was announced across the PyTorch, Hugging Face and AWS blogs. Separately, security stayed in view: a report of AI agents used to break into two companies, hackers abusing the OpenCode coding tool, and Meta chatbot…">
   <meta name="twitter:image" content="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/og/2026-10-20.png">
   <!-- og-meta:end -->
   <meta name="color-scheme" content="light dark">
-  <link rel="alternate" type="application/rss+xml" title="AI Signal" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="The Intelligencer" href="feed.xml">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/LibreCaslonText-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/UnifrakturCook-Bold.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/site.css">
   <link rel="stylesheet" href="css/subscribe.css">
   <script src="js/theme.js"></script>
@@ -35,20 +36,23 @@
 
   <header class="site-header">
     <div class="wrap header-row">
-      <h1 class="wordmark">AI Signal</h1>
-      <p class="edition-meta">
-        <time id="edition-date"></time>
-        <time id="updated"></time>
-      </p>
-      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
-        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
-      </button>
+      <h1 class="wordmark">The Intelligencer</h1>
+      <p class="motto">News of artificial intelligence, ranked and printed daily.</p>
+      <div class="dateline">
+        <p class="edition-meta">
+          <time id="edition-date"></time>
+          <time id="updated"></time>
+        </p>
+        <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+          <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+        </button>
+      </div>
     </div>
   </header>
 
   <main id="main" class="wrap" tabindex="-1">
     <noscript>
-      <p class="notice">AI Signal loads each day's edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
+      <p class="notice">The Intelligencer loads each day's edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
     </noscript>
     <p id="status" class="notice" role="status" hidden></p>
 
@@ -72,7 +76,7 @@
       <!-- subscribe-fallback:start -->
       <noscript>
         <section class="subscribe subscribe--inline">
-          <h2 id="subscribe-title-inline" class="subscribe-title">The day in AI, ranked.</h2>
+          <h2 id="subscribe-title-inline" class="subscribe-title">The morning edition.</h2>
           <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
           <form action="https://buttondown.com/api/emails/embed-subscribe/fauver" method="post" class="subscribe-form">
             <label for="bd-email-inline">Email address</label>
@@ -116,7 +120,7 @@
         <!-- subscribe-fallback:start -->
         <noscript>
           <section class="subscribe subscribe--footer">
-            <h2 id="subscribe-title-footer" class="subscribe-title">The day in AI, ranked.</h2>
+            <h2 id="subscribe-title-footer" class="subscribe-title">The morning edition.</h2>
             <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
             <form action="https://buttondown.com/api/emails/embed-subscribe/fauver" method="post" class="subscribe-form">
               <label for="bd-email-footer">Email address</label>

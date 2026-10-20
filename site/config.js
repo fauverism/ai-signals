@@ -8,7 +8,7 @@ export const BUTTONDOWN_USERNAME = 'fauver';
 // URLs the RSS feed, sitemap and social preview need. (SITE_URL=https://... in the environment overrides it.)
 export const SITE_URL = 'https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/';
 
-export const SUBSCRIBE_HEADLINE = 'The day in AI, ranked.';
+export const SUBSCRIBE_HEADLINE = 'The morning edition.';
 export const SUBSCRIBE_SUBLINE = "One email each morning: the lead story, the top 5, and what's new. No hype.";
 
 // One tag per placement, so Buttondown shows where each subscriber signed up.

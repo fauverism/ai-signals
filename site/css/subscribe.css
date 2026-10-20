@@ -1,8 +1,8 @@
 /* Newsletter signup. Loaded after site.css and built on its tokens, so both themes come for free. */
 
 :root {
-  /* Text on the accent-filled button: white on the light purple, near-black on the dark theme's lighter purple. */
-  --on-accent: light-dark(#ffffff, #121212);
+  /* Text on the accent-filled button: cream on the red ink, near-black on the dark theme's lighter red. */
+  --on-accent: light-dark(#fbf6e8, #17130f);
 }
 
 /* Slots sit between sections and in the footer. */
@@ -17,26 +17,25 @@
 
 .subscribe {
   display: grid; gap: var(--sp-3); padding: var(--sp-6);
-  background: var(--surface-lead); border: 1px solid var(--accent); border-radius: var(--r-3);
+  background: var(--surface-lead); border: 4px double var(--fg);
 }
-.subscribe-title { font-size: var(--fs-2xl); font-weight: 750; line-height: var(--lh-tight); letter-spacing: -0.02em; text-wrap: balance; }
+.subscribe-title { font-family: var(--font-display); font-size: var(--fs-2xl); font-weight: 400; line-height: var(--lh-tight); text-wrap: balance; }
 .subscribe-sub { max-inline-size: var(--measure); color: var(--fg); }
 
 .subscribe-form { display: grid; gap: var(--sp-2); max-inline-size: 36rem; margin-block-start: var(--sp-2); }
-.subscribe-form label { font-family: var(--font-mono); font-size: var(--fs-xs); font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; }
 .subscribe-row { display: flex; flex-wrap: wrap; gap: var(--sp-3); }
 
 .subscribe-form input[type="email"] {
   flex: 1 1 14rem; min-inline-size: 0; min-block-size: var(--touch); padding: 0 var(--sp-4);
   font: inherit; color: var(--fg); background: var(--bg);
-  border: 2px solid var(--control); border-radius: var(--r-2);
+  border: 2px solid var(--fg); border-radius: 0;
 }
 .subscribe-form input[type="email"][aria-invalid="true"] { border-color: var(--c-fuschia); }
 
 .subscribe-form button {
   flex: none; min-block-size: var(--touch); min-inline-size: var(--touch); padding: 0 var(--sp-6);
-  font: inherit; font-weight: 700; color: var(--on-accent); background: var(--accent);
-  border: 2px solid var(--accent); border-radius: var(--r-2); cursor: pointer;
+  font: inherit; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: var(--fs-sm); color: var(--on-accent); background: var(--accent);
+  border: 2px solid var(--accent); border-radius: 0; cursor: pointer;
 }
 .subscribe-form button:hover { background: color-mix(in srgb, var(--accent) 82%, var(--fg)); border-color: color-mix(in srgb, var(--accent) 82%, var(--fg)); }
 .subscribe-form button:disabled { cursor: progress; opacity: 0.75; }
@@ -49,10 +48,10 @@
   font-size: var(--fs-sm); font-weight: 600; color: var(--fg);
 }
 .subscribe-msg[hidden] { display: none; }
-.subscribe-msg::before { content: "!" / ""; flex: none; display: grid; place-items: center; inline-size: 20px; block-size: 20px; margin-block-start: 1px; font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--bg); background: var(--c-fuschia); border-radius: 50%; }
+.subscribe-msg::before { content: "!" / ""; flex: none; display: grid; place-items: center; inline-size: 20px; block-size: 20px; margin-block-start: 1px; font-size: var(--fs-xs); color: var(--bg); background: var(--c-fuschia); border-radius: 0; }
 .subscribe-status:empty { display: none; }
-.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: light-dark(color-mix(in srgb, var(--c-green) 24%, var(--paper)), color-mix(in srgb, var(--c-green) 28%, var(--paper))); border: 1px solid var(--c-green); border-radius: var(--r-2); }
-.subscribe-status:not(:empty)::before { content: "✓" / ""; flex: none; font-family: var(--font-mono); }
+.subscribe-status:not(:empty) { padding: var(--sp-3) var(--sp-4); background: light-dark(color-mix(in srgb, var(--c-green) 24%, var(--paper)), color-mix(in srgb, var(--c-green) 28%, var(--paper))); border: 1px solid var(--c-green); border-radius: 0; }
+.subscribe-status:not(:empty)::before { content: "✓" / ""; flex: none; }
 
 /* Inline: between Top 5 and the innovations. */
 @media (min-width: 48rem) { .subscribe--inline { padding: var(--sp-8); } }

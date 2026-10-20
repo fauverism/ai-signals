@@ -36,7 +36,7 @@ test('feed is well-formed RSS 2.0 with a channel and a self link', () => {
   const rss = parser.parse(buildFeed({ siteUrl: `${SITE}/`, editions: editions(2) })).rss;
   assert.equal(rss['@_version'], '2.0');
   const c = rss.channel;
-  assert.equal(c.title, 'AI Signal');
+  assert.equal(c.title, 'The Intelligencer');
   assert.equal(c.link, `${SITE}/`);
   assert.equal(c['atom:link']['@_href'], `${SITE}/feed.xml`);
   assert.equal(c['atom:link']['@_rel'], 'self');
@@ -132,21 +132,21 @@ test('stampOgMeta rewrites only between the markers, idempotently', () => {
 
 test('headline wrapping: short headlines get the biggest size, long ones shrink, extreme ones truncate', () => {
   const short = fitHeadline('GPT-6 and Intelligent UI for everyone');
-  assert.equal(short.size, 76);
+  assert.equal(short.size, 64);
   assert.ok(short.lines.length <= 3);
   const medium = fitHeadline('Mistral says its new open-weight model can challenge the best AI systems on reasoning and coding benchmarks while costing far less to run');
-  assert.ok(medium.size < 76 && medium.lines.length * medium.size * medium.lineHeight <= 290);
+  assert.ok(medium.size < 64 && medium.lines.length * medium.size * medium.lineHeight <= 262);
   const huge = fitHeadline('word '.repeat(120));
   assert.ok(huge.lines.at(-1).endsWith('…'));
-  assert.ok(huge.lines.length * huge.size * huge.lineHeight <= 290);
-  assert.deepEqual(wrap('', 60, 800, 500), []);
-  assert.ok(wrap('Supercalifragilisticexpialidocious', 76, 800, 300).length === 1, 'an over-long word stays whole');
+  assert.ok(huge.lines.length * huge.size * huge.lineHeight <= 262);
+  assert.deepEqual(wrap('', 60, 400, 500), []);
+  assert.ok(wrap('Supercalifragilisticexpialidocious', 64, 400, 300).length === 1, 'an over-long word stays whole');
 });
 
 test('the preview image is a 1200x630 PNG and the SVG escapes its text', () => {
-  const svg = ogSvg({ dateLabel: 'Thursday, October 8, 2026', headline: 'A & B <c>', tagline: 'The day in AI, ranked.' });
+  const svg = ogSvg({ dateLabel: 'Thursday, October 8, 2026', headline: 'A & B <c>', tagline: 'The morning edition.' });
   assert.ok(svg.includes('A &amp; B &lt;c&gt;') && !svg.includes('<c>'));
-  const png = renderOg({ dateLabel: 'Thursday, October 8, 2026', headline: 'GPT-6 and Intelligent UI for everyone', tagline: 'The day in AI, ranked.' });
+  const png = renderOg({ dateLabel: 'Thursday, October 8, 2026', headline: 'GPT-6 and Intelligent UI for everyone', tagline: 'The morning edition.' });
   assert.deepEqual([...png.subarray(0, 8)], [137, 80, 78, 71, 13, 10, 26, 10], 'PNG signature');
   assert.equal(png.readUInt32BE(16), 1200);
   assert.equal(png.readUInt32BE(20), 630);
