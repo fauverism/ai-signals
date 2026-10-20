@@ -1,0 +1,524 @@
+{
+  "date": "2026-10-20",
+  "batch": 2,
+  "items": [
+    {
+      "id": "054c7b3e4f074d9260245c1f56b03569e2e5c0b0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "segmentation"
+      ],
+      "summary": "Preprint on wavelet-expert pooling for ultrasound lesion segmentation.",
+      "whyItMatters": "Narrow medical-imaging niche.",
+      "organization": "academia"
+    },
+    {
+      "id": "06bd14663a5c09aa4d23edd576c314ce0c394f23",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "gesture-generation"
+      ],
+      "summary": "Preprint on generating gestures for two-person conversations.",
+      "whyItMatters": "Niche animation research.",
+      "organization": "academia"
+    },
+    {
+      "id": "080f37bf32fb981753b9c5d2dc554b898e18bc70",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "generative-models"
+      ],
+      "summary": "Preprint using generative priors for total-body PET image reconstruction.",
+      "whyItMatters": "Medical imaging niche.",
+      "organization": "academia"
+    },
+    {
+      "id": "08a8302e3ecad25060018eecfedadb7a207cc20b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video",
+        "segmentation",
+        "lvlm"
+      ],
+      "summary": "Preprint on adapting large vision-language model attention for reasoning-based video segmentation.",
+      "whyItMatters": "Incremental video-segmentation work.",
+      "organization": "academia"
+    },
+    {
+      "id": "08e4d348b863fa0f7e44f14d32b987d8e8ae40ef",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "point-clouds",
+        "unsupervised"
+      ],
+      "summary": "Preprint on unsupervised learning and generation of high-dimensional point clouds.",
+      "whyItMatters": "Niche scientific application.",
+      "organization": "academia"
+    },
+    {
+      "id": "ea83f0dd69c5142c6d685cd9b56d2039d4b82149",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "bedrock",
+        "structured-outputs",
+        "claude"
+      ],
+      "summary": "AWS post on structured outputs for Claude models on Amazon Bedrock, constraining responses to a schema.",
+      "whyItMatters": "Schema-constrained output cuts parsing failures on Bedrock.",
+      "organization": "aws"
+    },
+    {
+      "id": "87cd33ee12bd9f5e8bf78174099e2f542a589c9c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "sagemaker",
+        "aws"
+      ],
+      "summary": "AWS post on reaching SageMaker Studio through its new console experience.",
+      "whyItMatters": "Changes how SageMaker users get to Studio.",
+      "organization": "aws"
+    },
+    {
+      "id": "4bf843f5f5fd28769ca617b5c3d3bd322f5b65e1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "sagemaker",
+        "jumpstart"
+      ],
+      "summary": "AWS year-to-date recap of SageMaker JumpStart additions.",
+      "whyItMatters": "Recap; skim for new model availability.",
+      "organization": "aws"
+    },
+    {
+      "id": "5d44067f2d19c9de9d333881060b1b60688f05e8",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nvidia",
+        "mamba",
+        "cuda"
+      ],
+      "summary": "NVIDIA post on faster Mamba-2 forward-pass kernels written with CUDA Tile.",
+      "whyItMatters": "Faster state-space model inference kernels on Nvidia GPUs.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "98948186cc0e34f784f95fc01183996cca4a972b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "bedrock",
+        "video",
+        "twelvelabs"
+      ],
+      "summary": "AWS announcement that TwelveLabs Pegasus 1.5 video model is available in Amazon Bedrock.",
+      "whyItMatters": "Video understanding via a managed API.",
+      "organization": "twelvelabs"
+    },
+    {
+      "id": "e242a37f6e454cdb661f0e672892af970e1b093b",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "vllm",
+        "inference",
+        "kv-cache"
+      ],
+      "summary": "AWS post on push-based KV cache transfer to cut latency in disaggregated vLLM serving.",
+      "whyItMatters": "Relevant if you run disaggregated inference.",
+      "organization": "aws"
+    },
+    {
+      "id": "c5ffbd108a109045ad660f807700f4fe4e389bc3",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "vllm",
+        "inference",
+        "agents"
+      ],
+      "summary": "AWS post on bi-directional KV transfer to speed multi-turn agent workloads in vLLM.",
+      "whyItMatters": "Targets time-to-first-token for agent loops.",
+      "organization": "aws"
+    },
+    {
+      "id": "7a364f356aab49466020015082ef4122a7394f52",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "coding",
+        "low-resource-languages"
+      ],
+      "summary": "OpenAI post on improving coding ability in programming languages with little training data.",
+      "whyItMatters": "Shows where code models still fall short.",
+      "organization": "openai"
+    },
+    {
+      "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
+      "scores": {
+        "importance": 4,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "whatsapp",
+        "prompt-leak"
+      ],
+      "summary": "Hacker News thread on WhatsApp help pages that exposed hidden instructions for a Meta chatbot.",
+      "whyItMatters": "Reminder that system prompts leak through ordinary web pages.",
+      "organization": "meta"
+    },
+    {
+      "id": "190687157a4d4168c3c44249f0a63c4eabe4afde",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "whatsapp",
+        "prompt-leak"
+      ],
+      "summary": "WIRED reports that WhatsApp help pages exposed hidden instructions given to a Meta chatbot.",
+      "whyItMatters": "Reminder that system prompts leak through ordinary web pages.",
+      "organization": "meta"
+    },
+    {
+      "id": "72f398965877575c14d77657785b29aee713c513",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "agents",
+        "cyberattack"
+      ],
+      "summary": "The Verge reports a hacker used many AI agents to break into John Deere and SharkNinja systems.",
+      "whyItMatters": "Shows agent-driven intrusion at scale; review exposure.",
+      "organization": "john-deere"
+    },
+    {
+      "id": "4f0198409c0e2bc26eeb9557bd337cdd1069ba9e",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "harness"
+      ],
+      "summary": "Community-posted explainer on agent harnesses as the layer around a language model.",
+      "whyItMatters": "Plain framing of harness design for newcomers.",
+      "organization": "n/a"
+    },
+    {
+      "id": "940391212200891d818e5a916249b176b580f709",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "robotics",
+        "data-collection"
+      ],
+      "summary": "Report of an AI lab offering free plumbing and HVAC repairs in three cities to collect robot training data.",
+      "whyItMatters": "Odd data-collection tactic for physical AI.",
+      "organization": "unknown"
+    },
+    {
+      "id": "9ce9b16cd98843e736b2e99e3d5c34ba732a9d52",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "show-hn",
+        "llm",
+        "local-inference"
+      ],
+      "summary": "Show HN project that compiles an LLM’s intent once so decisions run locally.",
+      "whyItMatters": "Early hobby-stage idea for cutting inference calls.",
+      "organization": "strot"
+    },
+    {
+      "id": "46e866d9a5978c0c32e879ee3bc5dc0116d6e767",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "cyber-operations"
+      ],
+      "summary": "Community-posted project offering visibility into AI-driven cyber operations.",
+      "whyItMatters": "Possible monitoring resource for security teams.",
+      "organization": "cairn"
+    },
+    {
+      "id": "0e27f9a1857344a69c46fd576c79074b8f435aea",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "semiconductors",
+        "samsung"
+      ],
+      "summary": "MIT Technology Review reports from Samsung’s new semiconductor hub.",
+      "whyItMatters": "Background on chip supply.",
+      "organization": "samsung"
+    },
+    {
+      "id": "48ac9eccb51bdf6e06b253185151e82658537aa6",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "evals",
+        "llm-as-judge"
+      ],
+      "summary": "Hamel Husain and a co-author explain how to use decision models when building LLM evaluations.",
+      "whyItMatters": "Practical guidance for structuring eval criteria.",
+      "organization": "n/a"
+    },
+    {
+      "id": "4d5d66fe73afb35f97cece1893fd40c20ce24f34",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter"
+      ],
+      "summary": "Latent Space daily roundup noting a quiet news day.",
+      "whyItMatters": "Skip unless you want a recap.",
+      "organization": "n/a"
+    },
+    {
+      "id": "e9f6e03adc36285ae0f8a61feda32b16fcdddf19",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "new-york"
+      ],
+      "summary": "TechCrunch reports Mamdani says federal government has abdicated on AI and urges New Yorkers to push back.",
+      "whyItMatters": "Signals local pressure for AI rules.",
+      "organization": "new-york-city"
+    },
+    {
+      "id": "6c096b15e9b9bd770a6ecd554055c881e4568f5d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "programming",
+        "essay"
+      ],
+      "summary": "Simon Willison essay reflecting on the end of programming as a craft.",
+      "whyItMatters": "Opinion; worth a read for context.",
+      "organization": "n/a"
+    },
+    {
+      "id": "c86664b601af4728e70f42986186240f5b066378",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "compute",
+        "nscale"
+      ],
+      "summary": "TechCrunch reports unconfirmed talks between Nscale and Anthropic for another large compute deal.",
+      "whyItMatters": "Compute supply for frontier labs; unconfirmed.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "2eba6fdc38ff53cfa4a358afa8297d6016497f28",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "policy",
+        "evaluation",
+        "huggingface"
+      ],
+      "summary": "TechCrunch reports a Hugging Face policy chief doubts embedded AI evaluators will be easy to adopt.",
+      "whyItMatters": "Informs debate over built-in model evaluators.",
+      "organization": "huggingface"
+    },
+    {
+      "id": "0e19bec78e364455f491b685a07a59716d399135",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "microsoft",
+        "agents",
+        "security"
+      ],
+      "summary": "TechCrunch reports Microsoft likens AI agents to insider threats and says frontier models cannot be fully trusted.",
+      "whyItMatters": "Supports least-privilege design for agents.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "ddd0e2e9a06cfe718e630a1578541a1afd3d6378",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "energy",
+        "data-centers"
+      ],
+      "summary": "The Verge piece on fossil fuels returning, tied to AI power demand.",
+      "whyItMatters": "Context on data-center energy.",
+      "organization": "n/a"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "8f0ccb03f0182257010d7cdd5cefca740658c174",
+      "reason": "market and debt story"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-957b29fb19",
+      "label": "WhatsApp chatbot instructions exposed"
+    }
+  ],
+  "fetches": []
+}

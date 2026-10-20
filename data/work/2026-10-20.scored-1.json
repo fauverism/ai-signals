@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-20",
+  "batch": 1,
+  "items": [
+    {
+      "id": "44f897481a74af91b091f947455c56cf63043d17",
+      "scores": {
+        "importance": 4,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "encoder-free"
+      ],
+      "summary": "Preprint on multimodal language models that skip a separate vision encoder and appear to learn encoder-like behavior internally.",
+      "whyItMatters": "Relevant if you weigh the cost of vision-encoder stacks in multimodal models.",
+      "organization": "academia"
+    },
+    {
+      "id": "747852054eef062b8fae91d9cd72d759d93f1c04",
+      "scores": {
+        "importance": 3,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "multimodal",
+        "benchmark"
+      ],
+      "summary": "Preprint introducing a harness for testing visual agents that use tools, with a multimodal memory component.",
+      "whyItMatters": "Another testbed for evaluating tool-using vision agents.",
+      "organization": "academia"
+    },
+    {
+      "id": "005351e0d0c94a45d7299b5ccd6889f2ce8e5899",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "synthetic-data",
+        "physics"
+      ],
+      "summary": "Preprint on generating physics problems by instantiating formulas top-down and checking them by executing code.",
+      "whyItMatters": "Niche, but shows code execution as a check for synthetic data.",
+      "organization": "academia"
+    },
+    {
+      "id": "07997759a410ff85f30a744912fe3f7e16fd5820",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion-llm",
+        "decoding"
+      ],
+      "summary": "Preprint on a sampling method that keeps diverse candidates alive during decoding of diffusion language models.",
+      "whyItMatters": "Useful if you follow diffusion LLM decoding.",
+      "organization": "academia"
+    },
+    {
+      "id": "07fa5870d37a445287fa0623571f89dcd22b040c",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "calibration",
+        "confidence",
+        "interpretability"
+      ],
+      "summary": "Preprint examining whether confidence signals inside large language models measure what they claim to.",
+      "whyItMatters": "Caution before trusting model-internal confidence scores.",
+      "organization": "academia"
+    },
+    {
+      "id": "09691dfbde47cb5979ca53fd16282e2e29fd8a34",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "object-detection",
+        "domain-adaptation"
+      ],
+      "summary": "Extended version of a paper on adapting object detectors to bad-weather imagery without source data.",
+      "whyItMatters": "Narrow computer-vision niche.",
+      "organization": "academia"
+    },
+    {
+      "id": "11874f702da9b20bddbc80210ff5e771a50b6ce8",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "evolutionary-search"
+      ],
+      "summary": "Position paper arguing evolutionary search methods built on LLMs should be compared at equal token budgets.",
+      "whyItMatters": "Gives a fairer baseline for comparing LLM search methods.",
+      "organization": "academia"
+    },
+    {
+      "id": "1efc9389c230f72fe26f90b8055c0b2870b74e05",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "skills"
+      ],
+      "summary": "Second version of a system that evolves agent skills automatically, starting from benchmark adaptation.",
+      "whyItMatters": "Early look at automated skill improvement for agents.",
+      "organization": "academia"
+    },
+    {
+      "id": "5d3b8a828beb1a5b723f6004941a18354d881c3a",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "mixture-of-experts",
+        "reasoning",
+        "multimodal"
+      ],
+      "summary": "Preprint that finds and steers experts tied to fast versus slow thinking in multimodal mixture-of-experts models.",
+      "whyItMatters": "Hints at cheaper reasoning control in MoE models.",
+      "organization": "academia"
+    },
+    {
+      "id": "60f849a8b3108cb3db81ac5cd5319389bd5ddabd",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "routing"
+      ],
+      "summary": "Preprint on routing among several experts for weakly supervised referring expression comprehension.",
+      "whyItMatters": "Narrow vision-language subfield.",
+      "organization": "academia"
+    },
+    {
+      "id": "6a96c712079fc46b9cd79c333268c21e9aa55678",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "theory"
+      ],
+      "summary": "Theory paper on when vision-language models can reliably list every item in an image.",
+      "whyItMatters": "Frames a known weakness: incomplete object listing.",
+      "organization": "academia"
+    },
+    {
+      "id": "134c1a21491eedf5e0d43903566e24abeb68244a",
+      "scores": {
+        "importance": 3,
+        "trend": 4,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "aws",
+        "trainium",
+        "voice"
+      ],
+      "summary": "AWS case study on Deepgram running its voice AI workloads on Trainium chips.",
+      "whyItMatters": "Customer data point for non-Nvidia inference hardware.",
+      "organization": "aws"
+    },
+    {
+      "id": "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
+      "scores": {
+        "importance": 5,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "aws",
+        "trainium",
+        "pytorch",
+        "huggingface"
+      ],
+      "summary": "Hugging Face post on TorchNeuron, a path to run Hugging Face models on AWS Trainium with native PyTorch.",
+      "whyItMatters": "Lowers the effort to try Trainium with existing HF code.",
+      "organization": "aws"
+    },
+    {
+      "id": "5e4e9f7a294aadacc3e5af37adba2f77f603b0a0",
+      "scores": {
+        "importance": 5,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "aws",
+        "trainium",
+        "pytorch"
+      ],
+      "summary": "PyTorch Blog announcement of TorchNeuron, a native PyTorch backend for AWS Trainium.",
+      "whyItMatters": "Native PyTorch support removes a major barrier to Trainium.",
+      "organization": "aws"
+    },
+    {
+      "id": "0251c082e34fa5a1c51c594537b254e1962265f9",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "reinforcement-learning",
+        "skills"
+      ],
+      "summary": "Preprint on tracking the lifecycle of a skill library while training agents with reinforcement learning.",
+      "whyItMatters": "Skill libraries need maintenance; this proposes how.",
+      "organization": "academia"
+    },
+    {
+      "id": "049a047f638c8bfe5cdc3d9c30c0c75d0940592e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "alignment"
+      ],
+      "summary": "Preprint linking vision-language model failures to persistent mismatches between visual and text representations.",
+      "whyItMatters": "Diagnostic framing for VLM failure analysis.",
+      "organization": "academia"
+    },
+    {
+      "id": "05bbd3a14fde97c06622b4854911fa2a47fc689a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video",
+        "memory"
+      ],
+      "summary": "Preprint on building compact reusable memory from long videos to answer many later queries.",
+      "whyItMatters": "Helps with cost of repeated long-video queries.",
+      "organization": "academia"
+    },
+    {
+      "id": "09c9bffeb5299fc1dad46d5161246c6166e55d7b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "test-time-learning",
+        "evolution-strategies"
+      ],
+      "summary": "Preprint applying evolution strategies to continual learning at test time.",
+      "whyItMatters": "Gradient-free adaptation idea worth tracking.",
+      "organization": "academia"
+    },
+    {
+      "id": "0c8f0ea89493b3445abafe39a2ae46ec09ba76ef",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "cad",
+        "code-generation"
+      ],
+      "summary": "Preprint on generating CAD mechanisms that actually function, not just look right.",
+      "whyItMatters": "Niche engineering application.",
+      "organization": "academia"
+    },
+    {
+      "id": "1142fcbcd6c218b7ac3f63a6f55fdccaea22a0d1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "translation",
+        "low-resource"
+      ],
+      "summary": "Preprint using cipher-based training to improve in-context learning of terms for rare-language translation.",
+      "whyItMatters": "Niche low-resource translation approach.",
+      "organization": "academia"
+    },
+    {
+      "id": "11c37e4cc5616c9ed2cd85187d972a39e740b411",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "training",
+        "early-stopping"
+      ],
+      "summary": "Preprint proposing instance-level early stopping guided by second-order loss dynamics.",
+      "whyItMatters": "Theory-heavy; limited near-term use.",
+      "organization": "academia"
+    },
+    {
+      "id": "15967a81c97c623b9f01dd63c52b1ebaac94395d",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "code"
+      ],
+      "summary": "Preprint probing whether language models represent the roles variables play in code.",
+      "whyItMatters": "Interpretability groundwork for code models.",
+      "organization": "academia"
+    },
+    {
+      "id": "17275e64a3d412fcfb220ed97a9821dd2811a33e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "conformal-prediction",
+        "uncertainty"
+      ],
+      "summary": "Preprint on conformal thresholds for classes that have no calibration data.",
+      "whyItMatters": "Narrow uncertainty-estimation niche.",
+      "organization": "academia"
+    },
+    {
+      "id": "2156872da6da83eaaf13c5597b08def8e6727658",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "conformal-prediction",
+        "vlm"
+      ],
+      "summary": "Preprint showing marginal coverage can hide failures for specific routes in adaptive VLM ensembles.",
+      "whyItMatters": "Cautions on aggregate coverage metrics.",
+      "organization": "academia"
+    },
+    {
+      "id": "2b640501dd41260a3dfe24ffb34eaac1ad18b02c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "embodied"
+      ],
+      "summary": "Preprint on structured latent dynamics for long-horizon embodied world models.",
+      "whyItMatters": "Incremental world-model work.",
+      "organization": "academia"
+    },
+    {
+      "id": "2bdba0d23fd17f38f42b5cf92649ede723771076",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "weak-supervision"
+      ],
+      "summary": "Preprint questioning weakly supervised localization results on chest radiographs and proposing PACE.",
+      "whyItMatters": "Medical imaging niche; flags evaluation pitfalls.",
+      "organization": "academia"
+    },
+    {
+      "id": "3e2efd9a734ef8103b965f64e512386a96565f4c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "benchmark",
+        "spatial-reasoning"
+      ],
+      "summary": "Benchmark testing spatial understanding with views that contradict each other.",
+      "whyItMatters": "New probe for spatial reasoning in multimodal models.",
+      "organization": "academia"
+    },
+    {
+      "id": "012b7e08162af038f3eeeaf2e508f1b656e24d7e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "audio-video",
+        "generation"
+      ],
+      "summary": "Preprint on one model that creates audio and video together, using progressive training.",
+      "whyItMatters": "Joint audio-video generation is a growing area.",
+      "organization": "academia"
+    },
+    {
+      "id": "01f27555972ac8f11df04d857214321cc562dcc6",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "segmentation",
+        "few-shot"
+      ],
+      "summary": "Preprint on few-shot segmentation that pairs visual memory with text alignment.",
+      "whyItMatters": "Narrow vision subfield.",
+      "organization": "academia"
+    },
+    {
+      "id": "03b92b67f04a20de3f10d70138e753a7926b7c02",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "report-generation"
+      ],
+      "summary": "Preprint on generating longitudinal radiology reports with temporal decoupling.",
+      "whyItMatters": "Medical niche.",
+      "organization": "academia"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-0e9281da1f",
+      "label": "AWS Trainium gets PyTorch support"
+    }
+  ],
+  "fetches": []
+}

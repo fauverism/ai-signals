@@ -1,0 +1,512 @@
+{
+  "date": "2026-10-20",
+  "batch": 3,
+  "items": [
+    {
+      "id": "fef6e80895790548b2868d23c740b109442d5c13",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "legal"
+      ],
+      "summary": "Ars Technica reports on an FBI claim about files held by an accused OpenAI employee.",
+      "whyItMatters": "Insider-risk story at a major lab.",
+      "organization": "openai"
+    },
+    {
+      "id": "8a1ba0c934b076ba4f9bc259657a4372efccee34",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "aws",
+        "trainium",
+        "nvidia"
+      ],
+      "summary": "TechCrunch frames Amazon’s TorchNeuron tool as its biggest move yet against Nvidia.",
+      "whyItMatters": "Competitive context for the TorchNeuron release.",
+      "organization": "aws"
+    },
+    {
+      "id": "19bb02dae50727e7b31035fc623202e5c800206f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "legal"
+      ],
+      "summary": "WIRED reports an OpenAI engineer accused of spying on executives was ordered held in custody.",
+      "whyItMatters": "Insider-risk story at a major lab.",
+      "organization": "openai"
+    },
+    {
+      "id": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "opencode",
+        "coding-tools"
+      ],
+      "summary": "TechCrunch reports hackers hit the AI coding tool OpenCode and ran up charges on user accounts.",
+      "whyItMatters": "Rotate keys and check billing if you use OpenCode.",
+      "organization": "opencode"
+    },
+    {
+      "id": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "replika",
+        "assistants"
+      ],
+      "summary": "TechCrunch profiles Replika’s founder and the assistant she built after a Disrupt pitch.",
+      "whyItMatters": "Founder story with limited impact.",
+      "organization": "replika"
+    },
+    {
+      "id": "92a3903d3b66bec4613b3ed6d768bb45e8388d06",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "samsung",
+        "hardware"
+      ],
+      "summary": "Tech Scoop looks at Samsung’s roughly $1 billion bet on infrastructure that AI models run on.",
+      "whyItMatters": "Hardware supply context.",
+      "organization": "samsung"
+    },
+    {
+      "id": "5b7e0b78619618646bcfe337170d7dd88d0291c6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "web"
+      ],
+      "summary": "MIT Technology Review argues that optimizing the web for AI agents may degrade it for people.",
+      "whyItMatters": "Frames design tradeoffs for agent-friendly sites.",
+      "organization": "n/a"
+    },
+    {
+      "id": "92c294f17fe5c8097af4fe56a9db08c10d21d300",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "research",
+        "mit-tech-review"
+      ],
+      "summary": "MIT Technology Review covers a claim said to upend how the AI field sees an issue.",
+      "whyItMatters": "Check the article for the specific claim.",
+      "organization": "n/a"
+    },
+    {
+      "id": "ab6b8717c4a503e4c68a00221657ce36268d5bc3",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "surveillance",
+        "mapquest"
+      ],
+      "summary": "ZDNET explains MapQuest’s new layer showing Flock surveillance cameras.",
+      "whyItMatters": "Consumer privacy tool.",
+      "organization": "mapquest"
+    },
+    {
+      "id": "1375bb961f6a8369116c6637c3cdbef0cdbfdc47",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "games",
+        "copyright"
+      ],
+      "summary": "Ars Technica reports AI game clones are making indie developers wary of showing their work.",
+      "whyItMatters": "Shows copying pressure on small studios.",
+      "organization": "n/a"
+    },
+    {
+      "id": "7dc2fc406c1ded85e2a07f61920b47ec50ac307c",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "helion",
+        "nvidia",
+        "compilers"
+      ],
+      "summary": "PyTorch Blog on compiler controls in Helion with NVIDIA CompileIQ across two layers of search.",
+      "whyItMatters": "Kernel authors get finer compile tuning.",
+      "organization": "pytorch"
+    },
+    {
+      "id": "af9076f8cfd4975f14b54e58bdf5afa5c2dd932a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "uber",
+        "text-to-sql",
+        "engineering"
+      ],
+      "summary": "ByteByteGo walkthrough of how Uber built an assistant to answer data questions correctly.",
+      "whyItMatters": "Real-world pattern for data Q&A systems.",
+      "organization": "uber"
+    },
+    {
+      "id": "ce5bef3109f78f7087b0b5e86ea5f06ef9e692d3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "gemini"
+      ],
+      "summary": "Towards Data Science post introducing Google Gemini 4 Argon.",
+      "whyItMatters": "Verify claims against Google’s documentation.",
+      "organization": "google"
+    },
+    {
+      "id": "b3d41182461bd0cf7bf9a66c9e02753b35f7a7c3",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "disney",
+        "character-ai",
+        "legal"
+      ],
+      "summary": "Ars Technica reports Disney found a way to acquire Character.AI without taking on its lawsuits.",
+      "whyItMatters": "Deal structure may set a pattern for liabilities.",
+      "organization": "disney"
+    },
+    {
+      "id": "99c5023d5ecdf0df5133eee3b3f232a3453a8327",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "policy",
+        "interview"
+      ],
+      "summary": "The Verge interview with JB Pritzker on AI’s promise and risk.",
+      "whyItMatters": "Policy opinion with little new fact.",
+      "organization": "n/a"
+    },
+    {
+      "id": "4ba0aa747c45c8566faaaff6a9304f35ca88e13f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "conformal-prediction",
+        "uncertainty"
+      ],
+      "summary": "Towards Data Science explainer on whether conformal prediction makes models more reliable.",
+      "whyItMatters": "Good intro to uncertainty methods.",
+      "organization": "n/a"
+    },
+    {
+      "id": "60d1e3a234224839c20486a9d3d1f8fcf621cc34",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Zvi Mowshowitz commentary post titled “I Can See Everything”.",
+      "whyItMatters": "Opinion roundup; context only.",
+      "organization": "n/a"
+    },
+    {
+      "id": "ffd7e32a6b56cfd5d0a5ae22a49bf790e34fb7c9",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "media",
+        "generative-ai"
+      ],
+      "summary": "Understanding AI piece on AI enabling personalized media.",
+      "whyItMatters": "Trend commentary.",
+      "organization": "n/a"
+    },
+    {
+      "id": "dd92228b1f1b75c733d90892255c189f184c61e1",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "import-ai",
+        "policy"
+      ],
+      "summary": "Jack Clark newsletter issue including remarks to the IMF about AI progress.",
+      "whyItMatters": "Signal on how labs brief policymakers.",
+      "organization": "n/a"
+    },
+    {
+      "id": "724f3b5ea9682eb3d0b56e54c6dca9ba2f7a6132",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "eeg",
+        "signal-processing"
+      ],
+      "summary": "Towards Data Science post on how many EEG channels are really needed.",
+      "whyItMatters": "Niche applied ML.",
+      "organization": "n/a"
+    },
+    {
+      "id": "b1ad5daf5f4a5a6d3b9949ed205b1acee0fabe13",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "politics",
+        "regulation"
+      ],
+      "summary": "The Verge reports Democrats see cracking down on AI as a political advantage.",
+      "whyItMatters": "Shapes US regulation outlook.",
+      "organization": "us-democrats"
+    },
+    {
+      "id": "e66c413278e81e0204856f5d78ddf67be09370ab",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ai-harms",
+        "ml-engineering"
+      ],
+      "summary": "Towards Data Science essay tracing AI harms to technical causes.",
+      "whyItMatters": "Useful framing for risk reviews.",
+      "organization": "n/a"
+    },
+    {
+      "id": "79044e654323fbecb9e122e4e942b63ddbf83c24",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "News",
+      "tags": [
+        "edge-ai",
+        "sponsored"
+      ],
+      "summary": "IEEE Spectrum sponsored content from Intel on edge AI for smart cities.",
+      "whyItMatters": "Vendor material.",
+      "organization": "intel"
+    },
+    {
+      "id": "048da226d17ea2b349640f5097e39acf43d376b7",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "claude",
+        "agents",
+        "behavior"
+      ],
+      "summary": "MIT Technology Review reports on researchers leaving Claude in a virtual desert island setting where it displayed play.",
+      "whyItMatters": "Anecdotal agent-behavior study.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "03710f6c99ed477ced8203ad99392830d31d135e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "disney",
+        "character-ai",
+        "legal"
+      ],
+      "summary": "WIRED reports Disney asked Character.AI to go bankrupt to avoid its lawsuits.",
+      "whyItMatters": "Deal structure may set a pattern for liabilities.",
+      "organization": "disney"
+    },
+    {
+      "id": "f304553ac7257668b0239f33ec7150acf2f6e84f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "engineering-management"
+      ],
+      "summary": "Refactoring newsletter on making time for hard work and weekly readings.",
+      "whyItMatters": "Engineering management advice.",
+      "organization": "n/a"
+    },
+    {
+      "id": "adaaf247aba101851b0934918de0f8c5a412876a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "deepseek"
+      ],
+      "summary": "TLDR AI roundup mentioning a new DeepSeek Flash release, Replit dropping Anthropic and Anthropic workforce news.",
+      "whyItMatters": "Recap; verify items at source.",
+      "organization": "n/a"
+    },
+    {
+      "id": "ad547968d473b56481e4f8eea39f88c12c1ba083",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "llm-cli",
+        "datasette"
+      ],
+      "summary": "Release 0.1.1 of the llm-tools-datasette plugin.",
+      "whyItMatters": "Minor plugin update.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "8f1b78fcf0c44ef0c87541f7b22cdd85b51b9081",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "llm-cli",
+        "testing"
+      ],
+      "summary": "Release 0.5 of the llm-echo plugin.",
+      "whyItMatters": "Minor plugin update.",
+      "organization": "simon-willison"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "1ef5dd457f6d14300242e0fda849bb7d8f8d2196",
+      "reason": "funding news, no technical substance"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

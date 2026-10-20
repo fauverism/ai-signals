@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-20",
+    "leadTitle": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "count": 54
+  },
+  {
     "date": "2026-10-19",
     "leadTitle": "llm-echo 0.5",
     "count": 32

@@ -1,95 +1,60 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T10:09:19Z",
-  "editorNote": "A thin day with no major releases. The most discussed items were about rules and access: a safety bill Anthropic proposed that applies only after large harms, and sites shutting out AI agents. Anthropic also set aside shares for a public benefit fund and gave an outside watchdog deeper access. On the research side, a preprint on reasoning models steering their own chains of thought is worth a look.",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T10:12:11Z",
+  "editorNote": "Amazon is pushing Trainium toward PyTorch users: TorchNeuron, a native backend, was announced across the PyTorch, Hugging Face and AWS blogs. Separately, security stayed in view: a report of AI agents used to break into two companies, hackers abusing the OpenCode coding tool, and Meta chatbot instructions exposed on WhatsApp help pages.",
   "lead": {
-    "id": "8f1b78fcf0c44ef0c87541f7b22cdd85b51b9081",
-    "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-    "canonicalUrl": "https://simonwillison.net/2026/Oct/18/llm-echo",
-    "title": "llm-echo 0.5",
-    "source": "Simon Willison",
-    "sourceTier": 2,
-    "categoryHint": "Opinion",
+    "id": "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "canonicalUrl": "https://huggingface.co/blog/hf-torchneuron",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
     "author": null,
-    "publishedAt": "2026-10-18T23:16:16Z",
-    "fetchedAt": "2026-10-19T10:08:26Z",
+    "publishedAt": "2026-10-19T00:00:00Z",
+    "fetchedAt": "2026-10-20T10:10:56Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
       "redditScore": null,
       "githubStars": null,
       "githubStarsDelta": null,
-      "crossSourceCount": 1
+      "crossSourceCount": 3
     },
     "scores": {
-      "importance": 1,
-      "trend": 1,
-      "novelty": 2,
+      "importance": 5,
+      "trend": 4,
+      "novelty": 5,
       "credibility": 9
     },
-    "total": 2.5,
+    "total": 5.4,
     "category": "Tools & Releases",
     "tags": [
-      "llm-plugins",
-      "testing"
+      "aws",
+      "trainium",
+      "pytorch",
+      "huggingface"
     ],
-    "summary": "Release 0.5 of llm-echo, a plugin for the llm command-line tool.",
-    "whyItMatters": "Small plugin update, useful for testing llm setups.",
+    "summary": "Hugging Face post on TorchNeuron, a path to run Hugging Face models on AWS Trainium with native PyTorch.",
+    "whyItMatters": "Lowers the effort to try Trainium with existing HF code.",
     "featuredSlot": "lead",
     "previouslyFeatured": false
   },
   "top": [
     {
-      "id": "b9a4c6eaaadf6fb2901bc8ba291ea9ee28a39351",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "canonicalUrl": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "source": "Hacker News: artificial intelligence",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-18T14:30:27Z",
-      "fetchedAt": "2026-10-19T10:08:25Z",
+      "id": "ea83f0dd69c5142c6d685cd9b56d2039d4b82149",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Anshika Saxena",
+      "publishedAt": "2026-10-19T23:32:19Z",
+      "fetchedAt": "2026-10-20T10:10:56Z",
       "signals": {
-        "hnPoints": 162,
-        "hnComments": 165,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "scores": {
-        "importance": 6,
-        "trend": 2,
-        "novelty": 5,
-        "credibility": 4
-      },
-      "total": 4.5,
-      "category": "Policy & Safety",
-      "tags": [
-        "ai-regulation",
-        "safety-bill",
-        "anthropic"
-      ],
-      "summary": "HN thread on a safety bill Anthropic proposed, which applies only after 50 deaths or $1B in damages.",
-      "whyItMatters": "Shows where a major lab wants the regulatory threshold set.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "f155d49d3345aeb54c3ec25d23d05d86572a924e",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "title": "Websites are closing their doors to AI agents",
-      "source": "Hacker News: artificial intelligence",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-18T14:58:10Z",
-      "fetchedAt": "2026-10-19T10:08:25Z",
-      "signals": {
-        "hnPoints": 141,
-        "hnComments": 138,
+        "hnPoints": null,
+        "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
@@ -97,150 +62,220 @@
       },
       "scores": {
         "importance": 5,
-        "trend": 2,
-        "novelty": 5,
-        "credibility": 4
-      },
-      "total": 4.1,
-      "category": "News",
-      "tags": [
-        "ai-agents",
-        "web-access",
-        "crawling"
-      ],
-      "summary": "Discussion of websites increasingly blocking AI agents from access.",
-      "whyItMatters": "Agent builders should expect more blocked sites.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "a5bb32320853f4db899f960fab78f0afa3dea1e6",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "canonicalUrl": "https://arxiv.org/abs/2610.18861",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-18T20:48:14Z",
-      "fetchedAt": "2026-10-19T10:08:25Z",
-      "signals": {
-        "hnPoints": 396,
-        "hnComments": 192,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "scores": {
-        "importance": 4,
-        "trend": 3,
-        "novelty": 5,
-        "credibility": 4
-      },
-      "total": 4,
-      "category": "Research",
-      "tags": [
-        "agents",
-        "latent-reasoning"
-      ],
-      "summary": "Community-discussed post on LLM agents that reason in latent space and act through text. Title alone does not show the evidence.",
-      "whyItMatters": "Heavy HN interest suggests an agent design worth a read.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "efeb3746fdd37d801674c72b785de49682be6da8",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "canonicalUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "source": "TechCrunch: AI",
-      "sourceTier": 2,
-      "categoryHint": "Business",
-      "author": "Anthony Ha",
-      "publishedAt": "2026-10-18T20:37:40Z",
-      "fetchedAt": "2026-10-19T10:08:26Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "scores": {
-        "importance": 4,
         "trend": 1,
         "novelty": 5,
-        "credibility": 6
+        "credibility": 8
       },
-      "total": 3.8,
-      "category": "Business",
+      "total": 4.5,
+      "category": "Tools & Releases",
       "tags": [
-        "anthropic",
-        "public-benefit"
+        "bedrock",
+        "structured-outputs",
+        "claude"
       ],
-      "summary": "TechCrunch reports Anthropic will commit 5% of its shares to a public benefit fund.",
-      "whyItMatters": "Signals how a major lab structures its governance.",
+      "summary": "AWS post on structured outputs for Claude models on Amazon Bedrock, constraining responses to a schema.",
+      "whyItMatters": "Schema-constrained output cuts parsing failures on Bedrock.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "348da356e41781a78f153830ffd010bce0e3ce76",
-      "url": "https://arxiv.org/abs/2610.23257",
-      "canonicalUrl": "https://arxiv.org/abs/2610.23257",
-      "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To",
-      "source": "arXiv cs.CL",
+      "id": "7a364f356aab49466020015082ef4122a7394f52",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "canonicalUrl": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "source": "OpenAI News",
       "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Uriel Dolev, Idan Schwartz, Yoav Goldberg",
-      "publishedAt": "2026-10-19T04:00:00Z",
-      "fetchedAt": "2026-10-19T10:08:26Z",
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "fetchedAt": "2026-10-20T10:10:56Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "total": 4.4,
+      "category": "News",
+      "tags": [
+        "openai",
+        "coding",
+        "low-resource-languages"
+      ],
+      "summary": "OpenAI post on improving coding ability in programming languages with little training data.",
+      "whyItMatters": "Shows where code models still fall short.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "72f398965877575c14d77657785b29aee713c513",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-19T13:58:41Z",
+      "fetchedAt": "2026-10-20T10:10:57Z",
+      "signals": {
+        "hnPoints": 59,
+        "hnComments": 3,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
         "crossSourceCount": 2
       },
       "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.4,
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "agents",
+        "cyberattack"
+      ],
+      "summary": "The Verge reports a hacker used many AI agents to break into John Deere and SharkNinja systems.",
+      "whyItMatters": "Shows agent-driven intrusion at scale; review exposure.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "44f897481a74af91b091f947455c56cf63043d17",
+      "url": "https://arxiv.org/abs/2610.24239",
+      "canonicalUrl": "https://arxiv.org/abs/2610.24239",
+      "title": "Encoder-Free Multimodal LLMs Learn Implicit Encoders",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "David Harwath, Desh Raj, Xavier Velez, Sandra Arcos-Holzinger, Willie Jeng, Karen Livescu, et al.",
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "fetchedAt": "2026-10-20T10:10:56Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 4
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "encoder-free"
+      ],
+      "summary": "Preprint on multimodal language models that skip a separate vision encoder and appear to learn encoder-like behavior internally.",
+      "whyItMatters": "Relevant if you weigh the cost of vision-encoder stacks in multimodal models.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "7dc2fc406c1ded85e2a07f61920b47ec50ac307c",
+      "url": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+      "canonicalUrl": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq",
+      "title": "One Search, Two Layers: Compiler Controls Inside PyTorch Helion using NVIDIA CompileIQ",
+      "source": "PyTorch Blog",
+      "sourceTier": 2,
+      "categoryHint": "Tools & Releases",
+      "author": "Aditya Srikanth (NVIDIA), Rupak Roy (NVIDIA), Abhinav Singh (NVIDIA), Jason Ansel (Meta), et al.",
+      "publishedAt": "2026-10-19T15:45:05Z",
+      "fetchedAt": "2026-10-20T10:10:57Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
         "importance": 4,
         "trend": 1,
         "novelty": 5,
-        "credibility": 5
+        "credibility": 8
       },
-      "total": 3.7,
-      "category": "Policy & Safety",
+      "total": 4.1,
+      "category": "Tools & Releases",
       "tags": [
-        "reasoning-models",
-        "chain-of-thought",
-        "safety"
+        "pytorch",
+        "helion",
+        "nvidia",
+        "compilers"
       ],
-      "summary": "Preprint finding that reasoning models can control their chains of thought when they instruct themselves to.",
-      "whyItMatters": "Matters for anyone relying on chain-of-thought monitoring for safety.",
+      "summary": "PyTorch Blog on compiler controls in Helion with NVIDIA CompileIQ across two layers of search.",
+      "whyItMatters": "Kernel authors get finer compile tuning.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     }
   ],
   "innovations": [],
-  "trending": [],
+  "trending": [
+    {
+      "id": "c-0e9281da1f",
+      "label": "AWS Trainium gets PyTorch support",
+      "itemIds": [
+        "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
+        "5e4e9f7a294aadacc3e5af37adba2f77f603b0a0",
+        "134c1a21491eedf5e0d43903566e24abeb68244a"
+      ],
+      "leadItemId": "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
+      "sources": [
+        "AWS Machine Learning Blog",
+        "Hugging Face Blog",
+        "PyTorch Blog"
+      ],
+      "trendDelta": 3
+    },
+    {
+      "id": "c-957b29fb19",
+      "label": "WhatsApp chatbot instructions exposed",
+      "itemIds": [
+        "efa8c4c666c628dd9409809bd8deca16355de77a",
+        "190687157a4d4168c3c44249f0a63c4eabe4afde"
+      ],
+      "leadItemId": "190687157a4d4168c3c44249f0a63c4eabe4afde",
+      "sources": [
+        "Hacker News: LLM",
+        "WIRED: AI"
+      ],
+      "trendDelta": null
+    }
+  ],
   "byCategory": {
     "News": [
       {
-        "id": "f155d49d3345aeb54c3ec25d23d05d86572a924e",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "title": "Websites are closing their doors to AI agents",
-        "source": "Hacker News: artificial intelligence",
-        "sourceTier": 3,
+        "id": "7a364f356aab49466020015082ef4122a7394f52",
+        "url": "https://openai.com/index/low-resource-programming-languages",
+        "canonicalUrl": "https://openai.com/index/low-resource-programming-languages",
+        "title": "Advancing coding in low‑resource programming languages",
+        "source": "OpenAI News",
+        "sourceTier": 1,
         "categoryHint": "News",
         "author": null,
-        "publishedAt": "2026-10-18T14:58:10Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
+        "publishedAt": "2026-10-19T12:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
         "signals": {
-          "hnPoints": 141,
-          "hnComments": 138,
+          "hnPoints": null,
+          "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
@@ -248,19 +283,383 @@
         },
         "scores": {
           "importance": 5,
-          "trend": 2,
+          "trend": 0,
           "novelty": 5,
-          "credibility": 4
+          "credibility": 9
+        },
+        "total": 4.4,
+        "category": "News",
+        "tags": [
+          "openai",
+          "coding",
+          "low-resource-languages"
+        ],
+        "summary": "OpenAI post on improving coding ability in programming languages with little training data.",
+        "whyItMatters": "Shows where code models still fall short.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "canonicalUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-19T23:22:18Z",
+        "fetchedAt": "2026-10-20T10:10:55Z",
+        "signals": {
+          "hnPoints": 441,
+          "hnComments": 129,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 6
         },
         "total": 4.1,
         "category": "News",
         "tags": [
-          "ai-agents",
-          "web-access",
-          "crawling"
+          "meta",
+          "whatsapp",
+          "prompt-leak"
         ],
-        "summary": "Discussion of websites increasingly blocking AI agents from access.",
-        "whyItMatters": "Agent builders should expect more blocked sites.",
+        "summary": "Hacker News thread on WhatsApp help pages that exposed hidden instructions for a Meta chatbot.",
+        "whyItMatters": "Reminder that system prompts leak through ordinary web pages.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "190687157a4d4168c3c44249f0a63c4eabe4afde",
+        "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+        "canonicalUrl": "https://wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
+        "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Matt Burgess",
+        "publishedAt": "2026-10-19T16:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.7,
+        "category": "News",
+        "tags": [
+          "meta",
+          "whatsapp",
+          "prompt-leak"
+        ],
+        "summary": "WIRED reports that WhatsApp help pages exposed hidden instructions given to a Meta chatbot.",
+        "whyItMatters": "Reminder that system prompts leak through ordinary web pages.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "dd92228b1f1b75c733d90892255c189f184c61e1",
+        "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+        "canonicalUrl": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+        "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+        "source": "Import AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jack Clark",
+        "publishedAt": "2026-10-19T12:31:37Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "News",
+        "tags": [
+          "import-ai",
+          "policy"
+        ],
+        "summary": "Jack Clark newsletter issue including remarks to the IMF about AI progress.",
+        "whyItMatters": "Signal on how labs brief policymakers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5b7e0b78619618646bcfe337170d7dd88d0291c6",
+        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "James O'Donnell",
+        "publishedAt": "2026-10-19T18:22:47Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "News",
+        "tags": [
+          "agents",
+          "web"
+        ],
+        "summary": "MIT Technology Review argues that optimizing the web for AI agents may degrade it for people.",
+        "whyItMatters": "Frames design tradeoffs for agent-friendly sites.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "92c294f17fe5c8097af4fe56a9db08c10d21d300",
+        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Will Douglas Heaven",
+        "publishedAt": "2026-10-19T17:45:55Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "research",
+          "mit-tech-review"
+        ],
+        "summary": "MIT Technology Review covers a claim said to upend how the AI field sees an issue.",
+        "whyItMatters": "Check the article for the specific claim.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1375bb961f6a8369116c6637c3cdbef0cdbfdc47",
+        "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "canonicalUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work",
+        "title": "AI game clones are making indie developers afraid to show their work",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kyle Orland",
+        "publishedAt": "2026-10-19T16:59:22Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "News",
+        "tags": [
+          "games",
+          "copyright"
+        ],
+        "summary": "Ars Technica reports AI game clones are making indie developers wary of showing their work.",
+        "whyItMatters": "Shows copying pressure on small studios.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fef6e80895790548b2868d23c740b109442d5c13",
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ashley Belanger",
+        "publishedAt": "2026-10-19T20:21:53Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "News",
+        "tags": [
+          "openai",
+          "legal"
+        ],
+        "summary": "Ars Technica reports on an FBI claim about files held by an accused OpenAI employee.",
+        "whyItMatters": "Insider-risk story at a major lab.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ffd7e32a6b56cfd5d0a5ae22a49bf790e34fb7c9",
+        "url": "https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
+        "canonicalUrl": "https://understandingai.org/p/ai-is-ushering-in-an-age-personal",
+        "title": "AI is ushering in an age of personal media",
+        "source": "Understanding AI (Timothy B. Lee)",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Benj Edwards",
+        "publishedAt": "2026-10-19T13:33:47Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "News",
+        "tags": [
+          "media",
+          "generative-ai"
+        ],
+        "summary": "Understanding AI piece on AI enabling personalized media.",
+        "whyItMatters": "Trend commentary.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "19bb02dae50727e7b31035fc623202e5c800206f",
+        "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+        "canonicalUrl": "https://wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+        "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Paresh Dave",
+        "publishedAt": "2026-10-19T19:49:17Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "News",
+        "tags": [
+          "openai",
+          "legal"
+        ],
+        "summary": "WIRED reports an OpenAI engineer accused of spying on executives was ordered held in custody.",
+        "whyItMatters": "Insider-risk story at a major lab.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "44f897481a74af91b091f947455c56cf63043d17",
+        "url": "https://arxiv.org/abs/2610.24239",
+        "canonicalUrl": "https://arxiv.org/abs/2610.24239",
+        "title": "Encoder-Free Multimodal LLMs Learn Implicit Encoders",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "David Harwath, Desh Raj, Xavier Velez, Sandra Arcos-Holzinger, Willie Jeng, Karen Livescu, et al.",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 3,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Research",
+        "tags": [
+          "multimodal",
+          "encoder-free"
+        ],
+        "summary": "Preprint on multimodal language models that skip a separate vision encoder and appear to learn encoder-like behavior internally.",
+        "whyItMatters": "Relevant if you weigh the cost of vision-encoder stacks in multimodal models.",
         "featuredSlot": "top",
         "previouslyFeatured": false
       },
@@ -274,960 +673,7 @@
         "categoryHint": "News",
         "author": "Amit Katwala",
         "publishedAt": "2026-10-19T09:08:05Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 5
-        },
-        "total": 3.4,
-        "category": "News",
-        "tags": [
-          "claude",
-          "agents",
-          "research"
-        ],
-        "summary": "MIT Technology Review reports on researchers placing Claude in a virtual desert island, where it began to play.",
-        "whyItMatters": "Offers a glimpse of unscripted agent behavior in open environments.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "768304b3cd48b568db5beb2e11d2833002499302",
-        "url": "https://blog.picheta.me/post/killswitch-lang/",
-        "canonicalUrl": "https://blog.picheta.me/post/killswitch-lang",
-        "title": "I built a programming language that LLMs can't use",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-17T22:26:47Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
-        "signals": {
-          "hnPoints": 193,
-          "hnComments": 143,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 4
-        },
-        "total": 3.1,
-        "category": "News",
-        "tags": [
-          "programming-languages",
-          "llm"
-        ],
-        "summary": "A developer shares a programming language built to be unusable by LLMs, which drew a long HN thread.",
-        "whyItMatters": "Light curiosity piece on code that resists LLM use.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "a2cd583eae08ad65b3bf292690b06e8e682d13d9",
-        "url": "https://thesignal.substack.com/p/metas-muse-googles-argon-and-openais",
-        "canonicalUrl": "https://thesignal.substack.com/p/metas-muse-googles-argon-and-openais",
-        "title": "Meta’s Muse, Google’s Argon, and OpenAI’s Bugged Meeting Room",
-        "source": "The Signal",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Alex Banks",
-        "publishedAt": "2026-10-18T13:47:27Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.8,
-        "category": "News",
-        "tags": [
-          "meta",
-          "google",
-          "openai"
-        ],
-        "summary": "The Signal newsletter roundup touching Meta's Muse, Google's Argon and an OpenAI meeting-room bug.",
-        "whyItMatters": "Quick digest; check the originals for details.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "03710f6c99ed477ced8203ad99392830d31d135e",
-        "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-        "canonicalUrl": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
-        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Maddy Varner",
-        "publishedAt": "2026-10-19T09:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.6,
-        "category": "News",
-        "tags": [
-          "character-ai",
-          "disney",
-          "lawsuits"
-        ],
-        "summary": "WIRED reports Disney asked Character.AI to go bankrupt as a way out of lawsuits.",
-        "whyItMatters": "Shows legal pressure on companion-chatbot companies.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "5f3fe56efca119c58bf5849f82ecfc7c2bf730fb",
-        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-        "canonicalUrl": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
-        "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Reece Rogers",
-        "publishedAt": "2026-10-18T10:30:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.5,
-        "category": "News",
-        "tags": [
-          "meta",
-          "chatbots",
-          "content-policy"
-        ],
-        "summary": "WIRED reports OnlyFans creators object to Meta's Muse being allowed to talk explicitly.",
-        "whyItMatters": "Shows content-policy tensions around chatbot personas.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "23197d791d96641905b8a50d72f6fcac096c9f76",
-        "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-        "canonicalUrl": "https://wired.com/story/data-center-industry-is-trying-to-woo-kids",
-        "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Caroline Haskins",
-        "publishedAt": "2026-10-18T10:30:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.2,
-        "category": "News",
-        "tags": [
-          "data-centers",
-          "public-relations"
-        ],
-        "summary": "WIRED reports data center operators are courting communities with school field trips.",
-        "whyItMatters": "Context on community pushback against data centers.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "79044e654323fbecb9e122e4e942b63ddbf83c24",
-        "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-        "canonicalUrl": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems",
-        "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-        "source": "IEEE Spectrum: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Intel",
-        "publishedAt": "2026-10-19T10:00:04Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 5
-        },
-        "total": 2,
-        "category": "News",
-        "tags": [
-          "edge-ai",
-          "smart-cities"
-        ],
-        "summary": "IEEE Spectrum piece on edge AI for smart cities, moving from insight to action.",
-        "whyItMatters": "Background reading on city-scale edge deployments.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "f1180bde7a40d39c51f22ddfe3d6ea20db2a060f",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-        "title": "A woman was arrested in Philly for blocking a delivery robot",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Terrence O’Brien",
-        "publishedAt": "2026-10-18T18:28:10Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 1,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 1.9,
-        "category": "News",
-        "tags": [
-          "robots",
-          "delivery"
-        ],
-        "summary": "The Verge reports an arrest in Philadelphia after a woman blocked a delivery robot.",
-        "whyItMatters": "Light story on public friction with delivery robots.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Research": [
-      {
-        "id": "a5bb32320853f4db899f960fab78f0afa3dea1e6",
-        "url": "https://arxiv.org/abs/2610.18861",
-        "canonicalUrl": "https://arxiv.org/abs/2610.18861",
-        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-18T20:48:14Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
-        "signals": {
-          "hnPoints": 396,
-          "hnComments": 192,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 3,
-          "novelty": 5,
-          "credibility": 4
-        },
-        "total": 4,
-        "category": "Research",
-        "tags": [
-          "agents",
-          "latent-reasoning"
-        ],
-        "summary": "Community-discussed post on LLM agents that reason in latent space and act through text. Title alone does not show the evidence.",
-        "whyItMatters": "Heavy HN interest suggests an agent design worth a read.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "16ae82e1ac8050a6a3d4170c9439a5241d90e220",
-        "url": "https://arxiv.org/abs/2610.22599",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22599",
-        "title": "Can LLMs predict the outcomes of machine learning experiments?",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Ayush Bansal, Aldo Pareja, Sean Klein, Serge Didenko, Artem Lukoianov",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 5
-        },
-        "total": 3.3,
-        "category": "Research",
-        "tags": [
-          "llm-evaluation",
-          "ml-experiments"
-        ],
-        "summary": "Paper asking whether language models can predict how machine learning experiments turn out.",
-        "whyItMatters": "Bears on using LLMs to prioritize experiment queues.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "1999e0fd632ec70b08827d4a1ea9108cad39168b",
-        "url": "https://arxiv.org/abs/2610.23610",
-        "canonicalUrl": "https://arxiv.org/abs/2610.23610",
-        "title": "Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Hsin-Ling Hsu, Neeraja Kirtane, Kuan-Hao Huang",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.1,
-        "category": "Research",
-        "tags": [
-          "hallucination",
-          "vision-language"
-        ],
-        "summary": "Paper rethinking how object hallucination is detected in vision-language models, arguing a mention is not always a claim.",
-        "whyItMatters": "Useful if you evaluate hallucination in multimodal models.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "21dce9da975f71a0e4f920cf9ba8efd8f815b9c6",
-        "url": "https://arxiv.org/abs/2610.22937",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22937",
-        "title": "Many Biases, One Circuit: Post-Training Tunes a Pretrained Cue-Routing Mechanism",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Prakhar Gupta, Terry Jingchen Zhang, Zhijing Jin",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.1,
-        "category": "Research",
-        "tags": [
-          "interpretability",
-          "post-training",
-          "bias"
-        ],
-        "summary": "Preprint on a shared circuit that post-training tunes to route cues, tied to several model biases.",
-        "whyItMatters": "Interpretability angle on why post-training shifts model biases.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "4489335a601b94975e721822a00982db8b37c15d",
-        "url": "https://arxiv.org/abs/2610.22981",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22981",
-        "title": "How Murky Before a VLM Knows It Cannot See? Accuracy, Confidence and Abstention on a Physical Visibility Axis",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Mochamad Rizal Fauzan, Irgi Surya",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.1,
-        "category": "Research",
-        "tags": [
-          "vision-language",
-          "abstention",
-          "calibration"
-        ],
-        "summary": "Paper testing how accuracy, confidence and abstention in vision-language models change as visibility degrades.",
-        "whyItMatters": "Informs when a VLM should decline instead of answer.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "777ff40350ed4a9de8067c164ae38df533b4377a",
-        "url": "https://arxiv.org/abs/2610.22610",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22610",
-        "title": "Shift-Reliance Alignment: Ranking Vision-Language Models by the Cues They Trust",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Faisal Mohammad, Mohamed Younis",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.1,
-        "category": "Research",
-        "tags": [
-          "vision-language",
-          "evaluation"
-        ],
-        "summary": "Preprint proposing an alignment measure that ranks vision-language models by the cues they rely on.",
-        "whyItMatters": "A new lens for comparing VLMs beyond accuracy.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0b1b59788a4d7c9f534a4d52939135ece3252cb5",
-        "url": "https://arxiv.org/abs/2610.22795",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22795",
-        "title": "STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases",
-        "source": "arXiv cs.CV",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Lieqi Liu, Rui gao, Jia-Chen Gu, Wenbo Hu, Zhaobin Mo, Ahmadreza Moradipari, Nejib Ammar, Wei Wang, Nanyun Peng",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 2.8,
-        "category": "Research",
-        "tags": [
-          "benchmark",
-          "autonomous-driving",
-          "spatiotemporal-reasoning"
-        ],
-        "summary": "Benchmark paper evaluating spatiotemporal reasoning on rare edge cases in driving.",
-        "whyItMatters": "A new test set for driving-model failure modes.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0c40e4d70f544f265f40d8ae708ccc693fb7074c",
-        "url": "https://arxiv.org/abs/2610.23423",
-        "canonicalUrl": "https://arxiv.org/abs/2610.23423",
-        "title": "Momentum: Persistent Dynamics for Video World Models",
-        "source": "arXiv cs.CV",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Nedko Savov, Stefan Maria Ailuro, Danda Pani Paudel, Yilun Du, Xi Wang, Luc Van Gool",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 2.8,
-        "category": "Research",
-        "tags": [
-          "world-models",
-          "video"
-        ],
-        "summary": "Preprint on persistent dynamics for video world models.",
-        "whyItMatters": "Tracks progress on keeping video world models consistent over time.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0940916375471446ce6534f38d747c1dedc2c17c",
-        "url": "https://arxiv.org/abs/2610.22514",
-        "canonicalUrl": "https://arxiv.org/abs/2610.22514",
-        "title": "Towards Reconstructing Geographically Diverse Architecture with 3D Foundation Models",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Nicky Kriplani, Yiwen Zhang, Angelina Wang, Hadar Averbuch-Elor",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 2.7,
-        "category": "Research",
-        "tags": [
-          "3d-reconstruction",
-          "foundation-models"
-        ],
-        "summary": "Paper on using 3D foundation models to reconstruct architecture from diverse regions of the world.",
-        "whyItMatters": "Narrow vision subfield; a pointer for 3D-reconstruction work.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "03e5fac279eff6b1f3ad38a4283e3f4e06d124f4",
-        "url": "https://arxiv.org/abs/2610.23388",
-        "canonicalUrl": "https://arxiv.org/abs/2610.23388",
-        "title": "Sentence-Level Topic Modeling with Lexical and Contextual Evidence",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Federica Granese, Serena Villata, Charles Bouveyron",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.5,
-        "category": "Research",
-        "tags": [
-          "topic-modeling",
-          "nlp"
-        ],
-        "summary": "Preprint on topic modeling at the sentence level that combines lexical and contextual signals. The title gives no results to report.",
-        "whyItMatters": "Niche method; worth a look only if you build topic-analysis tooling.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tutorials": [
-      {
-        "id": "d2e2b582e2726ffa96b65fa8514c77ddbf349956",
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-        "canonicalUrl": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-18T21:09:12Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
-        "signals": {
-          "hnPoints": 167,
-          "hnComments": 116,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 2,
-          "novelty": 3,
-          "credibility": 4
-        },
-        "total": 2.9,
-        "category": "Tutorials",
-        "tags": [
-          "llm-proxy",
-          "observability"
-        ],
-        "summary": "HN discussion asking how teams keep visibility into LLM traffic without running their own proxy.",
-        "whyItMatters": "Prompts a check on whether you log and audit LLM calls.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "edbdb8bef18dc52117f4aaffe19d975dec916cbb",
-        "url": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/",
-        "canonicalUrl": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree",
-        "title": "Both Charts Are Right. So Why Do They Disagree?",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Sara A. Metwalli",
-        "publishedAt": "2026-10-18T12:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:27Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.2,
-        "category": "Tutorials",
-        "tags": [
-          "data-analysis",
-          "statistics"
-        ],
-        "summary": "Towards Data Science explainer on why two seemingly correct charts disagree.",
-        "whyItMatters": "Good reminder to check aggregation before trusting a chart.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "50096de029830214f4d7f799c75cbefd419038ec",
-        "url": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/",
-        "canonicalUrl": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem",
-        "title": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Samit Ganguly",
-        "publishedAt": "2026-10-18T14:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:27Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.2,
-        "category": "Tutorials",
-        "tags": [
-          "probability",
-          "bayesian"
-        ],
-        "summary": "Towards Data Science walkthrough of the Monty Hall problem from a Bayesian view.",
-        "whyItMatters": "Handy refresher on Bayesian reasoning.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tools & Releases": [
-      {
-        "id": "9ce9b16cd98843e736b2e99e3d5c34ba732a9d52",
-        "url": "https://github.com/strot-ai/Project-STROT",
-        "canonicalUrl": "https://github.com/strot-ai/Project-STROT",
-        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-19T04:32:07Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
-        "signals": {
-          "hnPoints": 23,
-          "hnComments": 10,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 3
-        },
-        "total": 2.7,
-        "category": "Tools & Releases",
-        "tags": [
-          "llm",
-          "local-inference"
-        ],
-        "summary": "Show HN project that compiles an LLM's intent once and then runs decisions locally.",
-        "whyItMatters": "Early idea for cutting repeated LLM calls; unproven.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "8f1b78fcf0c44ef0c87541f7b22cdd85b51b9081",
-        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/18/llm-echo",
-        "title": "llm-echo 0.5",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-18T23:16:16Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 1,
-          "trend": 1,
-          "novelty": 2,
-          "credibility": 9
-        },
-        "total": 2.5,
-        "category": "Tools & Releases",
-        "tags": [
-          "llm-plugins",
-          "testing"
-        ],
-        "summary": "Release 0.5 of llm-echo, a plugin for the llm command-line tool.",
-        "whyItMatters": "Small plugin update, useful for testing llm setups.",
-        "featuredSlot": "lead",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "ad547968d473b56481e4f8eea39f88c12c1ba083",
-        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
-        "title": "llm-tools-datasette 0.1.1",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-18T23:43:09Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 1,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 9
-        },
-        "total": 2.2,
-        "category": "Tools & Releases",
-        "tags": [
-          "datasette",
-          "llm-plugins"
-        ],
-        "summary": "Point release 0.1.1 of the llm-tools-datasette plugin.",
-        "whyItMatters": "Minor plugin update; relevant only if you use it.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Policy & Safety": [
-      {
-        "id": "b9a4c6eaaadf6fb2901bc8ba291ea9ee28a39351",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "canonicalUrl": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "source": "Hacker News: artificial intelligence",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-18T14:30:27Z",
-        "fetchedAt": "2026-10-19T10:08:25Z",
-        "signals": {
-          "hnPoints": 162,
-          "hnComments": 165,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 4
-        },
-        "total": 4.5,
-        "category": "Policy & Safety",
-        "tags": [
-          "ai-regulation",
-          "safety-bill",
-          "anthropic"
-        ],
-        "summary": "HN thread on a safety bill Anthropic proposed, which applies only after 50 deaths or $1B in damages.",
-        "whyItMatters": "Shows where a major lab wants the regulatory threshold set.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "348da356e41781a78f153830ffd010bce0e3ce76",
-        "url": "https://arxiv.org/abs/2610.23257",
-        "canonicalUrl": "https://arxiv.org/abs/2610.23257",
-        "title": "Reasoning Models Can Control Their Chains of Thought When They Tell Themselves To",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Uriel Dolev, Idan Schwartz, Yoav Goldberg",
-        "publishedAt": "2026-10-19T04:00:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 5
-        },
-        "total": 3.7,
-        "category": "Policy & Safety",
-        "tags": [
-          "reasoning-models",
-          "chain-of-thought",
-          "safety"
-        ],
-        "summary": "Preprint finding that reasoning models can control their chains of thought when they instruct themselves to.",
-        "whyItMatters": "Matters for anyone relying on chain-of-thought monitoring for safety.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "56b1c8aea7595b3335b11cd6d1e093f937735d1a",
-        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-        "canonicalUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "source": "Ars Technica: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Cristina Criddle, Financial Times",
-        "publishedAt": "2026-10-18T16:25:19Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1243,28 +689,1132 @@
           "credibility": 6
         },
         "total": 3.6,
-        "category": "Policy & Safety",
+        "category": "Research",
         "tags": [
-          "anthropic",
-          "oversight",
-          "ai-safety"
+          "claude",
+          "agents",
+          "behavior"
         ],
-        "summary": "Ars Technica reports Anthropic gave an outside AI watchdog employee-like access.",
-        "whyItMatters": "A notable transparency step for external oversight of a lab.",
+        "summary": "MIT Technology Review reports on researchers leaving Claude in a virtual desert island setting where it displayed play.",
+        "whyItMatters": "Anecdotal agent-behavior study.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "7cb52a8035025faa337c77598df0b530eec7a03a",
-        "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-        "canonicalUrl": "https://alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-        "title": "Deconfusing Corrigibility",
-        "source": "Alignment Forum",
+        "id": "747852054eef062b8fae91d9cd72d759d93f1c04",
+        "url": "https://arxiv.org/abs/2610.26860",
+        "canonicalUrl": "https://arxiv.org/abs/2610.26860",
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, et al.",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "multimodal",
+          "benchmark"
+        ],
+        "summary": "Preprint introducing a harness for testing visual agents that use tools, with a multimodal memory component.",
+        "whyItMatters": "Another testbed for evaluating tool-using vision agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "07997759a410ff85f30a744912fe3f7e16fd5820",
+        "url": "https://arxiv.org/abs/2610.25932",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25932",
+        "title": "Keep the Lineages Alive: Diversity-Preserving SMC for Diffusion LLM Decoding",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Minoo Ahmadi, Seyedarmin Azizi, Mehdi Kamal, Massoud Pedram",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "diffusion-llm",
+          "decoding"
+        ],
+        "summary": "Preprint on a sampling method that keeps diverse candidates alive during decoding of diffusion language models.",
+        "whyItMatters": "Useful if you follow diffusion LLM decoding.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1efc9389c230f72fe26f90b8055c0b2870b74e05",
+        "url": "https://arxiv.org/abs/2610.25931",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25931",
+        "title": "EvoSkill v2: Fully Agentic Skill Evolution from Benchmark Adaptation to a Stateful Evolver",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Dastin Huang, Baran Nama, Salaheddin Alzubi",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "skills"
+        ],
+        "summary": "Second version of a system that evolves agent skills automatically, starting from benchmark adaptation.",
+        "whyItMatters": "Early look at automated skill improvement for agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5d3b8a828beb1a5b723f6004941a18354d881c3a",
+        "url": "https://arxiv.org/abs/2610.25999",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25999",
+        "title": "TempoMoE: Identifying and Steering Fast-Slow Thinking Experts for Efficient Multimodal Reasoning",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Xiyue Zhang, Keru Zhou, Ziyi Wang, Bing Hu, Li Wang",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "mixture-of-experts",
+          "reasoning",
+          "multimodal"
+        ],
+        "summary": "Preprint that finds and steers experts tied to fast versus slow thinking in multimodal mixture-of-experts models.",
+        "whyItMatters": "Hints at cheaper reasoning control in MoE models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6a96c712079fc46b9cd79c333268c21e9aa55678",
+        "url": "https://arxiv.org/abs/2610.25503",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25503",
+        "title": "From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Junzhe Shi, Yuan Gan, Shida Jiang",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "vision-language",
+          "theory"
+        ],
+        "summary": "Theory paper on when vision-language models can reliably list every item in an image.",
+        "whyItMatters": "Frames a known weakness: incomplete object listing.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0251c082e34fa5a1c51c594537b254e1962265f9",
+        "url": "https://arxiv.org/abs/2610.25126",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25126",
+        "title": "Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Xi Zhu, Yuanlin Duan, Changyi Yang, Kai Mei, Riyang Bao, Shichao Zhu, Dimitris N. Metaxas",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "agents",
+          "reinforcement-learning",
+          "skills"
+        ],
+        "summary": "Preprint on tracking the lifecycle of a skill library while training agents with reinforcement learning.",
+        "whyItMatters": "Skill libraries need maintenance; this proposes how.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "05bbd3a14fde97c06622b4854911fa2a47fc689a",
+        "url": "https://arxiv.org/abs/2610.24537",
+        "canonicalUrl": "https://arxiv.org/abs/2610.24537",
+        "title": "Write Once, Query Many: Evolving Compact Reusable Memory for Long Videos",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Kerui Chen, Jinglu Wang, Yun Wang, Xinjiang Wang, Yan Lu",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "video",
+          "memory"
+        ],
+        "summary": "Preprint on building compact reusable memory from long videos to answer many later queries.",
+        "whyItMatters": "Helps with cost of repeated long-video queries.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "07fa5870d37a445287fa0623571f89dcd22b040c",
+        "url": "https://arxiv.org/abs/2610.25846",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25846",
+        "title": "Measurement Validity and Representation Dynamics of Confidence Signals in Large Language Models",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Debojeet Ghosh, Shreyansh Kumar, Ayushman Garg",
+        "publishedAt": "2026-10-20T04:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "calibration",
+          "confidence",
+          "interpretability"
+        ],
+        "summary": "Preprint examining whether confidence signals inside large language models measure what they claim to.",
+        "whyItMatters": "Caution before trusting model-internal confidence scores.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "48ac9eccb51bdf6e06b253185151e82658537aa6",
+        "url": "https://hamel.dev/blog/posts/decision-model-evals/",
+        "canonicalUrl": "https://hamel.dev/blog/posts/decision-model-evals",
+        "title": "How To Use Decision Models for Evals",
+        "source": "Hamel Husain",
         "sourceTier": 2,
-        "categoryHint": "Policy & Safety",
-        "author": "berns",
-        "publishedAt": "2026-10-17T23:08:02Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
+        "categoryHint": "Tutorials",
+        "author": "Hamel Husain, Antaripa Saha",
+        "publishedAt": "2026-10-20T07:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.7,
+        "category": "Tutorials",
+        "tags": [
+          "evals",
+          "llm-as-judge"
+        ],
+        "summary": "Hamel Husain and a co-author explain how to use decision models when building LLM evaluations.",
+        "whyItMatters": "Practical guidance for structuring eval criteria.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "af9076f8cfd4975f14b54e58bdf5afa5c2dd932a",
+        "url": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+        "canonicalUrl": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+        "title": "How Uber Built a Genie to Answer Questions Correctly",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-19T15:31:03Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "Tutorials",
+        "tags": [
+          "uber",
+          "text-to-sql",
+          "engineering"
+        ],
+        "summary": "ByteByteGo walkthrough of how Uber built an assistant to answer data questions correctly.",
+        "whyItMatters": "Real-world pattern for data Q&A systems.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e66c413278e81e0204856f5d78ddf67be09370ab",
+        "url": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
+        "canonicalUrl": "https://towardsdatascience.com/ai-harms-and-their-technical-causes",
+        "title": "AI Harms and Their Technical Causes",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Stephanie Kirmer",
+        "publishedAt": "2026-10-19T11:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "ai-harms",
+          "ml-engineering"
+        ],
+        "summary": "Towards Data Science essay tracing AI harms to technical causes.",
+        "whyItMatters": "Useful framing for risk reviews.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4ba0aa747c45c8566faaaff6a9304f35ca88e13f",
+        "url": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
+        "canonicalUrl": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning",
+        "title": "Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Devashish Thakar",
+        "publishedAt": "2026-10-19T14:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "conformal-prediction",
+          "uncertainty"
+        ],
+        "summary": "Towards Data Science explainer on whether conformal prediction makes models more reliable.",
+        "whyItMatters": "Good intro to uncertainty methods.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "724f3b5ea9682eb3d0b56e54c6dca9ba2f7a6132",
+        "url": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
+        "canonicalUrl": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need",
+        "title": "How Many EEG Channels Do You Actually Need?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Renish Joshi",
+        "publishedAt": "2026-10-19T12:30:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "eeg",
+          "signal-processing"
+        ],
+        "summary": "Towards Data Science post on how many EEG channels are really needed.",
+        "whyItMatters": "Niche applied ML.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ce5bef3109f78f7087b0b5e86ea5f06ef9e692d3",
+        "url": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
+        "canonicalUrl": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon",
+        "title": "Welcome to Google Gemini 4 Argon",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Benjamin Nweke",
+        "publishedAt": "2026-10-19T15:30:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "gemini"
+        ],
+        "summary": "Towards Data Science post introducing Google Gemini 4 Argon.",
+        "whyItMatters": "Verify claims against Google’s documentation.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f304553ac7257668b0239f33ec7150acf2f6e84f",
+        "url": "https://refactoring.fm/p/making-room-for-hard-things-stories",
+        "canonicalUrl": "https://refactoring.fm/p/making-room-for-hard-things-stories",
+        "title": "Making room for hard things, stories for feedback, and weekly readings! 💡",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-19T07:01:25Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2,
+        "category": "Tutorials",
+        "tags": [
+          "engineering-management"
+        ],
+        "summary": "Refactoring newsletter on making time for hard work and weekly readings.",
+        "whyItMatters": "Engineering management advice.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130",
+        "url": "https://huggingface.co/blog/hf-torchneuron",
+        "canonicalUrl": "https://huggingface.co/blog/hf-torchneuron",
+        "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-19T00:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 5.4,
+        "category": "Tools & Releases",
+        "tags": [
+          "aws",
+          "trainium",
+          "pytorch",
+          "huggingface"
+        ],
+        "summary": "Hugging Face post on TorchNeuron, a path to run Hugging Face models on AWS Trainium with native PyTorch.",
+        "whyItMatters": "Lowers the effort to try Trainium with existing HF code.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5e4e9f7a294aadacc3e5af37adba2f77f603b0a0",
+        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+        "canonicalUrl": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+        "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "Nafea Bshara, Robert Hundt, Ron Diamant, Colin Brace, Rahul Solanki, Maen Suleiman, Khaled ElGalaind, et al.",
+        "publishedAt": "2026-10-19T12:45:23Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 5.4,
+        "category": "Tools & Releases",
+        "tags": [
+          "aws",
+          "trainium",
+          "pytorch"
+        ],
+        "summary": "PyTorch Blog announcement of TorchNeuron, a native PyTorch backend for AWS Trainium.",
+        "whyItMatters": "Native PyTorch support removes a major barrier to Trainium.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ea83f0dd69c5142c6d685cd9b56d2039d4b82149",
+        "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
+        "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Anshika Saxena",
+        "publishedAt": "2026-10-19T23:32:19Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "bedrock",
+          "structured-outputs",
+          "claude"
+        ],
+        "summary": "AWS post on structured outputs for Claude models on Amazon Bedrock, constraining responses to a schema.",
+        "whyItMatters": "Schema-constrained output cuts parsing failures on Bedrock.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7dc2fc406c1ded85e2a07f61920b47ec50ac307c",
+        "url": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+        "canonicalUrl": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq",
+        "title": "One Search, Two Layers: Compiler Controls Inside PyTorch Helion using NVIDIA CompileIQ",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "Aditya Srikanth (NVIDIA), Rupak Roy (NVIDIA), Abhinav Singh (NVIDIA), Jason Ansel (Meta), et al.",
+        "publishedAt": "2026-10-19T15:45:05Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "pytorch",
+          "helion",
+          "nvidia",
+          "compilers"
+        ],
+        "summary": "PyTorch Blog on compiler controls in Helion with NVIDIA CompileIQ across two layers of search.",
+        "whyItMatters": "Kernel authors get finer compile tuning.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c5ffbd108a109045ad660f807700f4fe4e389bc3",
+        "url": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm",
+        "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Sunita Nadampalli",
+        "publishedAt": "2026-10-19T16:03:23Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "vllm",
+          "inference",
+          "agents"
+        ],
+        "summary": "AWS post on bi-directional KV transfer to speed multi-turn agent workloads in vLLM.",
+        "whyItMatters": "Targets time-to-first-token for agent loops.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e242a37f6e454cdb661f0e672892af970e1b093b",
+        "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm",
+        "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Sunita Nadampalli",
+        "publishedAt": "2026-10-19T16:05:17Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "vllm",
+          "inference",
+          "kv-cache"
+        ],
+        "summary": "AWS post on push-based KV cache transfer to cut latency in disaggregated vLLM serving.",
+        "whyItMatters": "Relevant if you run disaggregated inference.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5d44067f2d19c9de9d333881060b1b60688f05e8",
+        "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+        "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Tanya Lenz",
+        "publishedAt": "2026-10-19T17:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "nvidia",
+          "mamba",
+          "cuda"
+        ],
+        "summary": "NVIDIA post on faster Mamba-2 forward-pass kernels written with CUDA Tile.",
+        "whyItMatters": "Faster state-space model inference kernels on Nvidia GPUs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "134c1a21491eedf5e0d43903566e24abeb68244a",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
+        "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Pierre Lienhart",
+        "publishedAt": "2026-10-19T16:23:22Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 4,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "aws",
+          "trainium",
+          "voice"
+        ],
+        "summary": "AWS case study on Deepgram running its voice AI workloads on Trainium chips.",
+        "whyItMatters": "Customer data point for non-Nvidia inference hardware.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "98948186cc0e34f784f95fc01183996cca4a972b",
+        "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
+        "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Ron Tal",
+        "publishedAt": "2026-10-19T16:49:19Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "bedrock",
+          "video",
+          "twelvelabs"
+        ],
+        "summary": "AWS announcement that TwelveLabs Pegasus 1.5 video model is available in Amazon Bedrock.",
+        "whyItMatters": "Video understanding via a managed API.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "87cd33ee12bd9f5e8bf78174099e2f542a589c9c",
+        "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
+        "title": "Developers can now access SageMaker Studio through the new AWS experience",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Hazim Qudah",
+        "publishedAt": "2026-10-19T22:39:24Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "sagemaker",
+          "aws"
+        ],
+        "summary": "AWS post on reaching SageMaker Studio through its new console experience.",
+        "whyItMatters": "Changes how SageMaker users get to Studio.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "72f398965877575c14d77657785b29aee713c513",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-19T13:58:41Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": 59,
+          "hnComments": 3,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.4,
+        "category": "Policy & Safety",
+        "tags": [
+          "security",
+          "agents",
+          "cyberattack"
+        ],
+        "summary": "The Verge reports a hacker used many AI agents to break into John Deere and SharkNinja systems.",
+        "whyItMatters": "Shows agent-driven intrusion at scale; review exposure.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
+        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Aditya Mehta",
+        "publishedAt": "2026-10-19T19:28:34Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "security",
+          "opencode",
+          "coding-tools"
+        ],
+        "summary": "TechCrunch reports hackers hit the AI coding tool OpenCode and ran up charges on user accounts.",
+        "whyItMatters": "Rotate keys and check billing if you use OpenCode.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b1ad5daf5f4a5a6d3b9949ed205b1acee0fabe13",
+        "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+        "canonicalUrl": "https://theverge.com/policy/1013113/democrats-ai-midterms",
+        "title": "Democrats think cracking down on AI could give them an edge",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Lauren Feiner",
+        "publishedAt": "2026-10-19T12:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "politics",
+          "regulation"
+        ],
+        "summary": "The Verge reports Democrats see cracking down on AI as a political advantage.",
+        "whyItMatters": "Shapes US regulation outlook.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0e19bec78e364455f491b685a07a59716d399135",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Julie Bort",
+        "publishedAt": "2026-10-19T22:04:28Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "microsoft",
+          "agents",
+          "security"
+        ],
+        "summary": "TechCrunch reports Microsoft likens AI agents to insider threats and says frontier models cannot be fully trusted.",
+        "whyItMatters": "Supports least-privilege design for agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2eba6fdc38ff53cfa4a358afa8297d6016497f28",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-19T22:49:27Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Policy & Safety",
+        "tags": [
+          "policy",
+          "evaluation",
+          "huggingface"
+        ],
+        "summary": "TechCrunch reports a Hugging Face policy chief doubts embedded AI evaluators will be easy to adopt.",
+        "whyItMatters": "Informs debate over built-in model evaluators.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e9f6e03adc36285ae0f8a61feda32b16fcdddf19",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-20T01:27:03Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1282,25 +1832,61 @@
         "total": 2.7,
         "category": "Policy & Safety",
         "tags": [
-          "corrigibility",
-          "alignment"
+          "regulation",
+          "new-york"
         ],
-        "summary": "Alignment Forum post trying to clear up what corrigibility means.",
-        "whyItMatters": "Helps pin down terminology used in safety debates.",
+        "summary": "TechCrunch reports Mamdani says federal government has abdicated on AI and urges New Yorkers to push back.",
+        "whyItMatters": "Signals local pressure for AI rules.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "f21fbba39540e19b1a00d2429a0c5fcdbfc11b71",
-        "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic",
-        "canonicalUrl": "https://alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic",
-        "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
-        "source": "Alignment Forum",
+        "id": "46e866d9a5978c0c32e879ee3bc5dc0116d6e767",
+        "url": "https://norforge.com/blog/inside_cairn",
+        "canonicalUrl": "https://norforge.com/blog/inside_cairn",
+        "title": "Cairn: Open windows into AI-driven cyber operations",
+        "source": "Hacker News: artificial intelligence",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-19T13:35:12Z",
+        "fetchedAt": "2026-10-20T10:10:55Z",
+        "signals": {
+          "hnPoints": 29,
+          "hnComments": 9,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "security",
+          "cyber-operations"
+        ],
+        "summary": "Community-posted project offering visibility into AI-driven cyber operations.",
+        "whyItMatters": "Possible monitoring resource for security teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "99c5023d5ecdf0df5133eee3b3f232a3453a8327",
+        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+        "canonicalUrl": "https://theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "source": "The Verge: AI",
         "sourceTier": 2,
-        "categoryHint": "Policy & Safety",
-        "author": "Vanessa Kosoy",
-        "publishedAt": "2026-10-18T12:18:41Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
+        "categoryHint": "News",
+        "author": "Nilay Patel",
+        "publishedAt": "2026-10-19T14:30:00Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1312,33 +1898,70 @@
         "scores": {
           "importance": 2,
           "trend": 0,
-          "novelty": 3,
+          "novelty": 2,
           "credibility": 6
         },
-        "total": 2.4,
+        "total": 2.1,
         "category": "Policy & Safety",
         "tags": [
-          "alignment",
-          "philosophy"
+          "policy",
+          "interview"
         ],
-        "summary": "Alignment Forum post on how computer science and analytic philosophy meet on the alignment problem.",
-        "whyItMatters": "Conceptual background for alignment discussions.",
+        "summary": "The Verge interview with JB Pritzker on AI’s promise and risk.",
+        "whyItMatters": "Policy opinion with little new fact.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Business": [
       {
-        "id": "efeb3746fdd37d801674c72b785de49682be6da8",
-        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "id": "8a1ba0c934b076ba4f9bc259657a4372efccee34",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
         "source": "TechCrunch: AI",
         "sourceTier": 2,
         "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-18T20:37:40Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
+        "author": "Julie Bort",
+        "publishedAt": "2026-10-19T20:09:24Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Business",
+        "tags": [
+          "aws",
+          "trainium",
+          "nvidia"
+        ],
+        "summary": "TechCrunch frames Amazon’s TorchNeuron tool as its biggest move yet against Nvidia.",
+        "whyItMatters": "Competitive context for the TorchNeuron release.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "03710f6c99ed477ced8203ad99392830d31d135e",
+        "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+        "canonicalUrl": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
+        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Maddy Varner",
+        "publishedAt": "2026-10-19T09:00:00Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1349,32 +1972,143 @@
         },
         "scores": {
           "importance": 4,
-          "trend": 1,
-          "novelty": 5,
+          "trend": 0,
+          "novelty": 4,
           "credibility": 6
         },
-        "total": 3.8,
+        "total": 3.3,
         "category": "Business",
         "tags": [
-          "anthropic",
-          "public-benefit"
+          "disney",
+          "character-ai",
+          "legal"
         ],
-        "summary": "TechCrunch reports Anthropic will commit 5% of its shares to a public benefit fund.",
-        "whyItMatters": "Signals how a major lab structures its governance.",
-        "featuredSlot": "top",
+        "summary": "WIRED reports Disney asked Character.AI to go bankrupt to avoid its lawsuits.",
+        "whyItMatters": "Deal structure may set a pattern for liabilities.",
+        "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "218f77bb959f0137a2323231ddc1aa12a0ee1e5f",
-        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "id": "b3d41182461bd0cf7bf9a66c9e02753b35f7a7c3",
+        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Maddy Varner",
+        "publishedAt": "2026-10-19T14:45:43Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Business",
+        "tags": [
+          "disney",
+          "character-ai",
+          "legal"
+        ],
+        "summary": "Ars Technica reports Disney found a way to acquire Character.AI without taking on its lawsuits.",
+        "whyItMatters": "Deal structure may set a pattern for liabilities.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c86664b601af4728e70f42986186240f5b066378",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
         "source": "TechCrunch: AI",
         "sourceTier": 2,
         "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-18T16:30:00Z",
-        "fetchedAt": "2026-10-19T10:08:26Z",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-19T23:39:38Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "compute",
+          "nscale"
+        ],
+        "summary": "TechCrunch reports unconfirmed talks between Nscale and Anthropic for another large compute deal.",
+        "whyItMatters": "Compute supply for frontier labs; unconfirmed.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
+        "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-19T18:49:04Z",
+        "fetchedAt": "2026-10-20T10:10:56Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "replika",
+          "assistants"
+        ],
+        "summary": "TechCrunch profiles Replika’s founder and the assistant she built after a Disrupt pitch.",
+        "whyItMatters": "Founder story with limited impact.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "92a3903d3b66bec4613b3ed6d768bb45e8388d06",
+        "url": "https://techscoop.substack.com/p/samsungs-1-billion-ai-bet-isnt-on",
+        "canonicalUrl": "https://techscoop.substack.com/p/samsungs-1-billion-ai-bet-isnt-on",
+        "title": "Samsung’s $1 Billion AI Bet Isn’t on a Model. It’s on Everything Models Need to Run.",
+        "source": "Tech Scoop",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Hey Maria",
+        "publishedAt": "2026-10-19T18:30:37Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1386,27 +2120,134 @@
         "scores": {
           "importance": 3,
           "trend": 0,
-          "novelty": 4,
+          "novelty": 3,
           "credibility": 5
         },
-        "total": 2.8,
+        "total": 2.6,
         "category": "Business",
         "tags": [
-          "character-ai",
-          "disney",
-          "acqui-hire"
+          "samsung",
+          "hardware"
         ],
-        "summary": "TechCrunch reports Disney will hire most of Character.AI's workforce.",
-        "whyItMatters": "Another example of a big company absorbing an AI startup's team.",
+        "summary": "Tech Scoop looks at Samsung’s roughly $1 billion bet on infrastructure that AI models run on.",
+        "whyItMatters": "Hardware supply context.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
-    "Opinion": []
+    "Opinion": [
+      {
+        "id": "4f0198409c0e2bc26eeb9557bd337cdd1069ba9e",
+        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "canonicalUrl": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-19T12:07:41Z",
+        "fetchedAt": "2026-10-20T10:10:55Z",
+        "signals": {
+          "hnPoints": 130,
+          "hnComments": 64,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "agents",
+          "harness"
+        ],
+        "summary": "Community-posted explainer on agent harnesses as the layer around a language model.",
+        "whyItMatters": "Plain framing of harness design for newcomers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "60d1e3a234224839c20486a9d3d1f8fcf621cc34",
+        "url": "https://thezvi.substack.com/p/i-can-see-everything",
+        "canonicalUrl": "https://thezvi.substack.com/p/i-can-see-everything",
+        "title": "I Can See Everything",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-19T13:44:21Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "commentary"
+        ],
+        "summary": "Zvi Mowshowitz commentary post titled “I Can See Everything”.",
+        "whyItMatters": "Opinion roundup; context only.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6c096b15e9b9bd770a6ecd554055c881e4568f5d",
+        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+        "title": "My obituary for programming",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-19T23:58:25Z",
+        "fetchedAt": "2026-10-20T10:10:57Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.5,
+        "category": "Opinion",
+        "tags": [
+          "programming",
+          "essay"
+        ],
+        "summary": "Simon Willison essay reflecting on the end of programming as a craft.",
+        "whyItMatters": "Opinion; worth a read for context.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
   },
   "stats": {
-    "collected": 517,
-    "afterDedupe": 471,
-    "ranked": 46
+    "collected": 1689,
+    "afterDedupe": 1265,
+    "ranked": 88
   }
 }

@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>The day in AI, ranked: news, research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:12:11 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+      <link>https://huggingface.co/blog/hf-torchneuron</link>
+      <guid isPermaLink="false">9dbc0d55ff9123c63c69dd2978b5a2d8bc7cb130</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on TorchNeuron, a path to run Hugging Face models on AWS Trainium with native PyTorch.</description>
+    </item>
+    <item>
+      <title>Structured outputs for Anthropic Claude models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/</link>
+      <guid isPermaLink="false">ea83f0dd69c5142c6d685cd9b56d2039d4b82149</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>AWS post on structured outputs for Claude models on Amazon Bedrock, constraining responses to a schema.</description>
+    </item>
+    <item>
+      <title>Advancing coding in low‑resource programming languages</title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid isPermaLink="false">7a364f356aab49466020015082ef4122a7394f52</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>News</category>
+      <description>OpenAI post on improving coding ability in programming languages with little training data.</description>
+    </item>
+    <item>
+      <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+      <guid isPermaLink="false">72f398965877575c14d77657785b29aee713c513</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>The Verge reports a hacker used many AI agents to break into John Deere and SharkNinja systems.</description>
+    </item>
+    <item>
+      <title>Encoder-Free Multimodal LLMs Learn Implicit Encoders</title>
+      <link>https://arxiv.org/abs/2610.24239</link>
+      <guid isPermaLink="false">44f897481a74af91b091f947455c56cf63043d17</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on multimodal language models that skip a separate vision encoder and appear to learn encoder-like behavior internally.</description>
+    </item>
+    <item>
+      <title>One Search, Two Layers: Compiler Controls Inside PyTorch Helion using NVIDIA CompileIQ</title>
+      <link>https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/</link>
+      <guid isPermaLink="false">7dc2fc406c1ded85e2a07f61920b47ec50ac307c</guid>
+      <pubDate>Tue, 20 Oct 2026 10:12:11 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>PyTorch Blog on compiler controls in Helion with NVIDIA CompileIQ across two layers of search.</description>
+    </item>
     <item>
       <title>llm-echo 0.5</title>
       <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
@@ -294,54 +342,6 @@
       <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
       <category>Research</category>
       <description>Apple research paper on language-model agents that compact their own working context as they run.</description>
-    </item>
-    <item>
-      <title>Overcoming Data Imbalances with Expert Selection Biases</title>
-      <link>https://arxiv.org/abs/2610.13370</link>
-      <guid isPermaLink="false">469be7f822de0078e5f16392e8676595c3fd2697</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>Research</category>
-      <description>Paper on using expert selection biases in mixture-of-experts models to cope with imbalanced training data.</description>
-    </item>
-    <item>
-      <title>AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits</title>
-      <link>https://arxiv.org/abs/2610.12545</link>
-      <guid isPermaLink="false">1fdde920bd01f65d3c3172d96c23ff136b9c994e</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint training causal language models on chains of edits so they can decode in flexible order rather than strictly left to right.</description>
-    </item>
-    <item>
-      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <guid isPermaLink="false">4c640ca9263a86389876ced4c54b88bba78433b6</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>News</category>
-      <description>Report on Microsoft CEO Satya Nadella saying teams should treat all AI models as compromised. Drew heavy discussion on Hacker News.</description>
-    </item>
-    <item>
-      <title>What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training</title>
-      <link>https://arxiv.org/abs/2610.12995</link>
-      <guid isPermaLink="false">06b836605bb31b0f9892f9d7d5af2a187d163fea</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint proposing an information-gain criterion for deciding what supervised fine-tuning should learn, aimed at better generalization after post-training.</description>
-    </item>
-    <item>
-      <title>A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning</title>
-      <link>https://arxiv.org/abs/2610.13744</link>
-      <guid isPermaLink="false">16e0bb029536ab3028183db0c61774ed47602ba7</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint on on-policy self-distillation for reasoning where the teacher critiques rather than only scores, arguing scoring alone cannot guide search.</description>
-    </item>
-    <item>
-      <title>REDaCT: Collapse-Free Unlearning in Large Reasoning Models</title>
-      <link>https://arxiv.org/abs/2610.12769</link>
-      <guid isPermaLink="false">2b1cd6a73a748fb854db31276e28acce1afc990e</guid>
-      <pubDate>Mon, 12 Oct 2026 10:09:25 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint on removing specific knowledge from large reasoning models without the collapse in ability that unlearning often causes.</description>
     </item>
   </channel>
 </rss>
