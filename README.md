@@ -1,4 +1,4 @@
-# AI Signal
+# The Intelligencer
 
 Daily aggregator of AI news, research, tutorials, tools and releases, ranked by importance, trend momentum and novelty. See `CLAUDE.md` for the project rules.
 

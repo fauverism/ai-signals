@@ -57,7 +57,7 @@ function renderHeader(edition) {
   const updated = $('updated');
   updated.textContent = `Updated ${fmtClock(edition.generatedAt)}`;
   updated.setAttribute('datetime', edition.generatedAt);
-  document.title = `AI Signal, ${fmtEditionDate(edition.date)}`;
+  document.title = `The Intelligencer, ${fmtEditionDate(edition.date)}`;
 }
 
 function renderNote(text) {

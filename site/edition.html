@@ -3,12 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Edition | AI Signal</title>
-  <meta name="description" content="A past edition of AI Signal: the lead story, the top 5, new innovations and what was trending that day.">
+  <title>Edition | The Intelligencer</title>
+  <meta name="description" content="A past edition of The Intelligencer: the lead story, the top 5, new innovations and what was trending that day.">
   <meta name="color-scheme" content="light dark">
-  <link rel="alternate" type="application/rss+xml" title="AI Signal" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="The Intelligencer" href="feed.xml">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="preload" href="fonts/dm-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/LibreCaslonText-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/UnifrakturCook-Bold.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/site.css">
   <link rel="stylesheet" href="css/subscribe.css">
   <script src="js/theme.js"></script>
@@ -20,21 +21,25 @@
 
   <header class="site-header">
     <div class="wrap header-row">
-      <h1 class="wordmark">AI Signal</h1>
-      <p class="edition-meta">
-        <time id="edition-date"></time>
-        <time id="updated"></time>
-      </p>
-      <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
-        <span>Dark mode</span><span class="track" aria-hidden="true"></span>
-      </button>
+      <h1 class="wordmark">The Intelligencer</h1>
+      <p class="motto">News of artificial intelligence, ranked and printed daily.</p>
+      <div class="dateline">
+        <p class="edition-meta">
+          <span id="issue" class="issue" hidden></span>
+          <time id="edition-date"></time>
+          <time id="updated"></time>
+        </p>
+        <button id="theme-toggle" class="btn-toggle" type="button" aria-pressed="false">
+          <span>Dark mode</span><span class="track" aria-hidden="true"></span>
+        </button>
+      </div>
     </div>
   </header>
 
   <main id="main" class="wrap" tabindex="-1">
     <p class="back"><a href="archive.html"><span aria-hidden="true">←</span> All editions</a></p>
     <noscript>
-      <p class="notice">AI Signal loads each edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
+      <p class="notice">The Intelligencer loads each edition with JavaScript. Without it, you can still <a href="archive.html">browse the archive</a>.</p>
     </noscript>
     <p id="status" class="notice" role="status" hidden></p>
 
@@ -58,7 +63,7 @@
       <!-- subscribe-fallback:start -->
       <noscript>
         <section class="subscribe subscribe--inline">
-          <h2 id="subscribe-title-inline" class="subscribe-title">The day in AI, ranked.</h2>
+          <h2 id="subscribe-title-inline" class="subscribe-title">The morning edition.</h2>
           <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
           <form action="https://buttondown.com/api/emails/embed-subscribe/fauver" method="post" class="subscribe-form">
             <label for="bd-email-inline">Email address</label>
@@ -102,7 +107,7 @@
         <!-- subscribe-fallback:start -->
         <noscript>
           <section class="subscribe subscribe--footer">
-            <h2 id="subscribe-title-footer" class="subscribe-title">The day in AI, ranked.</h2>
+            <h2 id="subscribe-title-footer" class="subscribe-title">The morning edition.</h2>
             <p class="subscribe-sub">One email each morning: the lead story, the top 5, and what&#39;s new. No hype.</p>
             <form action="https://buttondown.com/api/emails/embed-subscribe/fauver" method="post" class="subscribe-form">
               <label for="bd-email-footer">Email address</label>

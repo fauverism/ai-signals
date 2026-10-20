@@ -38,6 +38,27 @@ export function timeAgo(iso, now = new Date()) {
   return fmtShortDate(iso.slice(0, 10));
 }
 
+const ROMAN = [[1000, 'M'], [900, 'CM'], [500, 'D'], [400, 'CD'], [100, 'C'], [90, 'XC'], [50, 'L'], [40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']];
+export const roman = (n) => ROMAN.reduce((out, [v, r]) => { while (n >= v) { out += r; n -= v; } return out; }, '');
+
+/**
+ * Volume and issue number for an edition, counted from the archive: the issue is how many editions have been
+ * printed up to and including this date, and a new volume begins on each anniversary of the first edition.
+ * Returns null when it can't be worked out (no archive, bad dates).
+ * @param {{ date: string }[]} archive
+ * @param {string} date YYYY-MM-DD
+ */
+export function issueOf(archive, date) {
+  const dates = new Set((archive ?? []).map((a) => a.date).filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)));
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
+  dates.add(date);
+  const sorted = [...dates].sort();
+  const first = sorted[0];
+  let years = Number(date.slice(0, 4)) - Number(first.slice(0, 4));
+  if (date.slice(5) < first.slice(5)) years -= 1; // before this year's anniversary
+  return { volume: roman(years + 1), number: sorted.filter((d) => d <= date).length };
+}
+
 /** A word for a 0-10 score, so a number never has to carry meaning alone. */
 export function scoreWord(n) {
   const v = Math.round(n);

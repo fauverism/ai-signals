@@ -13,7 +13,7 @@ The deployed site: plain HTML, CSS and vanilla JavaScript, no build step. Must m
 | `components/subscribe.js`, `css/subscribe.css` | The signup form: inline after Top 5, in every footer, and on `subscribe.html`. |
 | `css/site.css` | Design tokens (palette, type scale, 4px spacing steps) and components. |
 | `js/lib.js`, `js/theme.js` | DOM and date helpers; the theme toggle (saved in `localStorage` inside try/catch). |
-| `fonts/` | DM Sans, one variable woff2 (SIL OFL 1.1, from Google Fonts), self-hosted. |
+| `fonts/` | Libre Caslon Text, Abril Fatface and UnifrakturCook as woff2 (SIL OFL 1.1, from Google Fonts), self-hosted; see `fonts/NOTICE.md`. |
 
 ## Run it
 

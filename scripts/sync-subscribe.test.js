@@ -26,7 +26,7 @@ test('copy comes from config, HTML-escaped', () => {
   const html = subscribeMarkup('inline');
   assert.ok(html.includes(SUBSCRIBE_HEADLINE));
   assert.ok(html.includes(SUBSCRIBE_SUBLINE.replace(/'/g, '&#39;')));
-  assert.equal(SUBSCRIBE_HEADLINE, 'The day in AI, ranked.');
+  assert.equal(SUBSCRIBE_HEADLINE, 'The morning edition.');
   assert.equal(SUBSCRIBE_SUBLINE, "One email each morning: the lead story, the top 5, and what's new. No hype.");
 });
 
@@ -51,7 +51,7 @@ test('the standalone page leads with an h1; placements inside a page use h2', ()
 
 test('share metadata carries the headline and subline', () => {
   const meta = subscribeMeta();
-  assert.ok(meta.includes('property="og:title" content="The day in AI, ranked."'));
+  assert.ok(meta.includes('property="og:title" content="The morning edition."'));
   assert.ok(meta.includes('name="twitter:card"'));
 });
 

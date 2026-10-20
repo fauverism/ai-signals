@@ -1,6 +1,6 @@
 // Loads an edition and renders it. <html data-page="home"> shows the latest edition;
 // <html data-page="edition"> shows the one named by ?date=YYYY-MM-DD (linked from the archive).
-import { fetchJson, fmtEditionDate, h } from './lib.js';
+import { fetchJson, fmtEditionDate, h, issueOf } from './lib.js';
 import { renderEdition } from './render.js';
 
 const status = document.getElementById('status');
@@ -31,7 +31,25 @@ async function main() {
 
   status.hidden = true;
   renderEdition(edition, isEdition ? new Date(edition.generatedAt) : new Date());
-  if (isEdition) document.title = `AI Signal, ${fmtEditionDate(edition.date)}`;
+  if (isEdition) document.title = `The Intelligencer, ${fmtEditionDate(edition.date)}`;
+  showIssue(edition.date);
+}
+
+// "Vol. I · No. 12" in the dateline. A nicety: if the archive can't be read, the dateline just goes without it.
+async function showIssue(date) {
+  const slot = document.getElementById('issue');
+  if (!slot) return;
+  try {
+    const issue = issueOf(await fetchJson('archive.json'), date);
+    if (!issue) return;
+    slot.replaceChildren(
+      h('span', { 'aria-hidden': 'true' }, `Vol. ${issue.volume} · No. ${issue.number}`),
+      h('span', { class: 'vh' }, `Volume ${issue.volume}, number ${issue.number}`),
+    );
+    slot.hidden = false;
+  } catch {
+    /* leave it out */
+  }
 }
 
 main();
