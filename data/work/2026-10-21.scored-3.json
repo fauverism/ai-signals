@@ -1,0 +1,556 @@
+{
+  "date": "2026-10-21",
+  "batch": 3,
+  "items": [
+    {
+      "id": "94e7f4f5c0e52bb75e66cbfeaab71589104be947",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-memory",
+        "benchmarks",
+        "customer-service"
+      ],
+      "summary": "Hugging Face post on ALTK-Evolve, a learned-memory approach reported to lead a customer-service agent benchmark without a frontier model.",
+      "whyItMatters": "Suggests memory can substitute for model size in support agents; verify on your data.",
+      "organization": "ibm"
+    },
+    {
+      "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "chatgpt-work",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story about a franchisee cutting cash-reconciliation time using ChatGPT Work.",
+      "whyItMatters": "Vendor-reported figure; treat as a marketing data point.",
+      "organization": "openai"
+    },
+    {
+      "id": "a84b6a7bee5c68a62fa1b04f99f725df56faa90e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "gpt-6-1",
+        "finance",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story claiming an investing tool matches senior investor judgment using GPT-6.1.",
+      "whyItMatters": "Vendor-reported accuracy with no method shown.",
+      "organization": "openai"
+    },
+    {
+      "id": "2596ff929aeef5579581b4037417df8135811f0e",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "apple",
+        "local-models",
+        "swift"
+      ],
+      "summary": "Hugging Face marks version 1.0 of AnyLanguageModel, a library for running local models on Apple platforms.",
+      "whyItMatters": "Stable API for Swift developers who ship on-device models.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "3eb18e5ff7f2a0efc7b65bf76103cb7b1b48a111",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "apple-silicon",
+        "mps"
+      ],
+      "summary": "Hugging Face post on Metal (MPS) backend changes in PyTorch 2.15.",
+      "whyItMatters": "Check whether your Mac training or inference path gets faster.",
+      "organization": "pytorch foundation"
+    },
+    {
+      "id": "4168438b63a2e8e2692e5b98593c51ff7f359aa9",
+      "scores": {
+        "importance": 5,
+        "trend": 4,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "privacy",
+        "muse"
+      ],
+      "summary": "The Verge reports Meta paused sharing in Muse after researchers found shared AI chats on the open web.",
+      "whyItMatters": "If your team uses Muse, assume shared chats may be public.",
+      "organization": "meta"
+    },
+    {
+      "id": "319f79c551eec14d09b77c2375f3d799121baccd",
+      "scores": {
+        "importance": 3,
+        "trend": 4,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "meta",
+        "muse",
+        "adoption"
+      ],
+      "summary": "TechCrunch reports Meta’s Muse app has passed 10 million US downloads in its first 40 days.",
+      "whyItMatters": "Shows how quickly consumer AI apps can reach scale.",
+      "organization": "meta"
+    },
+    {
+      "id": "add383da2fc04409f1dd09256501af880b928040",
+      "scores": {
+        "importance": 6,
+        "trend": 4,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "muse",
+        "privacy"
+      ],
+      "summary": "Ars Technica reports that sharing Muse conversations can expose personal and business information to others.",
+      "whyItMatters": "Warn staff against putting sensitive details into shareable chats.",
+      "organization": "meta"
+    },
+    {
+      "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "whatsapp",
+        "prompt-injection",
+        "llm"
+      ],
+      "summary": "Community thread points to hidden instructions for language models in WhatsApp help pages, directing them away from recommending a regulator.",
+      "whyItMatters": "Shows publishers embedding instructions aimed at AI answers; unverified here.",
+      "organization": "meta"
+    },
+    {
+      "id": "6a01ce2d8f26403121f39ded2215b4eaf9485d3b",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "llm-citations",
+        "misinformation",
+        "seo"
+      ],
+      "summary": "Discussion of how publishing fabricated statistics can lead language models to cite them.",
+      "whyItMatters": "Reminder to check sources behind AI-generated figures.",
+      "organization": "independent"
+    },
+    {
+      "id": "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "gemini",
+        "android-auto",
+        "personalization"
+      ],
+      "summary": "The Verge reports Google is bringing its more personalized Gemini assistant to cars.",
+      "whyItMatters": "Voice assistants in vehicles gain access to more personal data.",
+      "organization": "google"
+    },
+    {
+      "id": "938ea47a6b580080f71f29a7c93fe810e24bccaf",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "gemini",
+        "cars",
+        "personal-intelligence"
+      ],
+      "summary": "Ars Technica covers Gemini’s Personal Intelligence feature arriving in cars.",
+      "whyItMatters": "Same story as the Verge report; coverage from another outlet.",
+      "organization": "google"
+    },
+    {
+      "id": "064ad9927d51a30c6d33e3e3ccd71f15c94ef826",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "open-weights",
+        "deepseek",
+        "regulation"
+      ],
+      "summary": "Newsletter roundup of recent open model releases, including a DeepSeek update, and new US and China controls.",
+      "whyItMatters": "Handy digest of open-model news and regulatory moves.",
+      "organization": "interconnects"
+    },
+    {
+      "id": "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "deepseek",
+        "us-government",
+        "federal-agencies"
+      ],
+      "summary": "TechCrunch reports the US has ordered federal agencies to remove DeepSeek AI from their systems.",
+      "whyItMatters": "Contractors serving US agencies may need to drop DeepSeek tooling.",
+      "organization": "deepseek"
+    },
+    {
+      "id": "8603bde2a27b9156ec893bc1e8bb83586411b88e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ai-gateway",
+        "rust",
+        "open-source"
+      ],
+      "summary": "Launch post for Respan, an open-source AI gateway written in Rust and built around plugins.",
+      "whyItMatters": "Another option for routing and observing LLM traffic.",
+      "organization": "respan"
+    },
+    {
+      "id": "a69d1e05218cb7279b987f1e98f8bd6b9b01e5c7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "data-centers",
+        "europe",
+        "climate"
+      ],
+      "summary": "WIRED reports on tension between Europe’s push for data centers and its climate targets.",
+      "whyItMatters": "Affects where and how fast compute capacity can be built in Europe.",
+      "organization": "european union"
+    },
+    {
+      "id": "f8078d89c26a395a1328ea191a7ce33b4a2f9c3d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "deepseek",
+        "inference",
+        "open-source"
+      ],
+      "summary": "AINews digest on a DeepSeek open-source inference system with claimed large daily token throughput and margins.",
+      "whyItMatters": "Numbers are the newsletter’s summary of claims; check the primary release.",
+      "organization": "deepseek"
+    },
+    {
+      "id": "27ced8676a2635d4f780ae3cef4f9837d3e92193",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "podcast",
+        "enterprise-ai",
+        "software-development"
+      ],
+      "summary": "Podcast conversation about how a consultancy builds an AI-native software development lifecycle for large companies.",
+      "whyItMatters": "Practitioner perspective on enterprise AI delivery.",
+      "organization": "tenex"
+    },
+    {
+      "id": "7ae337bb6e93b6bb94ab6a80017891c4e2d7ef23",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "leadership"
+      ],
+      "summary": "Platformer reports that Joel Kaplan is leaving Meta.",
+      "whyItMatters": "A senior policy figure exits; may shift Meta’s AI policy stance.",
+      "organization": "meta"
+    },
+    {
+      "id": "bea23034a697284d669d1f0aecf81a10c1cacec1",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "certificate-authority",
+        "security",
+        "incident"
+      ],
+      "summary": "Simon Willison notes a compromise involving the eMudhra intermediate certificate authority.",
+      "whyItMatters": "Check whether your trust stores or tooling rely on that CA.",
+      "organization": "emudhra"
+    },
+    {
+      "id": "ec31e6fc5c0ba3934e701f7b8cad40feb6e2c5a0",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "lawsuit"
+      ],
+      "summary": "The Verge reports a judge dismissed a lawsuit against Sam Altman brought by his sister.",
+      "whyItMatters": "Legal news with little effect on builders.",
+      "organization": "openai"
+    },
+    {
+      "id": "b5fc9ab399b1c375f7f1a489ef266a4e795b74c7",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-regulation",
+        "anthropic",
+        "ai-safety-bill"
+      ],
+      "summary": "Zvi’s commentary on why he finds Anthropic’s draft safety bill troubling.",
+      "whyItMatters": "One prominent critique of a lab-authored bill.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "ai-safety-bill",
+        "regulation"
+      ],
+      "summary": "TechCrunch reports Anthropic is proposing a safety bill that could block a model if it might cause mass casualties.",
+      "whyItMatters": "A lab proposing liability thresholds could shape coming regulation.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "342f3b31d43012d56958555ef24f9f05b5f28e83",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "hugging-face",
+        "documentary"
+      ],
+      "summary": "TechCrunch reports the Hugging Face CEO disputing the accuracy of a Netflix documentary on an OpenAI hack.",
+      "whyItMatters": "Mostly reputational; limited practical effect.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "dd8747983c69e4ecf0af1fab98eab570a4d057fb",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "cloud-partnerships"
+      ],
+      "summary": "TechCrunch examines complications in Anthropic’s relationships with its cloud partners.",
+      "whyItMatters": "Could affect where Claude models are offered and priced.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "4e839948c5b0c27b01b9cd1bbdc88b65c472dd1d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "spacex",
+        "ai-business"
+      ],
+      "summary": "TechCrunch reports SpaceX’s AI business is exceeding expectations.",
+      "whyItMatters": "Another large player is building an AI unit.",
+      "organization": "spacex"
+    },
+    {
+      "id": "a054bcdb27918d02e4cab1a9615a2a01cf4d5dc3",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "meta",
+        "terms-of-service",
+        "training-data"
+      ],
+      "summary": "Ars Technica reports Meta removed the word “train” from its commercial terms after backlash.",
+      "whyItMatters": "Business users should re-read how Meta may use their data.",
+      "organization": "meta"
+    },
+    {
+      "id": "0792b62c6410f94766babd086f749c7c8677c974",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "gemini",
+        "android-auto",
+        "privacy"
+      ],
+      "summary": "ZDNET writer explains why they are mostly comfortable with Gemini in Android Auto reaching photos, mail and calendar.",
+      "whyItMatters": "Personal view on permission trade-offs.",
+      "organization": "google"
+    },
+    {
+      "id": "4dc8a56e037376de6e3b1d36b160566eb3cf8c69",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "vibe-coding",
+        "games",
+        "audio"
+      ],
+      "summary": "Simon Willison shares a real-time strategy game built mostly by prompting, with audio-based multiplayer.",
+      "whyItMatters": "Shows what quick AI-assisted prototyping can produce.",
+      "organization": "independent"
+    },
+    {
+      "id": "977d926a0cb6cc70b5f1bc1c64563d503273be51",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "podcast",
+        "compute",
+        "data-centers"
+      ],
+      "summary": "Podcast interview about treating data center capacity as programmable compute infrastructure.",
+      "whyItMatters": "Context on GPU capacity markets.",
+      "organization": "sf compute"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-c1c22dae90",
+      "label": "Meta Muse shared chats exposed"
+    },
+    {
+      "id": "c-aa8b4d6019",
+      "label": "Gemini personalization arrives in cars"
+    },
+    {
+      "id": "c-6e2dabe788",
+      "label": "US bans DeepSeek on federal systems"
+    }
+  ],
+  "fetches": []
+}

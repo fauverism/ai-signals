@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-21",
+    "leadTitle": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "count": 63
+  },
+  {
     "date": "2026-10-20",
     "leadTitle": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "count": 54

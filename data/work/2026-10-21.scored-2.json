@@ -1,0 +1,537 @@
+{
+  "date": "2026-10-21",
+  "batch": 2,
+  "items": [
+    {
+      "id": "1ff743f739528010b47d00797eb38be22555e231",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-security",
+        "reference-architecture",
+        "governance"
+      ],
+      "summary": "NVIDIA publishes a reference architecture for securing and governing agent workloads at scale.",
+      "whyItMatters": "A starting design for teams that must control what agents can do in production.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "3a928764b3c4b0a3b369b26cf3f782ed7dcb8e5b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "digital-twin",
+        "agents",
+        "data-center"
+      ],
+      "summary": "NVIDIA walks through building a data center digital twin with help from AI agents.",
+      "whyItMatters": "Shows an agent-assisted workflow for infrastructure modeling.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "a71e34be1e81ace69ea44950d555354ada909b80",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "data-center",
+        "nvidia",
+        "capacity"
+      ],
+      "summary": "NVIDIA describes its DSX POD approach for bringing AI compute capacity online faster and more predictably.",
+      "whyItMatters": "Relevant to anyone planning large GPU deployments.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "00bd4683fba954ce8158c7b8e0a83d4075e2acf6",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "fairness",
+        "regression"
+      ],
+      "summary": "Paper on fair regression when demographic parity only needs to hold approximately.",
+      "whyItMatters": "Narrow fairness-theory result.",
+      "organization": "fair"
+    },
+    {
+      "id": "024729098f31936d5ff163e1a7724c1c3b4e956c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-generation",
+        "evaluation",
+        "robotics"
+      ],
+      "summary": "Paper using multimodal language models as judges for generated embodied-robot video.",
+      "whyItMatters": "Suggests an automated check for robot video synthesis quality.",
+      "organization": "robojudge"
+    },
+    {
+      "id": "031cdc8a0973970eb4cf098be30ebed3b0410fa7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "spectroscopy",
+        "pretraining"
+      ],
+      "summary": "Preprint on physics-aware self-supervised pretraining across several kinds of Raman spectra.",
+      "whyItMatters": "Specialist scientific-ML result.",
+      "organization": "physics"
+    },
+    {
+      "id": "03b3630c1645c509cd2a67de112ad713ab7a5cbb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "goal-conditioning"
+      ],
+      "summary": "Paper proposing implicit goal conditioning in reinforcement learning by splitting value estimates.",
+      "whyItMatters": "Niche RL method.",
+      "organization": "vadar"
+    },
+    {
+      "id": "03cb8011cd66c5fc9fa60330908919ce02c08725",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "feature-selection",
+        "graphs"
+      ],
+      "summary": "Paper presenting a graph-based method for selecting features in tabular data.",
+      "whyItMatters": "Minor tabular-ML technique.",
+      "organization": "pack"
+    },
+    {
+      "id": "03d0712240de76a1b45a7a63995965d53434a058",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "document-layout",
+        "object-detection",
+        "yolo"
+      ],
+      "summary": "Paper on a YOLO-based document layout detector trained with synthetic pretraining data.",
+      "whyItMatters": "Useful for document-parsing pipelines to evaluate.",
+      "organization": "doclayout"
+    },
+    {
+      "id": "03dfcdb941841289b7894c0ee08f81a4d03cddfb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "networking",
+        "ai-clusters",
+        "optical-switching"
+      ],
+      "summary": "Paper modeling topology choices for reconfigurable optical interconnects in large AI clusters.",
+      "whyItMatters": "Interconnect design matters for training-cluster cost.",
+      "organization": "an"
+    },
+    {
+      "id": "049a047f638c8bfe5cdc3d9c30c0c75d0940592e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vlm",
+        "interpretability",
+        "failure-analysis"
+      ],
+      "summary": "Study linking vision-language model failures to persistent mismatches between internal visual and text representations.",
+      "whyItMatters": "Gives a diagnostic angle on why VLMs err.",
+      "organization": "persistent"
+    },
+    {
+      "id": "04da729651cabaa502f0aeac65d8b3ac0f555b5c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "gaussian-splatting",
+        "change-detection"
+      ],
+      "summary": "Paper using automatic 3D Gaussian splatting edits to train Bayesian scene change detection.",
+      "whyItMatters": "Niche vision result.",
+      "organization": "learning"
+    },
+    {
+      "id": "05bbd3a14fde97c06622b4854911fa2a47fc689a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-understanding",
+        "memory"
+      ],
+      "summary": "Paper on building compact reusable memory that can be queried many times for long videos.",
+      "whyItMatters": "Relevant to long-video QA cost.",
+      "organization": "write"
+    },
+    {
+      "id": "08abc2c69f4244a141b4708ab6dcd4575ebc23d7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-editing",
+        "audio-visual"
+      ],
+      "summary": "Paper on editing audio and video of people together in one end-to-end model.",
+      "whyItMatters": "Of interest to video-generation researchers.",
+      "organization": "edit"
+    },
+    {
+      "id": "08eec92838a54b3457f29a2ca70ed333e477236b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "remote-sensing",
+        "object-detection"
+      ],
+      "summary": "Paper on a fusion network for detecting objects from optical and SAR satellite imagery.",
+      "whyItMatters": "Niche remote-sensing result.",
+      "organization": "revealing"
+    },
+    {
+      "id": "09d6b5b05be2c6f4644cdc69a5c5e65daeee34b7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "calibration",
+        "lidar",
+        "robotics"
+      ],
+      "summary": "Paper asking whether an ordinary display can speed up LiDAR-camera extrinsic calibration.",
+      "whyItMatters": "A cheap calibration idea for robotics teams.",
+      "organization": "can"
+    },
+    {
+      "id": "09e9dad281800112657d07b2a1fdb141b5fdcecd",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "perception"
+      ],
+      "summary": "Paper on world models whose perception can be configured rather than fixed.",
+      "whyItMatters": "Early idea in world-model design.",
+      "organization": "world"
+    },
+    {
+      "id": "0a12b880b09c9368934401314ddda4fa890f040c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "segmentation"
+      ],
+      "summary": "Paper on a ranking-consistency method for segmenting 3D medical images on their native grid.",
+      "whyItMatters": "Specialist medical-imaging result.",
+      "organization": "latticerank"
+    },
+    {
+      "id": "6bc0a4e087e6311f6c90be72338eb3e39c650a7e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "southeast-asia",
+        "digital-economy"
+      ],
+      "summary": "Google post about the projected size of the Southeast Asian digital economy.",
+      "whyItMatters": "Regional market context, little technical content.",
+      "organization": "google"
+    },
+    {
+      "id": "65f689d035704c2cb75aa016ca050591918c72aa",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "linear-attention",
+        "trainium",
+        "pytorch"
+      ],
+      "summary": "AWS describes training and serving a 3B linear-attention model on Trainium2 using native PyTorch.",
+      "whyItMatters": "Case for non-GPU training of KV-cache-free architectures.",
+      "organization": "aws"
+    },
+    {
+      "id": "4eb9f7080b11166ecabe823c8b93aa97e58d2978",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "world-models",
+        "simulation",
+        "healthcare"
+      ],
+      "summary": "Hugging Face post on an NVIDIA Cosmos model that generates simulated clinical surgery scenes.",
+      "whyItMatters": "Synthetic surgical video could ease training-data gaps in medicine.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "209f0f415bceb89af69c58ee4f6e366f101032cd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "mcp",
+        "agents",
+        "aws"
+      ],
+      "summary": "AWS explains giving agents work-management context through a Smartsheet MCP server.",
+      "whyItMatters": "Another worked example of MCP connectors on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "bf3eb719b179efc5cfda13258ac1dd951b799eb0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "bedrock",
+        "agents",
+        "supply-chain"
+      ],
+      "summary": "AWS walkthrough of a conversational supply-chain assistant using Amazon Quick and Bedrock AgentCore.",
+      "whyItMatters": "Reference pattern if you build chat over operational data.",
+      "organization": "aws"
+    },
+    {
+      "id": "80e6bced4c1b925f407b4159cd97fb2156ab4214",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "fine-tuning",
+        "gpt-oss",
+        "sagemaker"
+      ],
+      "summary": "AWS guide to fine-tuning an open-weights 20B model for multilingual reasoning on SageMaker HyperPod.",
+      "whyItMatters": "A concrete recipe for tuning open models on managed clusters.",
+      "organization": "aws"
+    },
+    {
+      "id": "d42536b869033e8100e31020f7e7f19cc8022094",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "bedrock",
+        "multi-tenancy",
+        "case-study"
+      ],
+      "summary": "Case study of how a company built a secure multi-tenant AI platform on Amazon Bedrock.",
+      "whyItMatters": "Useful for SaaS teams designing tenant isolation.",
+      "organization": "octave"
+    },
+    {
+      "id": "753fc98bb47cb9f329c1d54c47eb885c00dc9997",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "bedrock",
+        "openai",
+        "data-residency"
+      ],
+      "summary": "AWS explains how Canadian users reach OpenAI GPT models on Bedrock through cross-Region inference.",
+      "whyItMatters": "Affects Canadian teams with data-residency rules.",
+      "organization": "aws"
+    },
+    {
+      "id": "402f87a8f5c1ffb0121feee94387f83ff54f9c21",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "tool-discovery",
+        "aws"
+      ],
+      "summary": "AWS describes an Agent Registry that lets agents find tools at runtime.",
+      "whyItMatters": "Dynamic tool discovery could simplify large agent fleets.",
+      "organization": "aws"
+    },
+    {
+      "id": "ca293d8533a3487d56775601759d9e248992e54a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "fairness",
+        "evaluation",
+        "llm-decisions"
+      ],
+      "summary": "Hugging Face post on FairStress, an evaluation targeting fairness in LLM decision-making.",
+      "whyItMatters": "A new test set to run before using LLMs in decisions about people.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "e5f6d3284f597c04e0678395af7e1c860a6d8dc0",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-identity",
+        "pki",
+        "security"
+      ],
+      "summary": "AWS guide to giving AI agents identities based on X.509 certificates.",
+      "whyItMatters": "Concrete approach to authenticating agents across services.",
+      "organization": "aws"
+    },
+    {
+      "id": "5cfb05484559629f3abcea5403a755de937eb04b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "microsoft-research",
+        "social-impact"
+      ],
+      "summary": "Microsoft Research essay on how technology and research can serve social good.",
+      "whyItMatters": "Reflective piece; no new technical results.",
+      "organization": "microsoft"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

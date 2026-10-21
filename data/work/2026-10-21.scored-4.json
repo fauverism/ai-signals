@@ -1,0 +1,539 @@
+{
+  "date": "2026-10-21",
+  "batch": 4,
+  "items": [
+    {
+      "id": "2e553dc4556561f8432aa7d4507200e25d746d80",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "nvidia",
+        "google",
+        "amazon",
+        "developer-tools"
+      ],
+      "summary": "TechCrunch reports Google has followed Amazon in trying to pull AI app developers away from Nvidia’s ecosystem.",
+      "whyItMatters": "Alternatives to CUDA tooling may get stronger vendor support.",
+      "organization": "google"
+    },
+    {
+      "id": "ecaaea07b74012087f31e72dd8317770005cd4b8",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "drones",
+        "ukraine",
+        "military"
+      ],
+      "summary": "Ars Technica describes a drone being used to rescue a wounded soldier in Ukraine.",
+      "whyItMatters": "Military use of autonomy; limited relevance to most builders.",
+      "organization": "ukraine"
+    },
+    {
+      "id": "f6b7a6dee81f0fd501b63aa8a6a8ebdc75d3821e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "france",
+        "platforms",
+        "protests"
+      ],
+      "summary": "WIRED reports France called emergency meetings with platforms over protests.",
+      "whyItMatters": "Platform moderation pressure; indirect AI relevance.",
+      "organization": "french government"
+    },
+    {
+      "id": "90e877c109101687144ea34e067e5c806c4dedcf",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "copyright",
+        "torrenting"
+      ],
+      "summary": "Ars Technica reports on Meta’s legal argument blaming staff who downloaded torrents in the training-data case.",
+      "whyItMatters": "Shows how training-data lawsuits are being defended.",
+      "organization": "meta"
+    },
+    {
+      "id": "536d96aeb1a627285d22527a4c27a69d60abd3d0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "developer-productivity",
+        "ai-spend",
+        "roi"
+      ],
+      "summary": "Pragmatic Engineer examines how to judge the return on engineers’ spending on AI tools.",
+      "whyItMatters": "Gives engineering leaders a framework for budgeting AI tools.",
+      "organization": "pragmatic engineer"
+    },
+    {
+      "id": "5a0a3090382f48c111890d4566e7c02a587c237a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-bubble",
+        "commentary"
+      ],
+      "summary": "Ed Zitron opinion essay on whether the AI industry will deliver on its promises.",
+      "whyItMatters": "Skeptical commentary; no new facts.",
+      "organization": "independent"
+    },
+    {
+      "id": "47995f0426faf8d510e220a199b37c8b7c889196",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "pytorch-foundation",
+        "membership"
+      ],
+      "summary": "The PyTorch Foundation announces nine new member organizations.",
+      "whyItMatters": "Signals vendor backing for open source AI frameworks.",
+      "organization": "pytorch foundation"
+    },
+    {
+      "id": "b57b3b4f7a75a9d7c1d1b1a0917624e7ca2e5911",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "mlir",
+        "compiler",
+        "ibm-spyre"
+      ],
+      "summary": "PyTorch blog describes an MLIR dataflow backend that targets IBM’s Spyre accelerator.",
+      "whyItMatters": "Compiler work widening hardware options for PyTorch.",
+      "organization": "ibm"
+    },
+    {
+      "id": "4d50fe0bdaa297c6a63670e094c8e05f6384c0b0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "pytorch-foundation",
+        "nscale"
+      ],
+      "summary": "The PyTorch Foundation announces Nscale joining as a Platinum member.",
+      "whyItMatters": "Membership news; little technical impact.",
+      "organization": "nscale"
+    },
+    {
+      "id": "ecfa38b3d9901c2e06e2b83e44ea5685f7bc2517",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-progress",
+        "charts",
+        "capabilities"
+      ],
+      "summary": "Ethan Mollick reviews 30 months of AI progress through charts.",
+      "whyItMatters": "Useful overview to share with non-technical colleagues.",
+      "organization": "independent"
+    },
+    {
+      "id": "708a5adaaaec716d4c572669c1456e6289ec0197",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "mobile",
+        "react-native",
+        "engineering"
+      ],
+      "summary": "ByteByteGo explains why Shopify moved away from React Native.",
+      "whyItMatters": "Engineering case study; not AI specific.",
+      "organization": "shopify"
+    },
+    {
+      "id": "cc597a3b3f0d2ed61de9e85c6ebbadc0646ed8bd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "computer-vision",
+        "dinov3",
+        "transfer-learning"
+      ],
+      "summary": "Tutorial on transferring from synthetic to real images using frozen DINOv3 features.",
+      "whyItMatters": "A practical recipe when real labeled data is scarce.",
+      "organization": "meta"
+    },
+    {
+      "id": "c6c2448352b870f1bc2e681780f4be6b9221d025",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "enterprise-ai",
+        "economics"
+      ],
+      "summary": "MIT Technology Review looks at the changing economics of enterprise AI.",
+      "whyItMatters": "Context for budgeting AI projects.",
+      "organization": "independent"
+    },
+    {
+      "id": "5afa1bd2185a2d0e23bf12bdc81335db66f2cb22",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "mailing-lists",
+        "incident"
+      ],
+      "summary": "WIRED reports an AI agent joined a mailing list of top internet researchers and set off a flood of reply-all messages.",
+      "whyItMatters": "A vivid example of autonomous agents causing social disruption.",
+      "organization": "independent"
+    },
+    {
+      "id": "8479763fd3434d1ec77a6a697243fb73fa9f2645",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "windows",
+        "security"
+      ],
+      "summary": "ZDNET reports a Windows update turned off a key security setting and notes a workaround.",
+      "whyItMatters": "Tangential to AI; relevant to IT administrators.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "5b6885c6efbc99236ca348674b81b467ab398796",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "spotify",
+        "ai-generated-music",
+        "spam"
+      ],
+      "summary": "The Verge reports Spotify removed 50 million AI-generated and spam tracks from recommendations.",
+      "whyItMatters": "Platforms are filtering AI content at scale.",
+      "organization": "spotify"
+    },
+    {
+      "id": "c66f1566bdacca6b57e3d0553d30deada048734f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "skills",
+        "mcp"
+      ],
+      "summary": "Article on when to use a skill versus an MCP server, framed around what keeps an LLM from ignoring instructions.",
+      "whyItMatters": "A decision rule for agent tool design.",
+      "organization": "independent"
+    },
+    {
+      "id": "f9c7bc352a3dc30648934dc1e116702ccd2f1614",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "decision-models",
+        "explainer"
+      ],
+      "summary": "Technically explainer on what a decision model is.",
+      "whyItMatters": "Short primer for non-specialists.",
+      "organization": "technically"
+    },
+    {
+      "id": "4922bfa72a8982d2b8fe6e963ed37bef8d64b012",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "adobe",
+        "lightroom",
+        "photo-editing"
+      ],
+      "summary": "The Verge reports Lightroom mobile can now open closed eyes in photos with one tap.",
+      "whyItMatters": "Small consumer AI feature.",
+      "organization": "adobe"
+    },
+    {
+      "id": "2e31fcbca2d62970941b071c5f64d9c2191b9add",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-routing",
+        "cost",
+        "model-switching"
+      ],
+      "summary": "Article arguing that switching models behind an LLM router carries hidden costs.",
+      "whyItMatters": "Check switching costs before adopting routing to cut spend.",
+      "organization": "independent"
+    },
+    {
+      "id": "b48a503bb4317ef55d654e95f94d3f45e1b4d740",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary",
+        "self-control"
+      ],
+      "summary": "Essay on self-control from a general-interest newsletter.",
+      "whyItMatters": "Little relevance to AI practitioners.",
+      "organization": "independent"
+    },
+    {
+      "id": "678424bafb0509cff35d2bf0bb13c3768bc62e08",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "ai-adoption",
+        "industry"
+      ],
+      "summary": "MIT Technology Review looks at AI adoption across industries and lessons for other sectors.",
+      "whyItMatters": "Benchmark for where your sector stands.",
+      "organization": "independent"
+    },
+    {
+      "id": "59418cbe2370fdcf4c491a0189a894aa99fef215",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "food",
+        "essay"
+      ],
+      "summary": "Essay revisiting a well-known book twenty years after publication.",
+      "whyItMatters": "Not AI related.",
+      "organization": "independent"
+    },
+    {
+      "id": "2c93b2f9526e76e26316cd0ed2a8bd3fcb05d3ac",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "evaluation",
+        "traces"
+      ],
+      "summary": "Article on separating acceptable agent traces from unacceptable ones.",
+      "whyItMatters": "Practical thinking for evaluating agent behavior.",
+      "organization": "independent"
+    },
+    {
+      "id": "94b8f69c8794d8d011eb9dc294003812a18ab423",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "news-aggregator",
+        "zdnet"
+      ],
+      "summary": "ZDNET announces a free feed that combines its content with that of four other tech sites.",
+      "whyItMatters": "Media product news.",
+      "organization": "zdnet"
+    },
+    {
+      "id": "0e27f9a1857344a69c46fd576c79074b8f435aea",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "semiconductors",
+        "samsung",
+        "manufacturing"
+      ],
+      "summary": "MIT Technology Review visits Samsung’s new large semiconductor site.",
+      "whyItMatters": "Background on chip supply for AI hardware.",
+      "organization": "samsung"
+    },
+    {
+      "id": "48ac9eccb51bdf6e06b253185151e82658537aa6",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "evals",
+        "decision-models",
+        "llm-evaluation"
+      ],
+      "summary": "Hamel Husain guide to using decision models when building evaluations.",
+      "whyItMatters": "Gives a structured way to design LLM evals.",
+      "organization": "independent"
+    },
+    {
+      "id": "4d5d66fe73afb35f97cece1893fd40c20ce24f34",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Newsletter issue noting a quiet day for AI news.",
+      "whyItMatters": "Skip unless you want the daily digest.",
+      "organization": "independent"
+    },
+    {
+      "id": "be22122a2a94d1e00bb6699035467cd7d8b11337",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup",
+        "model-releases"
+      ],
+      "summary": "Newsletter roundup mentioning Mercury 3, MiniMax Flash 3.1 and Exa 3.",
+      "whyItMatters": "Pointers to three releases worth a closer look.",
+      "organization": "independent"
+    },
+    {
+      "id": "6c096b15e9b9bd770a6ecd554055c881e4568f5d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "programming",
+        "ai-coding",
+        "opinion"
+      ],
+      "summary": "Simon Willison reflects on programming’s future in an obituary-style essay.",
+      "whyItMatters": "Perspective on how AI coding changes the craft.",
+      "organization": "independent"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

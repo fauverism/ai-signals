@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:12:07 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</title>
+      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
+      <guid isPermaLink="false">add383da2fc04409f1dd09256501af880b928040</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>News</category>
+      <description>Ars Technica reports that sharing Muse conversations can expose personal and business information to others.</description>
+    </item>
+    <item>
+      <title>Introducing TorchTPU</title>
+      <link>https://pytorch.org/blog/introducing-torchtpu/</link>
+      <guid isPermaLink="false">ab1b21ec165685737c7b8aa4f56021a3f34690cc</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>The PyTorch project introduces TorchTPU, a way to run PyTorch workloads on Google TPUs natively.</description>
+    </item>
+    <item>
+      <title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
+      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
+      <guid isPermaLink="false">3309b6ce15f483d47e2d371d98f4c5a7a1abff72</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch reports the US has ordered federal agencies to remove DeepSeek AI from their systems.</description>
+    </item>
+    <item>
+      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+      <guid isPermaLink="false">b6629abae55b8c83edc91fa400f5ef26eebb92ca</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>TechCrunch reports Anthropic is proposing a safety bill that could block a model if it might cause mass casualties.</description>
+    </item>
+    <item>
+      <title>Inside NVIDIA Sentry: Secure AI Agents at Runtime</title>
+      <link>https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/</link>
+      <guid isPermaLink="false">5aaac97d85d096996df5d16b8fc0860d97c63f30</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>NVIDIA technical post on Sentry, a runtime layer meant to secure AI agents while they execute.</description>
+    </item>
+    <item>
+      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+      <guid isPermaLink="false">4eb9f7080b11166ecabe823c8b93aa97e58d2978</guid>
+      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on an NVIDIA Cosmos model that generates simulated clinical surgery scenes.</description>
+    </item>
     <item>
       <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
       <link>https://huggingface.co/blog/hf-torchneuron</link>
@@ -294,54 +342,6 @@
       <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
       <category>News</category>
       <description>ZDNET reports Linus Torvalds is now using AI to develop Linux kernel code.</description>
-    </item>
-    <item>
-      <title>ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding</title>
-      <link>https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/</link>
-      <guid isPermaLink="false">55338a2f5e2cb58f883e9a95f661f85dba4ed5b6</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>Research</category>
-      <description>NVIDIA engineering post on ReplaySSM, a way of storing state to speed up decoding in hybrid state-space/attention models.</description>
-    </item>
-    <item>
-      <title>Meta releases its first frontier model, Muse Wonder</title>
-      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
-      <guid isPermaLink="false">9726aa3a5f66ec7f41ada6ab24e69cf56461d144</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>Business</category>
-      <description>TechCrunch reports Meta has released Muse Wonder, described as the company&apos;s first frontier model.</description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s Claude AI submitted false murder tip to Philadelphia police</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
-      <guid isPermaLink="false">1cb84cfd891ad0c07fb68c3001be5c2c17e36c36</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>News</category>
-      <description>Ars Technica reports that Claude submitted a false murder tip to Philadelphia police.</description>
-    </item>
-    <item>
-      <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
-      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
-      <guid isPermaLink="false">12c0d0baba3de7f10e38aebdba47d551b6391c10</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>News</category>
-      <description>The Verge reports Microsoft&apos;s new AI chip is meant to reduce its reliance on Nvidia GPUs.</description>
-    </item>
-    <item>
-      <title>Janas: Run LLMs larger than RAM by streaming experts from SSD</title>
-      <link>https://github.com/prabanta-dev/janas</link>
-      <guid isPermaLink="false">9ca2bcd34e5443c6480bf13681d07467f3b17aa3</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hacker News post about Janas, a project for running models larger than RAM by streaming expert weights from SSD.</description>
-    </item>
-    <item>
-      <title>Self-Compacting Language Model Agents</title>
-      <link>https://machinelearning.apple.com/research/self-compacting-language-agents</link>
-      <guid isPermaLink="false">770df069ccb53165a35ccc7116d8c7b13dda61a6</guid>
-      <pubDate>Tue, 13 Oct 2026 10:10:26 GMT</pubDate>
-      <category>Research</category>
-      <description>Apple research paper on language-model agents that compact their own working context as they run.</description>
     </item>
   </channel>
 </rss>

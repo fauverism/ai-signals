@@ -1,0 +1,2642 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T10:12:07Z",
+  "editorNote": "Two themes today. Privacy and policy: Meta paused sharing in Muse after shared chats turned up on the open web, the US told federal agencies to remove DeepSeek, and Anthropic floated a safety bill that would let a model be blocked over mass-casualty risk. Infrastructure: PyTorch introduced TorchTPU for running on TPUs, and NVIDIA published more on securing agents at runtime. OpenAI buying Orchestra Bio rounds out the news.",
+  "lead": {
+    "id": "add383da2fc04409f1dd09256501af880b928040",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "canonicalUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "source": "Ars Technica: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-10-20T12:33:13Z",
+    "fetchedAt": "2026-10-21T10:09:49Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 3
+    },
+    "scores": {
+      "importance": 6,
+      "trend": 4,
+      "novelty": 5,
+      "credibility": 7
+    },
+    "total": 5.4,
+    "category": "News",
+    "tags": [
+      "meta",
+      "muse",
+      "privacy"
+    ],
+    "summary": "Ars Technica reports that sharing Muse conversations can expose personal and business information to others.",
+    "whyItMatters": "Warn staff against putting sensitive details into shareable chats.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "ab1b21ec165685737c7b8aa4f56021a3f34690cc",
+      "url": "https://pytorch.org/blog/introducing-torchtpu/",
+      "canonicalUrl": "https://pytorch.org/blog/introducing-torchtpu",
+      "title": "Introducing TorchTPU",
+      "source": "PyTorch Blog",
+      "sourceTier": 2,
+      "categoryHint": "Tools & Releases",
+      "author": "The TorchTPU Team†",
+      "publishedAt": "2026-10-20T16:02:30Z",
+      "fetchedAt": "2026-10-21T10:09:50Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "total": 5.2,
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "tpu",
+        "torchtpu"
+      ],
+      "summary": "The PyTorch project introduces TorchTPU, a way to run PyTorch workloads on Google TPUs natively.",
+      "whyItMatters": "Widens hardware choice for PyTorch teams beyond GPUs.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Kate Park",
+      "publishedAt": "2026-10-20T13:07:24Z",
+      "fetchedAt": "2026-10-21T10:09:49Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "total": 5.2,
+      "category": "Policy & Safety",
+      "tags": [
+        "deepseek",
+        "us-government",
+        "federal-agencies"
+      ],
+      "summary": "TechCrunch reports the US has ordered federal agencies to remove DeepSeek AI from their systems.",
+      "whyItMatters": "Contractors serving US agencies may need to drop DeepSeek tooling.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-10-20T23:01:23Z",
+      "fetchedAt": "2026-10-21T10:09:49Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "total": 4.7,
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "ai-safety-bill",
+        "regulation"
+      ],
+      "summary": "TechCrunch reports Anthropic is proposing a safety bill that could block a model if it might cause mass casualties.",
+      "whyItMatters": "A lab proposing liability thresholds could shape coming regulation.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "5aaac97d85d096996df5d16b8fc0860d97c63f30",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+      "canonicalUrl": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+      "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+      "source": "NVIDIA Technical Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Ofir Arkin",
+      "publishedAt": "2026-10-21T09:52:16Z",
+      "fetchedAt": "2026-10-21T10:09:49Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "total": 4.5,
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-security",
+        "runtime",
+        "nvidia"
+      ],
+      "summary": "NVIDIA technical post on Sentry, a runtime layer meant to secure AI agents while they execute.",
+      "whyItMatters": "Agent runtime guardrails are becoming a product category to evaluate.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "4eb9f7080b11166ecabe823c8b93aa97e58d2978",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "canonicalUrl": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "source": "Hugging Face Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-10-20T18:17:47Z",
+      "fetchedAt": "2026-10-21T10:09:49Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "total": 4.4,
+      "category": "Tools & Releases",
+      "tags": [
+        "world-models",
+        "simulation",
+        "healthcare"
+      ],
+      "summary": "Hugging Face post on an NVIDIA Cosmos model that generates simulated clinical surgery scenes.",
+      "whyItMatters": "Synthetic surgical video could ease training-data gaps in medicine.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [
+    {
+      "id": "c-c1c22dae90",
+      "label": "Meta Muse shared chats exposed",
+      "itemIds": [
+        "add383da2fc04409f1dd09256501af880b928040",
+        "4168438b63a2e8e2692e5b98593c51ff7f359aa9",
+        "319f79c551eec14d09b77c2375f3d799121baccd"
+      ],
+      "leadItemId": "add383da2fc04409f1dd09256501af880b928040",
+      "sources": [
+        "Ars Technica: AI",
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": 2.57
+    },
+    {
+      "id": "c-6e2dabe788",
+      "label": "US bans DeepSeek on federal systems",
+      "itemIds": [
+        "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+        "064ad9927d51a30c6d33e3e3ccd71f15c94ef826"
+      ],
+      "leadItemId": "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+      "sources": [
+        "Interconnects (Nathan Lambert)",
+        "TechCrunch: AI"
+      ],
+      "trendDelta": 2
+    },
+    {
+      "id": "c-d990dccba0",
+      "label": "OpenAI buys Orchestra Bio",
+      "itemIds": [
+        "dbaa902542534b3aef2de952931670bbaaa97f74",
+        "aeaa448f66c5e86ea1656d089968836d1f404b17"
+      ],
+      "leadItemId": "dbaa902542534b3aef2de952931670bbaaa97f74",
+      "sources": [
+        "OpenAI News",
+        "TechCrunch: AI"
+      ],
+      "trendDelta": 2
+    },
+    {
+      "id": "c-80ded2bd2a",
+      "label": "TorchTPU brings PyTorch to TPUs",
+      "itemIds": [
+        "ab1b21ec165685737c7b8aa4f56021a3f34690cc",
+        "84cd8d44e9825e737133c110f0549311792b0780"
+      ],
+      "leadItemId": "84cd8d44e9825e737133c110f0549311792b0780",
+      "sources": [
+        "Hugging Face Blog",
+        "PyTorch Blog"
+      ],
+      "trendDelta": null
+    },
+    {
+      "id": "c-aa8b4d6019",
+      "label": "Gemini personalization arrives in cars",
+      "itemIds": [
+        "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
+        "938ea47a6b580080f71f29a7c93fe810e24bccaf"
+      ],
+      "leadItemId": "938ea47a6b580080f71f29a7c93fe810e24bccaf",
+      "sources": [
+        "Ars Technica: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": null
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "add383da2fc04409f1dd09256501af880b928040",
+        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "canonicalUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Dan Goodin",
+        "publishedAt": "2026-10-20T12:33:13Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 5.4,
+        "category": "News",
+        "tags": [
+          "meta",
+          "muse",
+          "privacy"
+        ],
+        "summary": "Ars Technica reports that sharing Muse conversations can expose personal and business information to others.",
+        "whyItMatters": "Warn staff against putting sensitive details into shareable chats.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4168438b63a2e8e2692e5b98593c51ff7f359aa9",
+        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "canonicalUrl": "https://theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-20T18:07:34Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 4.8,
+        "category": "News",
+        "tags": [
+          "meta",
+          "privacy",
+          "muse"
+        ],
+        "summary": "The Verge reports Meta paused sharing in Muse after researchers found shared AI chats on the open web.",
+        "whyItMatters": "If your team uses Muse, assume shared chats may be public.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "canonicalUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "title": "OpenAI acquires Orchestra Bio",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-20T00:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:48Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 4.3,
+        "category": "News",
+        "tags": [
+          "acquisition",
+          "biotech",
+          "openai"
+        ],
+        "summary": "OpenAI announces it is buying Orchestra Bio, extending its work into biotech.",
+        "whyItMatters": "Signals OpenAI building domain products in life sciences.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "canonicalUrl": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-19T23:22:18Z",
+        "fetchedAt": "2026-10-21T10:09:48Z",
+        "signals": {
+          "hnPoints": 727,
+          "hnComments": 208,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 4
+        },
+        "total": 4,
+        "category": "News",
+        "tags": [
+          "whatsapp",
+          "prompt-injection",
+          "llm"
+        ],
+        "summary": "Community thread points to hidden instructions for language models in WhatsApp help pages, directing them away from recommending a regulator.",
+        "whyItMatters": "Shows publishers embedding instructions aimed at AI answers; unverified here.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6a01ce2d8f26403121f39ded2215b4eaf9485d3b",
+        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "canonicalUrl": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "title": "Publish fake stats, get cited in LLMs",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-20T13:06:22Z",
+        "fetchedAt": "2026-10-21T10:09:48Z",
+        "signals": {
+          "hnPoints": 343,
+          "hnComments": 198,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 4
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "llm-citations",
+          "misinformation",
+          "seo"
+        ],
+        "summary": "Discussion of how publishing fabricated statistics can lead language models to cite them.",
+        "whyItMatters": "Reminder to check sources behind AI-generated figures.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f8078d89c26a395a1328ea191a7ce33b4a2f9c3d",
+        "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+        "canonicalUrl": "https://latent.space/p/ainews-deepseek-deepinfer-open-source",
+        "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-21T06:54:09Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.7,
+        "category": "News",
+        "tags": [
+          "deepseek",
+          "inference",
+          "open-source"
+        ],
+        "summary": "AINews digest on a DeepSeek open-source inference system with claimed large daily token throughput and margins.",
+        "whyItMatters": "Numbers are the newsletter’s summary of claims; check the primary release.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5b6885c6efbc99236ca348674b81b467ab398796",
+        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+        "canonicalUrl": "https://theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-20T14:18:37Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.4,
+        "category": "News",
+        "tags": [
+          "spotify",
+          "ai-generated-music",
+          "spam"
+        ],
+        "summary": "The Verge reports Spotify removed 50 million AI-generated and spam tracks from recommendations.",
+        "whyItMatters": "Platforms are filtering AI content at scale.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5afa1bd2185a2d0e23bf12bdc81335db66f2cb22",
+        "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+        "canonicalUrl": "https://wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
+        "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Olivia Snow",
+        "publishedAt": "2026-10-20T15:07:43Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 3.4,
+        "category": "News",
+        "tags": [
+          "agents",
+          "mailing-lists",
+          "incident"
+        ],
+        "summary": "WIRED reports an AI agent joined a mailing list of top internet researchers and set off a flood of reply-all messages.",
+        "whyItMatters": "A vivid example of autonomous agents causing social disruption.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "canonicalUrl": "https://theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-20T22:11:34Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.4,
+        "category": "News",
+        "tags": [
+          "gemini",
+          "android-auto",
+          "personalization"
+        ],
+        "summary": "The Verge reports Google is bringing its more personalized Gemini assistant to cars.",
+        "whyItMatters": "Voice assistants in vehicles gain access to more personal data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "938ea47a6b580080f71f29a7c93fe810e24bccaf",
+        "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+        "canonicalUrl": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
+        "title": "Gemini's Personal Intelligence is coming to cars",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ryan Whitwam",
+        "publishedAt": "2026-10-20T20:00:33Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.1,
+        "category": "News",
+        "tags": [
+          "gemini",
+          "cars",
+          "personal-intelligence"
+        ],
+        "summary": "Ars Technica covers Gemini’s Personal Intelligence feature arriving in cars.",
+        "whyItMatters": "Same story as the Verge report; coverage from another outlet.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "b9cbe4a0c92b3b2f1093371fb5fa06eef22e3b50",
+        "url": "https://tldr.takara.ai/p/2610.28585",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.28585",
+        "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik, Shyamal Buch, Colton Stearns, Wenqi Xian",
+        "publishedAt": "2026-10-20T17:39:42Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "3d-reconstruction",
+          "agents",
+          "simulation"
+        ],
+        "summary": "Preprint describing an agent-based pipeline that turns a single photo into a 3D scene usable in physics simulators.",
+        "whyItMatters": "Relevant if you build robotics or game simulation assets from images.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ca293d8533a3487d56775601759d9e248992e54a",
+        "url": "https://huggingface.co/blog/allenai/fairstress",
+        "canonicalUrl": "https://huggingface.co/blog/allenai/fairstress",
+        "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-20T16:09:19Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Research",
+        "tags": [
+          "fairness",
+          "evaluation",
+          "llm-decisions"
+        ],
+        "summary": "Hugging Face post on FairStress, an evaluation targeting fairness in LLM decision-making.",
+        "whyItMatters": "A new test set to run before using LLMs in decisions about people.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "09c9bffeb5299fc1dad46d5161246c6166e55d7b",
+        "url": "https://arxiv.org/abs/2610.24137",
+        "canonicalUrl": "https://arxiv.org/abs/2610.24137",
+        "title": "Continual Test-Time Learning with Evolution Strategies",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Guangya Hao, Yiting Duan, Longyan Tan, Yunbo Long, Hao Wu, Ge Zheng, Alexandra Brintrup, Zhuokai Zhao",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "test-time-learning",
+          "evolution-strategies"
+        ],
+        "summary": "Preprint using evolution strategies for continual learning at test time.",
+        "whyItMatters": "Early idea for models that adapt without gradient backprop.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ab906a7e49fb4dbef96eeabf7ecdb763f85caef6",
+        "url": "https://arxiv.org/abs/2610.25880",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25880",
+        "title": "Asynchronous On-Policy Self-Distillation",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Xidong Wu, Qi Qi, Yuqiong Ji, Shangqian Gao",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.3,
+        "category": "Research",
+        "tags": [
+          "self-distillation",
+          "rl",
+          "post-training"
+        ],
+        "summary": "Paper on asynchronous on-policy self-distillation for training language models.",
+        "whyItMatters": "Relevant to teams tuning post-training throughput.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0251c082e34fa5a1c51c594537b254e1962265f9",
+        "url": "https://arxiv.org/abs/2610.25126",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25126",
+        "title": "Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Xi Zhu, Yuanlin Duan, Changyi Yang, Kai Mei, Riyang Bao, Shichao Zhu, Dimitris N. Metaxas",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "agentic-rl",
+          "skills"
+        ],
+        "summary": "Paper describing how to track and manage a library of learned skills through its lifecycle in agent reinforcement learning.",
+        "whyItMatters": "Hints at maintenance practices for agent skill libraries.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "05bbd3a14fde97c06622b4854911fa2a47fc689a",
+        "url": "https://arxiv.org/abs/2610.24537",
+        "canonicalUrl": "https://arxiv.org/abs/2610.24537",
+        "title": "Write Once, Query Many: Evolving Compact Reusable Memory for Long Videos",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Kerui Chen, Jinglu Wang, Yun Wang, Xinjiang Wang, Yan Lu",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "video-understanding",
+          "memory"
+        ],
+        "summary": "Paper on building compact reusable memory that can be queried many times for long videos.",
+        "whyItMatters": "Relevant to long-video QA cost.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "07fa5870d37a445287fa0623571f89dcd22b040c",
+        "url": "https://arxiv.org/abs/2610.25846",
+        "canonicalUrl": "https://arxiv.org/abs/2610.25846",
+        "title": "Measurement Validity and Representation Dynamics of Confidence Signals in Large Language Models",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Debojeet Ghosh, Shreyansh Kumar, Ayushman Garg",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "llm-confidence",
+          "evaluation"
+        ],
+        "summary": "Study of whether confidence signals from LLMs measure what they claim to and how they shift internally.",
+        "whyItMatters": "Cautions against trusting model confidence scores at face value.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "11874f702da9b20bddbc80210ff5e771a50b6ce8",
+        "url": "https://arxiv.org/abs/2610.23977",
+        "canonicalUrl": "https://arxiv.org/abs/2610.23977",
+        "title": "LLM Evolutionary Search Strategies Should be Compared by Tokens",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Tal Oved, Roi Pony, Oshri Naparstek, Udi Barzelay",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "evaluation",
+          "evolutionary-search"
+        ],
+        "summary": "Position paper arguing that LLM-driven evolutionary search methods should be compared at equal token budgets.",
+        "whyItMatters": "Good reminder to normalize by tokens when comparing search methods.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "13d37d96447ebdfd52c46d87a15323223d2f60dd",
+        "url": "https://arxiv.org/abs/2610.28626",
+        "canonicalUrl": "https://arxiv.org/abs/2610.28626",
+        "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl Qi, Baichuan Huang, Srinath Sridhar, Dylan Randle, et al.",
+        "publishedAt": "2026-10-21T04:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:48Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "robotics",
+          "world-models",
+          "vla"
+        ],
+        "summary": "Preprint proposing a unified world, action and language model for embodied robot control.",
+        "whyItMatters": "One more entry in the unified robot-model race.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8175982ea43a4421416da26b1b0ace43da417c69",
+        "url": "https://tldr.takara.ai/p/2610.27565",
+        "canonicalUrl": "https://tldr.takara.ai/p/2610.27565",
+        "title": "AnomalyJev: Towards Evaluating Image Anomaly Explanations via Claim-Level Verification",
+        "source": "Hugging Face Daily Papers",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Qizhou Wang, Jiawen Zhu, Guansong Pang, Christopher Leckie",
+        "publishedAt": "2026-10-20T03:29:08Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 2,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3,
+        "category": "Research",
+        "tags": [
+          "evaluation",
+          "anomaly-detection",
+          "explainability"
+        ],
+        "summary": "Proposes checking claims inside image-anomaly explanations to evaluate how good those explanations are.",
+        "whyItMatters": "Gives a way to test explanations rather than trust them.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "48ac9eccb51bdf6e06b253185151e82658537aa6",
+        "url": "https://hamel.dev/blog/posts/decision-model-evals/",
+        "canonicalUrl": "https://hamel.dev/blog/posts/decision-model-evals",
+        "title": "How To Use Decision Models for Evals",
+        "source": "Hamel Husain",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Hamel Husain, Antaripa Saha",
+        "publishedAt": "2026-10-20T07:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4,
+        "category": "Tutorials",
+        "tags": [
+          "evals",
+          "decision-models",
+          "llm-evaluation"
+        ],
+        "summary": "Hamel Husain guide to using decision models when building evaluations.",
+        "whyItMatters": "Gives a structured way to design LLM evals.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e5f6d3284f597c04e0678395af7e1c860a6d8dc0",
+        "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws",
+        "title": "Securing AI agent identity with X.509 PKI on AWS",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Deepakkumar Sharma",
+        "publishedAt": "2026-10-20T16:03:48Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Tutorials",
+        "tags": [
+          "agent-identity",
+          "pki",
+          "security"
+        ],
+        "summary": "AWS guide to giving AI agents identities based on X.509 certificates.",
+        "whyItMatters": "Concrete approach to authenticating agents across services.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "536d96aeb1a627285d22527a4c27a69d60abd3d0",
+        "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+        "title": "What’s the ROI of software engineers’ spending on AI?",
+        "source": "The Pragmatic Engineer",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-20T17:34:18Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "Tutorials",
+        "tags": [
+          "developer-productivity",
+          "ai-spend",
+          "roi"
+        ],
+        "summary": "Pragmatic Engineer examines how to judge the return on engineers’ spending on AI tools.",
+        "whyItMatters": "Gives engineering leaders a framework for budgeting AI tools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "80e6bced4c1b925f407b4159cd97fb2156ab4214",
+        "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
+        "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Mijanur Palash",
+        "publishedAt": "2026-10-20T17:48:27Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "fine-tuning",
+          "gpt-oss",
+          "sagemaker"
+        ],
+        "summary": "AWS guide to fine-tuning an open-weights 20B model for multilingual reasoning on SageMaker HyperPod.",
+        "whyItMatters": "A concrete recipe for tuning open models on managed clusters.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2e31fcbca2d62970941b071c5f64d9c2191b9add",
+        "url": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
+        "canonicalUrl": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more",
+        "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Nhu Hoang",
+        "publishedAt": "2026-10-20T12:30:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "llm-routing",
+          "cost",
+          "model-switching"
+        ],
+        "summary": "Article arguing that switching models behind an LLM router carries hidden costs.",
+        "whyItMatters": "Check switching costs before adopting routing to cut spend.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "cc597a3b3f0d2ed61de9e85c6ebbadc0646ed8bd",
+        "url": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+        "canonicalUrl": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features",
+        "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Florian Trautweiler",
+        "publishedAt": "2026-10-20T15:30:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "Tutorials",
+        "tags": [
+          "computer-vision",
+          "dinov3",
+          "transfer-learning"
+        ],
+        "summary": "Tutorial on transferring from synthetic to real images using frozen DINOv3 features.",
+        "whyItMatters": "A practical recipe when real labeled data is scarce.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c93b2f9526e76e26316cd0ed2a8bd3fcb05d3ac",
+        "url": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+        "canonicalUrl": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones",
+        "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Doster Esh",
+        "publishedAt": "2026-10-20T11:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "evaluation",
+          "traces"
+        ],
+        "summary": "Article on separating acceptable agent traces from unacceptable ones.",
+        "whyItMatters": "Practical thinking for evaluating agent behavior.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c66f1566bdacca6b57e3d0553d30deada048734f",
+        "url": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+        "canonicalUrl": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying",
+        "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gal Arav",
+        "publishedAt": "2026-10-20T14:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "skills",
+          "mcp"
+        ],
+        "summary": "Article on when to use a skill versus an MCP server, framed around what keeps an LLM from ignoring instructions.",
+        "whyItMatters": "A decision rule for agent tool design.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bf3eb719b179efc5cfda13258ac1dd951b799eb0",
+        "url": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
+        "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Vineet Kachhawaha",
+        "publishedAt": "2026-10-20T17:52:50Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "bedrock",
+          "agents",
+          "supply-chain"
+        ],
+        "summary": "AWS walkthrough of a conversational supply-chain assistant using Amazon Quick and Bedrock AgentCore.",
+        "whyItMatters": "Reference pattern if you build chat over operational data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "708a5adaaaec716d4c572669c1456e6289ec0197",
+        "url": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+        "canonicalUrl": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+        "title": "Why Shopify Migrated From React Native",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-20T15:31:07Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "mobile",
+          "react-native",
+          "engineering"
+        ],
+        "summary": "ByteByteGo explains why Shopify moved away from React Native.",
+        "whyItMatters": "Engineering case study; not AI specific.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "ab1b21ec165685737c7b8aa4f56021a3f34690cc",
+        "url": "https://pytorch.org/blog/introducing-torchtpu/",
+        "canonicalUrl": "https://pytorch.org/blog/introducing-torchtpu",
+        "title": "Introducing TorchTPU",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "The TorchTPU Team†",
+        "publishedAt": "2026-10-20T16:02:30Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 5.2,
+        "category": "Tools & Releases",
+        "tags": [
+          "pytorch",
+          "tpu",
+          "torchtpu"
+        ],
+        "summary": "The PyTorch project introduces TorchTPU, a way to run PyTorch workloads on Google TPUs natively.",
+        "whyItMatters": "Widens hardware choice for PyTorch teams beyond GPUs.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "84cd8d44e9825e737133c110f0549311792b0780",
+        "url": "https://huggingface.co/blog/hf-torchtpu",
+        "canonicalUrl": "https://huggingface.co/blog/hf-torchtpu",
+        "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-20T00:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 4.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "pytorch",
+          "tpu",
+          "hugging-face"
+        ],
+        "summary": "Hugging Face describes running models on TPUs through the new TorchTPU path for PyTorch, with native support.",
+        "whyItMatters": "If you own TPU capacity, PyTorch code may now run with fewer changes.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5aaac97d85d096996df5d16b8fc0860d97c63f30",
+        "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+        "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Ofir Arkin",
+        "publishedAt": "2026-10-21T09:52:16Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "agent-security",
+          "runtime",
+          "nvidia"
+        ],
+        "summary": "NVIDIA technical post on Sentry, a runtime layer meant to secure AI agents while they execute.",
+        "whyItMatters": "Agent runtime guardrails are becoming a product category to evaluate.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4eb9f7080b11166ecabe823c8b93aa97e58d2978",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "canonicalUrl": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-20T18:17:47Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 4.4,
+        "category": "Tools & Releases",
+        "tags": [
+          "world-models",
+          "simulation",
+          "healthcare"
+        ],
+        "summary": "Hugging Face post on an NVIDIA Cosmos model that generates simulated clinical surgery scenes.",
+        "whyItMatters": "Synthetic surgical video could ease training-data gaps in medicine.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "402f87a8f5c1ffb0121feee94387f83ff54f9c21",
+        "url": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
+        "title": "Discover tools at runtime with AWS Agent Registry",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Vibhu Pareek",
+        "publishedAt": "2026-10-20T16:22:24Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "agents",
+          "tool-discovery",
+          "aws"
+        ],
+        "summary": "AWS describes an Agent Registry that lets agents find tools at runtime.",
+        "whyItMatters": "Dynamic tool discovery could simplify large agent fleets.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1ff743f739528010b47d00797eb38be22555e231",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+        "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Elizabeth Goodman",
+        "publishedAt": "2026-10-21T09:50:14Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "agent-security",
+          "reference-architecture",
+          "governance"
+        ],
+        "summary": "NVIDIA publishes a reference architecture for securing and governing agent workloads at scale.",
+        "whyItMatters": "A starting design for teams that must control what agents can do in production.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2596ff929aeef5579581b4037417df8135811f0e",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+        "canonicalUrl": "https://huggingface.co/blog/anylanguagemodel-1-0",
+        "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-20T00:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "apple",
+          "local-models",
+          "swift"
+        ],
+        "summary": "Hugging Face marks version 1.0 of AnyLanguageModel, a library for running local models on Apple platforms.",
+        "whyItMatters": "Stable API for Swift developers who ship on-device models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b57b3b4f7a75a9d7c1d1b1a0917624e7ca2e5911",
+        "url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre/",
+        "canonicalUrl": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre",
+        "title": "From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre",
+        "source": "PyTorch Blog",
+        "sourceTier": 2,
+        "categoryHint": "Tools & Releases",
+        "author": "Swagath Venkataramani, Bardia Mahjour, Prasanth Chatarasi, Alberto Mannari, Viji Srinivasan, and the IBM Spyre Team",
+        "publishedAt": "2026-10-20T16:00:15Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "mlir",
+          "compiler",
+          "ibm-spyre"
+        ],
+        "summary": "PyTorch blog describes an MLIR dataflow backend that targets IBM’s Spyre accelerator.",
+        "whyItMatters": "Compiler work widening hardware options for PyTorch.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "65f689d035704c2cb75aa016ca050591918c72aa",
+        "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+        "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Kevin Shabahang",
+        "publishedAt": "2026-10-20T21:14:10Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 3.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "linear-attention",
+          "trainium",
+          "pytorch"
+        ],
+        "summary": "AWS describes training and serving a 3B linear-attention model on Trainium2 using native PyTorch.",
+        "whyItMatters": "Case for non-GPU training of KV-cache-free architectures.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "94e7f4f5c0e52bb75e66cbfeaab71589104be947",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "canonicalUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-20T15:19:48Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 3.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "agent-memory",
+          "benchmarks",
+          "customer-service"
+        ],
+        "summary": "Hugging Face post on ALTK-Evolve, a learned-memory approach reported to lead a customer-service agent benchmark without a frontier model.",
+        "whyItMatters": "Suggests memory can substitute for model size in support agents; verify on your data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Kate Park",
+        "publishedAt": "2026-10-20T13:07:24Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 5.2,
+        "category": "Policy & Safety",
+        "tags": [
+          "deepseek",
+          "us-government",
+          "federal-agencies"
+        ],
+        "summary": "TechCrunch reports the US has ordered federal agencies to remove DeepSeek AI from their systems.",
+        "whyItMatters": "Contractors serving US agencies may need to drop DeepSeek tooling.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b6629abae55b8c83edc91fa400f5ef26eebb92ca",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-20T23:01:23Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "anthropic",
+          "ai-safety-bill",
+          "regulation"
+        ],
+        "summary": "TechCrunch reports Anthropic is proposing a safety bill that could block a model if it might cause mass casualties.",
+        "whyItMatters": "A lab proposing liability thresholds could shape coming regulation.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a054bcdb27918d02e4cab1a9615a2a01cf4d5dc3",
+        "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ashley Belanger",
+        "publishedAt": "2026-10-20T20:07:58Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "meta",
+          "terms-of-service",
+          "training-data"
+        ],
+        "summary": "Ars Technica reports Meta removed the word “train” from its commercial terms after backlash.",
+        "whyItMatters": "Business users should re-read how Meta may use their data.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bea23034a697284d669d1f0aecf81a10c1cacec1",
+        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+        "title": "eMudhra Intermediate CA Compromise",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-20T23:50:25Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.4,
+        "category": "Policy & Safety",
+        "tags": [
+          "certificate-authority",
+          "security",
+          "incident"
+        ],
+        "summary": "Simon Willison notes a compromise involving the eMudhra intermediate certificate authority.",
+        "whyItMatters": "Check whether your trust stores or tooling rely on that CA.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "2e553dc4556561f8432aa7d4507200e25d746d80",
+        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Julie Bort",
+        "publishedAt": "2026-10-20T18:38:24Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Business",
+        "tags": [
+          "nvidia",
+          "google",
+          "amazon",
+          "developer-tools"
+        ],
+        "summary": "TechCrunch reports Google has followed Amazon in trying to pull AI app developers away from Nvidia’s ecosystem.",
+        "whyItMatters": "Alternatives to CUDA tooling may get stronger vendor support.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "319f79c551eec14d09b77c2375f3d799121baccd",
+        "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+        "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Sarah Perez",
+        "publishedAt": "2026-10-20T17:12:48Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 4,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.9,
+        "category": "Business",
+        "tags": [
+          "meta",
+          "muse",
+          "adoption"
+        ],
+        "summary": "TechCrunch reports Meta’s Muse app has passed 10 million US downloads in its first 40 days.",
+        "whyItMatters": "Shows how quickly consumer AI apps can reach scale.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "aeaa448f66c5e86ea1656d089968836d1f404b17",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Julie Bort",
+        "publishedAt": "2026-10-20T20:35:10Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Business",
+        "tags": [
+          "acquisition",
+          "biotech",
+          "openai"
+        ],
+        "summary": "TechCrunch covers OpenAI acquiring startup Orchestra Bio as part of a push into biotech.",
+        "whyItMatters": "Secondhand coverage of the same deal; read the lab post first.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "dd8747983c69e4ecf0af1fab98eab570a4d057fb",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-20T21:25:22Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "cloud-partnerships"
+        ],
+        "summary": "TechCrunch examines complications in Anthropic’s relationships with its cloud partners.",
+        "whyItMatters": "Could affect where Claude models are offered and priced.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "678424bafb0509cff35d2bf0bb13c3768bc62e08",
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+        "title": "AI adoption by industry shows what other sectors can learn",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "TripleTen",
+        "publishedAt": "2026-10-20T12:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Business",
+        "tags": [
+          "ai-adoption",
+          "industry"
+        ],
+        "summary": "MIT Technology Review looks at AI adoption across industries and lessons for other sectors.",
+        "whyItMatters": "Benchmark for where your sector stands.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6c2448352b870f1bc2e681780f4be6b9221d025",
+        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+        "canonicalUrl": "https://technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
+        "title": "The new economics of enterprise AI",
+        "source": "MIT Technology Review: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "David Sydow",
+        "publishedAt": "2026-10-20T15:20:25Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Business",
+        "tags": [
+          "enterprise-ai",
+          "economics"
+        ],
+        "summary": "MIT Technology Review looks at the changing economics of enterprise AI.",
+        "whyItMatters": "Context for budgeting AI projects.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4e839948c5b0c27b01b9cd1bbdc88b65c472dd1d",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+        "title": "SpaceX’s AI business is beating expectations",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Tim Fernholz, Kirsten Korosec",
+        "publishedAt": "2026-10-20T20:40:41Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "spacex",
+          "ai-business"
+        ],
+        "summary": "TechCrunch reports SpaceX’s AI business is exceeding expectations.",
+        "whyItMatters": "Another large player is building an AI unit.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b3fcb2e42d321123382678ef1b3ee803b99778a9",
+        "url": "https://openai.com/index/ted-taylor-restaurant",
+        "canonicalUrl": "https://openai.com/index/ted-taylor-restaurant",
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-20T10:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:48Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Business",
+        "tags": [
+          "chatgpt-work",
+          "case-study"
+        ],
+        "summary": "OpenAI customer story about a franchisee cutting cash-reconciliation time using ChatGPT Work.",
+        "whyItMatters": "Vendor-reported figure; treat as a marketing data point.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "342f3b31d43012d56958555ef24f9f05b5f28e83",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Julie Bort",
+        "publishedAt": "2026-10-20T22:24:02Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Business",
+        "tags": [
+          "hugging-face",
+          "documentary"
+        ],
+        "summary": "TechCrunch reports the Hugging Face CEO disputing the accuracy of a Netflix documentary on an OpenAI hack.",
+        "whyItMatters": "Mostly reputational; limited practical effect.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d42536b869033e8100e31020f7e7f19cc8022094",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
+        "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Urvish Saraiya",
+        "publishedAt": "2026-10-20T17:34:04Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.3,
+        "category": "Business",
+        "tags": [
+          "bedrock",
+          "multi-tenancy",
+          "case-study"
+        ],
+        "summary": "Case study of how a company built a secure multi-tenant AI platform on Amazon Bedrock.",
+        "whyItMatters": "Useful for SaaS teams designing tenant isolation.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "064ad9927d51a30c6d33e3e3ccd71f15c94ef826",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+        "canonicalUrl": "https://interconnects.ai/p/latest-open-artifacts-25-deepseek",
+        "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+        "source": "Interconnects (Nathan Lambert)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Florian Brand",
+        "publishedAt": "2026-10-20T17:04:21Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.7,
+        "category": "Opinion",
+        "tags": [
+          "open-weights",
+          "deepseek",
+          "regulation"
+        ],
+        "summary": "Newsletter roundup of recent open model releases, including a DeepSeek update, and new US and China controls.",
+        "whyItMatters": "Handy digest of open-model news and regulatory moves.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ecfa38b3d9901c2e06e2b83e44ea5685f7bc2517",
+        "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+        "canonicalUrl": "https://oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+        "title": "30 Months on the Exponential (in Charts)",
+        "source": "One Useful Thing (Ethan Mollick)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Ethan Mollick",
+        "publishedAt": "2026-10-20T15:57:59Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "Opinion",
+        "tags": [
+          "ai-progress",
+          "charts",
+          "capabilities"
+        ],
+        "summary": "Ethan Mollick reviews 30 months of AI progress through charts.",
+        "whyItMatters": "Useful overview to share with non-technical colleagues.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b5fc9ab399b1c375f7f1a489ef266a4e795b74c7",
+        "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+        "canonicalUrl": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+        "title": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-20T23:03:05Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Opinion",
+        "tags": [
+          "ai-regulation",
+          "anthropic",
+          "ai-safety-bill"
+        ],
+        "summary": "Zvi’s commentary on why he finds Anthropic’s draft safety bill troubling.",
+        "whyItMatters": "One prominent critique of a lab-authored bill.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4dc8a56e037376de6e3b1d36b160566eb3cf8c69",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/20/battledrones",
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-20T19:34:19Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3,
+        "category": "Opinion",
+        "tags": [
+          "vibe-coding",
+          "games",
+          "audio"
+        ],
+        "summary": "Simon Willison shares a real-time strategy game built mostly by prompting, with audio-based multiplayer.",
+        "whyItMatters": "Shows what quick AI-assisted prototyping can produce.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6c096b15e9b9bd770a6ecd554055c881e4568f5d",
+        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+        "title": "My obituary for programming",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-19T23:58:25Z",
+        "fetchedAt": "2026-10-21T10:09:49Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "programming",
+          "ai-coding",
+          "opinion"
+        ],
+        "summary": "Simon Willison reflects on programming’s future in an obituary-style essay.",
+        "whyItMatters": "Perspective on how AI coding changes the craft.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5cfb05484559629f3abcea5403a755de937eb04b",
+        "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+        "canonicalUrl": "https://microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
+        "title": "Called to serve: Tech, research, and positive impact",
+        "source": "Microsoft Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Weishung Liu, Chris White",
+        "publishedAt": "2026-10-20T16:00:00Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.3,
+        "category": "Opinion",
+        "tags": [
+          "microsoft-research",
+          "social-impact"
+        ],
+        "summary": "Microsoft Research essay on how technology and research can serve social good.",
+        "whyItMatters": "Reflective piece; no new technical results.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5a0a3090382f48c111890d4566e7c02a587c237a",
+        "url": "https://www.wheresyoured.at/ai-had-better-work-out/",
+        "canonicalUrl": "https://wheresyoured.at/ai-had-better-work-out",
+        "title": "AI Had Better Work Out",
+        "source": "Where's Your Ed At (Ed Zitron)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Ed Zitron",
+        "publishedAt": "2026-10-20T16:12:06Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "Opinion",
+        "tags": [
+          "ai-bubble",
+          "commentary"
+        ],
+        "summary": "Ed Zitron opinion essay on whether the AI industry will deliver on its promises.",
+        "whyItMatters": "Skeptical commentary; no new facts.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "59418cbe2370fdcf4c491a0189a894aa99fef215",
+        "url": "https://michaelpollan.substack.com/p/the-omnivores-dilemma-twenty-years",
+        "canonicalUrl": "https://michaelpollan.substack.com/p/the-omnivores-dilemma-twenty-years",
+        "title": "The Omnivore’s Dilemma, Twenty Years On",
+        "source": "Michael Pollan",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "News and Updates",
+        "publishedAt": "2026-10-20T11:15:52Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 1.6,
+        "category": "Opinion",
+        "tags": [
+          "food",
+          "essay"
+        ],
+        "summary": "Essay revisiting a well-known book twenty years after publication.",
+        "whyItMatters": "Not AI related.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b48a503bb4317ef55d654e95f94d3f45e1b4d740",
+        "url": "https://morebetterthinking.substack.com/p/control-yourself",
+        "canonicalUrl": "https://morebetterthinking.substack.com/p/control-yourself",
+        "title": "Control Yourself!",
+        "source": "More Better Thinking",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "William B. Irvine",
+        "publishedAt": "2026-10-20T12:13:48Z",
+        "fetchedAt": "2026-10-21T10:09:50Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 1.6,
+        "category": "Opinion",
+        "tags": [
+          "commentary",
+          "self-control"
+        ],
+        "summary": "Essay on self-control from a general-interest newsletter.",
+        "whyItMatters": "Little relevance to AI practitioners.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 1446,
+    "afterDedupe": 1270,
+    "ranked": 120
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "date": "2026-10-21",
+  "batch": 1,
+  "items": [
+    {
+      "id": "b9cbe4a0c92b3b2f1093371fb5fa06eef22e3b50",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "3d-reconstruction",
+        "agents",
+        "simulation"
+      ],
+      "summary": "Preprint describing an agent-based pipeline that turns a single photo into a 3D scene usable in physics simulators.",
+      "whyItMatters": "Relevant if you build robotics or game simulation assets from images.",
+      "organization": "scenerig"
+    },
+    {
+      "id": "774cce1922ec91cc7757e2854ab57502d9416308",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agent-harness",
+        "chart-reasoning"
+      ],
+      "summary": "Paper on agent harnesses that adapt themselves to handle uncommon chart types in reasoning tasks.",
+      "whyItMatters": "Niche for now; a pattern to watch for multimodal agent evals.",
+      "organization": "chartevo"
+    },
+    {
+      "id": "89d22b340b8a10667462f53d54b50b5792649b5d",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "language-models",
+        "3d-layout"
+      ],
+      "summary": "Paper proposing a geometry-aware language model for placing objects in a scene under user control.",
+      "whyItMatters": "Mainly of interest to 3D content and layout-generation teams.",
+      "organization": "gala"
+    },
+    {
+      "id": "8821c27b751a39607287437b36a3554676c66b88",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "multimodal",
+        "genomics"
+      ],
+      "summary": "Preprint training one multimodal model to link lung tissue images with spatial gene-expression data.",
+      "whyItMatters": "Narrow biomedical result; useful for pathology ML researchers.",
+      "organization": "vgl"
+    },
+    {
+      "id": "7f575220202f166e4db3c37af0449b7d66ee34e9",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "pretraining",
+        "classification"
+      ],
+      "summary": "Study of how well language-pretrained representations capture meaning in fine-grained classification tasks.",
+      "whyItMatters": "Background reading for anyone reusing LM encoders for classification.",
+      "organization": "assessing"
+    },
+    {
+      "id": "871373192738e633d86a5da8fd084978b4b542c7",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "adversarial-robustness"
+      ],
+      "summary": "Theory-flavored paper asking whether l1-norm attacks truly need their perturbation to be concentrated.",
+      "whyItMatters": "Specialist robustness result with little near-term practical effect.",
+      "organization": "how"
+    },
+    {
+      "id": "d4e0947d7a47a11d1d593bf3966e78c0e989ffc6",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "human-object-interaction",
+        "generation"
+      ],
+      "summary": "Paper using several expert models together to generate long sequences of people interacting with objects in scenes.",
+      "whyItMatters": "Narrow; relevant to animation and embodied-AI data generation.",
+      "organization": "world2hosi"
+    },
+    {
+      "id": "8175982ea43a4421416da26b1b0ace43da417c69",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "anomaly-detection",
+        "explainability"
+      ],
+      "summary": "Proposes checking claims inside image-anomaly explanations to evaluate how good those explanations are.",
+      "whyItMatters": "Gives a way to test explanations rather than trust them.",
+      "organization": "anomalyjev"
+    },
+    {
+      "id": "005351e0d0c94a45d7299b5ccd6889f2ce8e5899",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "synthetic-data",
+        "physics",
+        "code-execution"
+      ],
+      "summary": "Preprint on generating physics problems by building formulas top-down and checking them by running code.",
+      "whyItMatters": "Shows one route to reliable synthetic training problems.",
+      "organization": "tire"
+    },
+    {
+      "id": "01af703b872c1eab56a951eb165974a406f54ac2",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "scene-graphs",
+        "robotics"
+      ],
+      "summary": "Paper on keeping object identities consistent in 4D scene graphs when objects leave and re-enter view.",
+      "whyItMatters": "Niche robotics-perception result.",
+      "organization": "cross"
+    },
+    {
+      "id": "0251c082e34fa5a1c51c594537b254e1962265f9",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agentic-rl",
+        "skills"
+      ],
+      "summary": "Paper describing how to track and manage a library of learned skills through its lifecycle in agent reinforcement learning.",
+      "whyItMatters": "Hints at maintenance practices for agent skill libraries.",
+      "organization": "trackable"
+    },
+    {
+      "id": "07997759a410ff85f30a744912fe3f7e16fd5820",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion-llm",
+        "decoding"
+      ],
+      "summary": "Paper applying diversity-preserving sequential Monte Carlo to decoding in diffusion language models.",
+      "whyItMatters": "Interesting if you follow non-autoregressive text models.",
+      "organization": "keep"
+    },
+    {
+      "id": "07fa5870d37a445287fa0623571f89dcd22b040c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "llm-confidence",
+        "evaluation"
+      ],
+      "summary": "Study of whether confidence signals from LLMs measure what they claim to and how they shift internally.",
+      "whyItMatters": "Cautions against trusting model confidence scores at face value.",
+      "organization": "measurement"
+    },
+    {
+      "id": "093920f648e9ea4aabf8e31acfd5cc164f4386b5",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "visual-reasoning",
+        "agents",
+        "self-improvement"
+      ],
+      "summary": "Framework in which a visual-reasoning agent grows its own skills over time.",
+      "whyItMatters": "Another data point in the skill self-evolution trend.",
+      "organization": "visualevolve"
+    },
+    {
+      "id": "093991964504acf085630d8996dff0fde76403be",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "gaussian-splatting",
+        "efficiency"
+      ],
+      "summary": "Paper on controlling compute budget linearly in feed-forward 3D Gaussian splatting.",
+      "whyItMatters": "Niche; helps with predictable 3D reconstruction cost.",
+      "organization": "rlsplat"
+    },
+    {
+      "id": "09c9bffeb5299fc1dad46d5161246c6166e55d7b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "test-time-learning",
+        "evolution-strategies"
+      ],
+      "summary": "Preprint using evolution strategies for continual learning at test time.",
+      "whyItMatters": "Early idea for models that adapt without gradient backprop.",
+      "organization": "continual"
+    },
+    {
+      "id": "0c17e6f56948f5a6c5b53ef6a21f4343021e8dd1",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "4d-reconstruction",
+        "video"
+      ],
+      "summary": "Paper proposing a ray-conditioned motion model for reconstructing moving scenes from single-camera video.",
+      "whyItMatters": "Specialist computer-vision result.",
+      "organization": "rayco4d"
+    },
+    {
+      "id": "1142fcbcd6c218b7ac3f63a6f55fdccaea22a0d1",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "translation",
+        "low-resource-languages",
+        "in-context-learning"
+      ],
+      "summary": "Paper that trains models with ciphers to improve learning of terminology in context for rare-language translation.",
+      "whyItMatters": "Possible trick for low-resource translation setups.",
+      "organization": "training"
+    },
+    {
+      "id": "11874f702da9b20bddbc80210ff5e771a50b6ce8",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "evolutionary-search"
+      ],
+      "summary": "Position paper arguing that LLM-driven evolutionary search methods should be compared at equal token budgets.",
+      "whyItMatters": "Good reminder to normalize by tokens when comparing search methods.",
+      "organization": "llm"
+    },
+    {
+      "id": "121441ebcdf9a521c5e0839b4507aa951cda0e0c",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vlm",
+        "evaluation",
+        "counting"
+      ],
+      "summary": "Evaluation of vision-language models on counting, designed around how children learn to count.",
+      "whyItMatters": "Gives a more diagnostic counting test for VLMs.",
+      "organization": "give"
+    },
+    {
+      "id": "12fb592dfec5b0933a90c87509a914220a802612",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "image-super-resolution",
+        "retrieval"
+      ],
+      "summary": "Paper using searched world knowledge to ground image super-resolution outputs.",
+      "whyItMatters": "Niche imaging result.",
+      "organization": "worldsr"
+    },
+    {
+      "id": "13d37d96447ebdfd52c46d87a15323223d2f60dd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "world-models",
+        "vla"
+      ],
+      "summary": "Preprint proposing a unified world, action and language model for embodied robot control.",
+      "whyItMatters": "One more entry in the unified robot-model race.",
+      "organization": "uniwalm"
+    },
+    {
+      "id": "15967a81c97c623b9f01dd63c52b1ebaac94395d",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "code-models"
+      ],
+      "summary": "Interpretability study asking whether language models track the roles variables play in code.",
+      "whyItMatters": "Informs how code models represent program structure.",
+      "organization": "do"
+    },
+    {
+      "id": "186fbb46edc2d900d8b910084e9585d9afc0e254",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "navigation",
+        "conformal-prediction"
+      ],
+      "summary": "Paper using conformal prediction to adapt inference effort for object-goal navigation.",
+      "whyItMatters": "Niche embodied-AI efficiency idea.",
+      "organization": "covnav"
+    },
+    {
+      "id": "ab906a7e49fb4dbef96eeabf7ecdb763f85caef6",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "self-distillation",
+        "rl",
+        "post-training"
+      ],
+      "summary": "Paper on asynchronous on-policy self-distillation for training language models.",
+      "whyItMatters": "Relevant to teams tuning post-training throughput.",
+      "organization": "asynchronous"
+    },
+    {
+      "id": "84cd8d44e9825e737133c110f0549311792b0780",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "tpu",
+        "hugging-face"
+      ],
+      "summary": "Hugging Face describes running models on TPUs through the new TorchTPU path for PyTorch, with native support.",
+      "whyItMatters": "If you own TPU capacity, PyTorch code may now run with fewer changes.",
+      "organization": "hugging face"
+    },
+    {
+      "id": "ab1b21ec165685737c7b8aa4f56021a3f34690cc",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "tpu",
+        "torchtpu"
+      ],
+      "summary": "The PyTorch project introduces TorchTPU, a way to run PyTorch workloads on Google TPUs natively.",
+      "whyItMatters": "Widens hardware choice for PyTorch teams beyond GPUs.",
+      "organization": "pytorch foundation"
+    },
+    {
+      "id": "dbaa902542534b3aef2de952931670bbaaa97f74",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "acquisition",
+        "biotech",
+        "openai"
+      ],
+      "summary": "OpenAI announces it is buying Orchestra Bio, extending its work into biotech.",
+      "whyItMatters": "Signals OpenAI building domain products in life sciences.",
+      "organization": "openai"
+    },
+    {
+      "id": "aeaa448f66c5e86ea1656d089968836d1f404b17",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "acquisition",
+        "biotech",
+        "openai"
+      ],
+      "summary": "TechCrunch covers OpenAI acquiring startup Orchestra Bio as part of a push into biotech.",
+      "whyItMatters": "Secondhand coverage of the same deal; read the lab post first.",
+      "organization": "openai"
+    },
+    {
+      "id": "5aaac97d85d096996df5d16b8fc0860d97c63f30",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-security",
+        "runtime",
+        "nvidia"
+      ],
+      "summary": "NVIDIA technical post on Sentry, a runtime layer meant to secure AI agents while they execute.",
+      "whyItMatters": "Agent runtime guardrails are becoming a product category to evaluate.",
+      "organization": "nvidia"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-80ded2bd2a",
+      "label": "TorchTPU brings PyTorch to TPUs"
+    },
+    {
+      "id": "c-d990dccba0",
+      "label": "OpenAI buys Orchestra Bio"
+    }
+  ],
+  "fetches": []
+}
