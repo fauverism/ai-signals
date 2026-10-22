@@ -1,0 +1,526 @@
+{
+ "date": "2026-10-22",
+ "batch": 2,
+ "items": [
+  {
+   "id": "4b10d811f6f07020998c8b9e1fd8e756b3e4ace3",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "flow-matching",
+    "text-to-image"
+   ],
+   "summary": "Paper on improving spatial grounding in flow-matching image models by tuning the signal-to-noise ratio.",
+   "whyItMatters": "Small tweak that may help layout control.",
+   "organization": "unknown"
+  },
+  {
+   "id": "4ba8a55daf0e33ce92671ed65248bbf2376d1f6c",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "agentic-rl",
+    "sql",
+    "environments"
+   ],
+   "summary": "Preprint on scaling agent reinforcement learning across stateful, data-centric environments.",
+   "whyItMatters": "Training environments for data agents are scarce.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6d0b305c47c85629c07a3070804bfbd21b79075d",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "debiasing",
+    "fairness"
+   ],
+   "summary": "Paper rethinking post-hoc debiasing for large pretrained models.",
+   "whyItMatters": "Check assumptions before bolting on debiasing.",
+   "organization": "unknown"
+  },
+  {
+   "id": "91d80c6e484df90fccca880479929814e4aabcbd",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "computer-vision"
+   ],
+   "summary": "Preprint on completing outlines of occluded, curved objects.",
+   "whyItMatters": "Niche vision problem.",
+   "organization": "unknown"
+  },
+  {
+   "id": "ff2a2ed5c2250c2f30e1dfa61cb228433c367579",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "trainium",
+    "torchtitan",
+    "qwen3"
+   ],
+   "summary": "AWS walkthrough for training Qwen3 on Trainium with torchtitan.",
+   "whyItMatters": "Gives a concrete path to non-GPU training.",
+   "organization": "aws"
+  },
+  {
+   "id": "f9b499debdda31c09e3233a9bc0b2b59d167a0bd",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "Tutorials",
+   "tags": [
+    "trainium",
+    "profiling",
+    "pytorch"
+   ],
+   "summary": "First part of a series on system-level profiling for PyTorch workloads on AWS Trainium.",
+   "whyItMatters": "Profiling guidance if you target Trainium.",
+   "organization": "aws"
+  },
+  {
+   "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
+   "scores": {
+    "importance": 7,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "patch-the-planet",
+    "vulnerability-disclosure",
+    "agents"
+   ],
+   "summary": "OpenAI describes a program to coordinate global response as AI agents uncover critical software vulnerabilities.",
+   "whyItMatters": "Expect more agent-found bugs; plan faster patch cycles.",
+   "organization": "openai"
+  },
+  {
+   "id": "dc028fea27bbb478762025a451f3125783f1687e",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "php",
+    "vulnerabilities",
+    "patch-the-planet"
+   ],
+   "summary": "Newsletter item noting OpenAI's program was one of two parties to find the PHP vulnerabilities in widely used code.",
+   "whyItMatters": "Confirms agent-assisted discovery is finding real bugs.",
+   "organization": "openai"
+  },
+  {
+   "id": "5d118fadbe793ddd15d5992558c943b8fbb4801a",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "time-series",
+    "granite",
+    "forecasting"
+   ],
+   "summary": "Hugging Face post on ensembling IBM Granite time-series models for forecasting.",
+   "whyItMatters": "A practical recipe if you forecast with open models.",
+   "organization": "ibm"
+  },
+  {
+   "id": "00267108c76a449958f2094ce8b9e74e75495bf5",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video-anomaly-detection"
+   ],
+   "summary": "Preprint on a video anomaly detection framework using multi-scale spatial cross-attention.",
+   "whyItMatters": "Niche surveillance-style vision work.",
+   "organization": "unknown"
+  },
+  {
+   "id": "005cba4c59f6ff1a0b0c1589771ce4235a670a8c",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "re-identification"
+   ],
+   "summary": "Paper on modeling variance between and within people for re-identification.",
+   "whyItMatters": "Niche; mind privacy uses.",
+   "organization": "unknown"
+  },
+  {
+   "id": "04207430bb0d62645675dd48b57bd4c68d2a4661",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "3d-occupancy",
+    "autonomous-driving"
+   ],
+   "summary": "Preprint on upsampling and memory-aware decoding for 3D occupancy prediction.",
+   "whyItMatters": "Relevant mainly to driving perception teams.",
+   "organization": "unknown"
+  },
+  {
+   "id": "04f49366fe84bf05580c24e491c7df161c1477db",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "agents",
+    "consistency",
+    "vision"
+   ],
+   "summary": "Paper on agent-based verification of fine-grained, instance-level consistency.",
+   "whyItMatters": "Niche verification idea.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0587034264a8a4022ddecab9bd9b6146e4db5650",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "graphs",
+    "spatial-autocorrelation"
+   ],
+   "summary": "Preprint proposing a learnable generalization of spatial autocorrelation on graph data.",
+   "whyItMatters": "Specialist graph-learning paper.",
+   "organization": "unknown"
+  },
+  {
+   "id": "09618e2e66d5cfe0afef5102d7266c05d98b359a",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "mathematics",
+    "image-segmentation"
+   ],
+   "summary": "Math paper on existence of minimizers for the Gaussian Mumford-Shah model.",
+   "whyItMatters": "Pure theory; no practical effect.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0c93b53085268ae2d146c309bac130fd1c7e0b81",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "world-models",
+    "3d",
+    "streaming"
+   ],
+   "summary": "Preprint on streaming interactive 3D worlds with hierarchical planning and persistent state.",
+   "whyItMatters": "Shows progress on persistent generated worlds.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0e1c732bbc9f2feebaba80ccae39d9b52abbd6bf",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "image-compression",
+    "generative"
+   ],
+   "summary": "Paper on generative image compression with quantized latents refinement.",
+   "whyItMatters": "Niche codec research.",
+   "organization": "unknown"
+  },
+  {
+   "id": "a8d953e36308a3c935c511ed7407175bddca3d38",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 9
+   },
+   "category": "Tutorials",
+   "tags": [
+    "aws-privatelink",
+    "amazon-quick"
+   ],
+   "summary": "AWS post on using PrivateLink to secure access to Quick from corporate networks.",
+   "whyItMatters": "Relevant mainly to AWS network admins.",
+   "organization": "aws"
+  },
+  {
+   "id": "d841fc8b370bc211320df5b380a7b352ccd83f04",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Tutorials",
+   "tags": [
+    "strands-agents",
+    "agents"
+   ],
+   "summary": "AWS post on an adaptive agentic framework built with Strands Agents.",
+   "whyItMatters": "Reference pattern if you build on Strands.",
+   "organization": "aws"
+  },
+  {
+   "id": "2ed22a61b2f19a0c8004f80b27de018cfecd7ddb",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "openai",
+    "access"
+   ],
+   "summary": "OpenAI post on broad access through consistent standards. The title gives few specifics.",
+   "whyItMatters": "Policy-leaning note; read for OpenAI's access stance.",
+   "organization": "openai"
+  },
+  {
+   "id": "33738f7743b5e18047a5a45d2c3545d15bb39766",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 9
+   },
+   "category": "Business",
+   "tags": [
+    "amazon-quick",
+    "case-study"
+   ],
+   "summary": "Customer story on how U.S. Hunger uses Amazon Quick to connect leaders with data.",
+   "whyItMatters": "Vendor case study; limited technical detail.",
+   "organization": "aws"
+  },
+  {
+   "id": "7104bc51c29585ccdecea918ca97d9dd062d8aaf",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "relational-data",
+    "foundation-model",
+    "kumo"
+   ],
+   "summary": "NVIDIA post claiming Kumo Relational beats supervised ML on relational data without training. The claim is the vendor's.",
+   "whyItMatters": "Worth a test if you model relational tables.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "354f89a6c7dbf10c9b4005276656d6e23bc0b97a",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "slm",
+    "tokenizer",
+    "inference-cost"
+   ],
+   "summary": "Post on specializing a small model's vocabulary to cut inference cost, with a 77 percent figure claimed in the title.",
+   "whyItMatters": "Vocabulary trimming could be a cheap serving win.",
+   "organization": "hugging face"
+  },
+  {
+   "id": "4ab93569e260b2b0a16714b594221da5ccc8e4ab",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "legal",
+    "enterprise",
+    "case-study"
+   ],
+   "summary": "OpenAI customer story on AT&T rethinking in-house legal work.",
+   "whyItMatters": "Vendor case study; shows adoption pattern only.",
+   "organization": "openai"
+  },
+  {
+   "id": "8477c3daca9c4e080f064b3af9838ce53e6065c2",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "Research",
+   "tags": [
+    "healthcare",
+    "ultrasound",
+    "maternal-care"
+   ],
+   "summary": "Google Research describes AI-assisted ultrasound for frontline maternal care.",
+   "whyItMatters": "Example of AI moving into low-resource clinical workflows.",
+   "organization": "google"
+  },
+  {
+   "id": "0397d30cafbc8a72fa89ee9e9fc46595921813c6",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 7,
+    "credibility": 9
+   },
+   "category": "Research",
+   "tags": [
+    "mathematics",
+    "kls-conjecture"
+   ],
+   "summary": "Microsoft Research reports resolving the KLS conjecture, a 31-year-old open problem in mathematics.",
+   "whyItMatters": "Math milestone; practical effect on ML is indirect.",
+   "organization": "microsoft"
+  },
+  {
+   "id": "9b35c0bfb2f0e3cd6f0b40f1544c7158083b755d",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "speech",
+    "granite",
+    "asr"
+   ],
+   "summary": "Hugging Face post announcing Granite Speech 5.0 for transcription, translation and speaker attribution.",
+   "whyItMatters": "Open speech option to test against your current ASR.",
+   "organization": "ibm"
+  },
+  {
+   "id": "74fcf21eca7add4a8265b1181e42f31fbfb429bc",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Business",
+   "tags": [
+    "chatgpt-ads",
+    "advertising"
+   ],
+   "summary": "OpenAI says ChatGPT Ads is expanding to 26 more countries and has been used by over 100,000 advertisers.",
+   "whyItMatters": "Ads in ChatGPT affect marketers and product design.",
+   "organization": "openai"
+  },
+  {
+   "id": "eb16235ac421051a71858f3494a3580bd972ed84",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "protein-design",
+    "inference-time-search"
+   ],
+   "summary": "NVIDIA post on protein design using reward-guided inference-time search with RFD4 and Proteina.",
+   "whyItMatters": "Technique transfers to other guided generation tasks.",
+   "organization": "nvidia"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "833d3d328a66d09f759915d322ba14712585c42e",
+   "reason": "listicle"
+  }
+ ],
+ "clusterLabels": [
+  {
+   "id": "c-cf6b9233d4",
+   "label": "Profiling and training on Trainium"
+  },
+  {
+   "id": "c-9f63245f47",
+   "label": "Agents finding PHP vulnerabilities"
+  }
+ ],
+ "fetches": []
+}

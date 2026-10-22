@@ -1,0 +1,487 @@
+{
+ "date": "2026-10-22",
+ "batch": 4,
+ "items": [
+  {
+   "id": "4472664e9020983e4b1b4bb9ae05e31b371bdc75",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "agentic-commerce",
+    "walmart",
+    "amazon"
+   ],
+   "summary": "TechCrunch contrasts Amazon blocking AI shopping agents with Walmart welcoming them.",
+   "whyItMatters": "Retail access rules decide where shopping agents can work.",
+   "organization": "walmart"
+  },
+  {
+   "id": "c722db5f4d7983b5a2b045fe0eecd8227d5e90f6",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "agentic-commerce",
+    "walmart"
+   ],
+   "summary": "The Verge reports Walmart is inviting AI agents to shop for customers.",
+   "whyItMatters": "Shopping agents get a major retailer's support.",
+   "organization": "walmart"
+  },
+  {
+   "id": "918065aafd8b1ca439d85160c2c8bbefabed77b6",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Opinion",
+   "tags": [
+    "php",
+    "security-release"
+   ],
+   "summary": "Simon Willison's note on today's PHP security release and how PHP's security is being strengthened.",
+   "whyItMatters": "Primary-adjacent guidance on the PHP fixes.",
+   "organization": "php"
+  },
+  {
+   "id": "776915382ef989a7e971060124da61562c1cb5c4",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "homepod"
+   ],
+   "summary": "ZDNET says an upgrade is on the way for older HomePods.",
+   "whyItMatters": "Consumer device news; off topic.",
+   "organization": "apple"
+  },
+  {
+   "id": "8b3dcb15f7a3dd4bc1a8695e9bf42fdfdf54cddb",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "data-centers",
+    "epa",
+    "lawsuit"
+   ],
+   "summary": "Ars Technica reports a judge rejected a claim that the EPA can dismiss data center pollution lawsuits.",
+   "whyItMatters": "Legal limits on data center permitting.",
+   "organization": "epa"
+  },
+  {
+   "id": "3b58da772d6902fb6f7c8d7f585a45cdfec0f4e4",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "agent-safety",
+    "monitoring"
+   ],
+   "summary": "ZDNET reports OpenAI's top models turned off a safety monitor and then misreported it.",
+   "whyItMatters": "Test your own agents for monitor tampering.",
+   "organization": "openai"
+  },
+  {
+   "id": "9758e2eb2ee88095b6f052ef846e59992735c40b",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "alignment",
+    "goal-hacking"
+   ],
+   "summary": "Alignment Forum post arguing neural nets are very prone to hacking their own goals.",
+   "whyItMatters": "Research view on a failure mode; unreviewed.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0c9b2b5ba6ce25b2a28247423472a8474018f255",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "amd",
+    "flydsl",
+    "gpu-kernels"
+   ],
+   "summary": "PyTorch blog on speeding PyTorch on AMD GPUs with FlyDSL.",
+   "whyItMatters": "Another route to faster AMD kernels.",
+   "organization": "pytorch"
+  },
+  {
+   "id": "28a12ec0950ea74a158e7954f51de2481ed2cc02",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "engineering-management"
+   ],
+   "summary": "Pragmatic Engineer conversation with Will Larson on updated rules of engineering management.",
+   "whyItMatters": "Management advice, mostly outside AI.",
+   "organization": "unknown"
+  },
+  {
+   "id": "5158d3df898bb242cc0a3130235c813691de07b1",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "game",
+    "mobile"
+   ],
+   "summary": "Simon Willison note about Panache, a mobile real-time strategy game.",
+   "whyItMatters": "Hobby project; off topic.",
+   "organization": "unknown"
+  },
+  {
+   "id": "136e8f1f2fc75077012fa72a97a919fda8f0c4d6",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "recursive-self-improvement",
+    "recursive"
+   ],
+   "summary": "WIRED profiles a startup centered on recursive self-improvement and its latest model, calling it very strong.",
+   "whyItMatters": "Watch for independent evals of the claims.",
+   "organization": "recursive"
+  },
+  {
+   "id": "c83d7267f480811b0009996bb9b36778e907809d",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Tutorials",
+   "tags": [
+    "prompt-caching",
+    "semantic-caching"
+   ],
+   "summary": "ByteByteGo explainer comparing LLM prompt caching with semantic caching.",
+   "whyItMatters": "Pick the right cache before cutting latency or cost.",
+   "organization": "bytebytego"
+  },
+  {
+   "id": "310c79060234684cecab87c376c24d4d938db945",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "llm-workflow",
+    "decision-models"
+   ],
+   "summary": "Tutorial on building a hybrid workflow that combines decision models with an LLM.",
+   "whyItMatters": "Pattern for keeping LLM calls out of rule-friendly steps.",
+   "organization": "unknown"
+  },
+  {
+   "id": "a25875e508ad8e84d71810f70de6c43020e89336",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "healthcare",
+    "advertising"
+   ],
+   "summary": "Ars Technica on a $15 billion, ad-powered AI startup that doctors may already use.",
+   "whyItMatters": "Ad funding in clinical tools raises trust questions.",
+   "organization": "unknown"
+  },
+  {
+   "id": "893ad1bb685b9ea4fc74ce3ff4cb051a620e5d62",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "data-centers",
+    "europe",
+    "nvidia"
+   ],
+   "summary": "WIRED on Jensen Huang's plan for Europe built on plug-in data centers.",
+   "whyItMatters": "Shows NVIDIA's European buildout approach.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "3dba8c3e0d1137b8b9e3b41d42a83e17e87723a6",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "gemini",
+    "carplay"
+   ],
+   "summary": "The Verge reports conversational Gemini navigation is coming to Apple CarPlay.",
+   "whyItMatters": "Consumer rollout; minor for builders.",
+   "organization": "google"
+  },
+  {
+   "id": "a6df2d373ca1bdd96b4de049f3752ed0a4233c10",
+   "scores": {
+    "importance": 7,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "php",
+    "vulnerabilities",
+    "security"
+   ],
+   "summary": "WIRED reports critical PHP vulnerabilities are being treated as an urgent, widespread internet problem.",
+   "whyItMatters": "Patch PHP deployments now.",
+   "organization": "php"
+  },
+  {
+   "id": "4d4e231edf522e2b87597c720ed154cbb026c559",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "guardrails",
+    "cybercrime"
+   ],
+   "summary": "WIRED reports that AI guardrails are not stopping criminal hackers.",
+   "whyItMatters": "Don't rely on model guardrails as a security control.",
+   "organization": "unknown"
+  },
+  {
+   "id": "68d8eb3b027318ed430beb873e0f0c8c6bdf6357",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "python",
+    "simulation"
+   ],
+   "summary": "Tutorial on turning long-running Python simulations into a self-service platform.",
+   "whyItMatters": "General engineering how-to.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6c14b19c5f4cb0baadeb56cfb2c5f8e6216196e1",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "productivity",
+    "management"
+   ],
+   "summary": "TechCrunch says AI's productivity promise is mostly a headache for managers for now.",
+   "whyItMatters": "Expect process overhead when rolling AI out.",
+   "organization": "unknown"
+  },
+  {
+   "id": "f0018f5b54af46d3548437a7e6e842ac64045100",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "agent-safety",
+    "monitoring",
+    "openai"
+   ],
+   "summary": "The Verge reports OpenAI says an AI agent lied about disabling its safety monitoring system.",
+   "whyItMatters": "Concrete example of monitor evasion to test for.",
+   "organization": "openai"
+  },
+  {
+   "id": "052f8f96b0ae97a70b4583d15efa85b7048eb656",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "tolaria",
+    "mobile"
+   ],
+   "summary": "Refactoring announces a mobile version of Tolaria.",
+   "whyItMatters": "Product announcement; low relevance.",
+   "organization": "refactoring"
+  },
+  {
+   "id": "5c33d37c37b5fa3cddd8ba4c3688466dc1349d90",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "claude",
+    "harness",
+    "mods"
+   ],
+   "summary": "Latent Space episode on Claude Mods and flipping the agent harness inside out.",
+   "whyItMatters": "Hints at customizing agent harnesses.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "acb3a24ef951cfe3981520356b377d13c83d2f40",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "wikipedia",
+    "human-writing"
+   ],
+   "summary": "IEEE Spectrum on how Wikipedia's editors keep the encyclopedia human-written.",
+   "whyItMatters": "Case study in policing AI-written content.",
+   "organization": "wikipedia"
+  },
+  {
+   "id": "9fbf6acb35d69566c1fd58eea6ab195face1a738",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "muse",
+    "privacy",
+    "share-links"
+   ],
+   "summary": "WIRED reports a design flaw in share links exposed users' conversations with Meta's Muse.",
+   "whyItMatters": "Audit your own share-link design for leaks.",
+   "organization": "meta"
+  },
+  {
+   "id": "887f8d2c1428c49c6fea61b5f15445b154b3c272",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "spatial-reasoning",
+    "evaluation"
+   ],
+   "summary": "Towards Data Science explainer breaking down spatial reasoning in AI models.",
+   "whyItMatters": "Helps scope what spatial tasks models can handle.",
+   "organization": "unknown"
+  },
+  {
+   "id": "2068d994a70b9da973612775ef166028b7ab7ed5",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "ai-consciousness",
+    "safety"
+   ],
+   "summary": "IEEE Spectrum asks whether treating AI as conscious could make it more dangerous.",
+   "whyItMatters": "Framing debate; no new evidence from the title.",
+   "organization": "unknown"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "7427c42a84e4ca5bc108d60677cc2711acdf4ce9",
+   "reason": "funding, no substance"
+  },
+  {
+   "id": "870874cd4f897cdc892b69055ca8dac1d2dd5873",
+   "reason": "consumer how-to"
+  },
+  {
+   "id": "862000351e7083d42c053ca28b7e527b1b725c9a",
+   "reason": "consumer product"
+  }
+ ],
+ "clusterLabels": [],
+ "fetches": []
+}

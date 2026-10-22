@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-22",
+ "batch": 5,
+ "items": [
+  {
+   "id": "2490444b7a3f7d64ea48ec2b60b3782261116da7",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "arc",
+    "servicenow",
+    "nvidia",
+    "enterprise-agents"
+   ],
+   "summary": "ZDNET reports ServiceNow and Nvidia launched Arc, a new enterprise AI agent.",
+   "whyItMatters": "Another enterprise agent to evaluate.",
+   "organization": "servicenow"
+  },
+  {
+   "id": "d09eeb229d0d1286c1293f4b0fb8e097dd735cca",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "multimodal-rag",
+    "python"
+   ],
+   "summary": "Machine Learning Mastery guide to a multimodal RAG pipeline for images and documents in Python.",
+   "whyItMatters": "Starter recipe for mixed-media retrieval.",
+   "organization": "unknown"
+  },
+  {
+   "id": "d4edec54662ef09a6e7ccbc00023a5fe5f98b676",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "data-pipeline",
+    "jobs"
+   ],
+   "summary": "Author builds a pipeline to track the job market they hope to enter.",
+   "whyItMatters": "Personal project walk-through.",
+   "organization": "unknown"
+  },
+  {
+   "id": "27ced8676a2635d4f780ae3cef4f9837d3e92193",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "sdlc",
+    "enterprise"
+   ],
+   "summary": "Latent Space interview on how Tenex builds an AI-native software lifecycle for large companies.",
+   "whyItMatters": "Practices from an AI-native services firm.",
+   "organization": "tenex"
+  },
+  {
+   "id": "7ae337bb6e93b6bb94ab6a80017891c4e2d7ef23",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "meta",
+    "leadership"
+   ],
+   "summary": "Platformer reports Joel Kaplan is leaving Meta.",
+   "whyItMatters": "People move at Meta; limited technical effect.",
+   "organization": "meta"
+  },
+  {
+   "id": "bea23034a697284d669d1f0aecf81a10c1cacec1",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "certificate-authority",
+    "security"
+   ],
+   "summary": "Simon Willison note on a compromise of an eMudhra intermediate certificate authority.",
+   "whyItMatters": "Check trust stores for the affected CA.",
+   "organization": "emudhra"
+  },
+  {
+   "id": "ec31e6fc5c0ba3934e701f7b8cad40feb6e2c5a0",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "lawsuit"
+   ],
+   "summary": "The Verge reports a judge dismissed a lawsuit against Sam Altman.",
+   "whyItMatters": "Legal news; not about the technology.",
+   "organization": "openai"
+  },
+  {
+   "id": "b5fc9ab399b1c375f7f1a489ef266a4e795b74c7",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "ai-regulation",
+    "anthropic",
+    "draft-bill"
+   ],
+   "summary": "Zvi argues Anthropic misunderstands why its draft bill drew objections.",
+   "whyItMatters": "Commentary on AI bill politics.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "5ed43860b2e69fceb1ed0656a310aaf5277732e9",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "gemini",
+    "cars"
+   ],
+   "summary": "The Verge reports a more personalized Gemini is coming to cars.",
+   "whyItMatters": "Consumer rollout; minor for builders.",
+   "organization": "google"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}

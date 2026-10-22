@@ -1,0 +1,510 @@
+{
+ "date": "2026-10-22",
+ "batch": 3,
+ "items": [
+  {
+   "id": "5aaac97d85d096996df5d16b8fc0860d97c63f30",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "agent-security",
+    "nvidia-sentry"
+   ],
+   "summary": "NVIDIA post on Sentry, a runtime security layer for AI agents. Covered before; this adds technical detail.",
+   "whyItMatters": "Runtime guardrail option for agent deployments.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "1ff743f739528010b47d00797eb38be22555e231",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "openshell",
+    "agent-governance"
+   ],
+   "summary": "NVIDIA reference architecture for securing and governing AI agent workloads at scale with OpenShell.",
+   "whyItMatters": "Reference design for governing production agents.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "3a928764b3c4b0a3b369b26cf3f782ed7dcb8e5b",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Tutorials",
+   "tags": [
+    "digital-twin",
+    "ai-factory"
+   ],
+   "summary": "NVIDIA walkthrough of an AI factory digital twin built with an agent-assisted workflow.",
+   "whyItMatters": "Mainly useful for data center planners.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "a71e34be1e81ace69ea44950d555354ada909b80",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "dsx-pod",
+    "ai-infrastructure"
+   ],
+   "summary": "NVIDIA post on DSX POD for getting AI capacity online faster and more predictably.",
+   "whyItMatters": "Relevant to teams planning cluster buildouts.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "edef63b51aedc0121d1aea11f9472c530dce47d4",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "chatgpt-ads",
+    "advertising"
+   ],
+   "summary": "OpenAI explains how it built its ad stack for ChatGPT with an eye on user trust and relevance.",
+   "whyItMatters": "Shows how OpenAI will separate ads from answers.",
+   "organization": "openai"
+  },
+  {
+   "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "biology",
+    "agents",
+    "drug-discovery"
+   ],
+   "summary": "OpenAI describes using thousands of AI agents to find new leads in biological data.",
+   "whyItMatters": "Large agent fleets are moving into science workflows.",
+   "organization": "openai"
+  },
+  {
+   "id": "6bc0a4e087e6311f6c90be72338eb3e39c650a7e",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "southeast-asia",
+    "economy"
+   ],
+   "summary": "Google post projecting Southeast Asia's digital economy at $368 billion.",
+   "whyItMatters": "Market sizing only; little actionable.",
+   "organization": "google"
+  },
+  {
+   "id": "9201054eeb4c743a362c75cf2659f9f4fa5831f6",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "vulnerability-discovery",
+    "cloudflare",
+    "openai"
+   ],
+   "summary": "OpenAI post on Cloudflare linking vulnerability discovery to defense.",
+   "whyItMatters": "Shows how found bugs can feed straight into defenses.",
+   "organization": "cloudflare"
+  },
+  {
+   "id": "0ef7b7288d260e9a459e3bbfcd20cb5a4ecf425a",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "confidence-scoring",
+    "llm-evaluation"
+   ],
+   "summary": "Community-discussed essay arguing that asking an LLM for confidence scores is unreliable.",
+   "whyItMatters": "Don't trust self-reported confidence in pipelines.",
+   "organization": "unknown"
+  },
+  {
+   "id": "f8078d89c26a395a1328ea191a7ce33b4a2f9c3d",
+   "scores": {
+    "importance": 7,
+    "trend": 2,
+    "novelty": 7,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "deepseek",
+    "inference",
+    "open-source"
+   ],
+   "summary": "Newsletter on DeepSeek DeepInfer, an open inference stack said to serve 155T tokens a day per cluster and earn $22m a day.",
+   "whyItMatters": "If accurate, sets a serving-efficiency bar for open stacks.",
+   "organization": "deepseek"
+  },
+  {
+   "id": "cabe972b47406c7192e6fb182c0c162586cde0d0",
+   "scores": {
+    "importance": 5,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "deepseek",
+    "pytorch-tpu",
+    "agents"
+   ],
+   "summary": "Daily digest touching DeepSeek DeepInfer, PyTorch on TPUs and Ramp's agent framework.",
+   "whyItMatters": "Digest of the same DeepSeek story.",
+   "organization": "deepseek"
+  },
+  {
+   "id": "f6d022ddced04af3f0158c84b7ad6037290d6f02",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 3
+   },
+   "category": "News",
+   "tags": [
+    "agents",
+    "games",
+    "pokemon"
+   ],
+   "summary": "Community post of LLM agents playing Pokemon Showdown.",
+   "whyItMatters": "Fun benchmark of agent play.",
+   "organization": "unknown"
+  },
+  {
+   "id": "3b1852bb0011105e362387a6fe4687522f819c3b",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "context",
+    "enterprise-ai"
+   ],
+   "summary": "MIT Technology Review piece arguing for context-aware AI.",
+   "whyItMatters": "Opinion framing for product teams.",
+   "organization": "unknown"
+  },
+  {
+   "id": "d524ded1295e7b8ba778538197b5e47a8fc1a7a2",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "biology",
+    "dna",
+    "hugging-face"
+   ],
+   "summary": "WIRED reports a Hugging Face biology model that lets people chat with DNA.",
+   "whyItMatters": "Open model lowers the barrier to genomics tools.",
+   "organization": "hugging face"
+  },
+  {
+   "id": "8cacaf29b137523800ee3d3ad52d2f1ef496d200",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "inference",
+    "storage"
+   ],
+   "summary": "MIT Technology Review on the storage costs inference leaves behind.",
+   "whyItMatters": "Storage is an overlooked inference cost.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6e54c1bb1c355e79a139a9de4281a49d035ab2d6",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "php",
+    "exploitation",
+    "security"
+   ],
+   "summary": "WIRED reports attackers exploited the PHP vulnerabilities days before patches shipped.",
+   "whyItMatters": "Patch PHP now; assume exploitation already happened.",
+   "organization": "php"
+  },
+  {
+   "id": "b0e8569471a0f2c72055a427cab67ef53abc44fe",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "open-source",
+    "spreadsheet"
+   ],
+   "summary": "ZDNET covers GridCraft, an open-source Excel clone for Linux.",
+   "whyItMatters": "Minor desktop tool, only tangential to AI.",
+   "organization": "gridcraft"
+  },
+  {
+   "id": "3acc865d1f4fc7f58b5db6389e7b34010a6b9299",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Business",
+   "tags": [
+    "ai-infrastructure",
+    "debt"
+   ],
+   "summary": "TechCrunch interview with Blackstone's Jas Khaira, who says worries over AI buildout debt are overblown.",
+   "whyItMatters": "One investor's view on AI infrastructure financing.",
+   "organization": "blackstone"
+  },
+  {
+   "id": "9411db60f1d2c75a31892fc74b60fce32e04e44b",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "billionaires-tax",
+    "california"
+   ],
+   "summary": "WIRED reports Mark Zuckerberg agreed to stay in California despite a billionaires' tax ballot measure.",
+   "whyItMatters": "Tangential to AI practice.",
+   "organization": "meta"
+  },
+  {
+   "id": "c777cca0670d356105d6c4dc32a0867a19d13fbe",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "data-centers",
+    "air-quality"
+   ],
+   "summary": "The Verge reports that data centers could erase decades of air quality gains.",
+   "whyItMatters": "Siting pressure may shape where capacity gets built.",
+   "organization": "data-centers"
+  },
+  {
+   "id": "b509534b6934936665b4bbde1ac4ce93f3c89cfa",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "alignment"
+   ],
+   "summary": "Zvi post titled Misaligned. The title gives little else.",
+   "whyItMatters": "Commentary; read if you follow Zvi.",
+   "organization": "unknown"
+  },
+  {
+   "id": "15efdecd25aa684738a1e820b783b17046596c94",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "meta",
+    "share-structure",
+    "ai-funding"
+   ],
+   "summary": "The Verge reports Meta plans a new class of shares to fund its AI push.",
+   "whyItMatters": "Signals how much capital Meta wants for AI.",
+   "organization": "meta"
+  },
+  {
+   "id": "e9fc4036438cc691fe0ef5829293975a02789b21",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "muse",
+    "meta",
+    "usage"
+   ],
+   "summary": "TechCrunch reports Meta says Muse has over 10M users and shopping is a top activity.",
+   "whyItMatters": "Early usage data for Meta's assistant; self-reported.",
+   "organization": "meta"
+  },
+  {
+   "id": "46f7819adb72d7dcba8ba1d8f100d30b539c6937",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "thinking",
+    "essay"
+   ],
+   "summary": "Algorithmic Bridge essay on thinking with AI, per its title.",
+   "whyItMatters": "Opinion; low urgency.",
+   "organization": "unknown"
+  },
+  {
+   "id": "d777d785a3acdbe6277f29b211ef34a4e2ecd38e",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "flint",
+    "coding-model",
+    "local-models"
+   ],
+   "summary": "TechCrunch reports Recursive launched Flint, a laptop-sized coding model it says was largely built by AI.",
+   "whyItMatters": "Local coding model option, but the claim is the company's.",
+   "organization": "recursive"
+  },
+  {
+   "id": "1f413756a0cb052595fadb94475181bf01be91db",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "claude-duet",
+    "agents",
+    "anthropic"
+   ],
+   "summary": "The Verge reports Anthropic launched Claude Duet, a new agent, to take on Meta's Muse.",
+   "whyItMatters": "Another entrant in consumer agents; try it against alternatives.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "bc5af1d4c35910a1f2e2813bbe53be08e4b9f784",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "torchtitan",
+    "titanrl",
+    "pretraining"
+   ],
+   "summary": "PyTorch blog covers a TorchTitan update with new models, scale performance work and TitanRL.",
+   "whyItMatters": "Training stack updates for PyTorch users.",
+   "organization": "pytorch"
+  },
+  {
+   "id": "939258c0eb55b7a659d9b2429841935301f430ed",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "apple-music",
+    "human-curation"
+   ],
+   "summary": "Ars Technica on Apple Music's human-crafted branding in an AI world.",
+   "whyItMatters": "Branding story with little technical content.",
+   "organization": "apple"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "37befcc0b6e7768d3f2f382a7a0dfa1b6e3ea783",
+   "reason": "consumer how-to, off topic"
+  },
+  {
+   "id": "bee997298d40989889b0b10af21c91c88d1ff4d9",
+   "reason": "event promo"
+  }
+ ],
+ "clusterLabels": [
+  {
+   "id": "c-42d7cd4ec4",
+   "label": "DeepSeek DeepInfer and PyTorch"
+  }
+ ],
+ "fetches": []
+}

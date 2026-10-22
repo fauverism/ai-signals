@@ -1,0 +1,527 @@
+{
+ "date": "2026-10-22",
+ "batch": 1,
+ "items": [
+  {
+   "id": "0d5cddc3ce2d2e2a353e5be33ab8e3626f2d8dd1",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "quantum-layers",
+    "vision-language"
+   ],
+   "summary": "Preprint testing whether adding quantum layers to vision-language models changes performance or security. A narrow exploratory study.",
+   "whyItMatters": "Niche work; skim only if you follow quantum machine learning.",
+   "organization": "unknown"
+  },
+  {
+   "id": "20271ff45bcb0f8eae6959b69232f70288311b3a",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "lora",
+    "llm-judge"
+   ],
+   "summary": "Paper describing an in-house judge model that returns typed decisions in a single forward pass, plus open LoRA variants built from it.",
+   "whyItMatters": "Shows one approach to cheap, structured LLM judging.",
+   "organization": "unknown"
+  },
+  {
+   "id": "299cbd939bb02480a30b128235be59ef32637b03",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "self-distillation",
+    "preference-optimization"
+   ],
+   "summary": "Preprint proposing a bidirectional preference-optimization method for on-policy self-distillation. Title gives no results.",
+   "whyItMatters": "Possible training idea; wait for code and replication.",
+   "organization": "unknown"
+  },
+  {
+   "id": "2d0a570a772339301238f0638153f3a7c1799774",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "synthetic-data"
+   ],
+   "summary": "Paper evaluating generated chest radiographs when screening synthetic data before it enters a training set.",
+   "whyItMatters": "Relevant if you add synthetic images to clinical datasets.",
+   "organization": "unknown"
+  },
+  {
+   "id": "4327a145e8091166def9980ffae68c8a4a224863",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "embodied-agents",
+    "pretraining"
+   ],
+   "summary": "Preprint on continued pre-training of embodied agents across varied virtual game worlds, studying how scale affects them.",
+   "whyItMatters": "Another data point on scaling for embodied agents.",
+   "organization": "unknown"
+  },
+  {
+   "id": "53869192871aeb42142bcbec6b9c97cab04ff7eb",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "evaluation",
+    "cognitive-diagnosis"
+   ],
+   "summary": "Paper applying cognitive diagnosis models to build interpretable ability profiles of language models.",
+   "whyItMatters": "An alternative to a single benchmark score for comparing models.",
+   "organization": "unknown"
+  },
+  {
+   "id": "545344abca8f8e3b1f82c74a86d3fd9e9466211c",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "agentic-rl",
+    "harness"
+   ],
+   "summary": "Preprint on scaling the agent harness, not just the model, for reinforcement learning that generalizes across tasks.",
+   "whyItMatters": "Harness design may matter as much as model size for agents.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6cad67d8de3380678b082c1d984c5ad8cc4f0aef",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "agents",
+    "evaluation"
+   ],
+   "summary": "Paper proposing maps that place agents by what they would do, without having to run them.",
+   "whyItMatters": "Could cut the cost of auditing agent behavior before deployment.",
+   "organization": "unknown"
+  },
+  {
+   "id": "112617f389cbf7e1cc68930e8b3b12ec42ae7ae6",
+   "scores": {
+    "importance": 2,
+    "trend": 3,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "security",
+    "triage"
+   ],
+   "summary": "Empirical study of typed, calibrated decision heads for real-time perimeter triage, with a focus on unknown attacks.",
+   "whyItMatters": "Niche security study; useful mainly to network-defense teams.",
+   "organization": "unknown"
+  },
+  {
+   "id": "50ac55493b2285ee640296dbaababe45f6a76d4f",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "rag",
+    "document-ingestion",
+    "agents"
+   ],
+   "summary": "Paper on cues in author-written documents that are lost when agents ingest them in enterprise pipelines.",
+   "whyItMatters": "Check what your ingestion step silently drops.",
+   "organization": "unknown"
+  },
+  {
+   "id": "f566d865380184162f28528ca2d1c8197be5ddea",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "legal",
+    "abstention"
+   ],
+   "summary": "Paper on when decision models and LLMs should commit or abstain when legal authority is missing.",
+   "whyItMatters": "Abstention handling matters for any legal-domain deployment.",
+   "organization": "unknown"
+  },
+  {
+   "id": "4ecebe2b987b773b1f0365d3da271389f81ddb3d",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "llm-output-quality",
+    "contracts"
+   ],
+   "summary": "Paper on typed adversarial contracts to enforce and audit the quality of LLM output.",
+   "whyItMatters": "One pattern for auditable output checks.",
+   "organization": "unknown"
+  },
+  {
+   "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+   "scores": {
+    "importance": 7,
+    "trend": 3,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "openai",
+    "google-cloud",
+    "model-hosting"
+   ],
+   "summary": "OpenAI says its models are coming to Google Cloud, adding a second major cloud route to them. Details come from OpenAI's own announcement.",
+   "whyItMatters": "Teams on Google Cloud may get OpenAI models without leaving it.",
+   "organization": "openai"
+  },
+  {
+   "id": "a61190ef2d9200f3357d076bfafea704bc5a224c",
+   "scores": {
+    "importance": 5,
+    "trend": 3,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Business",
+   "tags": [
+    "php",
+    "vulnerabilities",
+    "security"
+   ],
+   "summary": "TechCrunch reports OpenAI and Google's Wiz found old holes in PHP, with the story spreading widely.",
+   "whyItMatters": "If you run PHP anywhere, check patch status now.",
+   "organization": "openai"
+  },
+  {
+   "id": "2df905178776fdd288c0968db6a6e27cdc62d67f",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "ehr",
+    "diffusion"
+   ],
+   "summary": "Paper comparing block diffusion on longitudinal health records, covering accuracy, efficiency and representation trade-offs.",
+   "whyItMatters": "Narrow to clinical data modeling.",
+   "organization": "unknown"
+  },
+  {
+   "id": "92444fb88480f49afd733d1f7b18d6038aa88b50",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "curriculum-learning",
+    "dense-prediction"
+   ],
+   "summary": "Preprint on curriculum and anti-curriculum learning that adapts to supervision for dense prediction tasks.",
+   "whyItMatters": "Niche training-schedule idea for vision work.",
+   "organization": "unknown"
+  },
+  {
+   "id": "dbcf9e124439dd0f1a943a060349c39910d20cfd",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "inspection",
+    "computer-vision"
+   ],
+   "summary": "Paper applying multi-view deep learning with domain-informed fusion to region-aware inspection.",
+   "whyItMatters": "Applied vision study for industrial inspection.",
+   "organization": "unknown"
+  },
+  {
+   "id": "bb041f2fff18adfe2789e226225da04633c15a60",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "alignment",
+    "spectral"
+   ],
+   "summary": "Preprint on permutation alignment using temperature-controlled spectral sharpening. Title alone gives few details.",
+   "whyItMatters": "Narrow methods paper; low priority.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0478f008ecced7cc42181ebe66c1d7d515e1955d",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "mcp",
+    "agentic-rl"
+   ],
+   "summary": "Paper on measuring first and then setting calibrated rollout budgets for MCP agents trained with reinforcement learning.",
+   "whyItMatters": "May cut training compute for tool-using agents.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0a6cd98db8e41d858e28591c889a8da31279a47c",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "smart-glasses",
+    "on-device"
+   ],
+   "summary": "Paper on adapting models at deployment time on smart glasses using frequency information rather than video frames.",
+   "whyItMatters": "Bandwidth-saving trick for wearable devices.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0ae2b0eb6bdd431c4658ef7cb1fccf9107666d23",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "learning-theory"
+   ],
+   "summary": "Theory preprint on identifying languages from positive data only, using substrate-bounded contrastive learners.",
+   "whyItMatters": "Theory only; no practical change.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0b96f1eb0ed1dbb1788271e62e80a3ce7f6876df",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "agents",
+    "markets",
+    "collusion"
+   ],
+   "summary": "Paper asking whether reinforcement learning leads LLM agents to collude in markets and whether anyone can enforce rules.",
+   "whyItMatters": "Relevant to anyone deploying pricing or trading agents.",
+   "organization": "unknown"
+  },
+  {
+   "id": "0e88fb944f77e896e94a950e15babf601ae45501",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "text-to-image",
+    "diffusion"
+   ],
+   "summary": "Preprint using grammar structure to guide text-to-image diffusion toward correct compositions.",
+   "whyItMatters": "Niche prompt-adherence technique.",
+   "organization": "unknown"
+  },
+  {
+   "id": "186c939209794c0a659cf8e79cc993f8b3d6d4c4",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "convlstm",
+    "equivariance"
+   ],
+   "summary": "Preprint on a motion-equivariant ConvLSTM, framed through gauge symmetry.",
+   "whyItMatters": "Specialist architecture paper.",
+   "organization": "unknown"
+  },
+  {
+   "id": "188425d739cdac37633bfb5db00bc495d10303cd",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "adversarial-robustness",
+    "vlm",
+    "edge"
+   ],
+   "summary": "Paper proposing one framework to evaluate physical adversarial attacks on vision-language models running on edge devices.",
+   "whyItMatters": "Useful baseline if you ship VLMs on devices.",
+   "organization": "unknown"
+  },
+  {
+   "id": "1d54089ea2d8821afd8dff4a2ef4bc6e62f32376",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video-understanding",
+    "kv-cache"
+   ],
+   "summary": "Paper on caching locally and recomputing only selectively for streaming video understanding.",
+   "whyItMatters": "Points to cheaper long-video inference.",
+   "organization": "unknown"
+  },
+  {
+   "id": "26c13e4e72d6f9a4651d934d919ea59b10908df5",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video-captioning"
+   ],
+   "summary": "Preprint on caption-guided active observation for producing detailed video captions.",
+   "whyItMatters": "Incremental captioning method.",
+   "organization": "unknown"
+  },
+  {
+   "id": "32e0b05088549ad6757dc7ea8734fcaba498695f",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "diffusion-lm",
+    "faithfulness"
+   ],
+   "summary": "Diagnostic study of how faithful diffusion language models are in table-to-text generation.",
+   "whyItMatters": "Check faithfulness before using diffusion LMs for reports.",
+   "organization": "unknown"
+  },
+  {
+   "id": "34daecd8a0c9120e797377cdb1d3e70c4d675c1e",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video-segmentation",
+    "jepa"
+   ],
+   "summary": "Preprint treating occlusion as masking for amodal video segmentation.",
+   "whyItMatters": "Narrow vision method.",
+   "organization": "unknown"
+  },
+  {
+   "id": "45da825d485fba8639a5368587bfb335cd390878",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "voice-cloning",
+    "tts"
+   ],
+   "summary": "Paper on dual-reference guidance for accent control in cross-lingual voice cloning.",
+   "whyItMatters": "Relevant to speech teams; also a misuse consideration.",
+   "organization": "unknown"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [
+  {
+   "id": "c-903900e156",
+   "label": "OpenAI models on Google Cloud"
+  }
+ ],
+ "fetches": []
+}

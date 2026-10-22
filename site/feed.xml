@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:10:04 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <guid isPermaLink="false">61f4d0141ff303c02405716db977e4c6353bca59</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>News</category>
+      <description>OpenAI says its models are coming to Google Cloud, adding a second major cloud route to them. Details come from OpenAI&apos;s own announcement.</description>
+    </item>
+    <item>
+      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid isPermaLink="false">d3f519557f32dd3d643c27d4c9f89095ff53a6df</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>OpenAI describes a program to coordinate global response as AI agents uncover critical software vulnerabilities.</description>
+    </item>
+    <item>
+      <title>[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
+      <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
+      <guid isPermaLink="false">f8078d89c26a395a1328ea191a7ce33b4a2f9c3d</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>News</category>
+      <description>Newsletter on DeepSeek DeepInfer, an open inference stack said to serve 155T tokens a day per cluster and earn $22m a day.</description>
+    </item>
+    <item>
+      <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
+      <guid isPermaLink="false">1f413756a0cb052595fadb94475181bf01be91db</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>News</category>
+      <description>The Verge reports Anthropic launched Claude Duet, a new agent, to take on Meta&apos;s Muse.</description>
+    </item>
+    <item>
+      <title>Using thousands of AI agents to uncover new leads in biological data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <guid isPermaLink="false">1de8e62ff715d1f1b849a16afe7dfd3ed7898410</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>News</category>
+      <description>OpenAI describes using thousands of AI agents to find new leads in biological data.</description>
+    </item>
+    <item>
+      <title>Today&apos;s PHP Security Release, and How We&apos;re Strengthening PHP Security</title>
+      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
+      <guid isPermaLink="false">918065aafd8b1ca439d85160c2c8bbefabed77b6</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Simon Willison&apos;s note on today&apos;s PHP security release and how PHP&apos;s security is being strengthened.</description>
+    </item>
     <item>
       <title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</title>
       <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
@@ -294,54 +342,6 @@
       <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
-      <guid isPermaLink="false">66cb1e68848fee2d2e7273d89bc171d7c7a24862</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Google announces Gemini 4 Argon, a new Gemini model for hard problems, rolling out in the Gemini app and developer tools.</description>
-    </item>
-    <item>
-      <title>[AINews] Meta Muse Wonder &amp; Wonder Full: MSL’s Claude 5.5-tier Frontier Model</title>
-      <link>https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder</link>
-      <guid isPermaLink="false">a2c304623a61d6cf82e35f0b69ad27b773367dfd</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>News</category>
-      <description>Newsletter reports Meta&apos;s superintelligence lab models Muse Wonder as a frontier-tier release.</description>
-    </item>
-    <item>
-      <title>Google lets you make personal Android apps for free now – with just prompts</title>
-      <link>https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/</link>
-      <guid isPermaLink="false">37a2f0af6df73c3d02055cbeaeccaa191810ff46</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>News</category>
-      <description>ZDNET reports Google now lets people build personal Android apps free using prompts.</description>
-    </item>
-    <item>
-      <title>NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform</title>
-      <link>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/</link>
-      <guid isPermaLink="false">01fed557964ce22456664b0804defa6a1d7bfb16</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>NVIDIA is open-sourcing Run:ai as part of its DSX AI Factory platform.</description>
-    </item>
-    <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">550c4c02e9ff21a9dd88243eaf13df56c12e35f4</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face blog on running private agents on-device with LFM2.5-24B-A2B.</description>
-    </item>
-    <item>
-      <title>Linus Torvalds is using AI to develop Linux kernel code now</title>
-      <link>https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/</link>
-      <guid isPermaLink="false">759bb825983a36603b1a00ec21c5c4f3239b961e</guid>
-      <pubDate>Wed, 14 Oct 2026 10:09:44 GMT</pubDate>
-      <category>News</category>
-      <description>ZDNET reports Linus Torvalds is now using AI to develop Linux kernel code.</description>
     </item>
   </channel>
 </rss>
