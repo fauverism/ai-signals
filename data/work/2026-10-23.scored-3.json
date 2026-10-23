@@ -1,0 +1,530 @@
+{
+  "date": "2026-10-23",
+  "batch": 3,
+  "items": [
+    {
+      "id": "4e9bfd07ae02849d8691fa6c59ed092354abcaf9",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "formal-verification",
+        "llm",
+        "software"
+      ],
+      "summary": "Hacker News discussion of an article arguing that LLMs make formal software verification feasible at much larger scale.",
+      "whyItMatters": "If true, proof-assisted code could become practical; read the source claims critically.",
+      "organization": "unknown"
+    },
+    {
+      "id": "09c9f9d097fbda6f1ce1011d58660a136b8bf024",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "image-generation",
+        "canva",
+        "design"
+      ],
+      "summary": "The Verge reports Canva’s first image model, described as planning a design before generating it.",
+      "whyItMatters": "Design tools are building their own models, which may reduce reliance on third-party APIs.",
+      "organization": "canva"
+    },
+    {
+      "id": "865ffb65f1d593f079bea5171bf4619d03fdfa05",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "image-generation",
+        "canva"
+      ],
+      "summary": "TechCrunch covers Canva releasing its first image generation model.",
+      "whyItMatters": "Another sign design platforms are building in-house generation.",
+      "organization": "canva"
+    },
+    {
+      "id": "8e16d6a954270ec11e35971fccea297c60d1de29",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "claude",
+        "agents",
+        "anthropic"
+      ],
+      "summary": "TechCrunch writes about the Claude Duet app as Anthropic’s push on agents.",
+      "whyItMatters": "Shows Anthropic’s direction on agent products; check the details before planning around it.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "bb49ad748aa9c9a7c26985f66b0ed0406677e84b",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "newsletter",
+        "anthropic-api"
+      ],
+      "summary": "TLDR AI newsletter issue mentioning Claude Duet, Anthropic API changes and a local model from Recursive.",
+      "whyItMatters": "Digest pointer to API changes; verify specifics in Anthropic’s own docs.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "6f7370a4596df612d676c57eb55fc26c22e70b28",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "reasoning",
+        "symbolic-ai"
+      ],
+      "summary": "Hacker News post about reaching reasoning-like results without an LLM.",
+      "whyItMatters": "Interesting counterpoint, but the thread is small and unverified.",
+      "organization": "unknown"
+    },
+    {
+      "id": "f6d022ddced04af3f0158c84b7ad6037290d6f02",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "games",
+        "evaluation"
+      ],
+      "summary": "Hacker News post about LLM agents playing Pokemon Showdown.",
+      "whyItMatters": "Games remain a handy testbed for agent behavior.",
+      "organization": "unknown"
+    },
+    {
+      "id": "3602c8887bef48aefb767a97d4aec2c2c6697621",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "robotaxi",
+        "autonomous-vehicles",
+        "nvidia"
+      ],
+      "summary": "TechCrunch reports inDrive plans robotaxi tests in Central Asia in 2027 with Pony.ai and Nvidia.",
+      "whyItMatters": "Autonomy partnerships are spreading to new regions.",
+      "organization": "indrive"
+    },
+    {
+      "id": "b4dc529b5e0af071c9b649fe8842234d4c98fbca",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "newsletter",
+        "ai-culture"
+      ],
+      "summary": "Casey Newton introduces a new project called Machine Gods.",
+      "whyItMatters": "Commentary; the title gives little on the substance.",
+      "organization": "platformer"
+    },
+    {
+      "id": "8937fd9c8277a1faad761e8e6ce4e9703c7c816d",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "multi-agent"
+      ],
+      "summary": "TechCrunch reports on AI agents that began playing when left with nothing to do.",
+      "whyItMatters": "Curious agent-behavior anecdote; scope unclear from the title.",
+      "organization": "unknown"
+    },
+    {
+      "id": "34e9d01ea0b42266a418197346290782d976ba53",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "pytorch",
+        "conference"
+      ],
+      "summary": "PyTorch Foundation posts about its North America 2026 conference.",
+      "whyItMatters": "Conference news; check the schedule if you attend.",
+      "organization": "pytorch-foundation"
+    },
+    {
+      "id": "712bc0d815dcfe0f156cf4799b81b27859b97cc4",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "inference",
+        "serving",
+        "infrastructure"
+      ],
+      "summary": "MIT Technology Review piece on designing an AI serving harness that lasts.",
+      "whyItMatters": "Infrastructure planning perspective; likely sponsored content, so read accordingly.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c744e4ea5afb21a294221f598fac8b99def334a5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "copyright",
+        "scraping",
+        "meta"
+      ],
+      "summary": "The Verge reports legal experts saying Meta’s AI could still scrape news sites.",
+      "whyItMatters": "Relevant to publishers and anyone tracking crawler opt-out rules.",
+      "organization": "meta"
+    },
+    {
+      "id": "b3eae99609101714ce7f080793b1d0fe820f67b2",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "muse"
+      ],
+      "summary": "The Verge reports Meta has turned Muse sharing back on.",
+      "whyItMatters": "Product status update for Muse users.",
+      "organization": "meta"
+    },
+    {
+      "id": "70399cbe269f8443848a427f3b70112c1e9a894a",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "community",
+        "diversity"
+      ],
+      "summary": "WIRED profile of a social society helping women join the AI boom.",
+      "whyItMatters": "Community story with limited technical impact.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c6b16d28af7e721a061519609de05c2b5ec31801",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Commentary on a possible combination of SpaceX and Tesla.",
+      "whyItMatters": "Off-topic for AI practitioners.",
+      "organization": "tesla"
+    },
+    {
+      "id": "9c6552bd6dc00a41bbce42970a2a577332cb2e4b",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "music"
+      ],
+      "summary": "Link post to a music video by DE STAAT.",
+      "whyItMatters": "Not AI related.",
+      "organization": "unknown"
+    },
+    {
+      "id": "fe52d49759b6b59c7f4c2b795faadc90d117c4da",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-security",
+        "credentials",
+        "authentication"
+      ],
+      "summary": "TechCrunch reports 1Password launching a way for AI agents to log in for users without seeing their passwords.",
+      "whyItMatters": "Addresses a real blocker for agents that need account access.",
+      "organization": "1password"
+    },
+    {
+      "id": "5d204276414bcfa2eeff25d54ee5e294f63a8c5c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "decision-models",
+        "api"
+      ],
+      "summary": "TechCrunch reports OpenAI making a competitor to Jev widely available amid competition among decision models.",
+      "whyItMatters": "Relates to the Decisions API; verify details with OpenAI’s documentation.",
+      "organization": "openai"
+    },
+    {
+      "id": "73123e6ebe0ba203d5f3b032f92150d4c8156cbd",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "discord",
+        "markdown"
+      ],
+      "summary": "The Verge notes Discord now renders Markdown previews correctly.",
+      "whyItMatters": "Minor product fix.",
+      "organization": "discord"
+    },
+    {
+      "id": "ab838d8755d52b2368ff034d3d2aa6168c9f2bf3",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "infrastructure",
+        "scalable-ai"
+      ],
+      "summary": "MIT Technology Review piece on foundations of scalable AI.",
+      "whyItMatters": "Likely sponsored overview; skim only.",
+      "organization": "unknown"
+    },
+    {
+      "id": "fbf7f0c8cfce028e9f1e99443abd5198590a3e92",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "security",
+        "malware-analysis",
+        "openai"
+      ],
+      "summary": "Tech Scoop describes SentinelOne reducing malware reverse engineering from weeks to eight hours with OpenAI tools.",
+      "whyItMatters": "Vendor claim; shows interest in LLM-assisted reverse engineering.",
+      "organization": "sentinelone"
+    },
+    {
+      "id": "8bd29f6029cca0852afbb66f04025289b3e203c0",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "meta",
+        "muse",
+        "agents"
+      ],
+      "summary": "The Verge columnist writes on Meta’s vision of personal Muse assistants talking to each other.",
+      "whyItMatters": "Hints at agent-to-agent assistants; mostly an opinion on strategy.",
+      "organization": "meta"
+    },
+    {
+      "id": "f29afd1567254e522e6c18a4627730e71ee39ae7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "agent-skills",
+        "open-standards"
+      ],
+      "summary": "Simon Willison notes that Agent Skills are being donated to the Agentic AI Foundation.",
+      "whyItMatters": "Governance move that may stabilize the Agent Skills format for tool builders.",
+      "organization": "agentic-ai-foundation"
+    },
+    {
+      "id": "7bc6770bad9512d6db9bd4ec468823c3db6b9a27",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "healthcare",
+        "diagnosis",
+        "microsoft"
+      ],
+      "summary": "The Verge reports Microsoft claiming its AI tool diagnoses conditions better than doctors.",
+      "whyItMatters": "Vendor claim; look for independent validation.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "be1a4eb11a23405b3633342678572bcf5977278c",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "pytorch",
+        "community"
+      ],
+      "summary": "PyTorch Foundation introduces its 2026 ambassadors.",
+      "whyItMatters": "Community announcement.",
+      "organization": "pytorch-foundation"
+    },
+    {
+      "id": "a4d3526d3b30867d7828df67e2309e1d134addd8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "compute",
+        "gpu",
+        "infrastructure"
+      ],
+      "summary": "Latent Space interview with Modal’s CEO on why AI compute is organized in rectangles.",
+      "whyItMatters": "Infrastructure perspective useful for capacity planning.",
+      "organization": "modal"
+    },
+    {
+      "id": "18837672148b90d3802560c92551b2a0a71a4f4e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "hacking",
+        "games"
+      ],
+      "summary": "The Verge reports a Switch 2 hack using an old game and AI.",
+      "whyItMatters": "A reminder AI is aiding console exploitation.",
+      "organization": "nintendo"
+    },
+    {
+      "id": "8326b99591511921d07e6c2691406ad3a1fa6949",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "kindle",
+        "audiobooks",
+        "amazon"
+      ],
+      "summary": "ZDNET reports Kindle Unlimited becoming Kindle+, with AI audiobooks among two key changes.",
+      "whyItMatters": "Consumer product change; limited developer relevance.",
+      "organization": "amazon"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "6372ebaa66c806f54d26e33177513ab47bc13129",
+      "reason": "funding with no product substance"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-3dc6fc6450",
+      "label": "Canva debuts image model"
+    },
+    {
+      "id": "c-356ae22471",
+      "label": "Anthropic Claude Duet and API"
+    }
+  ],
+  "fetches": []
+}

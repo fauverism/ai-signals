@@ -1,0 +1,550 @@
+{
+  "date": "2026-10-23",
+  "batch": 2,
+  "items": [
+    {
+      "id": "7ab723f00988a26c93f86da6e34228befe1e1efe",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "embodied-ai",
+        "representation"
+      ],
+      "summary": "Paper proposing sensorimotor alignment as a proxy for how well embodied policies will perform.",
+      "whyItMatters": "A cheaper predictor of policy success could speed robotics evaluation.",
+      "organization": "academic"
+    },
+    {
+      "id": "8458c9fc18bc278ca51722a0fd74fadf243da1ad",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "radiology",
+        "training"
+      ],
+      "summary": "Introduces an asymmetric diagnostic loss for training radiology report generation.",
+      "whyItMatters": "Niche medical result; clinical validation is not shown by the title.",
+      "organization": "academic"
+    },
+    {
+      "id": "ba6fa07d677a822106bce5984f77463673ff3072",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "enterprise",
+        "chatgpt",
+        "openai"
+      ],
+      "summary": "OpenAI announces that Uber is rolling out ChatGPT Work to its whole workforce.",
+      "whyItMatters": "Signals large-company adoption of agentic workplace tools; useful for procurement benchmarks.",
+      "organization": "openai"
+    },
+    {
+      "id": "2e9a4426b96429c2f62d5a09c9d1b4912bd19b65",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "enterprise",
+        "chatgpt",
+        "adoption"
+      ],
+      "summary": "TechCrunch reports Uber is putting its roughly 30,000 employees on ChatGPT Work.",
+      "whyItMatters": "Same adoption story, with a headcount figure from press coverage.",
+      "organization": "openai"
+    },
+    {
+      "id": "01ebc0d6119fa3381efd3eece1ff3a72c1c4fdeb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-diffusion",
+        "camera-control"
+      ],
+      "summary": "Video diffusion paper aimed at better alignment with camera trajectories.",
+      "whyItMatters": "Camera control is a recurring need in video generation.",
+      "organization": "academic"
+    },
+    {
+      "id": "025467c48ebb44a3d0b526e88eabb2b14e40b7df",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "benchmarks",
+        "vision-language",
+        "biology"
+      ],
+      "summary": "Benchmark testing vision-language models on microscopic cell tracking.",
+      "whyItMatters": "Shows where general VLMs may fall short in lab imaging.",
+      "organization": "academic"
+    },
+    {
+      "id": "039193dd57c49a3f4ec66fc544a664569aeb4ad7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "game-rendering",
+        "generative-models",
+        "benchmarks"
+      ],
+      "summary": "Entity-consistent generative rendering across multiple games, with an entity-level benchmark.",
+      "whyItMatters": "Early work on neural game rendering.",
+      "organization": "academic"
+    },
+    {
+      "id": "0868762a7ee5b0edb9db827fb966e47a5c673c1c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "aged-care",
+        "human-robot-interaction"
+      ],
+      "summary": "Paper on challenges of human-robot interaction in private and residential aged care.",
+      "whyItMatters": "Context for teams building care robots.",
+      "organization": "academic"
+    },
+    {
+      "id": "0a018f699b8a892a57b6919d5b2b8f3cbcdb0f4e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "world-models",
+        "manipulation"
+      ],
+      "summary": "Proposes making physical state explicit in world models for dexterous manipulation.",
+      "whyItMatters": "Relevant for robot-learning teams.",
+      "organization": "academic"
+    },
+    {
+      "id": "0cbc4ad32c063da5166fa6b3b1407980f4639874",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "datasets",
+        "eye-tracking",
+        "art"
+      ],
+      "summary": "Eye-tracking dataset and benchmark for visual attention on paintings.",
+      "whyItMatters": "Niche dataset for attention-modeling research.",
+      "organization": "academic"
+    },
+    {
+      "id": "10c6fc271aea418c09f55e8ce328aed8951db3fd",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-language",
+        "representation-alignment"
+      ],
+      "summary": "Vision-language alignment approach using a rank transformation.",
+      "whyItMatters": "Incremental VLM alignment idea.",
+      "organization": "academic"
+    },
+    {
+      "id": "11f3653d7930713ba2340a58d7c794c185b684ce",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "classification"
+      ],
+      "summary": "Attention-guided classification and tumor localization for a rare liver cancer subtype.",
+      "whyItMatters": "Narrow clinical imaging study.",
+      "organization": "academic"
+    },
+    {
+      "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "safety",
+        "partnerships",
+        "poland"
+      ],
+      "summary": "OpenAI announces a partnership with Poland’s NASK on AI safety and security.",
+      "whyItMatters": "Another sign of labs working directly with national research bodies.",
+      "organization": "openai"
+    },
+    {
+      "id": "95eb6975ad2450494f977e3b3b02ec023bf4f2c5",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "reinforcement-learning",
+        "agents",
+        "databases"
+      ],
+      "summary": "Hugging Face post on converting database grading into RL rewards for post-training agents with ThinkingBox.",
+      "whyItMatters": "A concrete recipe for reward design when training agents on database tasks.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "27825e300358401234fc8ca55cc275b9d4171e9a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "api",
+        "openai",
+        "developer-tools"
+      ],
+      "summary": "OpenAI post about building more responsive apps using a Decisions API.",
+      "whyItMatters": "Check whether the Decisions API changes your latency or UX design; details are in the post.",
+      "organization": "openai"
+    },
+    {
+      "id": "ad44bdcab03f890e654ce22d13247275b068fb1c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "amazon-polly",
+        "tts",
+        "aws"
+      ],
+      "summary": "AWS announces a significant upgrade to Amazon Polly’s Generative engine.",
+      "whyItMatters": "If you use Polly for voice, test the new engine for quality and cost.",
+      "organization": "aws"
+    },
+    {
+      "id": "762687ac4e575ecb11ef829473d2c9051aabd6bd",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "bedrock",
+        "knowledge-bases",
+        "case-study"
+      ],
+      "summary": "AWS case study on IskayPet unifying corporate knowledge with Bedrock Managed Knowledge Bases.",
+      "whyItMatters": "A reference architecture for enterprise retrieval on Bedrock.",
+      "organization": "aws"
+    },
+    {
+      "id": "418ae447f600fa7ef5c5a145008f7cca2b1dbb10",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "sagemaker",
+        "fine-tuning",
+        "aws"
+      ],
+      "summary": "AWS announces new ways to customize models in SageMaker AI without managing GPU infrastructure.",
+      "whyItMatters": "Lowers the ops burden of fine-tuning if you already use SageMaker.",
+      "organization": "aws"
+    },
+    {
+      "id": "f5b85121619c1f6ef3813440c56297bec362c889",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "sagemaker",
+        "training",
+        "aws"
+      ],
+      "summary": "AWS guide to writing custom training loops using SageMaker training session APIs without managing GPUs.",
+      "whyItMatters": "Lets you keep your own training code while offloading infrastructure.",
+      "organization": "aws"
+    },
+    {
+      "id": "1fc68e0e835ed7725589435641bc93c36e69ee7b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "hipaa",
+        "amazon-quick",
+        "compliance"
+      ],
+      "summary": "AWS post on deploying AI in a HIPAA-eligible setup with Amazon Quick.",
+      "whyItMatters": "Relevant to healthcare teams assessing compliance of AWS assistants.",
+      "organization": "aws"
+    },
+    {
+      "id": "2e13c1358e1008b3ae46be2e5861f3b70a212be3",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "tts",
+        "kokoro",
+        "sagemaker"
+      ],
+      "summary": "AWS walkthrough of streaming low-latency speech from agents with Kokoro TTS on SageMaker AI.",
+      "whyItMatters": "A working pattern for voice-agent output on managed infrastructure.",
+      "organization": "aws"
+    },
+    {
+      "id": "40fef03a112b3345021c7ba4bc4c26e90f4b45da",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "gpu",
+        "python",
+        "performance"
+      ],
+      "summary": "NVIDIA tutorial on reading data into GPU memory from Python with GPUDirect Storage.",
+      "whyItMatters": "Can remove a data-loading bottleneck for GPU-bound pipelines.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "251516e27a00f0ed7a4b5cb11b9631b7b6bb53ff",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "sagemaker",
+        "autoscaling",
+        "tts"
+      ],
+      "summary": "AWS guidance on choosing auto scaling targets for TTS workloads on SageMaker AI.",
+      "whyItMatters": "Practical tuning advice for inference cost and latency.",
+      "organization": "aws"
+    },
+    {
+      "id": "01f69b83a34ae371dd5f4dbd94866a0c5a1ce5dc",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "strands-agents",
+        "case-study"
+      ],
+      "summary": "AWS case study of Rescale building an AI triage agent with Strands Agents.",
+      "whyItMatters": "An example of an agent in production on the Strands framework.",
+      "organization": "aws"
+    },
+    {
+      "id": "eaa0ebff7daf626e894547955a582698a71c5f3d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "geospatial",
+        "embeddings",
+        "open-source"
+      ],
+      "summary": "Hugging Face post announcing OlmoEarth v1.3 embeddings for global geospatial data.",
+      "whyItMatters": "Open Earth embeddings could save building your own geospatial features.",
+      "organization": "ai2"
+    },
+    {
+      "id": "676b58ceeee7bff886ee60a5877b9531bcfa0546",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "inference",
+        "nvidia",
+        "dgx-spark"
+      ],
+      "summary": "NVIDIA post on running very large models across eight DGX Spark nodes.",
+      "whyItMatters": "Shows what desktop-class clusters can serve locally.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "ccc3219ff3a4671440d43612d331ba2372d2fd7d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "data-visualization",
+        "programming-languages"
+      ],
+      "summary": "Microsoft Research introduces Flint-interactive, a language for building interactive data visualizations.",
+      "whyItMatters": "Worth a look if you build charting tools or LLM-generated visualizations.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "655df0fb22ace8918dccb9cedab8a4d53b00e1dc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "geospatial",
+        "forests",
+        "climate"
+      ],
+      "summary": "Google DeepMind presents a map of the world’s forest types that goes beyond tree-cover measurements.",
+      "whyItMatters": "Better forest-type data helps climate and land-use applications.",
+      "organization": "google-deepmind"
+    },
+    {
+      "id": "5d118fadbe793ddd15d5992558c943b8fbb4801a",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "time-series",
+        "granite",
+        "forecasting"
+      ],
+      "summary": "Hugging Face post on ensembling IBM Granite time-series models for forecasting.",
+      "whyItMatters": "A practical way to try Granite time-series models together.",
+      "organization": "ibm"
+    },
+    {
+      "id": "63c31ca523f91ccfb067ba69d79f874951382164",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "careers",
+        "forward-deployed-engineering"
+      ],
+      "summary": "OpenAI explains what the forward-deployed engineer role means at the company.",
+      "whyItMatters": "Mostly useful for job seekers and customers scoping engagements.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-fff5c3e6ac",
+      "label": "Uber rolls out ChatGPT Work"
+    }
+  ],
+  "fetches": []
+}

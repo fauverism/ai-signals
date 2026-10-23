@@ -1,0 +1,551 @@
+{
+  "date": "2026-10-23",
+  "batch": 1,
+  "items": [
+    {
+      "id": "542a3163e36ffa277747758516b5fbdc7721878a",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "metadata",
+        "llm-evaluation",
+        "grounding"
+      ],
+      "summary": "Paper testing whether extra field-level metadata helps or hurts how well LLM-written museum descriptions stay grounded in the source record.",
+      "whyItMatters": "Useful if you generate descriptions from structured records: more context is not automatically safer.",
+      "organization": "academic"
+    },
+    {
+      "id": "0990d56886f7f98f8ead9f38f7fbeeb12dae5a7b",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "lora",
+        "evaluation",
+        "benchmarks"
+      ],
+      "summary": "Preprint asking what open-book scores actually measure when document-level LoRA adapters are evaluated.",
+      "whyItMatters": "Check what your adapter benchmarks reward before trusting a gain.",
+      "organization": "academic"
+    },
+    {
+      "id": "0e35e04e98f44e9215a989b113dfcad3c9e724fb",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-education",
+        "llm-evaluation",
+        "multimodal"
+      ],
+      "summary": "Study of open language models attempting the Spanish residency matching exam, looking at uncertainty, reasoning and image use.",
+      "whyItMatters": "A regional data point on how open models handle clinical exam questions with images.",
+      "organization": "academic"
+    },
+    {
+      "id": "2c1bdf5ae58f5b414ed9d3bbe2f962fdca6dd2c5",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "safety",
+        "probes",
+        "scaling-laws"
+      ],
+      "summary": "Preprint on how safety probes scale, listed across three arXiv categories and so showing up in several feeds.",
+      "whyItMatters": "If you rely on probes for monitoring, scaling behavior affects how much compute to spend.",
+      "organization": "academic"
+    },
+    {
+      "id": "3e5e0e76c8192bd55e75aaace746e08225f33ae5",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "forecasting",
+        "computer-vision",
+        "solar"
+      ],
+      "summary": "Paper on forecasting short-term solar irradiance from sky images by decomposing the forecast space.",
+      "whyItMatters": "Niche, but relevant to energy-forecasting teams using camera data.",
+      "organization": "academic"
+    },
+    {
+      "id": "42793d24c2a64479d99f46714775fe4f7d759a53",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "llm-as-a-judge",
+        "multilingual",
+        "evaluation"
+      ],
+      "summary": "Multilingual study showing that how prompting strategies perform depends on which model acts as the judge.",
+      "whyItMatters": "Judge choice can flip your prompt comparisons, so test more than one judge.",
+      "organization": "academic"
+    },
+    {
+      "id": "507da8615ffd451a9d8aab426a06812644a77943",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "alignment",
+        "reasoning",
+        "self-reward"
+      ],
+      "summary": "Preprint finding that self-rewarded moral argument training makes models more decisive yet easier to sway.",
+      "whyItMatters": "Self-reward loops may trade robustness for confidence; worth testing for pliability.",
+      "organization": "academic"
+    },
+    {
+      "id": "518f3a911a015b8beb0cd719188fd0d37fcbb80a",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "vision-transformer",
+        "solar"
+      ],
+      "summary": "Paper applying vision transformers to estimate irradiance when sky-image data is scarce.",
+      "whyItMatters": "Shows transformers can work in low-data sensing setups.",
+      "organization": "academic"
+    },
+    {
+      "id": "58f7c4f6daec076ab75bb413bfe5ed47439020b1",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "sparse-autoencoders",
+        "evaluation"
+      ],
+      "summary": "Proposes an atomic-unit framework for judging sparse autoencoders and reports hidden polysemanticity and redundancy.",
+      "whyItMatters": "If you use SAEs, current evaluations may overstate how clean the features are.",
+      "organization": "academic"
+    },
+    {
+      "id": "3fa5af648c859fc2048695026ca8c7292df41ade",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "chain-of-thought",
+        "attention",
+        "reasoning"
+      ],
+      "summary": "Proposes isolating context to reduce attention leakage during chain-of-thought reasoning.",
+      "whyItMatters": "A possible reasoning-quality fix to try on long, cluttered prompts.",
+      "organization": "academic"
+    },
+    {
+      "id": "53642e8a572b8909e6a21ca44f308f20a38defbc",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "tool-use",
+        "small-models",
+        "agents"
+      ],
+      "summary": "Work on training small language models to pick tools in ways that transfer to new toolsets.",
+      "whyItMatters": "Small tool-selection models could cut agent cost and latency.",
+      "organization": "academic"
+    },
+    {
+      "id": "063b41ee36c30778caee3a8b7298808f76a671e5",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "model-routing",
+        "evaluation"
+      ],
+      "summary": "Argues that making model performance predictable is not optimal and draws consequences for routing between models.",
+      "whyItMatters": "Matters if you route requests across models to balance cost and quality.",
+      "organization": "academic"
+    },
+    {
+      "id": "3bd5a37c0b3b932c55dfb4e13d3ac04f43c489a0",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "quantization",
+        "training",
+        "efficiency"
+      ],
+      "summary": "Introduces quantization-aware training that uses spherical lattice vector quantization.",
+      "whyItMatters": "Another route to smaller models; check for code before adopting.",
+      "organization": "academic"
+    },
+    {
+      "id": "292e2fb5ee0540a365eab99193dd3c555dd12e93",
+      "scores": {
+        "importance": 2,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "knowledge-graphs",
+        "survey-generation"
+      ],
+      "summary": "Method for generating academic surveys using knowledge graphs of methods and entities.",
+      "whyItMatters": "Early research on automated literature surveys; expect rough edges.",
+      "organization": "academic"
+    },
+    {
+      "id": "06b7d816cdf1299b9a229d7550bcab02ea90ed5a",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "verification",
+        "theory"
+      ],
+      "summary": "Paper on limits of verifying agent behavior after the fact from offline logs.",
+      "whyItMatters": "Post-hoc audits of agents may not catch what you hope; plan runtime checks too.",
+      "organization": "academic"
+    },
+    {
+      "id": "4ff47ad1abbea50660791e1558d5c574a43f47b5",
+      "scores": {
+        "importance": 2,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "neuroscience",
+        "3d",
+        "fmri"
+      ],
+      "summary": "Paper reconstructing 3D room layouts from fMRI recordings and camera trajectories.",
+      "whyItMatters": "Interesting research direction with no near-term practitioner impact.",
+      "organization": "academic"
+    },
+    {
+      "id": "0e4e7525bb91df11a3c81227cb86ca5e8eb1688f",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "distillation",
+        "post-training",
+        "reinforcement-learning"
+      ],
+      "summary": "Paper on lowering reference sensitivity in on-policy self-distillation using several views from one teacher.",
+      "whyItMatters": "Relevant if you post-train with self-distillation and see reference-dependent results.",
+      "organization": "academic"
+    },
+    {
+      "id": "12ca5cb4724aff32a35296f231b6625bca047e50",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "egocentric",
+        "3d-hands"
+      ],
+      "summary": "Method for reconstructing 3D hands from single-camera egocentric video.",
+      "whyItMatters": "Niche for AR and robotics teams working with first-person footage.",
+      "organization": "academic"
+    },
+    {
+      "id": "20311f3738bbf4a43f7357b2d9ad923b88332992",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "benchmarks",
+        "deep-research",
+        "video"
+      ],
+      "summary": "Benchmark for agents that produce deep-research reports centered on video sources.",
+      "whyItMatters": "Gives a way to test research agents beyond text.",
+      "organization": "academic"
+    },
+    {
+      "id": "2267669e64aab28127542f13d2c648c8329bb58b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "arabic",
+        "continual-pretraining",
+        "data-curation"
+      ],
+      "summary": "Describes a data-centric continual pretraining approach to add knowledge to Arabic LLMs efficiently.",
+      "whyItMatters": "A recipe to consider for adapting models to lower-resource languages.",
+      "organization": "academic"
+    },
+    {
+      "id": "2ed709f395c3e770accb8a35146653cd843bf344",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "remote-sensing",
+        "vision-language",
+        "survey"
+      ],
+      "summary": "Survey of data-driven vision-language models in remote sensing.",
+      "whyItMatters": "Good orientation reading if you are entering the field.",
+      "organization": "academic"
+    },
+    {
+      "id": "3af00c1a9fe0af9aaf6dfd180140e990a645b302",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "jepa",
+        "representation-learning"
+      ],
+      "summary": "Paper extending JEPA-style latent world models toward relational grounding.",
+      "whyItMatters": "Tracks progress on world models beyond pixel prediction.",
+      "organization": "academic"
+    },
+    {
+      "id": "3c745c9fba58f6c9bb575586d70fbf3a80ba4783",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "security",
+        "adversarial-attacks",
+        "diffusion-language-models"
+      ],
+      "summary": "Uses diffusion language models to craft black-box attacks that account for perplexity.",
+      "whyItMatters": "Perplexity-based filters may be less protective than assumed.",
+      "organization": "academic"
+    },
+    {
+      "id": "457dc210cb97e7ae3ca0fce88ecbe05d274c070e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "document-ai",
+        "survey",
+        "vqa"
+      ],
+      "summary": "Survey organizing work on question answering over long visual documents.",
+      "whyItMatters": "A map of the long-document VQA literature for newcomers.",
+      "organization": "academic"
+    },
+    {
+      "id": "4bd7afbc721f38851e017c8725f4ad1bd7348f6b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "diffusion",
+        "inverse-problems"
+      ],
+      "summary": "Paper proposing a prior-consistent sampling variant for ambiguous nonlinear inverse problems.",
+      "whyItMatters": "Narrow technical result for imaging and inverse-problem researchers.",
+      "organization": "academic"
+    },
+    {
+      "id": "698aeae349015e1567c233d9585dc2ce7f454323",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "copyright",
+        "text-to-image",
+        "auditing"
+      ],
+      "summary": "Proposes a simple low-frequency trace method to audit whether a text-to-image model used a given dataset.",
+      "whyItMatters": "Offers one tool for checking training-data use, relevant to copyright disputes.",
+      "organization": "academic"
+    },
+    {
+      "id": "6c5f11528d4e9d5b14963af3d1103f30137e9ca6",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "multimodal",
+        "alignment",
+        "optimal-transport"
+      ],
+      "summary": "Cross-modal alignment method using dynamic granularity discovery and optimal transport.",
+      "whyItMatters": "Incremental multimodal alignment work.",
+      "organization": "academic"
+    },
+    {
+      "id": "6fc9718d3feb9a4f37fe0f4e81b818a7adab4818",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "facial-expression"
+      ],
+      "summary": "State-space learning method for dynamic facial expression recognition.",
+      "whyItMatters": "Niche vision result; check data and ethics before use.",
+      "organization": "academic"
+    },
+    {
+      "id": "7413de41b8ff8844fd50fad28db4f7aab1c0c704",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "continual-learning",
+        "memory",
+        "language-models"
+      ],
+      "summary": "Describes writing new knowledge into a language model through its n-gram memory using only forward passes.",
+      "whyItMatters": "Hints at updating models without backprop; early and unproven at scale.",
+      "organization": "academic"
+    },
+    {
+      "id": "78a6325edd13a46fb810ad995de9f0b00fe867b8",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "tokenization",
+        "multi-token-prediction",
+        "reasoning"
+      ],
+      "summary": "Studies how multi-token prediction and alternative tokenization help learn multi-hop graph search at scale.",
+      "whyItMatters": "Suggests training objective choices affect latent multi-step reasoning.",
+      "organization": "academic"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-47a18364bf",
+      "label": "Safety probes across arXiv categories"
+    }
+  ],
+  "fetches": []
+}

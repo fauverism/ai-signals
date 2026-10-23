@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:10:50 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hugging Face’s New AI Biology Model Lets You Chat With DNA</title>
+      <link>https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/</link>
+      <guid isPermaLink="false">d524ded1295e7b8ba778538197b5e47a8fc1a7a2</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>WIRED reports a Hugging Face biology model that lets users chat with DNA.</description>
+    </item>
+    <item>
+      <title>[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
+      <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
+      <guid isPermaLink="false">dc028fea27bbb478762025a451f3125783f1687e</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>News</category>
+      <description>Latent Space AINews notes OpenAI’s Patch the Planet program as one of two parties to find the PHP2Shell vulnerabilities.</description>
+    </item>
+    <item>
+      <title>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</title>
+      <link>https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</link>
+      <guid isPermaLink="false">6e54c1bb1c355e79a139a9de4281a49d035ab2d6</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>News</category>
+      <description>WIRED reports hackers exploited the PHP flaws days before patches arrived.</description>
+    </item>
+    <item>
+      <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+      <guid isPermaLink="false">ba6fa07d677a822106bce5984f77463673ff3072</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>News</category>
+      <description>OpenAI announces that Uber is rolling out ChatGPT Work to its whole workforce.</description>
+    </item>
+    <item>
+      <title>Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes</title>
+      <link>https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/</link>
+      <guid isPermaLink="false">676b58ceeee7bff886ee60a5877b9531bcfa0546</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>NVIDIA post on running very large models across eight DGX Spark nodes.</description>
+    </item>
+    <item>
+      <title>LLMs are making formal software verification feasible at a much larger scale</title>
+      <link>https://www.anthropic.com/research/formal-verification</link>
+      <guid isPermaLink="false">4e9bfd07ae02849d8691fa6c59ed092354abcaf9</guid>
+      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
+      <category>News</category>
+      <description>Hacker News discussion of an article arguing that LLMs make formal software verification feasible at much larger scale.</description>
+    </item>
     <item>
       <title>OpenAI models are coming to Google Cloud</title>
       <link>https://openai.com/index/openai-models-google-cloud</link>
@@ -294,54 +342,6 @@
       <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
       <category>Tools &amp; Releases</category>
       <description>AWS announces Muse Spark Open availability in SageMaker JumpStart.</description>
-    </item>
-    <item>
-      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-      <guid isPermaLink="false">672ebf75c430cf70c5939989b244112c7eac909f</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face blog on HiRO-ACEv2, which simulates extreme weather at 3 km resolution at far lower cost.</description>
-    </item>
-    <item>
-      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
-      <guid isPermaLink="false">e422d5ed36814fbc0b7ef8ba7849d220df092706</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Eight US states have sued OpenAI, arguing ChatGPT is unsafe for children, as The Verge reports.</description>
-    </item>
-    <item>
-      <title>Anthropic warns small AI models could self-replicate through IoT devices</title>
-      <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</link>
-      <guid isPermaLink="false">339da82e2ea922e31ba57ecd3cb307799119db97</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Ars Technica reports Anthropic warning that small AI models could self-replicate through IoT devices.</description>
-    </item>
-    <item>
-      <title>Putting Earth AI to work: Geospatial agents for our planet&apos;s biggest challenges</title>
-      <link>https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/</link>
-      <guid isPermaLink="false">09a39f2629ebdd36a3f4e74dcb57ff50d8ebb4bd</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Google describes applying geospatial agents from its Earth AI work to large planetary problems.</description>
-    </item>
-    <item>
-      <title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
-      <link>https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/</link>
-      <guid isPermaLink="false">d0bcab019ed52470940af9243cb61b44be6ee2c0</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>WIRED reports AI models can be easily modified to assist terrorist and extremist activity.</description>
-    </item>
-    <item>
-      <title>OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/</link>
-      <guid isPermaLink="false">64950daaf518492b34ad3586b80f86c93cdb003f</guid>
-      <pubDate>Thu, 15 Oct 2026 10:11:13 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Ars Technica reports researchers found new OpenAI and Google image models are easy to trick into making nude images.</description>
     </item>
   </channel>
 </rss>

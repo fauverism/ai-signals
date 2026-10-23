@@ -1,0 +1,464 @@
+{
+  "date": "2026-10-23",
+  "batch": 4,
+  "items": [
+    {
+      "id": "6cf146c7e71fd559740effbf81f1397a2630fb5d",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison quotes Armin Ronacher; little context is available from the title alone.",
+      "whyItMatters": "Short pointer for those who follow the author.",
+      "organization": "unknown"
+    },
+    {
+      "id": "77ecbb38aac248fbe4edfd0ce05a61b75f3159fc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "distributed-systems",
+        "architecture"
+      ],
+      "summary": "ByteByteGo explainer on why distributed systems prefer independence over coordination.",
+      "whyItMatters": "Solid architecture refresher for people building AI backends.",
+      "organization": "unknown"
+    },
+    {
+      "id": "907f33e76a6e1da0e2a09b09114235e03fff7fb6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "rag",
+        "agentic-rag",
+        "evaluation"
+      ],
+      "summary": "Towards Data Science test of whether agentic RAG retrieves better evidence, run on 298 questions.",
+      "whyItMatters": "A small empirical check on a popular pattern before you adopt it.",
+      "organization": "unknown"
+    },
+    {
+      "id": "4bd296728911dcdf26e054b526f1718b65fcc3e9",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "coreweave",
+        "commentary"
+      ],
+      "summary": "Gary Marcus commentary on CoreWeave’s troubles.",
+      "whyItMatters": "Opinion on a company; no new technical facts implied.",
+      "organization": "coreweave"
+    },
+    {
+      "id": "01440c58175255e5a7f93bb63ef855b79f050d4f",
+      "scores": {
+        "importance": 7,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "vulnerability",
+        "php",
+        "security"
+      ],
+      "summary": "Ars Technica reports attackers exploited the PHP2Shell vulnerability four days before disclosure.",
+      "whyItMatters": "If you run PHP-based AI tooling or apps, patch and check logs.",
+      "organization": "php",
+      "trendReason": "Same vulnerability covered by three outlets here, so cross-source count understates it."
+    },
+    {
+      "id": "b8dd503aaf50f7ec9c4a2aafca7455f5aab6e51f",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "powertoys",
+        "utility"
+      ],
+      "summary": "ZDNET describes new mouse features in the latest PowerToys.",
+      "whyItMatters": "Not AI related.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "795d093af37b4d695f947abad38a960440d28e34",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "weekly-roundup",
+        "ai-news"
+      ],
+      "summary": "Zvi’s weekly roundup issue 191, focused on a growing wave of AI-assisted hacking.",
+      "whyItMatters": "Roundup that points to security themes.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c4f0d40ba70c1c719acfb167cf4c386525ba8e4f",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "security",
+        "ai-security",
+        "software-engineering"
+      ],
+      "summary": "The Pragmatic Engineer asks whether software security needs rethinking because of AI.",
+      "whyItMatters": "Useful frame as AI speeds both exploit discovery and defense.",
+      "organization": "unknown"
+    },
+    {
+      "id": "d15a17ff1fda8ddd0ac32bacb69b0b06c7c3c159",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "voice",
+        "startups"
+      ],
+      "summary": "Latent Space interview with Anekha Sokhal of Moshi.",
+      "whyItMatters": "Founder interview; relevant if you follow voice AI.",
+      "organization": "moshi"
+    },
+    {
+      "id": "c98f23b725c4be1d5e8b12a0b13bac76300a10d0",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "monitorability",
+        "policy",
+        "safety"
+      ],
+      "summary": "Alignment Forum post on monitorability evaluations and related policy proposals.",
+      "whyItMatters": "Feeds into how labs might be asked to evaluate oversight.",
+      "organization": "unknown"
+    },
+    {
+      "id": "4e49b8503af46513f1a57816776e58bba33a8aea",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "python",
+        "spectroscopy"
+      ],
+      "summary": "Tutorial on Raman spectra preprocessing and non-negative least squares in Python.",
+      "whyItMatters": "Tangential to AI; useful for spectroscopy workflows.",
+      "organization": "unknown"
+    },
+    {
+      "id": "f676e6aa236ea8595323dd05e3bed5539f608830",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "banking",
+        "agents",
+        "commentary"
+      ],
+      "summary": "Gary Marcus commentary claiming banks are being hit by AI agents.",
+      "whyItMatters": "Opinion; verify specifics before relying.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c8d49b4cc1da7c8ef59a83dca4f3e03ebf56e295",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "permissions",
+        "agent-safety"
+      ],
+      "summary": "Technically episode about better alternatives to skipping permissions in coding agents.",
+      "whyItMatters": "Practical guidance for running coding agents safely.",
+      "organization": "unknown"
+    },
+    {
+      "id": "bac3b1cc8940420e1a9615f2fb77fd76f1663d51",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "policy",
+        "engineers"
+      ],
+      "summary": "IEEE Spectrum argues engineers should engage with policymakers in Washington.",
+      "whyItMatters": "Civic advice rather than technical content.",
+      "organization": "ieee"
+    },
+    {
+      "id": "563d2800aea381b0d1ffb72ee2ccb6a6f17e0193",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "robots",
+        "consumer"
+      ],
+      "summary": "WIRED looks at Mori, a small robot mushroom that does little.",
+      "whyItMatters": "Novelty gadget.",
+      "organization": "unknown"
+    },
+    {
+      "id": "9cc497f236366cd4c4b609dc32234737601dd024",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "reasoning",
+        "chain-of-thought",
+        "faithfulness"
+      ],
+      "summary": "Towards Data Science experiment on what a reasoning model says when it follows a planted hint.",
+      "whyItMatters": "Gives a hands-on view of reasoning faithfulness.",
+      "organization": "unknown"
+    },
+    {
+      "id": "56b23b488f4cf625abdbddc0fb9146ab461508d0",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "post-training",
+        "self-distillation"
+      ],
+      "summary": "Towards Data Science explainer on whether on-policy self-distillation could change post-training.",
+      "whyItMatters": "An accessible overview of a hot training idea.",
+      "organization": "unknown"
+    },
+    {
+      "id": "3b1852bb0011105e362387a6fe4687522f819c3b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "context",
+        "enterprise-ai"
+      ],
+      "summary": "MIT Technology Review piece making the case for context-aware AI.",
+      "whyItMatters": "Likely sponsored; light on specifics.",
+      "organization": "unknown"
+    },
+    {
+      "id": "d524ded1295e7b8ba778538197b5e47a8fc1a7a2",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "biology",
+        "genomics",
+        "open-models"
+      ],
+      "summary": "WIRED reports a Hugging Face biology model that lets users chat with DNA.",
+      "whyItMatters": "New interface to genomic models; claims need validation.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "8cacaf29b137523800ee3d3ad52d2f1ef496d200",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "inference",
+        "storage",
+        "infrastructure"
+      ],
+      "summary": "MIT Technology Review piece on storage costs left behind by inference.",
+      "whyItMatters": "A cost angle for capacity planners.",
+      "organization": "unknown"
+    },
+    {
+      "id": "dc028fea27bbb478762025a451f3125783f1687e",
+      "scores": {
+        "importance": 7,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "vulnerability",
+        "php",
+        "openai"
+      ],
+      "summary": "Latent Space AINews notes OpenAI’s Patch the Planet program as one of two parties to find the PHP2Shell vulnerabilities.",
+      "whyItMatters": "Shows AI-assisted vulnerability discovery producing real findings.",
+      "organization": "php",
+      "trendReason": "Same vulnerability covered by three outlets here, so cross-source count understates it."
+    },
+    {
+      "id": "6e54c1bb1c355e79a139a9de4281a49d035ab2d6",
+      "scores": {
+        "importance": 7,
+        "trend": 3,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "vulnerability",
+        "php",
+        "security"
+      ],
+      "summary": "WIRED reports hackers exploited the PHP flaws days before patches arrived.",
+      "whyItMatters": "Patch quickly and assume exposure for unpatched servers.",
+      "organization": "php",
+      "trendReason": "Same vulnerability covered by three outlets here, so cross-source count understates it."
+    },
+    {
+      "id": "b0e8569471a0f2c72055a427cab67ef53abc44fe",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "open-source",
+        "spreadsheets"
+      ],
+      "summary": "ZDNET recommends GridCraft as an open-source spreadsheet for Linux.",
+      "whyItMatters": "Not AI related.",
+      "organization": "unknown"
+    },
+    {
+      "id": "37befcc0b6e7768d3f2f382a7a0dfa1b6e3ea783",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "pixel",
+        "maps"
+      ],
+      "summary": "ZDNET how-to on setting Waze as default on Pixel phones.",
+      "whyItMatters": "Not AI related.",
+      "organization": "unknown"
+    },
+    {
+      "id": "9411db60f1d2c75a31892fc74b60fce32e04e44b",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "politics",
+        "tax"
+      ],
+      "summary": "WIRED reports Zuckerberg will stay in California despite a billionaires’ tax measure.",
+      "whyItMatters": "Politics with no AI substance.",
+      "organization": "meta"
+    },
+    {
+      "id": "b509534b6934936665b4bbde1ac4ce93f3c89cfa",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "alignment",
+        "commentary"
+      ],
+      "summary": "Zvi post titled Misaligned!; the title gives little detail.",
+      "whyItMatters": "Commentary from a regular alignment-news writer.",
+      "organization": "unknown"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}
