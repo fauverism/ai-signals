@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:08:49 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Securing our frontier model training environment</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <guid isPermaLink="false">48e2274fdf2ba9fe48db533ddecc410e5cc41b05</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>OpenAI describes how it secures the environment used to train its frontier models.</description>
+    </item>
+    <item>
+      <title>OpenAI now trains its frontier AI models with no internet access</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
+      <guid isPermaLink="false">67972bfe49043d8d45b3a63c2912c88d62b50f4c</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>News</category>
+      <description>The Verge reports OpenAI trains its frontier models without internet access.</description>
+    </item>
+    <item>
+      <title>Introducing Kimi K3.1 Pro</title>
+      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+      <guid isPermaLink="false">6c51129e93f61d6bfd1eb8442e4c471f06be25fd</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Simon Willison&apos;s note on the release of Kimi K3.1 Pro.</description>
+    </item>
+    <item>
+      <title>PHP2Shell: Haven’t patched yet? Take these steps now to mitigate</title>
+      <link>https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/</link>
+      <guid isPermaLink="false">5316d14cfc395661c277ba3adc2b604444ad536d</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>News</category>
+      <description>ZDNET gives mitigation steps for the PHP2Shell vulnerability for unpatched systems.</description>
+    </item>
+    <item>
+      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+      <link>https://latent.space/p/ainews-kimi-31/</link>
+      <guid isPermaLink="false">c1ad71a16e1f5eab9c3e07cb6299112a1a597293</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>News</category>
+      <description>Latent Space roundup covering a Kimi 3.1 Pro open-weights release and a faster API tier.</description>
+    </item>
+    <item>
+      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+      <guid isPermaLink="false">6430909168b586858591a32fd2f7f0e213984c90</guid>
+      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post pointing to a lookup for checking whether a model runs on AWS Trainium.</description>
+    </item>
     <item>
       <title>Hugging Face’s New AI Biology Model Lets You Chat With DNA</title>
       <link>https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/</link>
@@ -294,54 +342,6 @@
       <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>ZDNET reports Anthropic will give third-party auditors employee-like access, which it calls an industry first.</description>
-    </item>
-    <item>
-      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
-      <guid isPermaLink="false">9d251ac6836a600d8fed2294d5c3f8928f6177ed</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face documents the open-weight release of Meta&apos;s Muse Spark, a multimodal mixture-of-experts model, with usage notes for developers.</description>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning</title>
-      <link>https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/</link>
-      <guid isPermaLink="false">b382a6d08a5fad47657b74a0396d7466baa1a1c5</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Nvidia&apos;s technical blog presents Nemotron 3.5 Super VL, a vision-language model aimed at specialized agents.</description>
-    </item>
-    <item>
-      <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
-      <guid isPermaLink="false">12f70f9144a8a1f106ce0facd34c0f8991c14e35</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Ars Technica reports the FTC is probing Anthropic and OpenAI, based on a report.</description>
-    </item>
-    <item>
-      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <guid isPermaLink="false">e925c3137a8af8ad4b86cdc573df0a8e88ba79b3</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>TechCrunch reports Anthropic is giving METR researchers employee-level access to its systems.</description>
-    </item>
-    <item>
-      <title>Welcome FLUX.3 Image Klein in Diffusers</title>
-      <link>https://huggingface.co/blog/flux-3</link>
-      <guid isPermaLink="false">3733c75a28bf26df988281155bac3e5cdfdea7ba</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face post on running FLUX.3 Image Klein in the Diffusers library.</description>
-    </item>
-    <item>
-      <title>Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/</link>
-      <guid isPermaLink="false">13e122947fcaa3ffca2c34949d01bb10907334f3</guid>
-      <pubDate>Fri, 16 Oct 2026 10:10:57 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>AWS announces Muse Spark Open availability in SageMaker JumpStart.</description>
     </item>
   </channel>
 </rss>

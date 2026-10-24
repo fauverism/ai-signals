@@ -1,0 +1,3282 @@
+[
+  {
+    "id": "c1ad71a16e1f5eab9c3e07cb6299112a1a597293",
+    "url": "https://latent.space/p/ainews-kimi-31/",
+    "canonicalUrl": "https://latent.space/p/ainews-kimi-31",
+    "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+    "source": "Latent Space",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "swyx .ai",
+    "publishedAt": "2026-10-24T07:18:29Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0277949bcda9e2faebdf1b90a977f3ddb7d80a50",
+    "url": "https://arxiv.org/abs/2610.30696",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30696",
+    "title": "Disentangling Robustness and Sycophancy in Multilingual LLMs",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Rhitabrat Pokharel, Ameeta Agrawal",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "029107f39cecad739278248b8346d1de706127fb",
+    "url": "https://arxiv.org/abs/2610.31062",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31062",
+    "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Arnon Mazza, Elad Levi",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "05668b6e6218e64593ebd3d3da1ec475645b1eac",
+    "url": "https://arxiv.org/abs/2610.31305",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31305",
+    "title": "Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Hongcan Guo, Yian Zhao, Feng Wang, Shen Nie, Guoqiang Wei, Yan Zeng, Hengshuang Zhao",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "082f43adc201b950eca2a5237101e00f9dd458aa",
+    "url": "https://arxiv.org/abs/2509.16444",
+    "canonicalUrl": "https://arxiv.org/abs/2509.16444",
+    "title": "Domain-Specific Constitutional AI: Enhancing Safety in LLM-Powered Mental Health Chatbots",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Chenhan Lyu, Yutong Song, Pengfei Zhang, Amir M. Rahmani",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0990d56886f7f98f8ead9f38f7fbeeb12dae5a7b",
+    "url": "https://arxiv.org/abs/2610.31017",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31017",
+    "title": "Mostly Reading: What Open-Book Scores Measure in Document-Level LoRA Adapters",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Martino M. L. Pulici, Cuong Xuan Chu, Evgeny Kharlamov, Volker Tresp",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0dcbc03c2c932715c09f4ed3f855c960cb48ee01",
+    "url": "https://arxiv.org/abs/2610.31107",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31107",
+    "title": "Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yiqi Wang, Zizhi Zeng, Jiaqi Zhang, Yiqun Duan, Mingkai Zheng, Taotao Cai",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0e35e04e98f44e9215a989b113dfcad3c9e724fb",
+    "url": "https://arxiv.org/abs/2610.31586",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31586",
+    "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Miguel Fernandez-de-Retana, Unai Zulaika, Ruben Sanchez-Corcuera, Aritz Bilbao-Jayo, Aitor Almeida",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0e4e7525bb91df11a3c81227cb86ca5e8eb1688f",
+    "url": "https://arxiv.org/abs/2610.30880",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30880",
+    "title": "One Teacher, Many Views: Reducing Reference Sensitivity in On-Policy Self-Distillation",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Khouloud Saadi, Di Wang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0f14f728a35adf57fc0672c7d2d44e82b9c64550",
+    "url": "https://arxiv.org/abs/2610.30533",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30533",
+    "title": "IFC-MCQ: Automatically Generating Multiple-Choice Benchmarks for Evaluating LLM Agents on IFC Data Retrieval",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Rabindra Lamsal, Sisi Zlatanova, Xuesong Shen",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "104375bd5f0ef892a03a2d53c53ee7898357b6a5",
+    "url": "https://arxiv.org/abs/2610.30664",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30664",
+    "title": "Compiling Autoregressive LLM Control into Policy-Exact Parallel Inference for Hierarchical RAG",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zehao Lin, Qianfeng Shen, Xixuan Hao, Shaobo Cui, Chunyu Li, Kai Chen, Bo Tang, Zhenjun Wang, Jin Yan, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "11ca1ce21569a130ebd142639810b7e898e52e67",
+    "url": "https://arxiv.org/abs/2610.30418",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30418",
+    "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Daniel Ruiz, Luca Luceri, Emilio Ferrara",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "12d1817baa9bdc23ca51bb67b7564dfd0ba980d3",
+    "url": "https://arxiv.org/abs/2610.30635",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30635",
+    "title": "What the Specification Did Not Say: Specification-Oracle Gaps in Test-Graded Coding-Agent Benchmarks",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Fei Ding",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "154f74cccfd3236de8d4c430c03d1fc262c8995e",
+    "url": "https://arxiv.org/abs/2610.30900",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30900",
+    "title": "Silicon Samples Match the Answers but Not the Respondents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yusuke Kumagae, Masahiro Kaneko",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "17344a4dd05c9529bb669a3272f066c15f50779d",
+    "url": "https://arxiv.org/abs/2610.30374",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30374",
+    "title": "Climbing the Ladder: Automating Data Pipelines and Reproducing Baselines in Low-Resource Settings",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Donato Meoli, Eryk Wdowiak",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "19437dbd6c10b596d1a895b8815d85da59852c4d",
+    "url": "https://arxiv.org/abs/2610.30162",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30162",
+    "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Shuo Cai, Yanggan Gu, Yuhang Liu, Su Lu, Yuanyi Wang, Yang Yu, Zhen Li, Zhitian Hou, Guanghao Zhu, Ming Li, Hongxia Yang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1ccdbbd15803e2fc8cd6780f40c9aa0dc34f58d8",
+    "url": "https://arxiv.org/abs/2610.30435",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30435",
+    "title": "Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Taewhoo Lee, Minju Song, Jungwoo Park, Chanwoong Yoon, Junha Jung, Hyeon Hwang, Sanghoon Lee, Minbyul Jeong, Jaewoo Kang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1f25ad55af66bb3660136e706911d0f59c5fabc6",
+    "url": "https://arxiv.org/abs/2610.31019",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31019",
+    "title": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yuning Bian, Lele Xu, Yifan Yuan, Xinyu Yin, Chengyan Zhan",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1faf133f2720e19008a7d2be6ff14a79fc0702f7",
+    "url": "https://arxiv.org/abs/2610.31202",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31202",
+    "title": "Predicting Music Valence and Arousal via Textual and Multimodal In-Context Learning in Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Chi-En Dai, Chih-Pin Tan, Yi-Hsuan Yang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "20311f3738bbf4a43f7357b2d9ad923b88332992",
+    "url": "https://arxiv.org/abs/2610.31158",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31158",
+    "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Jiahao Meng, Qize Yang, Yuxuan Wang, Yunfei Chu, Wensi Dai, Jin Xu, Yunhai Tong",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2267669e64aab28127542f13d2c648c8329bb58b",
+    "url": "https://arxiv.org/abs/2610.30344",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30344",
+    "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Houssam Eddine Boukhalfa, Mourad Bouache, Mourad Dahmane",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "25ceba74e627ce3dd6a48c0e5413d1138e970d1c",
+    "url": "https://arxiv.org/abs/2610.31259",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31259",
+    "title": "A Systematic Comparison of Search Space Complexity and Efficiency for Time-Synchronous End-to-End ASR Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Simon Berger, Larissa Kleppel, Ralf Schl\\\"uter",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "268e3f8b9097888c9797ec9457b27e5e0dc47131",
+    "url": "https://arxiv.org/abs/2610.31636",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31636",
+    "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Marek \\v{S}uppa, Ivan Vykopal, Jaroslav Kop\\v{c}an",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2ad477f30517670cab689d2e75a8f76c9e0bd80a",
+    "url": "https://arxiv.org/abs/2610.31470",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31470",
+    "title": "Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Kirill Borodin, Vasilii Kudryavtsev, Nikita Vasiliev, Grach Mkrtchian",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2c1bdf5ae58f5b414ed9d3bbe2f962fdca6dd2c5",
+    "url": "https://arxiv.org/abs/2610.30678",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30678",
+    "title": "Scaling Laws for Safety Probes",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yuchen Wu (University of Washington), Jerry Wei (Anthropic)",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2c5d8413c1a64b595ec9d099fc51f647abda2127",
+    "url": "https://arxiv.org/abs/2610.30676",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30676",
+    "title": "Spectral Smoothing and Spiking Perturbations Reconfigure Capability Profiles and Selective Task Performance in Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Qince Luan, Jianhui Xu, Yang Xu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2ccb150ec039c169860cebb2fc3d4ecd7a9428fb",
+    "url": "https://arxiv.org/abs/2610.31090",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31090",
+    "title": "What Pairwise Evaluation Misses: Reward Scores across Prompts",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mateusz Modrzejewski, Tomasz Radzikowski",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "30e5b41321150680901f764d35754be3e2ba206c",
+    "url": "https://arxiv.org/abs/2610.31314",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31314",
+    "title": "When LLMs Forget What They Believe: Characterizing State Integrity Collapse in Long-Horizon Dialogues",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yancheng Zhu, Yifan Yuan",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "32ed3737c9bdfef457c862ccec2837e0c4f3ca66",
+    "url": "https://arxiv.org/abs/2610.31256",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31256",
+    "title": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Tirana Noor Fatyanosa, Ummu Ditya Erliana, Mahendra Data, Muhammad Nurwegiono, Eleazar Tadeo Eman, Alham Fikri Aji",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3b0c375cc0bb4352935828a82c1652d636ac9802",
+    "url": "https://arxiv.org/abs/2610.30983",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30983",
+    "title": "A Reality Check of Inference-Time Context Augmentation Methods",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Haeun Yu, Geert Heyman, Pepa Atanasova, Isabelle Augenstein",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3b4aaa22e24ed035bc32407457847d16e0558551",
+    "url": "https://arxiv.org/abs/2610.30828",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30828",
+    "title": "TutorCaseBench: A Case-Grounded Benchmark for Evaluating LLM Tutors in Supporting Students with Challenging Behaviors",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yeon Su Park, Chanyoung Park, Tae Soo Kim, Seungju Kim, Hyunwoo Kim, Daho Jung, Jinsung Yoon, Juho Kim",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3bfb0da4b7b9fdd81a23908fb2d33bfa6bcbf241",
+    "url": "https://arxiv.org/abs/2610.31412",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31412",
+    "title": "SQuAT: Spherical Lattice Vector Quantization-Aware Training",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Sebastian Loeschcke, Ivan Koryakovskiy, Tycho F. A. van der Ouderaa, Riccardo Del Chiaro, Mart van Baalen, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3c745c9fba58f6c9bb575586d70fbf3a80ba4783",
+    "url": "https://arxiv.org/abs/2610.31558",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31558",
+    "title": "Diffusion Language Models for Perplexity-Aware Black-Box Attacks",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Ali Al-Lawati, Elsayed Eshra, Dongwon Lee, Suhang Wang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3ceeac66ca26862bcf20630defade48d09775012",
+    "url": "https://arxiv.org/abs/2610.31272",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31272",
+    "title": "Memory-Aware Reward Modeling: Learning Human Preferences for LLM Memory Use",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yijiang River Dong, Zexue He, Cheng Yu, Tiancheng Hu, Michael J Ryan, Jan Batzner, Zheng Hui, Shaolong Wu, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3d45211fe44bfff63011cc2e960d8efd80dc8ea4",
+    "url": "https://arxiv.org/abs/2610.30783",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30783",
+    "title": "MixJudge: Learning a Language-Queryable Critic for Vocal Mixing",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh, Yi-Hsuan Yang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3ec88492d243e143093441879f112384e524103f",
+    "url": "https://arxiv.org/abs/2610.31467",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31467",
+    "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Bayram Ayadi, Florian Geissler, Johanna Schmidhuber",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3eee469a77eeb032eb2081a0fb61f5de5c6c1980",
+    "url": "https://arxiv.org/abs/2610.30742",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30742",
+    "title": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Viet-Thanh Pham, Thuy-Trang Vu, Junae Kim, Rollin Omari, Dinh Phung, Gholamreza Haffari, Lizhen Qu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3f0b64ccf3bb0e6dc979b2102b836f770b6751ea",
+    "url": "https://arxiv.org/abs/2610.31116",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31116",
+    "title": "A Grammar of French Civil Cassation: A Ground-Level Dataset and Tool",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Avrile Floro, Tamara Dhorasoo, Nils Holzenberger, Thomas Le Goff, Tiphaine Viard, Maria Boritchev",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "41f054ebc69e08b1d64e5c4028b4d4d37608a42a",
+    "url": "https://arxiv.org/abs/2610.30193",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30193",
+    "title": "Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Peiyang Liu, Xi Wang, Di Liang, Youru Li, Zhi Cai, Wei Ye",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "422e714653acc7c55defbfbdbcba5bad1a02169b",
+    "url": "https://arxiv.org/abs/2610.30997",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30997",
+    "title": "Padding to k: A Minimum Count in the Schema Makes Open-Weight Models Pad Their Extraction Lists",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Abhishek Barali, Aayush Paudel",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "426a8df1b267258ab7dbad29be7e8d4d07700ddf",
+    "url": "https://arxiv.org/abs/2610.30763",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30763",
+    "title": "Abstract Priorities, Concrete Rewards: How Stated Preferences Relate to What People Reward in AI Responses",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zihan Chen, Lei Nico Zheng, Di Zhu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "42793d24c2a64479d99f46714775fe4f7d759a53",
+    "url": "https://arxiv.org/abs/2610.31172",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31172",
+    "title": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Asal Mehrabi, Mohammad Aliannejadi, Clemencia Siro",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "454928f07d28ade4f271f1ebf9013df8289da194",
+    "url": "https://arxiv.org/abs/2610.30161",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30161",
+    "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Krishanu Adhikary, Prashant Devadiga",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "457dc210cb97e7ae3ca0fce88ecbe05d274c070e",
+    "url": "https://arxiv.org/abs/2610.31385",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31385",
+    "title": "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yufei Tong, Guanjie Cheng, Tianle Wu, Leilei Zhang, Hang Zheng, Peihan Wu, Jianwei Yin, Shuiguang Deng",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "47138a6a6990193771523f4cd5467ed538b020b9",
+    "url": "https://arxiv.org/abs/2610.30682",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30682",
+    "title": "Direct cueing of word identity through word duration: evidence from Mandarin homophones",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Xiaomeng Zhu, Megan Niu, Jason Shaw, Kevin Tang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4a1fdae5cd4de53c1ee839bea70be042da148d36",
+    "url": "https://arxiv.org/abs/2610.30379",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30379",
+    "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Tengwei Song, Robert Hoehndorf",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4b5e3134ae14f69f6e945bc1b7277a17b5df7562",
+    "url": "https://arxiv.org/abs/2610.30296",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30296",
+    "title": "Measuring Research Progress and Linguistic Inclusion in Low-Resource Languages",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Atnafu Lambebo Tonja, Tadesse Destaw Belay, Jesujoba Oluwadara Alabi, Israel Abebe Azime, Benjamin Rosman, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4d1adf22b1b14905c7c04dfa444ecfce9a8e134e",
+    "url": "https://arxiv.org/abs/2610.30385",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30385",
+    "title": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Vasiliy Kudryavtsev, Kirill Borodin, Nikita Vasiliev, Mikhail Gorodnichev, Grach Mkrtchian",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "507da8615ffd451a9d8aab426a06812644a77943",
+    "url": "https://arxiv.org/abs/2610.30349",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30349",
+    "title": "Consistency Is Not Validity: Self-Rewarded Moral Argumentation Makes Language Models Decisive but Pliable",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Marius De Kuthy Meurers, Aaron Parisi, Bernd Bohnet",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "52e7416894ce73de7fcb4c061b5780ff86f973cb",
+    "url": "https://arxiv.org/abs/2610.30949",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30949",
+    "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "A. Jian Yang, An Huang, Bo Dan, Chen Mu, Chengran Yang, Chuan Shi, Feng Chang, Hongxin Li, Hongyuan Tao, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "53d3fd7735983464a574a0d4aa719943c53825c2",
+    "url": "https://arxiv.org/abs/2610.30504",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30504",
+    "title": "Rethinking the Evaluation of LLM Fact-Checkers",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Ayana Niwa, Miyu Yamada, Kouta Nakayama, Masahiro Kaneko, Hisami Suzuki, Satoshi Sekine",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "58af749cc0f67b4e94d16a8be36d2168f3d5ae11",
+    "url": "https://arxiv.org/abs/2610.31620",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31620",
+    "title": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Abderrahmane Issam, Irene E. Winther, Stefan L. Frank",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "58f7c4f6daec076ab75bb413bfe5ed47439020b1",
+    "url": "https://arxiv.org/abs/2610.30474",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30474",
+    "title": "Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Riteng Zhang, Xiaoqian Wang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5ea6eb13913a44bfb7cf4176963700a1b08919e5",
+    "url": "https://arxiv.org/abs/2610.30960",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30960",
+    "title": "Once a Tree, Always a Tree? Cross-lingual Transfer of Hierarchical Generalization in Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Shin Yamaguchi, Masaya Taniguchi, Tatsuki Kuribayashi, Taro Watanabe, Yoshinobu Kano",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "61708075e58388f43e23d71d438d1bd128fca7ce",
+    "url": "https://arxiv.org/abs/2610.31303",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31303",
+    "title": "The Value of Memory in Language Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zehao Lin, Erenkai Zhu, Helan Hu, Xixuan Hao, Chunyu Li, Kai Chen",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "62ca12dbb9908d0565390023f33ba8c89a9aca7d",
+    "url": "https://arxiv.org/abs/2610.30989",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30989",
+    "title": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Wenjie Zhang, Zhichao Shi, Xuhui Jiang, Xiaojun Wu, Cehao Yang, Chengjin Xu, Xiaoning Song",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "640d99ebe196b8545d6c28ce6e49db973cc63921",
+    "url": "https://arxiv.org/abs/2610.31646",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31646",
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Stephen Chung, Wenyu Du",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "673e5ce7b65b89f4e31acea3dc2cd974b80c4b1d",
+    "url": "https://arxiv.org/abs/2610.31148",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31148",
+    "title": "Prompt Sensitivity in Tool-Augmented Model Comparisons",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mateusz Modrzejewski, Tomasz Radzikowski",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6800df616608c0cee043c596413528afc102563c",
+    "url": "https://arxiv.org/abs/2610.31407",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31407",
+    "title": "Same Entity, Different Script: Diagnosing Cross-Script Entity Matching Failures in Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Athira Gopal, Patil Prathamesh Pravin, Ankush Kadu, Arpit Jain, Ashwanth Krishnan",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "68246c4e94eacf1f42e9bbba0a08e944c3b8dd15",
+    "url": "https://arxiv.org/abs/2610.30355",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30355",
+    "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Chenyi Tong, Ping Nie, Yu Zhang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6c5f11528d4e9d5b14963af3d1103f30137e9ca6",
+    "url": "https://arxiv.org/abs/2610.30912",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30912",
+    "title": "Hierarchical Fine-Grained Cross-Modal Alignment via Dynamic Granularity Discovery and Optimal Transport",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Pengfeng Song, Shaozhong Zhang, Pengfei Shao",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7413de41b8ff8844fd50fad28db4f7aab1c0c704",
+    "url": "https://arxiv.org/abs/2610.31125",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31125",
+    "title": "Delta N-gram: Forward-Only Continual Writing into a Language Model's Native N-gram Memory",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Hao Wu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "74f00c101dbd986b35f667b95111729f46d00b55",
+    "url": "https://arxiv.org/abs/2610.31415",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31415",
+    "title": "SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Fadel Thior, Ahmer Tabassum, Haania Siddiqui, Hanan Aldarmaki, Thamar Solorio",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "774536252a752938163505a02ed830365158d4ea",
+    "url": "https://arxiv.org/abs/2610.30885",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30885",
+    "title": "From Perpetrators' Digital Footprints to Behavioral Communities: An Ontology-Driven Framework for Bengali Cyberbullying Analysis--- FULL VERSION",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Md. Nesarul Hoque, Md Hanif Seddiqui, Miskatul Anwara, Rudra Pratap Deb Nath",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "78a6325edd13a46fb810ad995de9f0b00fe867b8",
+    "url": "https://arxiv.org/abs/2610.31439",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31439",
+    "title": "Multi-Token Prediction and Alternative Tokenization Improve Learning Latent Multi-Hop Graph Search at Scale",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Arvid Frydenlund, FuTe Wong, Katherine Lambert, Frank Rudzicz",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7912fb0e18f62cf6115830e852a1c9aedc246fb4",
+    "url": "https://arxiv.org/abs/2610.30412",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30412",
+    "title": "SIM-UT: A User Simulation based Evaluation Framework for Medical Triage Chatbots",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Deepali Mittal, Dheeraj Mundhra, Yulia Sidorova, Tersia de Kock, Oli Munns, Sofie S Meyer",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8027b1869b1fb3078a1f741dec1aac73891fdc81",
+    "url": "https://arxiv.org/abs/2610.31520",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31520",
+    "title": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Shihui Li, Mette Andersen, Martha Lewis",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "809aec55ffbc1da650e651ad14446dec2d949d8a",
+    "url": "https://arxiv.org/abs/2610.30882",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30882",
+    "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zhizhuo Kou, Sizai Hou, Long Chen, Jian Yang, Junyu Luo, Jingshu Peng, Wenkai Zhang, Sirui Han, Yike Guo",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8156d3cb7146e3d140054dd02f99a3ebc8dcd79d",
+    "url": "https://arxiv.org/abs/2610.31512",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31512",
+    "title": "Towards User Simulators That Stay On Task And Still Sound Natural",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mustafa Omer Gul, Philippe Laban, Tanya Goyal, Jennifer Neville",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "87cd99980afbf416fe493be446e54e59ec772810",
+    "url": "https://arxiv.org/abs/2610.30677",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30677",
+    "title": "WikiOriginQA: Automated Construction of a QA Dataset with Knowledge Origins for Analyzing Cultural Bias",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Kento Haneda, Yosuke Kishinami, Ryo Fujii, Keisuke Sakaguchi, Makoto Morishita",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "898477ce335cec66327b6dffa769bb1cd3d18441",
+    "url": "https://arxiv.org/abs/2610.30705",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30705",
+    "title": "ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yang Liu, Zhiqiang Yuan, Shu-Dong Huang, Jiancheng Lv, Liwei Yang, Qiwei Yan, Kailin Lv, Jinchao Zhang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8baf301aae99b6bb6e6039861d060c9bdc8b1648",
+    "url": "https://arxiv.org/abs/2610.30934",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30934",
+    "title": "Verbalizing Activation Differences with Natural Language Autoencoders",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Andrea Blasi N\\'u\\~nez, Gianluca Barmina, Federico Torrielli, Thiusius Rajeeth Savarimuthu, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8e3e0a6c95b5a6e9f8796afcad39ea6b5cb7e902",
+    "url": "https://arxiv.org/abs/2610.29217",
+    "canonicalUrl": "https://arxiv.org/abs/2610.29217",
+    "title": "When Multiple Choices Are Correct: Asymmetric Probability Allocation in Jev and Other Decision Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Rushab Munot",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "94ff50a706f57025c00f947681e9e5cfc7772ac5",
+    "url": "https://arxiv.org/abs/2610.31529",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31529",
+    "title": "An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Priyanka, Renaud Delbru, Souhail Bakkali, Micka\\\"el Coustaty, Antoine Doucet",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "98fc2abbb2d4293bc213731b2482dc830f7592f7",
+    "url": "https://arxiv.org/abs/2610.30158",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30158",
+    "title": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "John A. Aydin, Angelica Williams, Steven Dindl, Nathan Saunders, Kate Boyd, Vandana Srivastava, Biplav Srivastava",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "99bff30de7412b724cc4aa81140dfb6d440e23a8",
+    "url": "https://arxiv.org/abs/2610.30663",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30663",
+    "title": "Group Relative Policy Optimisation Improves Multilingual Speech Recognition in Low-Resource Languages",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Tim Wenjie Hu, Evelyn Nafula Ouma, Benjamin Akera, John A. Quinn",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "9d880bfc6844d21a6bda1d43ad2e5ee9d9ccc353",
+    "url": "https://arxiv.org/abs/2610.30168",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30168",
+    "title": "Finitely Verifiable Segmentation: Decidability for Every Tokenizer with a Finite-State Verifier",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Nicklas Nidh\\\"ogg",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "9edfab8c95ef14586f74edd10b05317f6be57423",
+    "url": "https://arxiv.org/abs/2610.31397",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31397",
+    "title": "Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mullosharaf K. Arabov, Svetlana S. Khaybullina",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a0ca7ac10968ec8e4fbe879ae183a678540a129f",
+    "url": "https://arxiv.org/abs/2610.30715",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30715",
+    "title": "Meaning Contracts: Local Semantic Geometry in Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Andr\\'es Daniel Godoy Ortiz",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a21b8651839056f1eb3e4dcf232f561acd3118b6",
+    "url": "https://arxiv.org/abs/2610.31606",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31606",
+    "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Miguel Mochizuki Silva, Samuel Ismael, Mateus C. Dias, Tha\\'is Gaud\\^encio, Yuri Malheiros, Barufaldi",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a2cee63433cbf6ab1bc272b65ff9eb7d52de82f3",
+    "url": "https://arxiv.org/abs/2610.30363",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30363",
+    "title": "Probing and Steering for Safety-Relevant Behaviours in Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Nimun Bajwa, Massimo Poesio",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ad15d96017e621538ca41e9bb7475a36a309bde5",
+    "url": "https://arxiv.org/abs/2610.31098",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31098",
+    "title": "RIFT: KV Cache Compression for Draft Models with Complementary Compressibility Training",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Dor Tsur, Maor Ashkenazi, Maximilian Golub, Peter Hicks, Yaniv Galron, Talor Abramovich, Yoav Miron, et al.",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b0eef4dc38a84c14992d279fd8fe0b2f67852a5d",
+    "url": "https://arxiv.org/abs/2610.31356",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31356",
+    "title": "CrisiLangs: A Multilingual Resource for Crisis Warning Generation",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Giacomo Gonella, Stefano Menini, Marco Guerini",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b210c37e4164043a782fd0429d470064941fef20",
+    "url": "https://arxiv.org/abs/2610.30557",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30557",
+    "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yebo Feng, Jingyang Dai, Liangrui Pan, Nelson Lau, Jiahua Xu, Yang Liu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b2e91d8fe958405286b944f01fe20be2826be2d3",
+    "url": "https://arxiv.org/abs/2610.30785",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30785",
+    "title": "Invisibilization as a Source of Probability Bias in Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Christian Arnold, Ernesto Calvo, Guadalupe Gonzalez, Sebasti\\'an Vallejo Vera, Tiago Ventura",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b4df059e827f3a2c25dc115c3baf23eed554b850",
+    "url": "https://arxiv.org/abs/2610.30933",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30933",
+    "title": "ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Rumei Li, Xunliang Cai",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b954e6e020880e81b442d26353f21d4afabbb05a",
+    "url": "https://arxiv.org/abs/2610.30947",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30947",
+    "title": "RetiJev: Fast and Source-Grounded Ophthalmic Decision Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Bo Liu, Lianyu Wang, Meng Wang, Ching-Yu Cheng, Huazhu Fu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ba2b4e17de65bc493af627390c91abcc18b977d6",
+    "url": "https://arxiv.org/abs/2610.30518",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30518",
+    "title": "Protegrity-PII Technical Report",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Hardeep Bassi, Hui Ma, Lu\\'is Seabra, Koowum Joshi, Daniel Pereira, Averell Gatton",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bba33fda428e9e86df53c2db518a1aaa2bf294e7",
+    "url": "https://arxiv.org/abs/2610.30690",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30690",
+    "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Chenhan Lyu, Kit Wislocki, Sarah Elizabeth Stoeckl, Maitreyi Sinha, Amir Rahmani",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bd9322ce98ccff3418395c9424ebbb99055388c6",
+    "url": "https://arxiv.org/abs/2610.31047",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31047",
+    "title": "Harm Is Behavioural, Moderation Is Lexical: How Language and Culture Decide Whom Automated Safety Systems Protect and Whom They Silence",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Gabriel Lars Sabadin, Dr Nicola Harding, Sarah Kingston",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c261448e9fc017383fa970a39c218d95871b7f18",
+    "url": "https://arxiv.org/abs/2610.31277",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31277",
+    "title": "CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Shmuel Amar, Benjamin Lieber, Ori Shapira, Debanjana Kar, Sebastian Maximilian Dennerlein, Yufang Hou, Ido Dagan",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c5ddba7b7224256b18973be5e7e06aa558416269",
+    "url": "https://arxiv.org/abs/2610.30751",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30751",
+    "title": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Simiao Ren, Xingyu Shen, Tommy Duong, Tsang Ng, Ankit Raj",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c6dee0bd43ce40e6afe0a5bb5372da0b53bc7fd7",
+    "url": "https://arxiv.org/abs/2610.30612",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30612",
+    "title": "The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Aaditya Chauhan, Arun Agarwal",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c85dc4c0077abf205254c78e22ddfa397394ebd9",
+    "url": "https://arxiv.org/abs/2610.31199",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31199",
+    "title": "Investigating Multi-Cultural Value Selection Biases in LLMs",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Siddhesh Pawar, Arnav Arora, Dustin Wright, Dirk Hovy, Isabelle Augenstein",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c90d84f40236aad618e9ffc462a5bed83de75f7a",
+    "url": "https://arxiv.org/abs/2610.31366",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31366",
+    "title": "AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Ehsan Saleh, Roozbeh Nahavandi, Sama Salarian, Raef Bassily, Andrew Perrault",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c97ba769fcc571c61eb0e7c5a69fe7a1eb797dad",
+    "url": "https://arxiv.org/abs/2601.02915",
+    "canonicalUrl": "https://arxiv.org/abs/2601.02915",
+    "title": "ChemBART: Pre-training a Reaction Language Model for Comprehensive Synthesis Planning",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Kenan Li, Yijian Zhang, Jin Wang, Haipeng Gan, Zeying Sun, Xiaoguang Lei, Hao Dong",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d0af100b9ae9d2ee4f7d5a3513c24a470eb80a24",
+    "url": "https://arxiv.org/abs/2610.30512",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30512",
+    "title": "Behind Aggregate Scores: What Systematically Varying Arena-Hard's LLM Judge Reveals",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Louise Yorke",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d2e866f056b38349b1344a5133070680eeecab9b",
+    "url": "https://arxiv.org/abs/2610.31135",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31135",
+    "title": "Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Aman Behera, Namit Solanki, Mehul Anand",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d4a732cdad2efc0d4456aefee0718014e49cb023",
+    "url": "https://arxiv.org/abs/2610.31657",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31657",
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Sachin Gupta",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d4b59164bfba642a301c80b5a50163e54b505f51",
+    "url": "https://arxiv.org/abs/2610.30154",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30154",
+    "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Linke Zhang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d6a76e942a96cdce33aaeec45a090325e34fe679",
+    "url": "https://arxiv.org/abs/2610.31422",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31422",
+    "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Phat Huu Ha, Nguyen Xuan Phuc, Nong Nhut Quy, Trinh Tran Tran, Nguyen Minh Triet, Dang Van Thin",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "da42cf36a6c0b4ff172b764e15694920a037751e",
+    "url": "https://arxiv.org/abs/2610.31421",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31421",
+    "title": "How Depth Growth and Looping Shape In-Context Learning in Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Ferdinand Kapl, Kaitlin Maile, Stefan Bauer, Johannes von Oswald",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e038a943a0b54f06a26a0a21de95944b1b749b44",
+    "url": "https://arxiv.org/abs/2610.31117",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31117",
+    "title": "Through a PRISM, Clearly: Step-Sequence Reasoning for Mistake Recognition in Procedural Videos",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Olga Loginova, Oleksandr Bezrukov, Frank Keller",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e0921180c69c231e7caa72f567446831cac4b1a7",
+    "url": "https://arxiv.org/abs/2610.30485",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30485",
+    "title": "Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Jialin Li, Zhenhao Chen, Hanjun Luo, Hanan Salam",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e38eddefeeee8de532d464fe3239dd5c38d38823",
+    "url": "https://arxiv.org/abs/2610.30987",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30987",
+    "title": "Interpretive Variation and Discourse Structure in Detecting Enthymemes in Controversial Political Discourse",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Martial Pastor, Nelleke Oostdijk",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e49d90b7a07e99df6fea3284997f95d423ca896e",
+    "url": "https://arxiv.org/abs/2610.31401",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31401",
+    "title": "HERD: Harness-Evolving Recursive Distillation for Continual Learning",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Xun Sun, Thanh Thi Nguyen, Thuy-Trang Vu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e5d98f8710873c077d3967a75771b4e795026fa1",
+    "url": "https://arxiv.org/abs/2610.30946",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30946",
+    "title": "Tracing Hallucinations in LLM Reasoning for UML Class Diagram Generation: An Empirical Taxonomy and Mitigation Study",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mojdeh Rahmanian, Foutse Khomh, Ashkan Sami, Yanchao Yu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e745d90ca91478aa7d76da07d551c884372283a7",
+    "url": "https://arxiv.org/abs/2610.31193",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31193",
+    "title": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Clemencia Siro, Laura Hollink",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e772854b2b30dccfe2277f68d67c532ef4e6ea79",
+    "url": "https://arxiv.org/abs/2610.30516",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30516",
+    "title": "Beyond End-to-End Recovery: Towards a Better Understanding of LLM Steganography via Rolewise Decomposition",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Om Tailor, Yucheng Pan, Solaleh Mohammadi, Xinyan Liu, Kaiqing Zhang",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "eb8709ba7425c79bb35741c693e8f2bdcba04c8b",
+    "url": "https://arxiv.org/abs/2610.31667",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31667",
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam Razaviyayn",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ec2245b1086fc0684c4b934eca2d5e423f0bbe5e",
+    "url": "https://arxiv.org/abs/2610.31317",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31317",
+    "title": "SurveyGraph: Generating Academic Surveys via Methods-Entity Knowledge Graphs",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Yifan Yuan, Yancheng Zhu, Zuoyu Zhang, Xiaogang Peng",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ec6aaa0fea899e2d9981f7339c8c5ff83409bcdb",
+    "url": "https://arxiv.org/abs/2610.30593",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30593",
+    "title": "TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zhao Tan, Xianglong Bao, Zhipeng Xi, Ming Jin",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "f38d37b8c91f26ff609dbaf7ee68b0eeea354791",
+    "url": "https://arxiv.org/abs/2610.30778",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30778",
+    "title": "Where meanings converge and diverge: Revisiting linguistic relativity across 81 languages",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Weiran Wang, Wenjuan Qin, Haitao Liu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "f8135ebfdd1382fd9a3d0729aa084f1ae3245680",
+    "url": "https://arxiv.org/abs/2610.30413",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30413",
+    "title": "X-pressing Intimacy: Mental Health Disclosure After Twitter Acquisition",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Olivia Pal, Yunhao Yuan, Meghana Mandava, Talayeh Aledavood, Eshwar Chandrasekharan, Koustuv Saha",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fadd68b7adc330de534b8bc6787184bc02bc6288",
+    "url": "https://arxiv.org/abs/2610.30860",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30860",
+    "title": "Synthetic-to-Real Code-Switched ASR: A Spontaneous Nepali-English Podcast Benchmark",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Firoj Paudel",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fd2b5cac5871b2cf101726b7dc31108dc8b3ed6e",
+    "url": "https://arxiv.org/abs/2610.31459",
+    "canonicalUrl": "https://arxiv.org/abs/2610.31459",
+    "title": "How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Morita Tarvirdians, Reeve Lorena, Catharine Oertel",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fdbc5baea2ffe3ace8b2d7ba0f35d06f72070a94",
+    "url": "https://arxiv.org/abs/2610.30841",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30841",
+    "title": "TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Zhaolu Kang, Yidi Wang, Yile Li, Siqi Zeng, Yingjie He, Richeng Xuan, Zhichao hu",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ff36fd597881c146c0d85ebd265adb9beecfbb9c",
+    "url": "https://arxiv.org/abs/2610.30970",
+    "canonicalUrl": "https://arxiv.org/abs/2610.30970",
+    "title": "Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters",
+    "source": "arXiv cs.CL",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Tardelli Ronan Coelho Stekel",
+    "publishedAt": "2026-10-24T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "f699a3e5cdaf492915584e366379490fa9928321",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Tim Fernholz",
+    "publishedAt": "2026-10-23T23:05:49Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "67ab64203109c3c98ed561728e0db2c54e1b0434",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Julie Bort",
+    "publishedAt": "2026-10-23T21:59:19Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "18216b018fb1ff4f9dcac542918d163af3b0f0ff",
+    "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "canonicalUrl": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+    "title": "Quick Study",
+    "source": "Simon Willison",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": null,
+    "publishedAt": "2026-10-23T21:35:13Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a9f6bc1120100bb70a022c961cd51bba893ebce3",
+    "url": "https://thezvi.substack.com/p/the-hackening",
+    "canonicalUrl": "https://thezvi.substack.com/p/the-hackening",
+    "title": "The Hackening",
+    "source": "Don't Worry About the Vase (Zvi)",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Zvi Mowshowitz",
+    "publishedAt": "2026-10-23T21:13:08Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "67972bfe49043d8d45b3a63c2912c88d62b50f4c",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Emma Roth",
+    "publishedAt": "2026-10-23T21:11:07Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6643f32ed82d5f614cc36b6896d7d4c7b89f9dbf",
+    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "source": "Ars Technica: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Ryan Whitwam",
+    "publishedAt": "2026-10-23T20:19:55Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6c51129e93f61d6bfd1eb8442e4c471f06be25fd",
+    "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "canonicalUrl": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+    "title": "Introducing Kimi K3.1 Pro",
+    "source": "Simon Willison",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": null,
+    "publishedAt": "2026-10-23T19:40:54Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4f1a69c73f385be7802ecd46cb2baf47e8ec0bf0",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Jay Peters",
+    "publishedAt": "2026-10-23T19:32:39Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c502e4d083a85c63112abd7e8ce32f83491b18ff",
+    "url": "https://epochai.substack.com/p/the-epoch-brief-october-23-2026",
+    "canonicalUrl": "https://epochai.substack.com/p/the-epoch-brief-october-23-2026",
+    "title": "The Epoch Brief - October 23, 2026",
+    "source": "Epoch AI",
+    "sourceTier": 2,
+    "categoryHint": "Research",
+    "author": "Mike Mantell",
+    "publishedAt": "2026-10-23T19:29:17Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4f8bba4990b7ebd92ac7b6d3ea0512ce940fe453",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-10-23T19:06:23Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "057a86be6882ac7b2aa5e3b14e32fb06870560bf",
+    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "canonicalUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+    "title": "Bringing foundational models to the front lines of TB screening",
+    "source": "Google Research Blog",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": null,
+    "publishedAt": "2026-10-23T18:51:33Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "95364ce770790d21eea39c82a0fc3d6be1194099",
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+    "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+    "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+    "source": "AWS Machine Learning Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Daniel Quang",
+    "publishedAt": "2026-10-23T17:48:54Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5c25f1831f0e4d47950b1978d7281d3759f4c734",
+    "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2",
+    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+    "source": "NVIDIA Technical Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Tanya Lenz",
+    "publishedAt": "2026-10-23T17:27:52Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4b2a7795a5b56d7d553fc5c280b03ef5069dc56b",
+    "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
+    "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+    "source": "NVIDIA Technical Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Tanya Lenz",
+    "publishedAt": "2026-10-23T17:27:35Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b2b7ebe6730fbedf380c98d4b5d31d7cf60d2288",
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "canonicalUrl": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "source": "Ars Technica: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Jeremy Hsu",
+    "publishedAt": "2026-10-23T17:18:31Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4e972ac672531c674ffe6ece8e202ff4d1662bc6",
+    "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "canonicalUrl": "https://theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "title": "The iPhone Duo should have been an iPad",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "David Pierce",
+    "publishedAt": "2026-10-23T17:00:18Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "canonicalUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "source": "OpenAI News",
+    "sourceTier": 1,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-23T17:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "97597de85741a1d47bc1db44161b47bab7e73dd6",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "canonicalUrl": "https://theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Jess Weatherbed",
+    "publishedAt": "2026-10-23T16:52:55Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c764dbeb21a3918f08f6cc6e3759e9790e78efe0",
+    "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+    "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+    "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+    "source": "AWS Machine Learning Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Lauren Eterno",
+    "publishedAt": "2026-10-23T16:30:10Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "90bf5e5de75d04a58457bf73a49cd5d8be216678",
+    "url": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
+    "canonicalUrl": "https://zdnet.com/tech/android-17-app-bubbles-how-to",
+    "title": "Android lets you ‘bubble’ apps for easy access now – how it works",
+    "source": "ZDNET: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Artie Beaty",
+    "publishedAt": "2026-10-23T16:28:46Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ce9db904acd8c7a92fc2feb4d608fe0477209c08",
+    "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/",
+    "canonicalUrl": "https://wheresyoured.at/premium-the-haters-guide-to-blackstone",
+    "title": "Premium: The Hater's Guide To Blackstone",
+    "source": "Where's Your Ed At (Ed Zitron)",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Ed Zitron",
+    "publishedAt": "2026-10-23T16:28:34Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d543a8c819225bfc95a9214c7b2ede18c810d912",
+    "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+    "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+    "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+    "source": "AWS Machine Learning Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Amit Makashir",
+    "publishedAt": "2026-10-23T16:24:55Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7f0dec178da37fe05bdcdd75ef4ce574c41326f2",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+    "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+    "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+    "source": "AWS Machine Learning Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Subbu Dandamudi",
+    "publishedAt": "2026-10-23T16:21:36Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d5dfb55b012918e741dc0e52d8cd3d00a65167f2",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/litpivot",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-10-23T16:15:50Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a7888fb94e41443a0d01adfaf47cdbb28d99eaf7",
+    "url": "https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/",
+    "canonicalUrl": "https://towardsdatascience.com/dont-let-messy-data-bend-your-curves",
+    "title": "Don’t Let Messy Data Bend Your Curves",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Aamir Hussain Chughtai, PhD",
+    "publishedAt": "2026-10-23T15:30:00Z",
+    "fetchedAt": "2026-10-24T10:07:55Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "619059630d1f6d6c523a7b9918562b304cc6a80d",
+    "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+    "canonicalUrl": "https://latent.space/p/ai-is-getting-good-at-math",
+    "title": "AI Is Getting Good at Math. Here’s Why.",
+    "source": "Latent Space",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Ankit Maloo",
+    "publishedAt": "2026-10-23T15:19:48Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5316d14cfc395661c277ba3adc2b604444ad536d",
+    "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
+    "canonicalUrl": "https://zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit",
+    "title": "PHP2Shell: Haven’t patched yet? Take these steps now to mitigate",
+    "source": "ZDNET: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Charlie Osborne",
+    "publishedAt": "2026-10-23T15:09:47Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3b0fc092303087ba77e17ff26cf5275e50fca423",
+    "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
+    "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+    "source": "NVIDIA Technical Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Gabriele Leone",
+    "publishedAt": "2026-10-23T14:58:32Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "47740c8fb2383cdfa18be96cbdfa8099e0c0a755",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "canonicalUrl": "https://theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Emma Roth",
+    "publishedAt": "2026-10-23T14:47:41Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bedfe61b82d21fb7772394a1ad4b2d5c1fdc0d27",
+    "url": "https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/",
+    "canonicalUrl": "https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning",
+    "title": "Skewness and Kurtosis: From Moments to Machine Learning",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Mansi Bramta",
+    "publishedAt": "2026-10-23T14:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:55Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "dbedc30b178c8474744f440419ecc88d27d1794f",
+    "url": "https://thesignal.substack.com/p/youre-still-early",
+    "canonicalUrl": "https://thesignal.substack.com/p/youre-still-early",
+    "title": "You're still early",
+    "source": "The Signal",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Alex Banks",
+    "publishedAt": "2026-10-23T13:04:13Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "f68490092930017e767150e5f74ce0dc0e240956",
+    "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/",
+    "canonicalUrl": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension",
+    "title": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Adrian Panasiewicz",
+    "publishedAt": "2026-10-23T12:30:00Z",
+    "fetchedAt": "2026-10-24T10:07:55Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "73558bf560902ec980395175b2c28f2e4a3686dd",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "title": "Retro gaming is being overrun with AI",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Andrew Webster",
+    "publishedAt": "2026-10-23T12:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "dd79190f47b8c5776b100dd56e05dde680ba9c87",
+    "url": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/",
+    "canonicalUrl": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes",
+    "title": "Your Six AI Models Are Really Two: The Math of Correlated Mistakes",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Utkarsh Mangal",
+    "publishedAt": "2026-10-23T11:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:55Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "24a759e0d336f63e8832a0d9b7fd27a0a7b7587a",
+    "url": "https://latent.space/p/ainews-black-october/",
+    "canonicalUrl": "https://latent.space/p/ainews-black-october",
+    "title": "[AINews] Black October",
+    "source": "Latent Space",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "swyx .ai",
+    "publishedAt": "2026-10-23T10:09:29Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "48e2274fdf2ba9fe48db533ddecc410e5cc41b05",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "canonicalUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "title": "Securing our frontier model training environment",
+    "source": "OpenAI News",
+    "sourceTier": 1,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-23T10:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3602c8887bef48aefb767a97d4aec2c2c6697621",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Jagmeet Singh",
+    "publishedAt": "2026-10-23T04:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b4dc529b5e0af071c9b649fe8842234d4c98fbca",
+    "url": "https://www.platformer.news/machine-gods-manifesto-ai-realism/",
+    "canonicalUrl": "https://platformer.news/machine-gods-manifesto-ai-realism",
+    "title": "Introducing Machine Gods",
+    "source": "Platformer (Casey Newton)",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Casey Newton",
+    "publishedAt": "2026-10-23T00:47:03Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8937fd9c8277a1faad761e8e6ce4e9703c7c816d",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Aditya Mehta",
+    "publishedAt": "2026-10-23T00:45:37Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "canonicalUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "source": "OpenAI News",
+    "sourceTier": 1,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-23T00:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6430909168b586858591a32fd2f7f0e213984c90",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "canonicalUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-10-23T00:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d29df66063b99d06f0e269fbb6f3a3091aab0254",
+    "url": "https://tldr.tech/ai/2026-10-23",
+    "canonicalUrl": "https://tldr.tech/ai/2026-10-23",
+    "title": "OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖",
+    "source": "TLDR AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "TLDR",
+    "publishedAt": "2026-10-23T00:00:00Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "34e9d01ea0b42266a418197346290782d976ba53",
+    "url": "https://pytorch.org/blog/pytorch-conference-north-america-2026-accelerating-open-intelligence-together/",
+    "canonicalUrl": "https://pytorch.org/blog/pytorch-conference-north-america-2026-accelerating-open-intelligence-together",
+    "title": "PyTorch Conference North America 2026: Accelerating Open Intelligence Together",
+    "source": "PyTorch Blog",
+    "sourceTier": 2,
+    "categoryHint": "Tools & Releases",
+    "author": "PyTorch Foundation",
+    "publishedAt": "2026-10-22T23:52:11Z",
+    "fetchedAt": "2026-10-24T10:07:54Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4e9bfd07ae02849d8691fa6c59ed092354abcaf9",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "canonicalUrl": "https://anthropic.com/research/formal-verification",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "source": "Hacker News: LLM",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-22T22:54:43Z",
+    "fetchedAt": "2026-10-24T10:07:52Z",
+    "signals": {
+      "hnPoints": 450,
+      "hnComments": 289,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "95eb6975ad2450494f977e3b3b02ec023bf4f2c5",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "canonicalUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-10-22T22:24:34Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6372ebaa66c806f54d26e33177513ab47bc13129",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Julie Bort",
+    "publishedAt": "2026-10-22T22:08:24Z",
+    "fetchedAt": "2026-10-24T10:07:53Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  }
+]

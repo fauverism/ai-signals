@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-24",
+  "batch": 2,
+  "items": [
+    {
+      "id": "6c51129e93f61d6bfd1eb8442e4c471f06be25fd",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "kimi",
+        "open-weights"
+      ],
+      "summary": "Simon Willison's note on the release of Kimi K3.1 Pro.",
+      "whyItMatters": "A first-hand practitioner look at a major open-weights model.",
+      "organization": "moonshot"
+    },
+    {
+      "id": "4f1a69c73f385be7802ecd46cb2baf47e8ec0bf0",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "voice",
+        "block"
+      ],
+      "summary": "The Verge reports Block built an AI model with a conversational personality.",
+      "whyItMatters": "Another company entering the model race; practical impact unclear.",
+      "organization": "block"
+    },
+    {
+      "id": "c502e4d083a85c63112abd7e8ce32f83491b18ff",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Research",
+      "tags": [
+        "epoch-ai",
+        "roundup"
+      ],
+      "summary": "Epoch AI's brief for October 23, a roundup of its latest research.",
+      "whyItMatters": "Quick way to catch up on Epoch's data and analysis.",
+      "organization": "epoch-ai"
+    },
+    {
+      "id": "b2b7ebe6730fbedf380c98d4b5d31d7cf60d2288",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "robotics",
+        "semiconductors"
+      ],
+      "summary": "Ars Technica reports Intel received a waiver as a US ban on foreign-made robots raised concerns for chip fabs.",
+      "whyItMatters": "Shows regulatory spillover into chip supply chains.",
+      "organization": "intel"
+    },
+    {
+      "id": "4e972ac672531c674ffe6ece8e202ff4d1662bc6",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "The Verge opinion piece about a speculated iPhone Duo form factor.",
+      "whyItMatters": "Little relevance to AI practitioners.",
+      "organization": "apple"
+    },
+    {
+      "id": "90bf5e5de75d04a58457bf73a49cd5d8be216678",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "android",
+        "ux"
+      ],
+      "summary": "ZDNET explains a new Android feature that bubbles apps for quick access.",
+      "whyItMatters": "Minor consumer feature note.",
+      "organization": "google"
+    },
+    {
+      "id": "a7888fb94e41443a0d01adfaf47cdbb28d99eaf7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "statistics",
+        "data-quality"
+      ],
+      "summary": "Tutorial on keeping messy data from distorting fitted curves.",
+      "whyItMatters": "A refresher on data hygiene for curve fitting.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "619059630d1f6d6c523a7b9918562b304cc6a80d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "math",
+        "reasoning"
+      ],
+      "summary": "Latent Space piece on why AI models are getting better at mathematics.",
+      "whyItMatters": "Context on a reasoning trend that matters for evaluation.",
+      "organization": "unspecified"
+    },
+    {
+      "id": "5316d14cfc395661c277ba3adc2b604444ad536d",
+      "scores": {
+        "importance": 7,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "vulnerability",
+        "php"
+      ],
+      "summary": "ZDNET gives mitigation steps for the PHP2Shell vulnerability for unpatched systems.",
+      "whyItMatters": "Patch or mitigate now if you run affected PHP stacks.",
+      "organization": "unspecified"
+    },
+    {
+      "id": "47740c8fb2383cdfa18be96cbdfa8099e0c0a755",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "scraping",
+        "publishers",
+        "meta"
+      ],
+      "summary": "The Verge reports Meta delayed new business terms after publishers objected to AI scraping.",
+      "whyItMatters": "Signals ongoing friction between AI data collection and publishers.",
+      "organization": "meta"
+    },
+    {
+      "id": "bedfe61b82d21fb7772394a1ad4b2d5c1fdc0d27",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "statistics",
+        "ml-basics"
+      ],
+      "summary": "Tutorial linking skewness and kurtosis to machine learning practice.",
+      "whyItMatters": "A statistics refresher for feature analysis.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "dbedc30b178c8474744f440419ecc88d27d1794f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Newsletter essay titled You're still early; the title gives little detail.",
+      "whyItMatters": "Opinion; limited actionable content.",
+      "organization": "the-signal"
+    },
+    {
+      "id": "f68490092930017e767150e5f74ce0dc0e240956",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "model-complexity",
+        "theory"
+      ],
+      "summary": "Tutorial introducing effective dimension as a better measure of model complexity than parameter count.",
+      "whyItMatters": "A useful lens for comparing models beyond size.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "73558bf560902ec980395175b2c28f2e4a3686dd",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "gaming",
+        "generated-content"
+      ],
+      "summary": "The Verge reports on AI-generated content spreading in retro gaming communities.",
+      "whyItMatters": "Cultural note on AI content floods.",
+      "organization": "unspecified"
+    },
+    {
+      "id": "dd79190f47b8c5776b100dd56e05dde680ba9c87",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ensembles",
+        "evaluation"
+      ],
+      "summary": "Tutorial arguing that several correlated models behave like far fewer independent ones.",
+      "whyItMatters": "Check error correlation before trusting multi-model ensembles or judges.",
+      "organization": "towards-data-science"
+    },
+    {
+      "id": "24a759e0d336f63e8832a0d9b7fd27a0a7b7587a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "Latent Space daily AI news roundup titled Black October.",
+      "whyItMatters": "A roundup; recap of other coverage.",
+      "organization": "latent-space"
+    },
+    {
+      "id": "3602c8887bef48aefb767a97d4aec2c2c6697621",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "robotaxi",
+        "pony-ai",
+        "nvidia"
+      ],
+      "summary": "TechCrunch reports inDrive plans 2027 robotaxi tests in Central Asia with Pony AI and Nvidia.",
+      "whyItMatters": "Autonomy expansion into new markets.",
+      "organization": "indrive"
+    },
+    {
+      "id": "b4dc529b5e0af071c9b649fe8842234d4c98fbca",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "commentary",
+        "platformer"
+      ],
+      "summary": "Casey Newton introduces a new project called Machine Gods.",
+      "whyItMatters": "Editorial announcement; details unclear from title.",
+      "organization": "platformer"
+    },
+    {
+      "id": "8937fd9c8277a1faad761e8e6ce4e9703c7c816d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "agents",
+        "emergent-behavior"
+      ],
+      "summary": "TechCrunch reports AI agents left idle began playing.",
+      "whyItMatters": "Curiosity about emergent agent behavior; evidence unclear.",
+      "organization": "unspecified"
+    },
+    {
+      "id": "d29df66063b99d06f0e269fbb6f3a3091aab0254",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "roundup"
+      ],
+      "summary": "TLDR AI newsletter issue touching on OpenAI valuation, agent credentials and a Gemini postmortem.",
+      "whyItMatters": "A roundup of items covered elsewhere.",
+      "organization": "tldr"
+    },
+    {
+      "id": "34e9d01ea0b42266a418197346290782d976ba53",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "pytorch",
+        "conference"
+      ],
+      "summary": "PyTorch Foundation post about its 2026 North America conference.",
+      "whyItMatters": "Event note for PyTorch users.",
+      "organization": "pytorch"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "4f8bba4990b7ebd92ac7b6d3ea0512ce940fe453",
+      "reason": "promotional event listing"
+    },
+    {
+      "id": "6372ebaa66c806f54d26e33177513ab47bc13129",
+      "reason": "funding news with no technical substance"
+    },
+    {
+      "id": "ce9db904acd8c7a92fc2feb4d608fe0477209c08",
+      "reason": "finance commentary, not AI practice"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

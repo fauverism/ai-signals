@@ -1,0 +1,534 @@
+{
+  "date": "2026-10-24",
+  "batch": 1,
+  "items": [
+    {
+      "id": "0277949bcda9e2faebdf1b90a977f3ddb7d80a50",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "sycophancy",
+        "multilingual"
+      ],
+      "summary": "Preprint studying how robustness and sycophancy relate in LLMs across several languages.",
+      "whyItMatters": "Useful if you ship multilingual assistants and worry about agreeable-but-wrong answers.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "029107f39cecad739278248b8346d1de706127fb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "policy-compliance",
+        "neurosymbolic"
+      ],
+      "summary": "Preprint proposing a way to compile plain-language policies into programs that combine neural and symbolic predicates.",
+      "whyItMatters": "Relevant to teams enforcing business rules on agents without hand-coding every check.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "05668b6e6218e64593ebd3d3da1ec475645b1eac",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "language-modeling",
+        "compression"
+      ],
+      "summary": "Preprint on a hierarchical language model that compresses text into continuous representations and generates discrete tokens.",
+      "whyItMatters": "Architecture research; no practical change yet.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "082f43adc201b950eca2a5237101e00f9dd458aa",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Research",
+      "tags": [
+        "safety",
+        "mental-health"
+      ],
+      "summary": "Preprint applying constitutional-AI-style rules to a domain-specific mental health chatbot.",
+      "whyItMatters": "A template for domain-tuned safety rules, though evidence is preprint-level.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0990d56886f7f98f8ead9f38f7fbeeb12dae5a7b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "lora",
+        "evaluation"
+      ],
+      "summary": "Preprint examining what open-book benchmark scores actually measure for adapters trained on single documents.",
+      "whyItMatters": "Caution before trusting open-book scores to judge document-specific LoRA adapters.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0dcbc03c2c932715c09f4ed3f855c960cb48ee01",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "web-agents",
+        "personalization"
+      ],
+      "summary": "Preprint on web agents that decide which questions to ask a user now to serve their preferences later.",
+      "whyItMatters": "Informs design of agents that learn user preferences over time.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0e35e04e98f44e9215a989b113dfcad3c9e724fb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "evaluation",
+        "medical",
+        "open-models"
+      ],
+      "summary": "Preprint testing open language models on the Spanish medical residency exam, including uncertainty and image questions.",
+      "whyItMatters": "Another data point on open-model medical competence; exam results are not clinical validation.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "0e4e7525bb91df11a3c81227cb86ca5e8eb1688f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "distillation",
+        "post-training"
+      ],
+      "summary": "Preprint on making on-policy self-distillation less sensitive to the choice of reference answers.",
+      "whyItMatters": "Post-training teams may find a steadier distillation recipe.",
+      "organization": "arxiv"
+    },
+    {
+      "id": "057a86be6882ac7b2aa5e3b14e32fb06870560bf",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Research",
+      "tags": [
+        "healthcare",
+        "foundation-models"
+      ],
+      "summary": "Google Research post on applying foundation models to tuberculosis screening in field settings.",
+      "whyItMatters": "Shows a deployed-health use of foundation models, from the lab itself.",
+      "organization": "google"
+    },
+    {
+      "id": "95364ce770790d21eea39c82a0fc3d6be1194099",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "reinforcement-learning",
+        "sagemaker"
+      ],
+      "summary": "AWS hands-on guide to running multi-turn reinforcement learning jobs on SageMaker AI.",
+      "whyItMatters": "A walkthrough if you post-train agents on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "4b2a7795a5b56d7d553fc5c280b03ef5069dc56b",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "tensorrt",
+        "inference"
+      ],
+      "summary": "First part of an NVIDIA series on a tuner that explores multiple TensorRT build routes for performance.",
+      "whyItMatters": "Worth a look if TensorRT engine builds are your bottleneck.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "298c8de07d18f423dad39eb2358f85464fd4cd53",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "infrastructure",
+        "chatgpt"
+      ],
+      "summary": "OpenAI engineering write-up, part two, on scaling storage for ChatGPT usage.",
+      "whyItMatters": "Real-world scaling lessons for anyone running high-traffic AI products.",
+      "organization": "openai"
+    },
+    {
+      "id": "c764dbeb21a3918f08f6cc6e3759e9790e78efe0",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "sagemaker",
+        "autoscaling",
+        "aws-cdk"
+      ],
+      "summary": "AWS guide to configuring SageMaker endpoint auto scaling through CDK code.",
+      "whyItMatters": "Practical infra-as-code recipe for inference endpoints on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "d543a8c819225bfc95a9214c7b2ede18c810d912",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "quick-sight",
+        "visualization"
+      ],
+      "summary": "AWS walkthrough of plotting points and routes from GeoJSON in Quick Sight layer maps.",
+      "whyItMatters": "Only relevant if you use Quick Sight for geospatial dashboards.",
+      "organization": "aws"
+    },
+    {
+      "id": "7f0dec178da37fe05bdcdd75ef4ce574c41326f2",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "agents",
+        "bedrock",
+        "case-study"
+      ],
+      "summary": "AWS case study of Bayer Crop Science building an agentic decision engine on Bedrock AgentCore.",
+      "whyItMatters": "A vendor-told reference architecture for enterprise agents.",
+      "organization": "aws"
+    },
+    {
+      "id": "d5dfb55b012918e741dc0e52d8cd3d00a65167f2",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "research-tools",
+        "literature"
+      ],
+      "summary": "Blog post introducing LitPivot, a tool for developing research ideas against the surrounding literature.",
+      "whyItMatters": "Early research-assistant tooling worth watching if you do literature review.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "3b0fc092303087ba77e17ff26cf5275e50fca423",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tutorials",
+      "tags": [
+        "robotics",
+        "simulation",
+        "agents"
+      ],
+      "summary": "NVIDIA post on using AI agents to help train a small robot to walk in simulation.",
+      "whyItMatters": "Concrete example of agents driving sim-to-robot workflows.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "48e2274fdf2ba9fe48db533ddecc410e5cc41b05",
+      "scores": {
+        "importance": 7,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "training-infrastructure"
+      ],
+      "summary": "OpenAI describes how it secures the environment used to train its frontier models.",
+      "whyItMatters": "Signals the security bar labs now apply to training; useful for threat-modelling your own.",
+      "organization": "openai"
+    },
+    {
+      "id": "15c1f8ef7a582594bf056b85165849e9f70ce0f3",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "safety",
+        "partnership"
+      ],
+      "summary": "OpenAI announces a partnership with Poland's NASK on AI safety and security.",
+      "whyItMatters": "Shows how labs are working with national institutes on safety.",
+      "organization": "openai"
+    },
+    {
+      "id": "6430909168b586858591a32fd2f7f0e213984c90",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "trainium",
+        "model-support"
+      ],
+      "summary": "Hugging Face post pointing to a lookup for checking whether a model runs on AWS Trainium.",
+      "whyItMatters": "Saves time when planning Trainium deployments.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "95eb6975ad2450494f977e3b3b02ec023bf4f2c5",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "rl",
+        "agents",
+        "post-training"
+      ],
+      "summary": "Hugging Face post on turning database grading into reward signals for post-training agents with ThinkingBox.",
+      "whyItMatters": "A recipe for reward design when training database-facing agents.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "4e9bfd07ae02849d8691fa6c59ed092354abcaf9",
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "formal-verification",
+        "llm"
+      ],
+      "summary": "Hacker News discussion on LLMs making formal software verification workable at larger scale.",
+      "whyItMatters": "Community debate on whether verified software becomes affordable.",
+      "organization": "unspecified"
+    },
+    {
+      "id": "f699a3e5cdaf492915584e366379490fa9928321",
+      "scores": {
+        "importance": 7,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "training-data",
+        "openai"
+      ],
+      "summary": "TechCrunch reports OpenAI will stop training its models on the live internet, citing risks.",
+      "whyItMatters": "If accurate, shifts how frontier data pipelines and web access are handled.",
+      "organization": "openai"
+    },
+    {
+      "id": "67972bfe49043d8d45b3a63c2912c88d62b50f4c",
+      "scores": {
+        "importance": 7,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "training-data",
+        "openai"
+      ],
+      "summary": "The Verge reports OpenAI trains its frontier models without internet access.",
+      "whyItMatters": "Same story as TechCrunch; confirms the data-sourcing shift.",
+      "organization": "openai"
+    },
+    {
+      "id": "6643f32ed82d5f614cc36b6896d7d4c7b89f9dbf",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "privacy",
+        "google",
+        "advertising"
+      ],
+      "summary": "Ars Technica reports an updated Google privacy policy that could allow Gmail data use for advertising.",
+      "whyItMatters": "Check privacy settings and consider data exposure for work accounts.",
+      "organization": "google"
+    },
+    {
+      "id": "97597de85741a1d47bc1db44161b47bab7e73dd6",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "privacy",
+        "google",
+        "advertising"
+      ],
+      "summary": "The Verge reports Google may use Gmail and Photos data to target ads.",
+      "whyItMatters": "Same policy change; relevant to anyone with Google accounts.",
+      "organization": "google"
+    },
+    {
+      "id": "c1ad71a16e1f5eab9c3e07cb6299112a1a597293",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "kimi",
+        "open-weights"
+      ],
+      "summary": "Latent Space roundup covering a Kimi 3.1 Pro open-weights release and a faster API tier.",
+      "whyItMatters": "Open-weights models near closed ones changes build-versus-buy math.",
+      "organization": "moonshot"
+    },
+    {
+      "id": "67ab64203109c3c98ed561728e0db2c54e1b0434",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Business",
+      "tags": [
+        "robotics",
+        "nvidia"
+      ],
+      "summary": "TechCrunch on Nvidia's CEO showing off small Microduck robots that reportedly sold 20,000 units.",
+      "whyItMatters": "Consumer robotics curiosity with limited practitioner impact.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "18216b018fb1ff4f9dcac542918d163af3b0f0ff",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Short post from Simon Willison titled Quick Study; the title alone gives little detail.",
+      "whyItMatters": "A quick read from a trusted practitioner.",
+      "organization": "simon-willison"
+    },
+    {
+      "id": "a9f6bc1120100bb70a022c961cd51bba893ebce3",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "security",
+        "commentary"
+      ],
+      "summary": "Zvi's weekly-style commentary post titled The Hackening, likely on AI and security.",
+      "whyItMatters": "Opinion from a frequent AI-news analyst.",
+      "organization": "unspecified"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-1f99cb1033",
+      "label": "OpenAI ends live-web training"
+    },
+    {
+      "id": "c-aa97746126",
+      "label": "Google ad use of Gmail data"
+    }
+  ],
+  "fetches": []
+}
