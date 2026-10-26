@@ -1,0 +1,1263 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T10:13:48Z",
+  "editorNote": "A quiet day dominated by arXiv preprints. The lead is a paper on data-free self-improvement for language models, alongside work on making fine-tuned circuits easier to inspect and a preprint on fooling LLM safety guard models. Outside research, a thread claims an older CNN beats frontier LLMs at skin cancer diagnosis, and Google's AI search changes keep unsettling publishers. Most items are single-source and early.",
+  "lead": {
+    "id": "292a4eacd9568177cf700768068920de2c863ad0",
+    "url": "https://arxiv.org/abs/2610.32770",
+    "canonicalUrl": "https://arxiv.org/abs/2610.32770",
+    "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Leon Sick, Lukas Hoyer, Yannick Str\\\"umpler, Christian Reisswig, Timo Ropinski, Federico Tombari",
+    "publishedAt": "2026-10-26T04:00:00Z",
+    "fetchedAt": "2026-10-26T10:12:45Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 3
+    },
+    "scores": {
+      "importance": 5,
+      "trend": 2,
+      "novelty": 6,
+      "credibility": 6
+    },
+    "total": 4.7,
+    "category": "Research",
+    "tags": [
+      "self-training",
+      "post-training"
+    ],
+    "summary": "Preprint on a data-free way for a language model to improve itself through on-policy training, with Google-affiliated authors.",
+    "whyItMatters": "If it holds up, cheaper post-training without curated data.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3",
+      "url": "https://arxiv.org/abs/2610.32866",
+      "canonicalUrl": "https://arxiv.org/abs/2610.32866",
+      "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Marek Masiak, Andrzej Szablewski, Nicola Cancedda, Constantin Venhoff",
+      "publishedAt": "2026-10-26T04:00:00Z",
+      "fetchedAt": "2026-10-26T10:12:45Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "lora",
+        "circuits"
+      ],
+      "summary": "Preprint proposing a sparse variant of LoRA fine-tuning meant to make the resulting circuits easier to trace inside a model.",
+      "whyItMatters": "Useful if you audit fine-tuned models and want adapters you can inspect.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "4ff8bb862413a25a4aad44bf0ffb5616d112d940",
+      "url": "https://arxiv.org/abs/2610.31695",
+      "canonicalUrl": "https://arxiv.org/abs/2610.31695",
+      "title": "Fooling LLM Safety Guards into Judging the Wrong Text",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Utkarsh Kanwat",
+      "publishedAt": "2026-10-26T04:00:00Z",
+      "fetchedAt": "2026-10-26T10:12:45Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "total": 4.3,
+      "category": "Research",
+      "tags": [
+        "safety",
+        "guardrails",
+        "adversarial"
+      ],
+      "summary": "Preprint showing ways to make LLM safety guard models judge the wrong text.",
+      "whyItMatters": "If you rely on a guard model, test it against this kind of attack.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "160c614ba71b9bc0bd656504ae9381b28e7268dd",
+      "url": "https://arxiv.org/abs/2610.32177",
+      "canonicalUrl": "https://arxiv.org/abs/2610.32177",
+      "title": "$\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model",
+      "source": "arXiv cs.AI",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Khai Loong Aw, Klemen Kotar, Baihan Zhang, Yifan Liu, Lilian Chen, Atlas Kazemian, Rahul Venkatesh, Daniel Yamins",
+      "publishedAt": "2026-10-26T04:00:00Z",
+      "fetchedAt": "2026-10-26T10:12:45Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "total": 4.2,
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "vision-language"
+      ],
+      "summary": "Preprint on a unified vision-language world model that adapts how many reasoning streams it runs, from a Stanford-linked author group.",
+      "whyItMatters": "A look at where multimodal world models are heading; no code claim visible.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "canonicalUrl": "https://lynchlab.net/llm-skin-cancer",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "source": "Hacker News: LLM",
+      "sourceTier": 3,
+      "categoryHint": "News",
+      "author": null,
+      "publishedAt": "2026-10-25T17:15:38Z",
+      "fetchedAt": "2026-10-26T10:12:44Z",
+      "signals": {
+        "hnPoints": 560,
+        "hnComments": 238,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 3
+      },
+      "total": 4,
+      "category": "News",
+      "tags": [
+        "medical-ai",
+        "benchmark",
+        "cnn"
+      ],
+      "summary": "Community-shared item claiming an older convolutional network beats frontier language models at skin cancer diagnosis; the title gives no detail on method.",
+      "whyItMatters": "A reminder to benchmark specialized models against general LLMs.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "6f9ed043fa8a15137f83a00b5d05579dcc87fcd7",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "canonicalUrl": "https://theverge.com/column/1017983/google-ai-search-online-publishing",
+      "title": "Google’s AI search changes upended online publishing",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-25T12:00:00Z",
+      "fetchedAt": "2026-10-26T10:12:46Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "total": 3.7,
+      "category": "Business",
+      "tags": [
+        "search",
+        "publishing"
+      ],
+      "summary": "The Verge covers how Google's AI search changes have disrupted online publishing.",
+      "whyItMatters": "Matters if your traffic or content depends on search.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [],
+  "byCategory": {
+    "News": [
+      {
+        "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "canonicalUrl": "https://lynchlab.net/llm-skin-cancer",
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-25T17:15:38Z",
+        "fetchedAt": "2026-10-26T10:12:44Z",
+        "signals": {
+          "hnPoints": 560,
+          "hnComments": 238,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 3
+        },
+        "total": 4,
+        "category": "News",
+        "tags": [
+          "medical-ai",
+          "benchmark",
+          "cnn"
+        ],
+        "summary": "Community-shared item claiming an older convolutional network beats frontier language models at skin cancer diagnosis; the title gives no detail on method.",
+        "whyItMatters": "A reminder to benchmark specialized models against general LLMs.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4944c1d1afa9e5261c149daf5990137c5d9e0a0f",
+        "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+        "canonicalUrl": "https://wired.com/story/ai-agents-are-trying-to-be-journalists-now",
+        "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kate Knibbs",
+        "publishedAt": "2026-10-26T09:30:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "journalism",
+          "agents"
+        ],
+        "summary": "WIRED reports on AI agents that attempt to work as journalists.",
+        "whyItMatters": "Shows how automated reporting is moving into practice.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "title": "r/opensource just banned AI, non-English speakers, and more",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Terrence O’Brien",
+        "publishedAt": "2026-10-25T13:25:32Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "open-source",
+          "policy"
+        ],
+        "summary": "The Verge reports that a large open-source subreddit banned AI use and some non-English speakers.",
+        "whyItMatters": "Tells maintainers how a big community is policing AI contributions.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6d8ba0a0b78a2116067a1ec23e0c838b78552242",
+        "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+        "canonicalUrl": "https://wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners",
+        "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jessica Lipsky",
+        "publishedAt": "2026-10-26T09:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.2,
+        "category": "News",
+        "tags": [
+          "media",
+          "synthetic-voice"
+        ],
+        "summary": "WIRED profile of an AI radio host that speaks Spanish and is gaining listeners.",
+        "whyItMatters": "An example of synthetic media reaching real audiences.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3cfe81138dd2c228dd94890e3608e05930627b1a",
+        "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+        "canonicalUrl": "https://reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+        "title": "R/open source bans all solo projects and projects using LLMs",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-25T14:05:03Z",
+        "fetchedAt": "2026-10-26T10:12:44Z",
+        "signals": {
+          "hnPoints": 88,
+          "hnComments": 111,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 3
+        },
+        "total": 3.1,
+        "category": "News",
+        "tags": [
+          "open-source",
+          "policy"
+        ],
+        "summary": "Community thread about a subreddit banning solo projects and projects that use LLMs.",
+        "whyItMatters": "Shows rising friction over AI-assisted open-source work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b3c46e2b3d9c824f74cb7ac4d99a75d6b99d72fb",
+        "url": "https://thesignal.substack.com/p/old-holes-new-helpers-and-ai-in-a",
+        "canonicalUrl": "https://thesignal.substack.com/p/old-holes-new-helpers-and-ai-in-a",
+        "title": "Old Holes, New Helpers, and AI in a Box",
+        "source": "The Signal",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Alex Banks",
+        "publishedAt": "2026-10-25T14:03:45Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "News",
+        "tags": [
+          "newsletter"
+        ],
+        "summary": "Newsletter issue from The Signal rounding up recent AI items.",
+        "whyItMatters": "A roundup; scan for items you missed.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "292a4eacd9568177cf700768068920de2c863ad0",
+        "url": "https://arxiv.org/abs/2610.32770",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32770",
+        "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Leon Sick, Lukas Hoyer, Yannick Str\\\"umpler, Christian Reisswig, Timo Ropinski, Federico Tombari",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.7,
+        "category": "Research",
+        "tags": [
+          "self-training",
+          "post-training"
+        ],
+        "summary": "Preprint on a data-free way for a language model to improve itself through on-policy training, with Google-affiliated authors.",
+        "whyItMatters": "If it holds up, cheaper post-training without curated data.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3",
+        "url": "https://arxiv.org/abs/2610.32866",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32866",
+        "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Marek Masiak, Andrzej Szablewski, Nicola Cancedda, Constantin Venhoff",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Research",
+        "tags": [
+          "interpretability",
+          "lora",
+          "circuits"
+        ],
+        "summary": "Preprint proposing a sparse variant of LoRA fine-tuning meant to make the resulting circuits easier to trace inside a model.",
+        "whyItMatters": "Useful if you audit fine-tuned models and want adapters you can inspect.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4ff8bb862413a25a4aad44bf0ffb5616d112d940",
+        "url": "https://arxiv.org/abs/2610.31695",
+        "canonicalUrl": "https://arxiv.org/abs/2610.31695",
+        "title": "Fooling LLM Safety Guards into Judging the Wrong Text",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Utkarsh Kanwat",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 4.3,
+        "category": "Research",
+        "tags": [
+          "safety",
+          "guardrails",
+          "adversarial"
+        ],
+        "summary": "Preprint showing ways to make LLM safety guard models judge the wrong text.",
+        "whyItMatters": "If you rely on a guard model, test it against this kind of attack.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "160c614ba71b9bc0bd656504ae9381b28e7268dd",
+        "url": "https://arxiv.org/abs/2610.32177",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32177",
+        "title": "$\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Khai Loong Aw, Klemen Kotar, Baihan Zhang, Yifan Liu, Lilian Chen, Atlas Kazemian, Rahul Venkatesh, Daniel Yamins",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 4.2,
+        "category": "Research",
+        "tags": [
+          "world-models",
+          "vision-language"
+        ],
+        "summary": "Preprint on a unified vision-language world model that adapts how many reasoning streams it runs, from a Stanford-linked author group.",
+        "whyItMatters": "A look at where multimodal world models are heading; no code claim visible.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1ff5f83d67190079faf589d96d51b37af69ff664",
+        "url": "https://arxiv.org/abs/2610.31889",
+        "canonicalUrl": "https://arxiv.org/abs/2610.31889",
+        "title": "Scaling Transformer Energy-based Models For High Quality Image Synthesis",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jungsoo Lee, Alexi Gladstone, Yilun Du",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "image-generation",
+          "energy-based-models"
+        ],
+        "summary": "Preprint scaling transformer-based energy models to high-quality image synthesis, with Yilun Du among the authors.",
+        "whyItMatters": "An alternative to diffusion worth tracking if results replicate.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "177cb9c7a02c2b9639274c398edd3779f0d7692b",
+        "url": "https://arxiv.org/abs/2610.32114",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32114",
+        "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Soroush Ebadian, Parand A. Alamdari, Joe Benton, Hailey Joren",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "evaluation",
+          "llm-judge"
+        ],
+        "summary": "Preprint testing whether language models can tell tampered machine learning papers from sound ones.",
+        "whyItMatters": "Relevant if you use LLMs to screen or review research.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "179600ef5e249a57d4c585d4bcfe4293668d888c",
+        "url": "https://arxiv.org/abs/2610.32213",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32213",
+        "title": "Head Dimension Matters in Language Models for Long-Context Retrieval",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Seiya Tokui, Shoichiro Yamaguchi, Sosuke Kobayashi",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "long-context",
+          "attention"
+        ],
+        "summary": "Preprint arguing that attention head dimension affects how well language models retrieve information from long contexts.",
+        "whyItMatters": "Worth a read if you pick architectures for long-context retrieval.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "288ffb8994fdec3b748dd05af5f08f05059a2969",
+        "url": "https://arxiv.org/abs/2610.32182",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32182",
+        "title": "Depth-Dependent Safety Geometry in Vision-Language Models: Layer-Wise Localization and Bidirectional Refusal Control",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Muhammad Zeeshan Karamat, Syed Talal Hassan, Christiana Chamon Garcia",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "safety",
+          "vision-language",
+          "refusal"
+        ],
+        "summary": "Preprint mapping where in a vision-language model's layers safety behavior sits and how refusal can be steered in both directions.",
+        "whyItMatters": "Shows safety behavior can be localized, which cuts both ways for defenders.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4fa18f257c6f168c2f2590683e41492ab4ef16a1",
+        "url": "https://arxiv.org/abs/2610.32113",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32113",
+        "title": "REACT: Representational Early Analysis and Control of Chain-of-Thought Trajectories",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Hanwen Zhang, Enyi Jiang, Ruike Zhu, Qinan Yu, Sanmi Koyejo",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "reasoning",
+          "chain-of-thought",
+          "interpretability"
+        ],
+        "summary": "Preprint on reading a model's internal representations early to analyze and steer its chain-of-thought trajectories.",
+        "whyItMatters": "May help detect reasoning that goes off track before it finishes.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1a61547e912c8b25e6eff21a6d9a1c06cf14b63d",
+        "url": "https://arxiv.org/abs/2610.32332",
+        "canonicalUrl": "https://arxiv.org/abs/2610.32332",
+        "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Yanhao Jia, Yi Zhu, Yiran Zhong, Weigao Sun, Feida Zhu, Pengkun Jiao, Sihan Yang, Ming Ma, Steven Hoi, Erik Cambria",
+        "publishedAt": "2026-10-26T04:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 3.8,
+        "category": "Research",
+        "tags": [
+          "benchmark",
+          "agents",
+          "memory"
+        ],
+        "summary": "Benchmark preprint for agents that must keep spatiotemporal memory over long horizons, paired with a harness for agent testing.",
+        "whyItMatters": "A new yardstick for agent memory; check whether the data is released.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "80da1bb93bef4d8cf75f0aeb546901a8800a685a",
+        "url": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+        "canonicalUrl": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail",
+        "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Benjamin Nweke",
+        "publishedAt": "2026-10-25T14:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:47Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "reliability",
+          "production"
+        ],
+        "summary": "Article on why production agents keep answering after their tool calls fail.",
+        "whyItMatters": "Practical failure mode to guard against in agent deployments.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "fa16752b94693b77b45898ac866761978d57d3ec",
+        "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+        "canonicalUrl": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns",
+        "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Partha Sarkar",
+        "publishedAt": "2026-10-25T12:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:47Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "data-architecture",
+          "enablement"
+        ],
+        "summary": "Guide to six architectural patterns for preparing data for AI work.",
+        "whyItMatters": "A checklist-style reference for data platform teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "eefc51b1332774459277cdb05453a99bd5ef60be",
+        "url": "https://refactoring.fm/p/bicycle-gears-governance-fences-and",
+        "canonicalUrl": "https://refactoring.fm/p/bicycle-gears-governance-fences-and",
+        "title": "Bicycle gears, governance fences, and weekly readings! 💡",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-26T10:06:44Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.1,
+        "category": "Tutorials",
+        "tags": [
+          "engineering-management",
+          "newsletter"
+        ],
+        "summary": "Newsletter issue on engineering topics including governance and a weekly reading list.",
+        "whyItMatters": "General engineering reading; little AI-specific.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Anthony Ha",
+        "publishedAt": "2026-10-25T21:31:16Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.7,
+        "category": "Tools & Releases",
+        "tags": [
+          "video-generation",
+          "xai"
+        ],
+        "summary": "TechCrunch reports Grok has released the first seven minutes of an AI-generated work called 'Odyssey'.",
+        "whyItMatters": "Gauges how far long-form generated video has come.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e66601c5b3c1a8f8f431f6954c9000c1e37fe1ca",
+        "url": "https://adrs.systems/",
+        "canonicalUrl": "https://adrs.systems",
+        "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-25T00:43:47Z",
+        "fetchedAt": "2026-10-26T10:12:44Z",
+        "signals": {
+          "hnPoints": 44,
+          "hnComments": 24,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 3
+        },
+        "total": 2.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "documentation",
+          "git",
+          "agents"
+        ],
+        "summary": "Show HN project for recording deliberation between humans and AI as decision records versioned in Git.",
+        "whyItMatters": "Possible way to keep an audit trail of AI-assisted decisions.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "b887e331858f6b4b2bc442f1ffb2762f1c7b102e",
+        "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+        "canonicalUrl": "https://wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else",
+        "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Molly Taft",
+        "publishedAt": "2026-10-25T10:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Policy & Safety",
+        "tags": [
+          "data-centers",
+          "policy"
+        ],
+        "summary": "WIRED piece on what US opposition to data centers can learn from other countries.",
+        "whyItMatters": "Local resistance can affect where compute gets built.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ea6fd23e4b6178fa19888b5d50da5c87e92ed917",
+        "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+        "canonicalUrl": "https://alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+        "title": "Setting the Scene (Public v1; October 25)",
+        "source": "Alignment Forum",
+        "sourceTier": 2,
+        "categoryHint": "Policy & Safety",
+        "author": "Chris_Leong",
+        "publishedAt": "2026-10-25T07:52:23Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 2.2,
+        "category": "Policy & Safety",
+        "tags": [
+          "alignment",
+          "forum"
+        ],
+        "summary": "Alignment Forum post titled 'Setting the Scene' marked as a public first version.",
+        "whyItMatters": "Early-draft community post; low signal for now.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "6f9ed043fa8a15137f83a00b5d05579dcc87fcd7",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "canonicalUrl": "https://theverge.com/column/1017983/google-ai-search-online-publishing",
+        "title": "Google’s AI search changes upended online publishing",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-25T12:00:00Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Business",
+        "tags": [
+          "search",
+          "publishing"
+        ],
+        "summary": "The Verge covers how Google's AI search changes have disrupted online publishing.",
+        "whyItMatters": "Matters if your traffic or content depends on search.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c45c68dc9fe27319a2fa5d0add6b78dd9d68ee22",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "canonicalUrl": "https://minimaxir.com/2026/10/cheap-llms",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-25T21:11:31Z",
+        "fetchedAt": "2026-10-26T10:12:44Z",
+        "signals": {
+          "hnPoints": 313,
+          "hnComments": 309,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 3,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 3.7,
+        "category": "Business",
+        "tags": [
+          "pricing",
+          "llm-api"
+        ],
+        "summary": "Community discussion asking why OpenAI and Anthropic lowered LLM prices by large amounts within months.",
+        "whyItMatters": "Price drops change build-versus-buy math for API users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b23877b88e691b4d2863ccf743aa1c192e2503c7",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Anthony Ha",
+        "publishedAt": "2026-10-25T16:57:32Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.5,
+        "category": "Business",
+        "tags": [
+          "adoption",
+          "economics"
+        ],
+        "summary": "TechCrunch relays an Apollo economist's view that most companies see no financial return from AI so far.",
+        "whyItMatters": "Useful counterpoint when making the ROI case for AI projects.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "36a01b353c30be0afecd11801ea9c23bf478840f",
+        "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "canonicalUrl": "https://interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+        "source": "Interconnects (Nathan Lambert)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Nathan Lambert",
+        "publishedAt": "2026-10-25T11:49:00Z",
+        "fetchedAt": "2026-10-26T10:12:46Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Opinion",
+        "tags": [
+          "kimi",
+          "podcast"
+        ],
+        "summary": "Podcast episode touching on Kimi K3.1 Pro, cyber risks and a model called Muse.",
+        "whyItMatters": "Audio commentary on recent model news; low on new facts.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "26fd38f53c39c5d1491b5b6fd340ac4a563ebff9",
+        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/25/seam-cutter",
+        "title": "Seam Cutter",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-25T15:10:19Z",
+        "fetchedAt": "2026-10-26T10:12:45Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.2,
+        "category": "Opinion",
+        "tags": [
+          "tools"
+        ],
+        "summary": "Short post on Simon Willison's blog titled 'Seam Cutter'; the title alone does not say more.",
+        "whyItMatters": "From a well-known practitioner blog; check the post for details.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 645,
+    "afterDedupe": 487,
+    "ranked": 50
+  }
+}

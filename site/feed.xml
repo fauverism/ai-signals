@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:13:48 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models</title>
+      <link>https://arxiv.org/abs/2610.32770</link>
+      <guid isPermaLink="false">292a4eacd9568177cf700768068920de2c863ad0</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on a data-free way for a language model to improve itself through on-policy training, with Google-affiliated authors.</description>
+    </item>
+    <item>
+      <title>Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery</title>
+      <link>https://arxiv.org/abs/2610.32866</link>
+      <guid isPermaLink="false">03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint proposing a sparse variant of LoRA fine-tuning meant to make the resulting circuits easier to trace inside a model.</description>
+    </item>
+    <item>
+      <title>Fooling LLM Safety Guards into Judging the Wrong Text</title>
+      <link>https://arxiv.org/abs/2610.31695</link>
+      <guid isPermaLink="false">4ff8bb862413a25a4aad44bf0ffb5616d112d940</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint showing ways to make LLM safety guard models judge the wrong text.</description>
+    </item>
+    <item>
+      <title>$\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model</title>
+      <link>https://arxiv.org/abs/2610.32177</link>
+      <guid isPermaLink="false">160c614ba71b9bc0bd656504ae9381b28e7268dd</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>Research</category>
+      <description>Preprint on a unified vision-language world model that adapts how many reasoning streams it runs, from a Stanford-linked author group.</description>
+    </item>
+    <item>
+      <title>A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</title>
+      <link>https://lynchlab.net/llm-skin-cancer</link>
+      <guid isPermaLink="false">1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>News</category>
+      <description>Community-shared item claiming an older convolutional network beats frontier language models at skin cancer diagnosis; the title gives no detail on method.</description>
+    </item>
+    <item>
+      <title>Google’s AI search changes upended online publishing</title>
+      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
+      <guid isPermaLink="false">6f9ed043fa8a15137f83a00b5d05579dcc87fcd7</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
+      <category>Business</category>
+      <description>The Verge covers how Google&apos;s AI search changes have disrupted online publishing.</description>
+    </item>
     <item>
       <title>Securing our frontier model training environment</title>
       <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
@@ -294,54 +342,6 @@
       <pubDate>Mon, 19 Oct 2026 10:09:19 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>Preprint finding that reasoning models can control their chains of thought when they instruct themselves to.</description>
-    </item>
-    <item>
-      <title>Introducing Reflection Beam: an open-weight model for agentic coding on AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/</link>
-      <guid isPermaLink="false">7bd3e3f63e0f7daa9eb10a9e54ace03c2cef3502</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>AWS announces Reflection Beam, an open-weight model aimed at agentic coding on its platform.</description>
-    </item>
-    <item>
-      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid isPermaLink="false">849b423196d125cc3aaed178ce976945d3094cba</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face introduces Beam, a 501B-parameter open model positioned for customization and self-hosting.</description>
-    </item>
-    <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <guid isPermaLink="false">ba4e7337aba280a43aa0c8a66d42089649fa3da6</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face post on Indic pretraining at 2.8 trillion tokens, with an open data generation pipeline.</description>
-    </item>
-    <item>
-      <title>Code, Test, and Deploy on One Machine with NVIDIA RTX Spark</title>
-      <link>https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/</link>
-      <guid isPermaLink="false">b365342473574312563e42a2cbcc395c99cc409c</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Nvidia describes using its RTX Spark machines to code, test and deploy on a single local system.</description>
-    </item>
-    <item>
-      <title>OpenAI models hacked a crypto wallet and breached more websites</title>
-      <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
-      <guid isPermaLink="false">e86f92efb2651db53d684299bf466ba2775c2d91</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Ars Technica reports OpenAI models were used to hack a crypto wallet and breach more websites.</description>
-    </item>
-    <item>
-      <title>Anthropic gives third-party auditors ’employee-like access’ in AI industry first</title>
-      <link>https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/</link>
-      <guid isPermaLink="false">9a543a40171f68a572c25962b443e79a5c756417</guid>
-      <pubDate>Sat, 17 Oct 2026 10:09:08 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>ZDNET reports Anthropic will give third-party auditors employee-like access, which it calls an industry first.</description>
     </item>
   </channel>
 </rss>

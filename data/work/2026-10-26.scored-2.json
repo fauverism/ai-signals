@@ -1,0 +1,355 @@
+{
+ "date": "2026-10-26",
+ "batch": 2,
+ "items": [
+  {
+   "id": "187ffa93879a808f3f31962352a6eb076cc511fe",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "3d-reconstruction",
+    "diffusion"
+   ],
+   "summary": "Preprint using diffusion models to restore compressed multi-view images for consistent 3D reconstruction.",
+   "whyItMatters": "Niche 3D vision method.",
+   "organization": "academic"
+  },
+  {
+   "id": "1a31717bda9ef3cf24f2614d65d3c48a7d08b28d",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "segmentation"
+   ],
+   "summary": "Preprint applying an attention U-Net with preprocessing to nucleus segmentation in histology images.",
+   "whyItMatters": "Routine application paper.",
+   "organization": "academic"
+  },
+  {
+   "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
+   "scores": {
+    "importance": 5,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 3
+   },
+   "category": "News",
+   "tags": [
+    "medical-ai",
+    "benchmark",
+    "cnn"
+   ],
+   "summary": "Community-shared item claiming an older convolutional network beats frontier language models at skin cancer diagnosis; the title gives no detail on method.",
+   "whyItMatters": "A reminder to benchmark specialized models against general LLMs.",
+   "organization": "unknown"
+  },
+  {
+   "id": "c45c68dc9fe27319a2fa5d0add6b78dd9d68ee22",
+   "scores": {
+    "importance": 5,
+    "trend": 3,
+    "novelty": 3,
+    "credibility": 3
+   },
+   "category": "Business",
+   "tags": [
+    "pricing",
+    "llm-api"
+   ],
+   "summary": "Community discussion asking why OpenAI and Anthropic lowered LLM prices by large amounts within months.",
+   "whyItMatters": "Price drops change build-versus-buy math for API users.",
+   "organization": "openai"
+  },
+  {
+   "id": "3cfe81138dd2c228dd94890e3608e05930627b1a",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 3
+   },
+   "category": "News",
+   "tags": [
+    "open-source",
+    "policy"
+   ],
+   "summary": "Community thread about a subreddit banning solo projects and projects that use LLMs.",
+   "whyItMatters": "Shows rising friction over AI-assisted open-source work.",
+   "organization": "reddit"
+  },
+  {
+   "id": "e66601c5b3c1a8f8f431f6954c9000c1e37fe1ca",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 3
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "documentation",
+    "git",
+    "agents"
+   ],
+   "summary": "Show HN project for recording deliberation between humans and AI as decision records versioned in Git.",
+   "whyItMatters": "Possible way to keep an audit trail of AI-assisted decisions.",
+   "organization": "unknown"
+  },
+  {
+   "id": "eefc51b1332774459277cdb05453a99bd5ef60be",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "engineering-management",
+    "newsletter"
+   ],
+   "summary": "Newsletter issue on engineering topics including governance and a weekly reading list.",
+   "whyItMatters": "General engineering reading; little AI-specific.",
+   "organization": "refactoring"
+  },
+  {
+   "id": "4944c1d1afa9e5261c149daf5990137c5d9e0a0f",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "journalism",
+    "agents"
+   ],
+   "summary": "WIRED reports on AI agents that attempt to work as journalists.",
+   "whyItMatters": "Shows how automated reporting is moving into practice.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6d8ba0a0b78a2116067a1ec23e0c838b78552242",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "media",
+    "synthetic-voice"
+   ],
+   "summary": "WIRED profile of an AI radio host that speaks Spanish and is gaining listeners.",
+   "whyItMatters": "An example of synthetic media reaching real audiences.",
+   "organization": "unknown"
+  },
+  {
+   "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "video-generation",
+    "xai"
+   ],
+   "summary": "TechCrunch reports Grok has released the first seven minutes of an AI-generated work called 'Odyssey'.",
+   "whyItMatters": "Gauges how far long-form generated video has come.",
+   "organization": "xai"
+  },
+  {
+   "id": "b23877b88e691b4d2863ccf743aa1c192e2503c7",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Business",
+   "tags": [
+    "adoption",
+    "economics"
+   ],
+   "summary": "TechCrunch relays an Apollo economist's view that most companies see no financial return from AI so far.",
+   "whyItMatters": "Useful counterpoint when making the ROI case for AI projects.",
+   "organization": "apollo"
+  },
+  {
+   "id": "26fd38f53c39c5d1491b5b6fd340ac4a563ebff9",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "tools"
+   ],
+   "summary": "Short post on Simon Willison's blog titled 'Seam Cutter'; the title alone does not say more.",
+   "whyItMatters": "From a well-known practitioner blog; check the post for details.",
+   "organization": "unknown"
+  },
+  {
+   "id": "b3c46e2b3d9c824f74cb7ac4d99a75d6b99d72fb",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "newsletter"
+   ],
+   "summary": "Newsletter issue from The Signal rounding up recent AI items.",
+   "whyItMatters": "A roundup; scan for items you missed.",
+   "organization": "unknown"
+  },
+  {
+   "id": "80da1bb93bef4d8cf75f0aeb546901a8800a685a",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "agents",
+    "reliability",
+    "production"
+   ],
+   "summary": "Article on why production agents keep answering after their tool calls fail.",
+   "whyItMatters": "Practical failure mode to guard against in agent deployments.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6bffee9c13e86ea3f1f18819c3eafd5a96730630",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "open-source",
+    "policy"
+   ],
+   "summary": "The Verge reports that a large open-source subreddit banned AI use and some non-English speakers.",
+   "whyItMatters": "Tells maintainers how a big community is policing AI contributions.",
+   "organization": "reddit"
+  },
+  {
+   "id": "6f9ed043fa8a15137f83a00b5d05579dcc87fcd7",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "search",
+    "publishing"
+   ],
+   "summary": "The Verge covers how Google's AI search changes have disrupted online publishing.",
+   "whyItMatters": "Matters if your traffic or content depends on search.",
+   "organization": "google"
+  },
+  {
+   "id": "fa16752b94693b77b45898ac866761978d57d3ec",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "data-architecture",
+    "enablement"
+   ],
+   "summary": "Guide to six architectural patterns for preparing data for AI work.",
+   "whyItMatters": "A checklist-style reference for data platform teams.",
+   "organization": "unknown"
+  },
+  {
+   "id": "36a01b353c30be0afecd11801ea9c23bf478840f",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "kimi",
+    "podcast"
+   ],
+   "summary": "Podcast episode touching on Kimi K3.1 Pro, cyber risks and a model called Muse.",
+   "whyItMatters": "Audio commentary on recent model news; low on new facts.",
+   "organization": "moonshot"
+  },
+  {
+   "id": "b887e331858f6b4b2bc442f1ffb2762f1c7b102e",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "data-centers",
+    "policy"
+   ],
+   "summary": "WIRED piece on what US opposition to data centers can learn from other countries.",
+   "whyItMatters": "Local resistance can affect where compute gets built.",
+   "organization": "unknown"
+  },
+  {
+   "id": "ea6fd23e4b6178fa19888b5d50da5c87e92ed917",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 3
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "alignment",
+    "forum"
+   ],
+   "summary": "Alignment Forum post titled 'Setting the Scene' marked as a public first version.",
+   "whyItMatters": "Early-draft community post; low signal for now.",
+   "organization": "unknown"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "611184d5aa6fabe3d7214e2b387434ac811f0cb6",
+   "reason": "listicle"
+  }
+ ],
+ "clusterLabels": [],
+ "fetches": []
+}

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-26",
+    "leadTitle": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+    "count": 28
+  },
+  {
     "date": "2026-10-24",
     "leadTitle": "Securing our frontier model training environment",
     "count": 47

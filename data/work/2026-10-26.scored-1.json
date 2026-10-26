@@ -1,0 +1,526 @@
+{
+ "date": "2026-10-26",
+ "batch": 1,
+ "items": [
+  {
+   "id": "03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "interpretability",
+    "lora",
+    "circuits"
+   ],
+   "summary": "Preprint proposing a sparse variant of LoRA fine-tuning meant to make the resulting circuits easier to trace inside a model.",
+   "whyItMatters": "Useful if you audit fine-tuned models and want adapters you can inspect.",
+   "organization": "academic"
+  },
+  {
+   "id": "160c614ba71b9bc0bd656504ae9381b28e7268dd",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "world-models",
+    "vision-language"
+   ],
+   "summary": "Preprint on a unified vision-language world model that adapts how many reasoning streams it runs, from a Stanford-linked author group.",
+   "whyItMatters": "A look at where multimodal world models are heading; no code claim visible.",
+   "organization": "stanford"
+  },
+  {
+   "id": "177cb9c7a02c2b9639274c398edd3779f0d7692b",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "evaluation",
+    "llm-judge"
+   ],
+   "summary": "Preprint testing whether language models can tell tampered machine learning papers from sound ones.",
+   "whyItMatters": "Relevant if you use LLMs to screen or review research.",
+   "organization": "academic"
+  },
+  {
+   "id": "179600ef5e249a57d4c585d4bcfe4293668d888c",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "long-context",
+    "attention"
+   ],
+   "summary": "Preprint arguing that attention head dimension affects how well language models retrieve information from long contexts.",
+   "whyItMatters": "Worth a read if you pick architectures for long-context retrieval.",
+   "organization": "academic"
+  },
+  {
+   "id": "1a61547e912c8b25e6eff21a6d9a1c06cf14b63d",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "benchmark",
+    "agents",
+    "memory"
+   ],
+   "summary": "Benchmark preprint for agents that must keep spatiotemporal memory over long horizons, paired with a harness for agent testing.",
+   "whyItMatters": "A new yardstick for agent memory; check whether the data is released.",
+   "organization": "academic"
+  },
+  {
+   "id": "288ffb8994fdec3b748dd05af5f08f05059a2969",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "safety",
+    "vision-language",
+    "refusal"
+   ],
+   "summary": "Preprint mapping where in a vision-language model's layers safety behavior sits and how refusal can be steered in both directions.",
+   "whyItMatters": "Shows safety behavior can be localized, which cuts both ways for defenders.",
+   "organization": "academic"
+  },
+  {
+   "id": "292a4eacd9568177cf700768068920de2c863ad0",
+   "scores": {
+    "importance": 5,
+    "trend": 2,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "self-training",
+    "post-training"
+   ],
+   "summary": "Preprint on a data-free way for a language model to improve itself through on-policy training, with Google-affiliated authors.",
+   "whyItMatters": "If it holds up, cheaper post-training without curated data.",
+   "organization": "google"
+  },
+  {
+   "id": "3fc7397bac755addf770490768247c7c06ff91a9",
+   "scores": {
+    "importance": 2,
+    "trend": 2,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "computer-vision",
+    "dino"
+   ],
+   "summary": "Preprint combining DINO features with image structure to discover object parts.",
+   "whyItMatters": "Niche vision result; skim only if you do part segmentation.",
+   "organization": "academic"
+  },
+  {
+   "id": "4fa18f257c6f168c2f2590683e41492ab4ef16a1",
+   "scores": {
+    "importance": 4,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "reasoning",
+    "chain-of-thought",
+    "interpretability"
+   ],
+   "summary": "Preprint on reading a model's internal representations early to analyze and steer its chain-of-thought trajectories.",
+   "whyItMatters": "May help detect reasoning that goes off track before it finishes.",
+   "organization": "academic"
+  },
+  {
+   "id": "cb2b8c40689552b1e7070182c839143396c95c20",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video-understanding",
+    "streaming"
+   ],
+   "summary": "Preprint on a model that reasons and responds at the same time while watching streaming video proactively.",
+   "whyItMatters": "Relevant to live video assistants; early research stage.",
+   "organization": "academic"
+  },
+  {
+   "id": "16f9b05295141c78f6d06900b502b5aceea48851",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "datasets",
+    "annotation"
+   ],
+   "summary": "Preprint on merging vision datasets across tasks and annotating them semi-automatically.",
+   "whyItMatters": "Niche data-prep method for vision teams.",
+   "organization": "academic"
+  },
+  {
+   "id": "1902660143cbb833aad93bfd1ecb4c8c77f26aad",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "histopathology"
+   ],
+   "summary": "Preprint on a vision-language model aimed at decision-making in histopathology.",
+   "whyItMatters": "Narrow clinical imaging work; far from deployment.",
+   "organization": "academic"
+  },
+  {
+   "id": "1aefe6c3ed9299b2fc02f2e02d7c94ba5c8d50b2",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "reasoning",
+    "faithfulness"
+   ],
+   "summary": "Preprint quantifying how strongly reasoning models follow hints placed in their prompts.",
+   "whyItMatters": "A measure of prompt-hint sensitivity that bears on trusting model reasoning.",
+   "organization": "academic"
+  },
+  {
+   "id": "1f5cb85e1ceb1451103469e46dc37878fed99ca9",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "architecture",
+    "looped-models"
+   ],
+   "summary": "Preprint on why agreement, not normalisation, keeps added depth useful in looped language models.",
+   "whyItMatters": "Architecture detail for those studying weight-shared transformers.",
+   "organization": "academic"
+  },
+  {
+   "id": "1ff5f83d67190079faf589d96d51b37af69ff664",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "image-generation",
+    "energy-based-models"
+   ],
+   "summary": "Preprint scaling transformer-based energy models to high-quality image synthesis, with Yilun Du among the authors.",
+   "whyItMatters": "An alternative to diffusion worth tracking if results replicate.",
+   "organization": "academic"
+  },
+  {
+   "id": "2497ab46890c6383e7106365d2010d91e0ec66ce",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "peer-review",
+    "prediction"
+   ],
+   "summary": "Preprint on how well paper acceptance can be predicted.",
+   "whyItMatters": "Of interest to authors and reviewers; limited practical use.",
+   "organization": "academic"
+  },
+  {
+   "id": "290feb589e368b0a5ccccc2c234f3add34db09d0",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "vision-transformers",
+    "inference"
+   ],
+   "summary": "Preprint on a training-free speedup for decoding overlapping tiles in vision transformers.",
+   "whyItMatters": "Could cut inference cost for tiled image pipelines.",
+   "organization": "academic"
+  },
+  {
+   "id": "2aa62840530cf77456eb9ff857f66891a2ed0505",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "edge",
+    "agriculture"
+   ],
+   "summary": "Preprint benchmarking beet-root detection models on edge devices.",
+   "whyItMatters": "Narrow agricultural case; a useful edge deployment reference.",
+   "organization": "academic"
+  },
+  {
+   "id": "391459bd642e8564a140a8931b541b65ded651af",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "vision-transformers",
+    "scientific-ml"
+   ],
+   "summary": "Preprint adapting vision transformers to data stored in Fourier space.",
+   "whyItMatters": "Matters mainly to imaging scientists.",
+   "organization": "academic"
+  },
+  {
+   "id": "44f0aa8d1722b8af5c114ab8bcc0c81216c70251",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "self-supervised",
+    "representation-learning"
+   ],
+   "summary": "Single-author preprint on predictor width in masked latent prediction.",
+   "whyItMatters": "Theory-leaning; of limited use for practitioners.",
+   "organization": "academic"
+  },
+  {
+   "id": "460b4b84e28d3895728d53ac24e3fbd5675b369d",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "rlhf",
+    "alignment",
+    "survey"
+   ],
+   "summary": "Survey-style preprint covering the mathematics and algorithms behind aligning language models with human feedback.",
+   "whyItMatters": "A reference text for anyone implementing RLHF-style training.",
+   "organization": "academic"
+  },
+  {
+   "id": "4ff8bb862413a25a4aad44bf0ffb5616d112d940",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "safety",
+    "guardrails",
+    "adversarial"
+   ],
+   "summary": "Preprint showing ways to make LLM safety guard models judge the wrong text.",
+   "whyItMatters": "If you rely on a guard model, test it against this kind of attack.",
+   "organization": "academic"
+  },
+  {
+   "id": "56d8404a84d1f28b8c4fbc65b7f6bec58c7f3068",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "concept-erasure",
+    "steering"
+   ],
+   "summary": "Preprint proposing a nonlinear approach to erasing and steering concepts in model representations.",
+   "whyItMatters": "Relevant to bias removal and controlled generation work.",
+   "organization": "academic"
+  },
+  {
+   "id": "6d93c65395ba15fff44bc13dcd9a9bb34c66edee",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "datasets",
+    "data-quality"
+   ],
+   "summary": "Audit of label and data quality problems in the RVL-CDIP document dataset.",
+   "whyItMatters": "Check benchmark numbers on this dataset with care.",
+   "organization": "academic"
+  },
+  {
+   "id": "031cdc8a0973970eb4cf098be30ebed3b0410fa7",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "self-supervised",
+    "spectroscopy"
+   ],
+   "summary": "Preprint on pretraining models on Raman spectra from several domains with physics-aware objectives.",
+   "whyItMatters": "Niche scientific use.",
+   "organization": "academic"
+  },
+  {
+   "id": "0352dc46a76d6a45011cb3d625ee9be6762fc8a7",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "augmentation"
+   ],
+   "summary": "Preprint on data augmentation choices for DINO in glaucoma classification.",
+   "whyItMatters": "Narrow medical imaging study.",
+   "organization": "academic"
+  },
+  {
+   "id": "0d082e5bd5b8ccd4792de492df8b2be73aa3329b",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "autonomous-driving",
+    "control"
+   ],
+   "summary": "Preprint on a lane-keeping control framework for vehicles using only vision.",
+   "whyItMatters": "Control-engineering paper with little LLM relevance.",
+   "organization": "academic"
+  },
+  {
+   "id": "0d36fc626c76669c1903dd64220f1a19361d2c11",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "image-editing",
+    "diffusion"
+   ],
+   "summary": "Preprint on controlling several subjects continuously and locally when editing images.",
+   "whyItMatters": "Incremental gain for image editing tools.",
+   "organization": "academic"
+  },
+  {
+   "id": "1364b8b9383c5cdb2c61b14c0119f8ad5eee87ce",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "video",
+    "computer-vision"
+   ],
+   "summary": "Preprint on real-time rectification of wide-angle video using learned spatiotemporal cues.",
+   "whyItMatters": "Applies to camera pipelines; narrow.",
+   "organization": "academic"
+  },
+  {
+   "id": "13b31f0799320f6b99126c90630f32733129e25c",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "robotics",
+    "simulation",
+    "agents"
+   ],
+   "summary": "Preprint using an agentic pipeline to turn robot demonstrations into interactive simulated worlds.",
+   "whyItMatters": "Could ease building robot training environments from real footage.",
+   "organization": "academic"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}
