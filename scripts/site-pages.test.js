@@ -39,7 +39,7 @@ test('the front page and the edition page have the same sections', async () => {
 test('every page links the feed, has an About link in the footer, and loads the shared stylesheet', async () => {
   for (const page of ['index.html', 'edition.html', 'archive.html', 'about.html', 'methodology.html', 'subscribe.html']) {
     const html = await read(page);
-    assert.match(html, /<link rel="alternate" type="application\/rss\+xml" title="The Intelligencer" href="feed\.xml">/, `${page}: feed autodiscovery`);
+    assert.match(html, /<link rel="alternate" type="application\/rss\+xml" title="AI Broadside" href="feed\.xml">/, `${page}: feed autodiscovery`);
     const footer = html.slice(html.indexOf('<footer'));
     if (page !== 'about.html') assert.match(footer, /href="about\.html"/, `${page}: footer links About`);
     assert.match(footer, /href="feed\.xml"/, `${page}: footer links RSS`);

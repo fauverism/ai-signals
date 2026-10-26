@@ -50,7 +50,7 @@ export function subscribeMeta() {
   return [
     `<meta name="description" content="${d}">`,
     '<meta property="og:type" content="website">',
-    '<meta property="og:site_name" content="The Intelligencer">',
+    '<meta property="og:site_name" content="AI Broadside">',
     `<meta property="og:title" content="${t}">`,
     `<meta property="og:description" content="${d}">`,
     '<meta name="twitter:card" content="summary">',

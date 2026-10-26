@@ -1,4 +1,4 @@
-/* The Intelligencer. Plain CSS, no build step. Tokens first, then base, layout, components.
+/* AI Broadside. Plain CSS, no build step. Tokens first, then base, layout, components.
    The look: a colonial-era gazette. Cream newsprint, one red ink, a blackletter nameplate, Caslon text,
    fat-face headlines, double rules and hairline column rules. */
 
@@ -148,6 +148,8 @@ main:focus { outline: none; }
   font-family: var(--font-nameplate); font-weight: 700; font-size: clamp(2.75rem, 1.4rem + 7vw, 5.75rem);
   line-height: 1; letter-spacing: 0; margin: 0; text-wrap: balance;
 }
+/* In blackletter a capital I reads as a J, so "AI" is set in the fat face. */
+.wordmark .ai { font-family: var(--font-display); font-weight: 400; font-size: 0.82em; letter-spacing: 0.03em; margin-inline-end: 0.14em; }
 .wordmark a { display: inline-flex; align-items: center; min-block-size: var(--touch); text-decoration: none; }
 .wordmark a:hover { color: inherit; }
 .motto { font-style: italic; font-size: var(--fs-sm); color: var(--fg-muted); text-wrap: balance; }

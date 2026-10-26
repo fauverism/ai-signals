@@ -36,7 +36,7 @@ test('feed is well-formed RSS 2.0 with a channel and a self link', () => {
   const rss = parser.parse(buildFeed({ siteUrl: `${SITE}/`, editions: editions(2) })).rss;
   assert.equal(rss['@_version'], '2.0');
   const c = rss.channel;
-  assert.equal(c.title, 'The Intelligencer');
+  assert.equal(c.title, 'AI Broadside');
   assert.equal(c.link, `${SITE}/`);
   assert.equal(c['atom:link']['@_href'], `${SITE}/feed.xml`);
   assert.equal(c['atom:link']['@_rel'], 'self');

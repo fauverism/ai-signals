@@ -31,7 +31,7 @@ async function main() {
 
   status.hidden = true;
   renderEdition(edition, isEdition ? new Date(edition.generatedAt) : new Date());
-  if (isEdition) document.title = `The Intelligencer, ${fmtEditionDate(edition.date)}`;
+  if (isEdition) document.title = `AI Broadside, ${fmtEditionDate(edition.date)}`;
   showIssue(edition.date);
 }
 

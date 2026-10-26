@@ -64,7 +64,7 @@ export function ogSvg({ dateLabel, headline, tagline }) {
   <rect width="${OG_WIDTH}" height="${OG_HEIGHT}" fill="#f3ead3"/>
   <rect x="22" y="22" width="${OG_WIDTH - 44}" height="${OG_HEIGHT - 44}" fill="none" stroke="#231c14" stroke-width="4"/>
   <rect x="34" y="34" width="${OG_WIDTH - 68}" height="${OG_HEIGHT - 68}" fill="none" stroke="#231c14" stroke-width="1.5"/>
-  <text x="${OG_WIDTH / 2}" y="140" font-family="UnifrakturCook" font-weight="700" font-size="92" fill="#231c14" text-anchor="middle">The Intelligencer</text>
+  <text x="${OG_WIDTH / 2}" y="140" font-family="UnifrakturCook" font-weight="700" font-size="92" fill="#231c14" text-anchor="middle"><tspan font-family="${HEADLINE_FAMILY}" font-weight="400" font-size="76" letter-spacing="2" dx="-6">AI</tspan><tspan dx="16">Broadside</tspan></text>
   <line x1="72" y1="168" x2="${OG_WIDTH - 72}" y2="168" stroke="#231c14" stroke-width="4"/>
   <line x1="72" y1="177" x2="${OG_WIDTH - 72}" y2="177" stroke="#231c14" stroke-width="1.5"/>
   <text x="${OG_WIDTH / 2}" y="214" font-size="24" letter-spacing="3" fill="#231c14" text-anchor="middle">${esc(dateLabel.toUpperCase())}</text>
