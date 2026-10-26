@@ -5,7 +5,7 @@ export const FEED_EDITIONS = 7;
 export const SEARCH_EDITIONS = 30;
 export const OG_KEEP = 14;
 export const OG_DESCRIPTION_MAX = 300;
-export const PAGES = ['', 'archive.html', 'about.html', 'methodology.html', 'subscribe.html'];
+export const PAGES = ['', 'archive.html', 'about.html', 'methodology.html'];
 
 export const xmlEscape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&apos;');
 const attr = xmlEscape;

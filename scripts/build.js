@@ -13,7 +13,7 @@
 // The site URL comes from site/config.js (SITE_URL), or the SITE_URL environment variable.
 import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { SITE_URL as CONFIG_SITE_URL, SUBSCRIBE_HEADLINE } from '../site/config.js';
+import { SITE_URL as CONFIG_SITE_URL, SITE_TAGLINE } from '../site/config.js';
 import { renderOg } from './lib/og.js';
 import { schemaErrors, root } from './lib/schemas.js';
 import { OG_KEEP, SEARCH_EDITIONS, buildFeed, buildSearchIndex, buildSitemap, longDate, ogImagePath, ogMeta, stampOgMeta } from './lib/site-build.js';
@@ -112,7 +112,7 @@ for (const [name, text] of Object.entries(outputs)) {
   await mkdir(path.dirname(path.join(outDir, name)), { recursive: true });
   await writeFile(path.join(outDir, name), text);
 }
-await writeFile(png, renderOg({ dateLabel: longDate(latest.date), headline: latest.lead.title, tagline: SUBSCRIBE_HEADLINE }));
+await writeFile(png, renderOg({ dateLabel: longDate(latest.date), headline: latest.lead.title, tagline: SITE_TAGLINE }));
 
 // Keep the newest few preview images; each day has its own URL so link previews don't go stale.
 const images = (await readdir(path.join(outDir, 'og')).catch(() => [])).filter((n) => /^\d{4}-\d{2}-\d{2}\.png$/.test(n)).sort().reverse();

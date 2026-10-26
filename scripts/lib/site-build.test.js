@@ -81,7 +81,7 @@ test('sitemap lists the static pages and one URL per edition', () => {
   const xml = buildSitemap({ siteUrl: `${SITE}/`, archive, latestDate: '2026-10-08' });
   const urls = parser.parse(xml).urlset.url;
   const locs = (Array.isArray(urls) ? urls : [urls]).map((u) => u.loc);
-  assert.deepEqual(locs, [`${SITE}/`, `${SITE}/archive.html`, `${SITE}/about.html`, `${SITE}/methodology.html`, `${SITE}/subscribe.html`, `${SITE}/edition.html?date=2026-10-08`, `${SITE}/edition.html?date=2026-10-07`]);
+  assert.deepEqual(locs, [`${SITE}/`, `${SITE}/archive.html`, `${SITE}/about.html`, `${SITE}/methodology.html`, `${SITE}/edition.html?date=2026-10-08`, `${SITE}/edition.html?date=2026-10-07`]);
   assert.ok(xml.includes('<loc>https://example.org/edition.html?date=2026-10-07</loc><lastmod>2026-10-07</lastmod>'));
 });
 
