@@ -5,7 +5,7 @@ export const FEED_EDITIONS = 7;
 export const SEARCH_EDITIONS = 30;
 export const OG_KEEP = 14;
 export const OG_DESCRIPTION_MAX = 300;
-export const PAGES = ['', 'archive.html', 'about.html', 'methodology.html', 'subscribe.html'];
+export const PAGES = ['', 'archive.html', 'about.html', 'methodology.html'];
 
 export const xmlEscape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&apos;');
 const attr = xmlEscape;
@@ -44,7 +44,7 @@ export function buildFeed({ siteUrl, editions }) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Intelligencer</title>
+    <title>AI Broadside</title>
     <link>${xmlEscape(`${base}/`)}</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
@@ -100,14 +100,14 @@ export function ogMeta({ siteUrl, edition }) {
   const image = attr(`${base}/${ogImagePath(edition.date)}`);
   return [
     '<meta property="og:type" content="website">',
-    '<meta property="og:site_name" content="The Intelligencer">',
+    '<meta property="og:site_name" content="AI Broadside">',
     `<meta property="og:title" content="${title}">`,
     `<meta property="og:description" content="${desc}">`,
     `<meta property="og:url" content="${attr(`${base}/`)}">`,
     `<meta property="og:image" content="${image}">`,
     '<meta property="og:image:width" content="1200">',
     '<meta property="og:image:height" content="630">',
-    `<meta property="og:image:alt" content="${attr(`The Intelligencer, ${longDate(edition.date)}: ${edition.lead.title}`)}">`,
+    `<meta property="og:image:alt" content="${attr(`AI Broadside, ${longDate(edition.date)}: ${edition.lead.title}`)}">`,
     '<meta name="twitter:card" content="summary_large_image">',
     `<meta name="twitter:title" content="${title}">`,
     `<meta name="twitter:description" content="${desc}">`,

@@ -8,9 +8,8 @@ The Node 20+ pipeline (ES modules, no framework). Scripts are deterministic: fet
 | `dedupe` | `dedupe.js` | dedupe, cluster, pre-score → `data/raw/<date>.deduped.json` |
 | `rank` | `rank.js` | `--prepare` batches, `--assemble` the Edition from Claude's scores, `--validate` after the note (see `prompts/rank-run.md`) |
 | `build` | `build.js` | `feed.xml`, `sitemap.xml`, `search-index.json`, the social preview PNG and the homepage's Open Graph tags, from the published editions (`--check` for staleness, `--dry` to preview, `--out`/`--data` for other locations) |
-| `check` | `validate.js`, `sync-subscribe.js --check`, `build.js --check`, `gate.js` | schemas, signup fallbacks, generated site files, then the publish gate (lead, ≥ 20 ranked, no duplicate URLs, every featured link answers HEAD with 2xx/3xx). Exit 2 = dead links dropped and the edition re-featured |
+| `check` | `validate.js`, `build.js --check`, `gate.js` | schemas, generated site files, then the publish gate (lead, ≥ 20 ranked, no duplicate URLs, every featured link answers HEAD with 2xx/3xx). Exit 2 = dead links dropped and the edition re-featured |
 | `test` | `*.test.js` | `node --test` unit tests |
-| `sync` | `sync-subscribe.js` | stamp `site/config.js` into the no-JS signup fallbacks in the HTML (`check` fails if they are stale) |
 | `serve` | `serve.js` | local static server for `/site` and `/data` (`--dry` previews a dry-run edition) |
 | `verify-sources` | `verify-sources.js` | regenerate `sources/sources.json` from `sources/candidates.json` |
 | `daily` | `daily.js` | prints how the daily run works; the run itself is `prompts/daily-run.md` |

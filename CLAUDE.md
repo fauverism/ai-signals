@@ -1,9 +1,9 @@
-# CLAUDE.md — The Intelligencer
+# CLAUDE.md — AI Broadside
 
-The Intelligencer (repo: ai-signals) is a daily aggregator of AI industry news, research, tutorials, tools
+AI Broadside (repo: ai-signals) is a daily aggregator of AI industry news, research, tutorials, tools
 and releases. It ranks links by **importance**, **trend momentum** and
-**novelty**, then features the best ones on a static site with a Buttondown
-newsletter signup.
+**novelty**, then features the best ones on a static site. A daily email draft
+is created in Buttondown for the owner to review and send.
 
 These rules apply to every session. Follow them unless the user explicitly
 overrides one.
@@ -62,8 +62,8 @@ written to JSON files so they are reviewable and reproducible.
 - Respect `prefers-reduced-motion` (no non-essential animation when set).
 - Support **light and dark themes** via `prefers-color-scheme` and CSS custom
   properties; both must meet contrast requirements.
-- Form fields (newsletter signup) have programmatic labels and accessible
-  error/success messaging.
+- Any form fields have programmatic labels and accessible error/success
+  messaging.
 - Meaningful link text; no "click here". Images need `alt` (or `alt=""` if
   decorative).
 
@@ -73,8 +73,7 @@ written to JSON files so they are reviewable and reproducible.
   or examples.
 - `BUTTONDOWN_API_KEY` comes from the environment only. Scripts must fail
   clearly if it is missing and must never print it.
-- The client-side signup form uses Buttondown's public form endpoint; the API
-  key must never reach `/site`.
+- The API key must never reach `/site`.
 - `.env` files stay gitignored. Redact secrets and tokens from `/data/logs`.
 
 ## Folder map

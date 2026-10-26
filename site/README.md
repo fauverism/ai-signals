@@ -8,9 +8,7 @@ The deployed site: plain HTML, CSS and vanilla JavaScript, no build step. Must m
 | `archive.html`, `js/archive.js`, `js/search.js` | Every edition newest first, plus search over the last 30 editions' titles, summaries and tags. The search index loads the first time the box is used; typing is debounced 150 ms; no library. |
 | `about.html` | The four scores and their weights in plain language, with a worked example. A test fails if its numbers drift from the code. |
 | `methodology.html` | How stories are collected, featured and limited. |
-| `subscribe.html` | A standalone signup page to link from social posts (has Open Graph and Twitter metadata). |
 | `config.js` | The newsletter's username, headline, subline, tags and confirmation wording, and the site URL. |
-| `components/subscribe.js`, `css/subscribe.css` | The signup form: inline after Top 5, in every footer, and on `subscribe.html`. |
 | `css/site.css` | Design tokens (palette, type scale, 4px spacing steps) and components. |
 | `js/lib.js`, `js/theme.js` | DOM and date helpers; the theme toggle (saved in `localStorage` inside try/catch). |
 | `fonts/` | Libre Caslon Text, Abril Fatface and UnifrakturCook as woff2 (SIL OFL 1.1, from Google Fonts), self-hosted; see `fonts/NOTICE.md`. |
@@ -23,18 +21,6 @@ npm run serve -- --dry     # preview the newest dry-run edition before anything 
 ```
 
 The pages fetch `../data/*.json`, so `/site` and `/data` must be served side by side (the dev server serves the repo root). To deploy `/site` on its own, publish `/data` next to it, or change `data-data-base` on `<html>`.
-
-## Newsletter signup
-
-Everything lives in `config.js`. To go live, change this one line, then run `npm run sync`:
-
-```js
-export const BUTTONDOWN_USERNAME = 'YOUR_USERNAME';
-```
-
-With JavaScript, `components/subscribe.js` renders each form from the config and submits it with `fetch` (`mode: "no-cors"`). Buttondown's answer can't be read from the browser, so the message ("Check your inbox to confirm your subscription") is a next step, not a confirmation. If the request can't leave (offline, blocked), the form falls back to a normal submit. Without JavaScript, a static copy inside `<noscript>` posts straight to Buttondown's hosted confirmation page.
-
-That static copy is generated from the same markup function by `npm run sync` and checked by `npm run check`, so it can't silently drift from `config.js`.
 
 ## Generated files (`npm run build`)
 
