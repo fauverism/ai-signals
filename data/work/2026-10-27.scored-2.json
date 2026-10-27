@@ -1,0 +1,544 @@
+{
+  "date": "2026-10-27",
+  "batch": 2,
+  "items": [
+    {
+      "id": "0c1d8654e403409de5ca30a7766bc298f0e27da7",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "ood-generalization"
+      ],
+      "summary": "Preprint presenting out-of-distribution generalization case studies across four domains.",
+      "whyItMatters": "Niche; useful as examples of generalization failures.",
+      "organization": "academic"
+    },
+    {
+      "id": "0f9b95960e9f60a11fed87f1faaf87c2f870a5a7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "federated-learning",
+        "statistics"
+      ],
+      "summary": "Preprint on nonparametric regression across federated clients whose data differ.",
+      "whyItMatters": "Theory-leaning federated learning work.",
+      "organization": "academic"
+    },
+    {
+      "id": "100789cff4438b06fc408325001d9e9ec095a782",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "flow-matching",
+        "generative-models"
+      ],
+      "summary": "Preprint extending discrete flow matching to structured action spaces via trajectory matching.",
+      "whyItMatters": "Niche generative-modeling method.",
+      "organization": "academic"
+    },
+    {
+      "id": "104f0e02876dfded9086b2294593b6e94dc7d6d7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "fine-tuning",
+        "data-selection"
+      ],
+      "summary": "Preprint on weighting fine-tuning data by contribution and diversity while staying close to a prior.",
+      "whyItMatters": "Data weighting could cut fine-tuning cost; verify on your data.",
+      "organization": "academic"
+    },
+    {
+      "id": "250e5d8f302445e732f11c3d93295dd5649f2f7e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "gpt-6",
+        "bug-detection",
+        "code-review"
+      ],
+      "summary": "OpenAI customer story on Greptile using a GPT-6 model to find bugs beyond what code review catches.",
+      "whyItMatters": "A vendor case study; shows a use case rather than new capability.",
+      "organization": "openai"
+    },
+    {
+      "id": "8ed93bec790144d55397bfd44b1812a9f10ebd2d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "sagemaker",
+        "edge",
+        "computer-vision"
+      ],
+      "summary": "AWS post on managing the lifecycle of computer vision models across device fleets with SageMaker SDK v3.",
+      "whyItMatters": "Relevant if you deploy vision models to edge fleets on AWS.",
+      "organization": "aws"
+    },
+    {
+      "id": "0f715e1693d7c6b7d219b2afbd429b317d5e50d8",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "prompt-caching",
+        "bedrock",
+        "agents"
+      ],
+      "summary": "AWS post describing prompt caching patterns for agent workloads that call OpenAI models on Amazon Bedrock.",
+      "whyItMatters": "Caching can cut cost and latency for repetitive agent prompts.",
+      "organization": "aws"
+    },
+    {
+      "id": "e5e4c3ae2b7984fd46d4694158614fde6cbde655",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "rag",
+        "bedrock",
+        "cdk"
+      ],
+      "summary": "AWS walkthrough for building agentic retrieval on a managed Bedrock Knowledge Base using CDK.",
+      "whyItMatters": "A deployable pattern for teams already on Bedrock.",
+      "organization": "aws"
+    },
+    {
+      "id": "188e9fbc4643b05cc710a2f1856ac1895e974d78",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "neuroscience",
+        "google"
+      ],
+      "summary": "Google announces a new AI Quest focused on mapping the human brain.",
+      "whyItMatters": "Mostly a program announcement; watch for datasets or tools.",
+      "organization": "google"
+    },
+    {
+      "id": "1bb838b3befa3587ab3ce38e59741790f5c22924",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "telemetry"
+      ],
+      "summary": "NVIDIA engineering post on Minerva, a system that uses telemetry to raise GPU utilization.",
+      "whyItMatters": "Ideas for fleet-level GPU monitoring if you run clusters.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "56260fcd11d47ed1a5c9b22cbca55ea4b8c31702",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nvidia",
+        "kubernetes",
+        "mission-control"
+      ],
+      "summary": "NVIDIA post on Mission Control 2.5, which adds automatic recovery for AI workloads on Kubernetes.",
+      "whyItMatters": "Fewer manual restarts for large training and inference clusters.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "research",
+        "academia"
+      ],
+      "summary": "OpenAI describes a program for working with academic communities on scientific understanding.",
+      "whyItMatters": "Check eligibility if you do academic research with OpenAI models.",
+      "organization": "openai"
+    },
+    {
+      "id": "64d59b55a8fb866695c8c1e923e768f9baf418cb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "workplace"
+      ],
+      "summary": "OpenAI post on how ChatGPT is being used more widely in workplace settings.",
+      "whyItMatters": "Product positioning; useful context for enterprise buyers.",
+      "organization": "openai"
+    },
+    {
+      "id": "8f2f08b6e197805b4e591a57a55e222a54e44f14",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "incident-response",
+        "openai"
+      ],
+      "summary": "OpenAI customer story on Ultrafast shortening incident investigations at OpenAI.",
+      "whyItMatters": "A vendor case study of AI-assisted incident response.",
+      "organization": "openai"
+    },
+    {
+      "id": "eb7708c5f537ab79bfe683ac06695862c6627f7a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "customer-story"
+      ],
+      "summary": "OpenAI customer story about Fanatics using its models for fan experiences.",
+      "whyItMatters": "Vendor marketing; little for practitioners.",
+      "organization": "openai"
+    },
+    {
+      "id": "4cd82f93193128969c95620957e4ddb1f1d65f4a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "gaussian-splatting",
+        "avatars"
+      ],
+      "summary": "Apple research on real-time animation of Gaussian-splat heads built on a large-scale reconstruction prior.",
+      "whyItMatters": "Real-time head avatars from a reusable prior; relevant to XR teams.",
+      "organization": "apple"
+    },
+    {
+      "id": "860db5a2c35b77183119a4d6bce41915ea0ad95b",
+      "scores": {
+        "importance": 3,
+        "trend": 5,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "WIRED reports that the Anthropic IPO prospectus omits many key figures.",
+      "whyItMatters": "Treat financial figures with care until the full filing is public.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "65068ccb5e36add350c2da8695fdef730141826d",
+      "scores": {
+        "importance": 3,
+        "trend": 5,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "The Verge lists unusual details found in Anthropic’s IPO filing.",
+      "whyItMatters": "Color on the filing; read the filing itself for substance.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "8d6b6f60f40a0ec4b6170df7dff17a703fc22a84",
+      "scores": {
+        "importance": 4,
+        "trend": 5,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "enterprise"
+      ],
+      "summary": "TechCrunch reports what the Anthropic IPO filing says about retaining enterprise customers.",
+      "whyItMatters": "Signals how a major lab plans to keep enterprise API buyers.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "932791a914954d081d85d466523930c29d1a5e3e",
+      "scores": {
+        "importance": 4,
+        "trend": 5,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "WIRED reads Anthropic’s IPO prospectus for details about how its business works.",
+      "whyItMatters": "The filing gives rare detail on a frontier lab’s economics.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "3dc689c9c8a58febf2e9f9ba3429d1cd570001c7",
+      "scores": {
+        "importance": 5,
+        "trend": 5,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "filing"
+      ],
+      "summary": "The Verge reports on Anthropic’s IPO filing and the company’s stated mission and plans.",
+      "whyItMatters": "A frontier lab going public changes vendor-risk assessments.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "95d5916fd6281c36fd630aa1b5d1165f56c19b02",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "kv-cache",
+        "workers-ai"
+      ],
+      "summary": "Hacker News discussion of a report that Workers AI served cross-request KV cache data in 155 responses of a GLM model.",
+      "whyItMatters": "If you serve multi-tenant inference, audit cache isolation.",
+      "organization": "cloudflare"
+    },
+    {
+      "id": "4cd4ee44e5c1016906156584f333dd36bf2fc4ff",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "abliteration",
+        "deepseek",
+        "open-weights"
+      ],
+      "summary": "Hacker News thread noting that five inference providers now host an abliterated DeepSeek model.",
+      "whyItMatters": "Shows how fast safety-removed variants spread to hosted services.",
+      "organization": "deepseek"
+    },
+    {
+      "id": "8cfee209e93b7c87bce3a6e95fa3e7022cf73087",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "on-device",
+        "open-source",
+        "assistant"
+      ],
+      "summary": "Show HN post for Hob, an open-source on-device alternative to cloud AI work assistants.",
+      "whyItMatters": "Worth a look if you need a local assistant for privacy reasons.",
+      "organization": "hob"
+    },
+    {
+      "id": "ceb5753da3fd014d6ef982e0f7d9380974a5cb44",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "apple",
+        "siri",
+        "ios"
+      ],
+      "summary": "ZDNET covers iOS 27.2, which brings Siri AI upgrades and dual-camera support for FaceTime.",
+      "whyItMatters": "Update affects Siri integrations on user devices.",
+      "organization": "apple"
+    },
+    {
+      "id": "93eb651fa249ea23799e96710d9a15b375f8beed",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "apple",
+        "siri",
+        "ios",
+        "macos"
+      ],
+      "summary": "Ars Technica reports Apple’s iOS and macOS 27.2 release with new Siri AI features and a new Music logo.",
+      "whyItMatters": "Update affects Siri integrations on user devices.",
+      "organization": "apple"
+    },
+    {
+      "id": "17fc845daf1a5258d7c8a078ae8482d6a761fbbf",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "data-centers",
+        "politics"
+      ],
+      "summary": "The Verge reports growing opposition to data centers across political lines in the US.",
+      "whyItMatters": "Local opposition can delay compute buildouts and raise costs.",
+      "organization": "data-center-industry"
+    },
+    {
+      "id": "f3c83035fbea9ccd73d1f8ebb2505720250bbdd2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "review"
+      ],
+      "summary": "WIRED’s writer tries a range of AI agents for a day and picks one.",
+      "whyItMatters": "One tester’s impression; run your own tasks before choosing.",
+      "organization": "multiple"
+    },
+    {
+      "id": "95af72b561e4ee73f718bbafdaf7ba89092b0f50",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "newsletter"
+      ],
+      "summary": "Latent Space newsletter summarizing the figures reported in Anthropic’s IPO filing.",
+      "whyItMatters": "A digest of reported numbers; confirm against the filing.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "62ecc12b68be504030a440a1810c5c8100c078b2",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "openai",
+        "coding",
+        "assistant"
+      ],
+      "summary": "TechCrunch reports OpenAI is turning its coding tools into an always-on personal assistant called dots.",
+      "whyItMatters": "Signals OpenAI moving coding agents into general assistants.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-f1cf23d21c",
+      "label": "Anthropic IPO filing coverage"
+    },
+    {
+      "id": "c-82413a5855",
+      "label": "Apple 27.2 Siri update"
+    }
+  ],
+  "fetches": []
+}

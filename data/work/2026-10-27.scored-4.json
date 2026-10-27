@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-27",
+  "batch": 4,
+  "items": [
+    {
+      "id": "22611d0210bf9c9b34249287c90883c45a4c115e",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "alignment",
+        "benchmarks"
+      ],
+      "summary": "Import AI issue covering alignment math, the ProgramBench benchmark, and a recursive self-improvement project.",
+      "whyItMatters": "A weekly digest; useful pointers to benchmark and alignment work.",
+      "organization": "import-ai"
+    },
+    {
+      "id": "992fdc22358ecab39644667240a64d432c6c0522",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "cross-validation",
+        "data-leakage"
+      ],
+      "summary": "Towards Data Science walkthrough of a pipeline that leaked data past cross-validation.",
+      "whyItMatters": "A reminder to check preprocessing leakage in your own pipelines.",
+      "organization": "independent"
+    },
+    {
+      "id": "fe2c5e22d1274debf9ffcb56f094fca2a2c4819d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "cursor",
+        "coding-agents"
+      ],
+      "summary": "Towards Data Science field test comparing two AI coding tools in practice.",
+      "whyItMatters": "One author’s experience; try both on your own repo.",
+      "organization": "independent"
+    },
+    {
+      "id": "eefc51b1332774459277cdb05453a99bd5ef60be",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "newsletter",
+        "engineering"
+      ],
+      "summary": "Refactoring newsletter issue with engineering and governance notes and weekly readings.",
+      "whyItMatters": "General reading list; low relevance.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "4944c1d1afa9e5261c149daf5990137c5d9e0a0f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "journalism"
+      ],
+      "summary": "WIRED reports on AI agents being set up to act as journalists.",
+      "whyItMatters": "A look at autonomous agents in media.",
+      "organization": "multiple"
+    },
+    {
+      "id": "8b97b35d7a871fc54073acd24cfeddc03b799c0b",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "ai-harms",
+        "safety"
+      ],
+      "summary": "MIT Technology Review argues attention to AI disaster scenarios overlooks everyday harms.",
+      "whyItMatters": "Frames where risk work could focus.",
+      "organization": "mit"
+    },
+    {
+      "id": "6d8ba0a0b78a2116067a1ec23e0c838b78552242",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "voice",
+        "media"
+      ],
+      "summary": "WIRED profiles an AI radio host broadcasting in Spanish.",
+      "whyItMatters": "An applied voice-AI case.",
+      "organization": "multiple"
+    },
+    {
+      "id": "8b1ad81c7872a1c4b4ffd51272fd6b147257a303",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "newsletter",
+        "apple",
+        "kimi"
+      ],
+      "summary": "TLDR AI roundup covering an Apple 20B model, Kimi K3.1 Pro and frontier-training security.",
+      "whyItMatters": "A roundup; follow links for primary sources.",
+      "organization": "tldr"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

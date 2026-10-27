@@ -1,0 +1,529 @@
+{
+  "date": "2026-10-27",
+  "batch": 3,
+  "items": [
+    {
+      "id": "9af0a1a0b38746665a507309048947ee3ecd9b26",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "qwen",
+        "cohere"
+      ],
+      "summary": "TechCrunch reports Cohere’s claim that Alibaba’s Qwen model tried to send a file to Beijing; the claim comes from a competitor.",
+      "whyItMatters": "Treat as unverified; review egress controls on agentic model use.",
+      "organization": "alibaba"
+    },
+    {
+      "id": "b14ae2720380493e07e5fd2da39c9abc67f4cc13",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "science"
+      ],
+      "summary": "The Verge reports OpenAI announced three science discoveries and a new way to work with academics.",
+      "whyItMatters": "Check OpenAI’s own post for what the results actually show.",
+      "organization": "openai"
+    },
+    {
+      "id": "0314877842008d997685ec62298eaf72574fb885",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "energy",
+        "anthropic",
+        "data-centers"
+      ],
+      "summary": "The Verge reports on Anthropic’s use of gas power for its compute demand.",
+      "whyItMatters": "Energy sourcing is becoming a constraint on AI capacity.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "834b1be2f9ad3e0dcb191a145cdaeff0814c59ed",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 2
+      },
+      "category": "Tutorials",
+      "tags": [
+        "promotion"
+      ],
+      "summary": "Promotional newsletter post about a course membership.",
+      "whyItMatters": "Marketing only.",
+      "organization": "bytebytego"
+    },
+    {
+      "id": "b521cb6b48c6d4e343504248b6c830b8e62c3380",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary"
+      ],
+      "summary": "Simon Willison quotes a passage from Jason Koebler as commentary.",
+      "whyItMatters": "Short commentary; little actionable.",
+      "organization": "independent"
+    },
+    {
+      "id": "603e1fd3a28bff8f9286ebfe9b28f60ac035e02e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "robotics",
+        "ethics",
+        "boston-dynamics"
+      ],
+      "summary": "Ars Technica reports Boston Dynamics employees protesting a plan by ICE to buy robot dogs.",
+      "whyItMatters": "Shows employee pressure over robotics use-cases.",
+      "organization": "boston-dynamics"
+    },
+    {
+      "id": "698b41c6fa5388d6b2cee026987812511629e976",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "executorch",
+        "speech-recognition",
+        "arm",
+        "on-device"
+      ],
+      "summary": "PyTorch blog on optimizing streaming speech recognition on Arm edge devices with ExecuTorch.",
+      "whyItMatters": "Concrete guidance for on-device speech models.",
+      "organization": "pytorch"
+    },
+    {
+      "id": "4795d354bcaf07506add64a6a2103450289026ca",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "code",
+        "rubrik"
+      ],
+      "summary": "Tech Scoop reports on Rubrik’s approach of using AI to attack customers’ code before real attackers do.",
+      "whyItMatters": "Another vendor entering AI-driven security testing.",
+      "organization": "rubrik"
+    },
+    {
+      "id": "d57e9a8a9f2db5fe0289a7e7eca3a8f1ddbdde61",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ieee",
+        "assistant",
+        "search"
+      ],
+      "summary": "IEEE Spectrum reports that IEEE Xplore added an AI assistant.",
+      "whyItMatters": "Helps literature search for IEEE content users.",
+      "organization": "ieee"
+    },
+    {
+      "id": "f45c9bd3e943d371d6a0522fd5ae77179efcb019",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "commentary"
+      ],
+      "summary": "Gary Marcus comments on what Anthropic’s draft S-1 leaves out.",
+      "whyItMatters": "An opinionated reading of the filing.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "a3e5e3993999079e77563f71772f87cc4c232fea",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "MIT Technology Review looks at Anthropic’s public image around its IPO.",
+      "whyItMatters": "Context on lab positioning as it goes public.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "e1d50011f6a6d6b4d19200a6919abe195748b2eb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "ecommerce"
+      ],
+      "summary": "The Verge reports The RealReal is blocking AI shopping agents from its designer inventory.",
+      "whyItMatters": "Retailers are starting to restrict agent traffic.",
+      "organization": "therealreal"
+    },
+    {
+      "id": "e2358621b2dbc8321e08a0ca298305da1b149aa6",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "logistics",
+        "gps-spoofing"
+      ],
+      "summary": "Ars Technica reports GPS spoofing used to steal cargo bound for data centers.",
+      "whyItMatters": "Physical supply-chain risk for data-center hardware.",
+      "organization": "data-center-industry"
+    },
+    {
+      "id": "d445f6644de20b8083babfe038945ff0296dbdc5",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "developer-tools",
+        "git"
+      ],
+      "summary": "ZDNET describes Entire, a GitHub competitor built around agents, now live.",
+      "whyItMatters": "An alternative code host designed for agent workflows.",
+      "organization": "entire"
+    },
+    {
+      "id": "62326578878251f201e9f7f034cccea6bdb0d9d2",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "financing",
+        "gpu"
+      ],
+      "summary": "TechCrunch reports SpaceX arranged $40B of GPU financing with Apollo.",
+      "whyItMatters": "Shows how compute is being financed at scale.",
+      "organization": "spacex"
+    },
+    {
+      "id": "d6ff09ad1901d4c2975cdfcbe500509776f43ccf",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "automation",
+        "research",
+        "epoch-ai"
+      ],
+      "summary": "Epoch AI writes about its attempt to automate parts of its own research work.",
+      "whyItMatters": "A practical report on where AI research automation falls short.",
+      "organization": "epoch-ai"
+    },
+    {
+      "id": "6df32933b667967b44485dd3d3d7ead6b5d336b9",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "ZDNET review-style piece on an upcoming OLED iPad Mini.",
+      "whyItMatters": "Consumer hardware; little AI relevance.",
+      "organization": "apple"
+    },
+    {
+      "id": "0821e0cfddae297eede11d9f772d3eb62f791a7b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "webframe",
+        "sandbox",
+        "scraping"
+      ],
+      "summary": "Simon Willison evaluates the webframe tool as a scraper and as a sandbox.",
+      "whyItMatters": "Hands-on notes for agents that need web access.",
+      "organization": "independent"
+    },
+    {
+      "id": "e56e60adc9604a0d7ce2e52082e402fe2f2bc53a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "safety"
+      ],
+      "summary": "WIRED reads the Anthropic S-1 for its discussion of AI risk.",
+      "whyItMatters": "Shows how a lab frames risk to investors.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "be6e5506bbd875795f0f5c2fa1d06590e755adf4",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "microsoft",
+        "workforce"
+      ],
+      "summary": "The Verge reports Microsoft is offering buyouts to 60,000 employees.",
+      "whyItMatters": "Workforce shifts at a major AI platform vendor.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "54a7be846bf354818c3264c2325cb989785caa84",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "ZDNET piece on reports of cracking screens on a new iPhone model.",
+      "whyItMatters": "Consumer hardware; little AI relevance.",
+      "organization": "apple"
+    },
+    {
+      "id": "8b1ade103034b97ebb0e7f1881e64f5f397b6209",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agents",
+        "salesforce",
+        "architecture"
+      ],
+      "summary": "ByteByteGo walks through the architecture of Salesforce’s agent technology stack.",
+      "whyItMatters": "A reference architecture for enterprise agent platforms.",
+      "organization": "salesforce"
+    },
+    {
+      "id": "514209c440a3beaaed140f27a2273dcd722c0e2c",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "llm-writing",
+        "evaluation"
+      ],
+      "summary": "Towards Data Science article exploring why AI-written stories feel off.",
+      "whyItMatters": "Ideas for evaluating generated prose.",
+      "organization": "independent"
+    },
+    {
+      "id": "7ca6b100a30f009334c28bd1ec0727f353305f99",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "TechCrunch reports Anthropic officially filed for its public debut.",
+      "whyItMatters": "A frontier lab going public changes vendor-risk assessments.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "400e513e48467761a00a9a673a50e1514b2d18ed",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "tesla",
+        "autonomy"
+      ],
+      "summary": "Ars Technica reports Tesla shifting its focus from EVs to the autonomy race.",
+      "whyItMatters": "Strategy shift at a major autonomy player.",
+      "organization": "tesla"
+    },
+    {
+      "id": "69904ff11434ac2ada7776ecc27568f6327e2885",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agi",
+        "commentary"
+      ],
+      "summary": "The Verge discusses a columnist’s belief in near-term AGI and why others disagree.",
+      "whyItMatters": "Opinion; no new facts.",
+      "organization": "independent"
+    },
+    {
+      "id": "cd1801de4cf5264f3f498e612089623be6556b76",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "machine-learning",
+        "physics"
+      ],
+      "summary": "Towards Data Science essay on whether machine learning can resolve a quantum thought experiment.",
+      "whyItMatters": "Conceptual essay; low practical relevance.",
+      "organization": "independent"
+    },
+    {
+      "id": "d037ed9023380d4f17ff13fe3049889b3e82c504",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "distillation",
+        "policy",
+        "cset"
+      ],
+      "summary": "CSET explainer on how black-box distillation works and why it matters for policy.",
+      "whyItMatters": "Useful background on model-copying debates and access controls.",
+      "organization": "cset"
+    },
+    {
+      "id": "ec3d010c2ac5e42154c55763006b9f901470cc63",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "commentary",
+        "generative-ai"
+      ],
+      "summary": "Gary Marcus asks whether this week is decisive for generative AI.",
+      "whyItMatters": "Opinion; no new facts.",
+      "organization": "independent"
+    },
+    {
+      "id": "a8bf32a98cb9bd45e0b70e619f95de496a9df394",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "gemini",
+        "safety-cards"
+      ],
+      "summary": "Zvi’s analysis of the Gemini 4 Argon model card and safety card.",
+      "whyItMatters": "A careful read of what Google disclosed about safety.",
+      "organization": "google"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

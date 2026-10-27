@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-27",
+  "batch": 4,
+  "of": 4,
+  "clusters": [],
+  "items": [
+    {
+      "id": "22611d0210bf9c9b34249287c90883c45a4c115e",
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "source": "Import AI",
+      "sourceTier": 2,
+      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "author": "Jack Clark",
+      "publishedAt": "2026-10-26T12:31:52Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "992fdc22358ecab39644667240a64d432c6c0522",
+      "title": "My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "url": "https://towardsdatascience.com/my-machine-learning-pipeline-cheated-and-cross-validation-never-noticed/",
+      "author": "Himanshu Sharma",
+      "publishedAt": "2026-10-26T12:30:00Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "fe2c5e22d1274debf9ffcb56f094fca2a2c4819d",
+      "title": "Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss",
+      "source": "Towards Data Science",
+      "sourceTier": 2,
+      "url": "https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/",
+      "author": "Pratik Rupareliya",
+      "publishedAt": "2026-10-26T11:00:00Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "eefc51b1332774459277cdb05453a99bd5ef60be",
+      "title": "Bicycle gears, governance fences, and weekly readings! 💡",
+      "source": "Refactoring (Luca Rossi)",
+      "sourceTier": 2,
+      "url": "https://refactoring.fm/p/bicycle-gears-governance-fences-and",
+      "author": "Luca Rossi",
+      "publishedAt": "2026-10-26T10:06:44Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "4944c1d1afa9e5261c149daf5990137c5d9e0a0f",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "author": "Kate Knibbs",
+      "publishedAt": "2026-10-26T09:30:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "8b97b35d7a871fc54073acd24cfeddc03b799c0b",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "source": "MIT Technology Review: AI",
+      "sourceTier": 2,
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "author": "Sam Hiner, Emma Leiken",
+      "publishedAt": "2026-10-26T09:01:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "6d8ba0a0b78a2116067a1ec23e0c838b78552242",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "source": "WIRED: AI",
+      "sourceTier": 2,
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "author": "Jessica Lipsky",
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "8b1ad81c7872a1c4b4ffd51272fd6b147257a303",
+      "title": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
+      "source": "TLDR AI",
+      "sourceTier": 2,
+      "url": "https://tldr.tech/ai/2026-10-26",
+      "author": "TLDR",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0.57,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    }
+  ]
+}

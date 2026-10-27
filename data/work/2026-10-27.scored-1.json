@@ -1,0 +1,537 @@
+{
+  "date": "2026-10-27",
+  "batch": 1,
+  "items": [
+    {
+      "id": "03a4a2748a3ddc244d7dfa881a417dab0315a492",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "multi-view-fusion",
+        "urban-computing"
+      ],
+      "summary": "Preprint on combining several data views to learn representations of urban areas, proposing a rethink of how the views are fused.",
+      "whyItMatters": "Niche urban-ML method; skim only if you work on geospatial models.",
+      "organization": "academic"
+    },
+    {
+      "id": "03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "lora",
+        "interpretability"
+      ],
+      "summary": "Preprint on sparse fine-tuning with a top-k LoRA variant, aimed at finding faithful circuits inside fine-tuned models.",
+      "whyItMatters": "Relevant if you use LoRA and care about explaining what fine-tuning changed.",
+      "organization": "academic"
+    },
+    {
+      "id": "04fdf56808d36629ba2c8e7ca7d9febb01948d3e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-llm",
+        "retrieval",
+        "clinical"
+      ],
+      "summary": "Preprint describing a fine-tuned language model with step-by-step reasoning for medical knowledge retrieval in clinical decision support.",
+      "whyItMatters": "Clinical LLM claims need independent validation before any use.",
+      "organization": "academic"
+    },
+    {
+      "id": "0b39f615f644358b8432531cb23d625c5830dbaa",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "ppo"
+      ],
+      "summary": "Preprint proposing a PPO variant whose clipping range adapts to action confidence and the size of the normalized advantage.",
+      "whyItMatters": "A small PPO tweak; worth a look if you tune policy-gradient training.",
+      "organization": "academic"
+    },
+    {
+      "id": "160c614ba71b9bc0bd656504ae9381b28e7268dd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-model",
+        "vision-language"
+      ],
+      "summary": "Preprint on a unified vision-language world model that adapts how much it reasons per step; an updated version in an ongoing line of work.",
+      "whyItMatters": "Tracks an ongoing world-model line; little new since the last feature.",
+      "organization": "academic"
+    },
+    {
+      "id": "177cb9c7a02c2b9639274c398edd3779f0d7692b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "llm-as-judge",
+        "evaluation",
+        "peer-review"
+      ],
+      "summary": "Preprint testing whether language models can spot flaws in machine learning research, using deliberately tampered papers.",
+      "whyItMatters": "Informs how far to trust LLM reviewers and judges in research workflows.",
+      "organization": "academic"
+    },
+    {
+      "id": "179600ef5e249a57d4c585d4bcfe4293668d888c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "long-context",
+        "attention",
+        "retrieval"
+      ],
+      "summary": "Preprint studying how attention head dimension affects long-context retrieval in language models.",
+      "whyItMatters": "A design factor to consider when choosing or training long-context models.",
+      "organization": "academic"
+    },
+    {
+      "id": "1b623905c794587852559473d31a6bbcbf8d361e",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "robustness",
+        "benchmark"
+      ],
+      "summary": "Preprint presenting a shared library and benchmark for comparing robust reinforcement learning algorithms.",
+      "whyItMatters": "A common benchmark makes robust-RL comparisons easier to reproduce.",
+      "organization": "academic"
+    },
+    {
+      "id": "216ee61b8bc849d996c38b67a682a3e25704b105",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "time-series",
+        "anomaly-detection"
+      ],
+      "summary": "Preprint introducing a network that encodes individual time points for anomaly detection in multivariate time series.",
+      "whyItMatters": "Niche, but relevant for monitoring and sensor-data teams.",
+      "organization": "academic"
+    },
+    {
+      "id": "3fdf0d80713ce1087c6f8a13dece514c79ba0a7a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "reinforcement-learning",
+        "image-quality",
+        "reasoning"
+      ],
+      "summary": "Preprint analysing what reinforcement learning changes in models that reason about image quality.",
+      "whyItMatters": "Narrow finding about RL-trained reasoning in one vision task.",
+      "organization": "academic"
+    },
+    {
+      "id": "62ae58bee34e633f746faa1a7fbdcb728b6c48d5",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "navigation",
+        "embodied-ai"
+      ],
+      "summary": "Preprint on adapting language-guided navigation agents from a single scan, without demonstrations.",
+      "whyItMatters": "Early robotics research; no action needed yet.",
+      "organization": "academic"
+    },
+    {
+      "id": "67436fdb20f23fa6eb8f34888673d4d998d41e81",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "traffic",
+        "llm-judge"
+      ],
+      "summary": "Preprint pairing specialist models with a language-model judge to reason about traffic anomalies.",
+      "whyItMatters": "Narrow application; a pattern for combining specialists with a judge.",
+      "organization": "academic"
+    },
+    {
+      "id": "69d91d21fe287c8fdfe2a7883d652fa06ae65cfb",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "translation",
+        "multimodal"
+      ],
+      "summary": "Preprint on using images to help translate culturally specific content, looking at where the visual evidence sits.",
+      "whyItMatters": "Niche multimodal translation work.",
+      "organization": "academic"
+    },
+    {
+      "id": "78efe19585ec2f8d7dbcbe62509a637a7698db6c",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vlm",
+        "charts",
+        "self-improvement"
+      ],
+      "summary": "Preprint on improving vision-language models at reading scientific charts through an autonomous self-improvement loop.",
+      "whyItMatters": "Chart reading is a common weak spot; the method may transfer.",
+      "organization": "academic"
+    },
+    {
+      "id": "95cb9b2ad16612390320cd0a82b09f3ce31d8f81",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "hallucination",
+        "radiology"
+      ],
+      "summary": "Preprint that links sentences in generated chest CT reports back to image regions so they can be checked.",
+      "whyItMatters": "Grounding checks matter for any generated clinical text.",
+      "organization": "academic"
+    },
+    {
+      "id": "9c7401fa07de04d0ac9d538af18c1e49788b077e",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "ocr",
+        "evaluation"
+      ],
+      "summary": "Preprint proposing an entity-aware way to evaluate OCR on historical documents.",
+      "whyItMatters": "Useful if you evaluate OCR beyond character error rate.",
+      "organization": "academic"
+    },
+    {
+      "id": "1a1d4bf2fc111eb8468802ff9bbd62e331b7f1cf",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "gpt-6-1",
+        "security",
+        "code-review"
+      ],
+      "summary": "OpenAI customer story about CodeRabbit using a GPT-6.1 model to find security issues in large codebases.",
+      "whyItMatters": "A vendor case study; shows a use case rather than new capability.",
+      "organization": "openai"
+    },
+    {
+      "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gpt-6-1",
+        "openai",
+        "model-release"
+      ],
+      "summary": "OpenAI announces GPT-6.1 Terra, a new model in its GPT-6.1 line, also covered by an independent blogger.",
+      "whyItMatters": "Check the model page for pricing and limits before changing defaults.",
+      "organization": "openai"
+    },
+    {
+      "id": "0001fb2c71d9dfec121bb6cab3d3196d8e1cf55b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "computer-vision",
+        "3d-reconstruction"
+      ],
+      "summary": "Preprint presenting a faster, more scalable solver for non-rigid structure from motion.",
+      "whyItMatters": "Niche 3D vision solver.",
+      "organization": "academic"
+    },
+    {
+      "id": "00d2f8306dd79c47cf0fe823bb69c7b400438c7a",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "forecasting",
+        "retrieval",
+        "distribution-shift"
+      ],
+      "summary": "Preprint on spatiotemporal forecasting that uses retrieved memory and decides when to trust it under distribution shift.",
+      "whyItMatters": "Niche forecasting method.",
+      "organization": "academic"
+    },
+    {
+      "id": "00e8d3a205a1be8a9c22e230f1bbc48dac7534d0",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "deepfakes",
+        "forensics",
+        "video"
+      ],
+      "summary": "Preprint introducing a dataset and task for detecting audio-visual manipulation in long videos.",
+      "whyItMatters": "Relevant to teams building media-authenticity tooling.",
+      "organization": "academic"
+    },
+    {
+      "id": "0144bb2a27170ee6b7f906a65d19275679a97be1",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "vision-models",
+        "counting"
+      ],
+      "summary": "Preprint asking whether vision models truly represent small counts.",
+      "whyItMatters": "A probe of a known weakness in vision models.",
+      "organization": "academic"
+    },
+    {
+      "id": "01687ad7807dd63b3dc4bdefb516e7cc1eb02c8d",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "autonomous-driving",
+        "gaussian-splatting"
+      ],
+      "summary": "Preprint on removing reflections from driving scenes in Gaussian splatting reconstruction.",
+      "whyItMatters": "Niche to driving-simulation pipelines.",
+      "organization": "academic"
+    },
+    {
+      "id": "02ec934375f9b973aec6ea3f259157d0319d2ab0",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "semiconductors",
+        "simulation"
+      ],
+      "summary": "Preprint on calibrating etching simulators to real measurements using few samples and hybrid search.",
+      "whyItMatters": "Narrow industrial application.",
+      "organization": "academic"
+    },
+    {
+      "id": "044e7a12a6da43d0fd88817975eacc12e7d27bbc",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-editing",
+        "multimodal"
+      ],
+      "summary": "Preprint describing a system for automatically editing multi-camera concert footage, with an exploratory evaluation.",
+      "whyItMatters": "Early system design; not production-ready.",
+      "organization": "academic"
+    },
+    {
+      "id": "046cb75ba806b7e3e90e0a1adea0f0718e1c3a0c",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "medical-imaging",
+        "registration"
+      ],
+      "summary": "Preprint on training-free medical image registration that combines pretrained vision features with local structure.",
+      "whyItMatters": "Training-free approaches lower the cost of registration baselines.",
+      "organization": "academic"
+    },
+    {
+      "id": "0760eab43ce339f612096c26616c5520c2be01de",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "event-camera",
+        "transformer"
+      ],
+      "summary": "Preprint proposing a transformer for estimating motion from event-camera and inertial streams.",
+      "whyItMatters": "Niche robotics perception work.",
+      "organization": "academic"
+    },
+    {
+      "id": "0799f753c993726d31db7f267b5f8c783765ce29",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "3d-detection",
+        "robustness",
+        "autonomous-driving"
+      ],
+      "summary": "Preprint on merging model weights to make camera-based 3D object detection more robust.",
+      "whyItMatters": "Model merging as a robustness tool for perception.",
+      "organization": "academic"
+    },
+    {
+      "id": "07e0a0b3a8492c8fed2a8c8d90e492ed371f6214",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "self-supervised",
+        "vicreg"
+      ],
+      "summary": "Preprint analysing the role of the standard-deviation term in the VICReg self-supervised objective.",
+      "whyItMatters": "Theory note for self-supervised learning practitioners.",
+      "organization": "academic"
+    },
+    {
+      "id": "08dc1d871066b207af30b86c39500530c1d19df7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "healthcare",
+        "prediction"
+      ],
+      "summary": "Preprint on a decision-support model for estimating ambulance travel times compared with heuristics and commercial navigation.",
+      "whyItMatters": "Applied study; check how it generalizes before reuse.",
+      "organization": "academic"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-c439b600aa",
+      "label": "GPT-6.1 Terra launch"
+    }
+  ],
+  "fetches": []
+}
