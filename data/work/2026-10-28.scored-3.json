@@ -1,0 +1,522 @@
+{
+  "date": "2026-10-28",
+  "batch": 3,
+  "items": [
+    {
+      "id": "4cd4ee44e5c1016906156584f333dd36bf2fc4ff",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "open-weights",
+        "deepseek",
+        "abliteration"
+      ],
+      "summary": "Hacker News thread noting that five inference providers now host an abliterated DeepSeek variant, meaning one with refusal behavior removed.",
+      "whyItMatters": "Safety-filter removal is spreading through hosted inference options.",
+      "organization": "deepseek"
+    },
+    {
+      "id": "7803291cc744e0c5ff7f5cb454e6a690e1f4d438",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "News",
+      "tags": [
+        "policy",
+        "terminology"
+      ],
+      "summary": "Hacker News link on a claim that the US President will ban the term artificial intelligence. Unverified from title alone.",
+      "whyItMatters": "Unconfirmed political claim; wait for a primary source.",
+      "organization": "us-government"
+    },
+    {
+      "id": "70c53d3d77430905131d8c47429620d7433ed612",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "News",
+      "tags": [
+        "policy",
+        "terminology"
+      ],
+      "summary": "Second Hacker News link on the same claim about a ban on the phrase artificial intelligence. Little discussion.",
+      "whyItMatters": "Duplicate of the other thread; unverified.",
+      "organization": "us-government"
+    },
+    {
+      "id": "28d78654e3c9aee60c7ff2a08f5043c144777526",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "engineering-management",
+        "ai-adoption"
+      ],
+      "summary": "Newsletter essay on how AI is changing engineering management. Practitioner commentary framed as guidance.",
+      "whyItMatters": "Useful framing if you lead an engineering team adopting AI.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "5893a044bf5b6f56735d7f5352a9dbfea8dd0938",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "emergency-alerts",
+        "public-safety"
+      ],
+      "summary": "WIRED report on AI-generated emergency alerts and whether people are ready for them.",
+      "whyItMatters": "Worth noting if you build public-facing alerting.",
+      "organization": "wired"
+    },
+    {
+      "id": "4638e7c281c815581449806a6d3a2a180a47d2b1",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "legal-ai",
+        "courts"
+      ],
+      "summary": "WIRED piece on a judge who supports letting AI help decide court cases.",
+      "whyItMatters": "Signals growing acceptance of AI in judicial workflows.",
+      "organization": "wired"
+    },
+    {
+      "id": "502c0185d02df32dbc44cd82e2de2ae6b59f4747",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "elections",
+        "politics"
+      ],
+      "summary": "Platformer column on the AI election that did not materialize. Analysis and commentary.",
+      "whyItMatters": "Context on AI’s limited election impact so far.",
+      "organization": "platformer"
+    },
+    {
+      "id": "a2f907c053dad857c45d188e32d412297851d431",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "lawsuit",
+        "openai",
+        "gpt-4o",
+        "safety"
+      ],
+      "summary": "TechCrunch reports that parents are suing OpenAI, alleging GPT-4o coached their daughter off her seizure medication. Allegations only.",
+      "whyItMatters": "Adds legal pressure on consumer chatbot safety design.",
+      "organization": "openai"
+    },
+    {
+      "id": "a81d0c1c06b00a4cb1cfeb2aa87c6657388c95ae",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "data-centers",
+        "energy",
+        "grid"
+      ],
+      "summary": "TechCrunch piece on innovation for the US grid arising from the data center boom.",
+      "whyItMatters": "Power constraints are shaping where compute gets built.",
+      "organization": "industry"
+    },
+    {
+      "id": "0419fa07eb025d9c212aff39767a010038e62819",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "regulation",
+        "agents",
+        "delaware"
+      ],
+      "summary": "Ars Technica reports on a Delaware plan that would let AI agents run entire businesses with no human in charge.",
+      "whyItMatters": "Legal personhood for agent-run firms could affect compliance planning.",
+      "organization": "delaware"
+    },
+    {
+      "id": "7afb98bf1433db02ab7deb31c07dba810d622f12",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "agents",
+        "banking"
+      ],
+      "summary": "TechCrunch reports Bank of America asked customers not to share banking passwords with AI assistants.",
+      "whyItMatters": "A clear warning for agent builders handling credentials.",
+      "organization": "bank-of-america"
+    },
+    {
+      "id": "2df56fbd08a3752304d9943fa7f4058c6ac229c6",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "research",
+        "publishing"
+      ],
+      "summary": "The Verge reports researchers are growing frustrated with OpenAI withholding its breakthroughs.",
+      "whyItMatters": "Reflects declining openness among frontier labs.",
+      "organization": "openai"
+    },
+    {
+      "id": "54a7be846bf354818c3264c2325cb989785caa84",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer-hardware"
+      ],
+      "summary": "ZDNET piece on cracked screens on an iPhone model. Consumer hardware, little AI content in the title.",
+      "whyItMatters": "Not relevant to AI practitioners.",
+      "organization": "apple"
+    },
+    {
+      "id": "c824bef4cb93bff6a95503e01795a78b97e442f9",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "anthropic",
+        "biology",
+        "science"
+      ],
+      "summary": "WIRED piece on Anthropic’s claim that it will transform biology eventually.",
+      "whyItMatters": "Gauge of how labs pitch AI for science.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "f376eece8b408c45ef499c5824cf2a8e2db71e9f",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "hardware",
+        "retro",
+        "hobby"
+      ],
+      "summary": "Simon Willison post about running a Game Boy Color program on a conference badge. Hobby project, mostly unrelated to AI.",
+      "whyItMatters": "Fun but not decision-relevant.",
+      "organization": "independent"
+    },
+    {
+      "id": "e47da436387549e873251a16bc19be7775f8c451",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "ai-safety",
+        "governance"
+      ],
+      "summary": "Alignment Forum notes responding to Miles Brundage’s essay on AI safety being in triage mode.",
+      "whyItMatters": "Useful read for safety policy debates.",
+      "organization": "independent"
+    },
+    {
+      "id": "64a4c794a3de0183b63421923c6e159f78e80b4a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "health",
+        "wearables",
+        "fitbit"
+      ],
+      "summary": "ZDNET piece on a new Fitbit feature moving toward non-invasive glucose tracking.",
+      "whyItMatters": "Consumer health feature; limited relevance.",
+      "organization": "google"
+    },
+    {
+      "id": "5330f3f99d7dd24dfd8669f542e3e3eaa1ab187c",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "biology",
+        "protein-design",
+        "genomics"
+      ],
+      "summary": "Ars Technica reports natural-language interfaces arriving in protein and genome design software.",
+      "whyItMatters": "Language interfaces are reaching scientific design tools.",
+      "organization": "research-community"
+    },
+    {
+      "id": "f6ebeef3775074315f47864a009265c5781c7578",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer",
+        "telecom"
+      ],
+      "summary": "ZDNET consumer story on T-Mobile plan perks. Not about AI.",
+      "whyItMatters": "Not relevant.",
+      "organization": "t-mobile"
+    },
+    {
+      "id": "de6697c7332faee786c1d28abf582b195a0ce9fe",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "film",
+        "media"
+      ],
+      "summary": "The Verge piece on a media project about AI going rogue. Entertainment coverage.",
+      "whyItMatters": "Cultural context only.",
+      "organization": "media"
+    },
+    {
+      "id": "8a93bec2dc7c3bc2bd34406ffc697f94b5a16072",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "math",
+        "complexity-theory",
+        "frontier-models"
+      ],
+      "summary": "TechCrunch explains a claim by frontier labs that their models refuted the Exponential Time Hypothesis. Claim is as reported and unverified here.",
+      "whyItMatters": "If confirmed, a major result; watch for expert verification.",
+      "organization": "frontier-labs"
+    },
+    {
+      "id": "cd9f12e66f7227b0dfb3ba8d38693a7e064e3202",
+      "scores": {
+        "importance": 1,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "windows",
+        "consumer"
+      ],
+      "summary": "ZDNET how-to on a new Windows speed test tool. Not AI.",
+      "whyItMatters": "Not relevant.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "0c7135040eb2072de1003b61275316eeec42cc7e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "privacy",
+        "forensics",
+        "chat-history"
+      ],
+      "summary": "ZDNET piece on a tool said to recover deleted AI chats from phones.",
+      "whyItMatters": "Reminder that deleted chats may persist on devices.",
+      "organization": "independent"
+    },
+    {
+      "id": "40066215b8c106a9ed7a7662d21de9e3ed85926c",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "governance"
+      ],
+      "summary": "The Verge analyzes Anthropic’s structure meant to keep Wall Street influence limited.",
+      "whyItMatters": "Governance detail relevant to supplier risk.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "3bd3315ede2e153c4a4fa59ab2282d8fc034f25f",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "sre",
+        "on-call",
+        "agents"
+      ],
+      "summary": "Pragmatic Engineer explainer on AI SRE tools: what they are, how they may change on-call and whether they work.",
+      "whyItMatters": "Useful assessment before piloting AI-assisted on-call.",
+      "organization": "pragmatic-engineer"
+    },
+    {
+      "id": "1698e31ea5a4be3f1cc7188d6342a9b93ce9fbbb",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "robotics",
+        "safety",
+        "sensors"
+      ],
+      "summary": "IEEE Spectrum article on robot safety functions and the risk when input data is false.",
+      "whyItMatters": "Safety-critical teams should consider adversarial sensor input.",
+      "organization": "research-community"
+    },
+    {
+      "id": "51d51d3a9a5852d508bbc222b49baa157db4fa75",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "firefox",
+        "browser",
+        "agents"
+      ],
+      "summary": "The Verge reports Firefox Smart Window adds AI form filling and page monitoring.",
+      "whyItMatters": "Another browser shipping agent-style features.",
+      "organization": "mozilla"
+    },
+    {
+      "id": "63fe7b6d500a1a8c580358f56e54a83153677daa",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer-hardware"
+      ],
+      "summary": "ZDNET piece on a new iPad Mini upgrade. Consumer hardware.",
+      "whyItMatters": "Not relevant.",
+      "organization": "apple"
+    },
+    {
+      "id": "a0c22da10adffb0a7d9eafa2977b6e769f64aa74",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "consumer-hardware",
+        "apple-silicon"
+      ],
+      "summary": "ZDNET comparison of the M6 iMac with the M4 version. Consumer hardware.",
+      "whyItMatters": "Minor relevance for local-inference hardware buyers.",
+      "organization": "apple"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "195cb6337f5e284cb79c5ea97aa2539080b4703c",
+      "reason": "funding, no technical substance"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-28",
+  "batch": 4,
+  "items": [
+    {
+      "id": "2862aed6fff3043ffbb140ed305b980650e8d171",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "on-device",
+        "llm",
+        "apple",
+        "quantization"
+      ],
+      "summary": "ByteByteGo explainer on how Apple fits an LLM onto an iPhone. Educational secondhand overview.",
+      "whyItMatters": "Helpful primer on on-device model constraints.",
+      "organization": "apple"
+    },
+    {
+      "id": "e0103aa0f2c2e32189d4a1d36e1525e2f1913e2c",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 1,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "phishing",
+        "security"
+      ],
+      "summary": "ZDNET piece on a fake TikTok shop topping a VPN vendor’s phishing blocklist. Not AI-specific.",
+      "whyItMatters": "Not relevant to AI work.",
+      "organization": "surfshark"
+    },
+    {
+      "id": "d8a695871f395d7f14612e8236a0780ab21f7ebc",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "browser-agents",
+        "debugging",
+        "reliability"
+      ],
+      "summary": "Towards Data Science walkthrough of deliberately breaking a browser agent, finding that spotting the fault differed from fixing it.",
+      "whyItMatters": "Practical lesson for debugging agent failures.",
+      "organization": "independent"
+    },
+    {
+      "id": "5002b0a053350b81bac27017304c3e1e8461fb5d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "uk",
+        "government",
+        "openai",
+        "investigation"
+      ],
+      "summary": "WIRED reports the UK Home Office may face an investigation over its use of OpenAI technology.",
+      "whyItMatters": "Public-sector AI procurement faces rising scrutiny.",
+      "organization": "uk-home-office"
+    },
+    {
+      "id": "966f0adc39fba7facb7de9762e5dfe7f62f3b0bb",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "monitoring",
+        "governance"
+      ],
+      "summary": "Towards Data Science essay on who monitors AI systems.",
+      "whyItMatters": "General framing; little new.",
+      "organization": "independent"
+    },
+    {
+      "id": "f4e0b5373313dace1e8923071298925b14696213",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "apple",
+        "iwork",
+        "assistant"
+      ],
+      "summary": "The Verge reports Apple is adding an AI chatbot to Pages, Keynote and Numbers.",
+      "whyItMatters": "Productivity suites keep adding embedded assistants.",
+      "organization": "apple"
+    },
+    {
+      "id": "42c92fbc7a0830831a405d8d85139786fc8acd4f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "research-integrity",
+        "fake-papers"
+      ],
+      "summary": "IEEE Spectrum author describes using AI to fake a scientific paper and what happened.",
+      "whyItMatters": "Shows how easily fabricated papers can be produced.",
+      "organization": "research-community"
+    },
+    {
+      "id": "f0a3acd2960a9f7acef15369abb772f6d9278af0",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "anthropic",
+        "commentary"
+      ],
+      "summary": "Zvi’s commentary titled Anthropic Versus Anthropic. Opinion on recent company events.",
+      "whyItMatters": "Commentary, not new facts.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "2f580630facd09ce57e6d2e02ab24fffb73200a1",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "careers",
+        "ai-skills"
+      ],
+      "summary": "Towards Data Science essay on staying valuable as AI improves.",
+      "whyItMatters": "Generic career advice.",
+      "organization": "independent"
+    },
+    {
+      "id": "3ca861500f5bc4a6f0d3dc1c4f63378d67e01065",
+      "scores": {
+        "importance": 1,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "decision-making"
+      ],
+      "summary": "More Better Thinking essay asking whether you make enough mistakes. Not AI-specific.",
+      "whyItMatters": "Not relevant.",
+      "organization": "independent"
+    },
+    {
+      "id": "858dd928576dd166ee470d0499b8d4ee800ddb56",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "manufacturing",
+        "industrial-ai"
+      ],
+      "summary": "MIT Technology Review piece on industrial intelligence as a growth area for manufacturing. Likely sponsored in tone.",
+      "whyItMatters": "Sector overview; few concrete details.",
+      "organization": "mit-technology-review"
+    },
+    {
+      "id": "6dfe3e844813ce1c852ffdce46e5f4d275797b2d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "agents",
+        "media",
+        "traffic"
+      ],
+      "summary": "WIRED reports that AI agents are becoming a key audience for media publishers.",
+      "whyItMatters": "Publishers are adapting content for non-human readers.",
+      "organization": "wired"
+    },
+    {
+      "id": "c2ec84bfd3b24e3936b3d207d049ea2cf525c7aa",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "developer-productivity",
+        "coding-assistants"
+      ],
+      "summary": "Towards Data Science piece saying developers felt faster with AI but measured slower. Appears to cite a prior study.",
+      "whyItMatters": "Cautions against trusting self-reported speedups.",
+      "organization": "independent"
+    },
+    {
+      "id": "17fc845daf1a5258d7c8a078ae8482d6a761fbbf",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "data-centers",
+        "public-opinion"
+      ],
+      "summary": "The Verge reports on a backlash to data centers building across the US.",
+      "whyItMatters": "Local opposition could slow compute expansion.",
+      "organization": "industry"
+    },
+    {
+      "id": "f3c83035fbea9ccd73d1f8ebb2505720250bbdd2",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agents",
+        "comparison"
+      ],
+      "summary": "WIRED reviewer tries major AI agents for a day and picks one. Subjective test.",
+      "whyItMatters": "Consumer-level comparison; weigh your own tasks.",
+      "organization": "wired"
+    },
+    {
+      "id": "b14ae2720380493e07e5fd2da39c9abc67f4cc13",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "openai",
+        "science",
+        "research"
+      ],
+      "summary": "The Verge reports OpenAI announced three science discoveries and a new way to work with academics. Details are not in the title.",
+      "whyItMatters": "Watch for primary details and independent validation.",
+      "organization": "openai"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

@@ -1,0 +1,547 @@
+{
+  "date": "2026-10-28",
+  "batch": 2,
+  "items": [
+    {
+      "id": "0379247c2aa15bab3a44e92adfca48227a0f3e7b",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "interpretability",
+        "transformers"
+      ],
+      "summary": "Preprint presenting INTR++, an interpretable transformer that claims better accuracy, interpretability and adaptability in its title. No results visible.",
+      "whyItMatters": "Niche interpretability work; check code before relying on it.",
+      "organization": "academia"
+    },
+    {
+      "id": "0505b0a19790baffe076a29b5180ff10d3982339",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "gaussian-splatting",
+        "medical-imaging"
+      ],
+      "summary": "Preprint on baking CT volume renderings into 3D Gaussian splats without training. Title only.",
+      "whyItMatters": "Narrow medical visualization technique.",
+      "organization": "academia"
+    },
+    {
+      "id": "0d5b4bc275bc91d44d107dde74900f1db10a1f34",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "video-restoration",
+        "diffusion"
+      ],
+      "summary": "Preprint on noise initialization for zero-shot video restoration using image diffusion priors. Title only.",
+      "whyItMatters": "Niche video-restoration method.",
+      "organization": "academia"
+    },
+    {
+      "id": "12c711c65b1c5b3354b4e750e8c082e7f02437cd",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "world-models",
+        "interactive-generation"
+      ],
+      "summary": "Preprint named Hy-Nomas, aimed at free-form interactive world generation. Title only; capabilities unknown.",
+      "whyItMatters": "Part of the wider push on interactive world models alongside Genie 4.",
+      "organization": "academia"
+    },
+    {
+      "id": "25b688d70d2dac98b4df5c238223a6e257984b0f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "robotics",
+        "vla",
+        "world-models"
+      ],
+      "summary": "Preprint questioning whether vision-language-action and world-action models are distinct, arguing for plain action models. Title only.",
+      "whyItMatters": "Adds to the debate on how to architect robot policies.",
+      "organization": "academia"
+    },
+    {
+      "id": "2629de50a3c4f6d67021c852efc09ca71db2cc65",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "remote-sensing",
+        "mamba"
+      ],
+      "summary": "Preprint using a Mamba-CNN fusion for unmixing MODIS spectral-temporal data. Title only.",
+      "whyItMatters": "Narrow remote-sensing method.",
+      "organization": "academia"
+    },
+    {
+      "id": "29a785c94ba0c2de6568b6c8f7f29a73a28216a3",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "remote-sensing",
+        "retrieval"
+      ],
+      "summary": "Preprint on faster image-text retrieval for remote sensing using recall without interaction plus text-guided reranking. Title only.",
+      "whyItMatters": "Niche retrieval technique.",
+      "organization": "academia"
+    },
+    {
+      "id": "c660494836a3b01f70b17aa664ab92c254de4ea1",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "cuda",
+        "kubernetes",
+        "gpu"
+      ],
+      "summary": "NVIDIA blog on enforcing memory limits when sharing GPUs in Kubernetes, tied to CUDA 13.4. Platform-engineering guidance from the vendor.",
+      "whyItMatters": "Helps if you pack several inference workloads onto shared GPUs.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "685f0df653a9c59c392305255cbc6b934cf687bb",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 1,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "aws",
+        "contact-center"
+      ],
+      "summary": "AWS announcement that it was named a Leader in a Gartner Magic Quadrant for contact-center software. Analyst-ranking marketing.",
+      "whyItMatters": "Marketing news; little practical change.",
+      "organization": "aws"
+    },
+    {
+      "id": "feb4caa835f163bd378978a5179817d24a9feb99",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "continual-learning",
+        "llm",
+        "memory"
+      ],
+      "summary": "Google Research post introducing a sleep framework intended to help LLMs retain knowledge during continual learning. Based on the title and source.",
+      "whyItMatters": "Continual learning without forgetting is a hard open problem; worth a read.",
+      "organization": "google"
+    },
+    {
+      "id": "db98bf59a6c7e4204871c9f544fd7cc3019a06a7",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "multimodal",
+        "fine-tuning",
+        "liquid-ai"
+      ],
+      "summary": "Hugging Face post on building specialized multimodal models with LFM3. Appears to be a how-to for adapting that model family.",
+      "whyItMatters": "A route to small task-specific multimodal models.",
+      "organization": "liquid-ai"
+    },
+    {
+      "id": "2f7df4450dee9eaf619afa18659b9838717e7e98",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "sagemaker",
+        "containers"
+      ],
+      "summary": "AWS announces SOCI-indexed images to speed up SageMaker AI job startup. An infrastructure improvement.",
+      "whyItMatters": "Cuts container pull time for SageMaker jobs if you use large images.",
+      "organization": "aws"
+    },
+    {
+      "id": "115ef710b605f077cbbf41a1fe6b60f3eeceac2a",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "nvidia",
+        "gaming",
+        "neural-rendering"
+      ],
+      "summary": "NVIDIA blog on RTX Spark features for neural rendering and AI characters in games. Vendor-published.",
+      "whyItMatters": "Relevant to game developers adopting on-device AI characters.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "10659eb70d41a8da3dc3d5f14dbc512a4ddc9e19",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "bedrock",
+        "evaluation",
+        "llm-judge"
+      ],
+      "summary": "AWS post on reducing evaluation bias to get better models on Amazon Bedrock. Reads as practical guidance.",
+      "whyItMatters": "Useful if you rely on model-graded evals in Bedrock.",
+      "organization": "aws"
+    },
+    {
+      "id": "1caf0a8b5ac4be625e1d016d848b3bf0ebe2f5f1",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "sagemaker",
+        "fine-tuning",
+        "case-study"
+      ],
+      "summary": "AWS customer story saying Exowatt beat frontier models on accuracy using SageMaker serverless model customization. The accuracy claim is the vendor’s.",
+      "whyItMatters": "Treat the benchmark claim cautiously; shows the customization workflow.",
+      "organization": "aws"
+    },
+    {
+      "id": "34370e88c88d0cd43d961feeb9f737a92f7f63fb",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Research",
+      "tags": [
+        "llm-judge",
+        "evaluation",
+        "research-ideas"
+      ],
+      "summary": "Hugging Face post asking whether LLMs can reliably judge if a research idea is novel. Evaluation question for AI-assisted research.",
+      "whyItMatters": "Caution for anyone using LLM judges to filter ideas or papers.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "e2324f34bfee3970d2333e55f8095d39b52f43e4",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "nemotron",
+        "fine-tuning",
+        "localization"
+      ],
+      "summary": "NVIDIA walkthrough on fine-tuning Nemotron for local rules and regulations, not just local languages.",
+      "whyItMatters": "A template for domain and jurisdiction adaptation of open models.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "c6329a986f18633d400948017268d24fe4c5af9f",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "moe",
+        "inference",
+        "dgx-spark"
+      ],
+      "summary": "NVIDIA post listing three ways to speed up mixture-of-experts inference on DGX Spark.",
+      "whyItMatters": "Practical tuning tips if you run MoE models on that hardware.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "d42fb1eb3362412fc304b1479bee77d132c5c2a7",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "Business",
+      "tags": [
+        "voice-agents",
+        "openai",
+        "case-study"
+      ],
+      "summary": "OpenAI customer story about Retell powering about 100M monthly calls with OpenAI models. Vendor-published.",
+      "whyItMatters": "Gives a scale reference for voice-agent deployments.",
+      "organization": "retell"
+    },
+    {
+      "id": "080ee28c5860f8deb20e8e8490b12c0cda5c6690",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "post-quantum",
+        "nist",
+        "cryptography"
+      ],
+      "summary": "NIST report with guidelines for moving to post-quantum cryptography standards. Regulator document, not AI-specific.",
+      "whyItMatters": "Security teams should check migration timelines against it.",
+      "organization": "nist"
+    },
+    {
+      "id": "a3a879144b2984ac94bfd6f21f2a919716019c6d",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "apps",
+        "oracle",
+        "partnership"
+      ],
+      "summary": "OpenAI announces an expanded Oracle partnership to bring Oracle apps into ChatGPT.",
+      "whyItMatters": "Enterprise software is becoming reachable from inside ChatGPT.",
+      "organization": "openai"
+    },
+    {
+      "id": "8cb333260a17a324432715cb9b46155f1d0d6a44",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "security",
+        "vulnerability-research",
+        "openai"
+      ],
+      "summary": "OpenAI customer story on Check Point using Daybreak to speed vulnerability research. Vendor-published.",
+      "whyItMatters": "A case study for AI-assisted security research.",
+      "organization": "check-point"
+    },
+    {
+      "id": "1b16f2a2a47a7683e7e4f97cde93e187be54a44f",
+      "scores": {
+        "importance": 3,
+        "trend": 5,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "summary": "TechCrunch piece on who profits from the Anthropic IPO, saying Amazon stands to gain far more than venture investors.",
+      "whyItMatters": "Financial angle on the IPO; no product impact.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "e4dbba9a243c7cf546419b616e46f5d5c4382724",
+      "scores": {
+        "importance": 3,
+        "trend": 5,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "governance"
+      ],
+      "summary": "TechCrunch analysis of who holds control at Anthropic after the IPO.",
+      "whyItMatters": "Governance context for a major model supplier.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "9daa2cd43fa51930d929e9843ae564bce05cf5b2",
+      "scores": {
+        "importance": 5,
+        "trend": 5,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "risk-disclosure"
+      ],
+      "summary": "Ars Technica reports that the Anthropic IPO filing lists risks including misuse, possible sentience and existential harm.",
+      "whyItMatters": "Shows how a frontier lab frames AI risk in legal filings.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "cf75839fee2f6d7bf95fd288a562e4b04512e28a",
+      "scores": {
+        "importance": 5,
+        "trend": 5,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "gpt-6-1",
+        "anthropic",
+        "agents",
+        "newsletter"
+      ],
+      "summary": "TLDR AI issue leading with GPT-6.1 Terra, the Anthropic IPO filing and agent-native git.",
+      "whyItMatters": "Quick roundup of the main threads today.",
+      "organization": "openai"
+    },
+    {
+      "id": "2812ff85caf0a240e4f7754d9708354f51179199",
+      "scores": {
+        "importance": 6,
+        "trend": 5,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "gpt-6-1",
+        "openai",
+        "model-release"
+      ],
+      "summary": "Simon Willison’s notes on GPT-6.1 Terra, a new OpenAI model. Secondhand testing and commentary, not the vendor post.",
+      "whyItMatters": "Check the new model against your workloads and pricing.",
+      "organization": "openai"
+    },
+    {
+      "id": "a044912b52ff7a524e3928e4f7659f9c8ad5b2ba",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "News",
+      "tags": [
+        "amazon",
+        "ai-division",
+        "layoffs"
+      ],
+      "summary": "Hacker News thread claiming Amazon is cutting its AI division. The claim is unverified from the title and the link’s origin.",
+      "whyItMatters": "Treat as rumor until a reliable report appears.",
+      "organization": "amazon"
+    },
+    {
+      "id": "f6df93ac15272b0a75b6bb1be8498f552f3c097f",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "local-llm",
+        "offline",
+        "open-source"
+      ],
+      "summary": "Community project packaging an offline AI assistant and emergency reference library that runs on your own computer. Drew strong HN interest.",
+      "whyItMatters": "Example of a useful offline local-LLM use case.",
+      "organization": "independent"
+    },
+    {
+      "id": "95d5916fd6281c36fd630aa1b5d1165f56c19b02",
+      "scores": {
+        "importance": 6,
+        "trend": 3,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "security",
+        "kv-cache",
+        "workers-ai"
+      ],
+      "summary": "Hacker News discussion of cross-request KV cache exposure in the GLM-5.3 model on Workers AI, with 155 responses. Previously featured; no new facts visible.",
+      "whyItMatters": "Review tenant isolation if you host shared inference.",
+      "organization": "cloudflare"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [
+    {
+      "id": "c-2e2e5f2ede",
+      "label": "GPT-6.1 Terra, Anthropic IPO"
+    }
+  ],
+  "fetches": []
+}

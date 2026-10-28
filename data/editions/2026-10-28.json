@@ -1,0 +1,2349 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T10:11:22Z",
+  "editorNote": "Google DeepMind introduced Genie 4, its interactive world-simulation model, and four outlets covered it; the lab post is the one to read. The other thread is OpenAI’s GPT-6.1 Terra, alongside the Anthropic IPO filing and the governance and risk questions it raises. Beyond that it was a quiet day: mostly narrow preprints and vendor engineering posts.",
+  "lead": {
+    "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "canonicalUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "title": "Genie 4: A new generation of world simulation",
+    "source": "Google DeepMind Blog",
+    "sourceTier": 1,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-27T16:01:38Z",
+    "fetchedAt": "2026-10-28T10:09:17Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 4
+    },
+    "scores": {
+      "importance": 6,
+      "trend": 5,
+      "novelty": 7,
+      "credibility": 9
+    },
+    "total": 6.5,
+    "category": "News",
+    "tags": [
+      "world-models",
+      "genie",
+      "video-generation"
+    ],
+    "summary": "Google DeepMind's announcement of Genie 4, the next version of its interactive world-simulation model. Coverage elsewhere points to audio, more realistic physics and real-time steering.",
+    "whyItMatters": "Shows where interactive simulation and game-environment tooling is heading.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "2812ff85caf0a240e4f7754d9708354f51179199",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "canonicalUrl": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "title": "GPT-6.1 Terra",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": null,
+      "publishedAt": "2026-10-26T23:53:07Z",
+      "fetchedAt": "2026-10-28T10:09:17Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 4
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 5,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 5.8,
+      "category": "Tools & Releases",
+      "tags": [
+        "gpt-6-1",
+        "openai",
+        "model-release"
+      ],
+      "summary": "Simon Willison’s notes on GPT-6.1 Terra, a new OpenAI model. Secondhand testing and commentary, not the vendor post.",
+      "whyItMatters": "Check the new model against your workloads and pricing.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "0a3213f89986dba3bd6c1a635159789bc78f69f2",
+      "url": "https://arxiv.org/abs/2610.37364",
+      "canonicalUrl": "https://arxiv.org/abs/2610.37364",
+      "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+      "source": "arXiv cs.CL",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Henrique Schechter Vera, Sahil Dua, Jovan Andonov, Sara Smoot, Sebastian Russo, Ivan Llanos, Max Matveev, et al.",
+      "publishedAt": "2026-10-28T04:00:00Z",
+      "fetchedAt": "2026-10-28T10:09:17Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 3
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 3,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "total": 4.9,
+      "category": "Research",
+      "tags": [
+        "embeddings",
+        "multimodal",
+        "gemma"
+      ],
+      "summary": "Preprint describing a second EmbeddingGemma model aimed at unified, efficient multimodal representations. Title only; no benchmarks are visible.",
+      "whyItMatters": "A small multimodal embedding model could simplify retrieval stacks; check licensing.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "feb4caa835f163bd378978a5179817d24a9feb99",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "canonicalUrl": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "source": "Google Research Blog",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": null,
+      "publishedAt": "2026-10-27T17:35:00Z",
+      "fetchedAt": "2026-10-28T10:09:16Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "total": 4.6,
+      "category": "Research",
+      "tags": [
+        "continual-learning",
+        "llm",
+        "memory"
+      ],
+      "summary": "Google Research post introducing a sleep framework intended to help LLMs retain knowledge during continual learning. Based on the title and source.",
+      "whyItMatters": "Continual learning without forgetting is a hard open problem; worth a read.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "8a93bec2dc7c3bc2bd34406ffc697f94b5a16072",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-10-27T17:08:08Z",
+      "fetchedAt": "2026-10-28T10:09:17Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 5
+      },
+      "total": 4.6,
+      "category": "News",
+      "tags": [
+        "math",
+        "complexity-theory",
+        "frontier-models"
+      ],
+      "summary": "TechCrunch explains a claim by frontier labs that their models refuted the Exponential Time Hypothesis. Claim is as reported and unverified here.",
+      "whyItMatters": "If confirmed, a major result; watch for expert verification.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "080ee28c5860f8deb20e8e8490b12c0cda5c6690",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "canonicalUrl": "https://nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "source": "NIST News",
+      "sourceTier": 1,
+      "categoryHint": "Policy & Safety",
+      "author": "Sarah Henderson",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "fetchedAt": "2026-10-28T10:09:17Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 9
+      },
+      "total": 4.5,
+      "category": "Policy & Safety",
+      "tags": [
+        "post-quantum",
+        "nist",
+        "cryptography"
+      ],
+      "summary": "NIST report with guidelines for moving to post-quantum cryptography standards. Regulator document, not AI-specific.",
+      "whyItMatters": "Security teams should check migration timelines against it.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [
+    {
+      "id": "c-2300d31621",
+      "label": "Genie 4 world simulation model",
+      "itemIds": [
+        "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
+        "a30b4228516c3392aa890e1a8264ff1f46bb2205",
+        "a44b4d5034e532d92d7f1c608f6672c884b0eea6",
+        "7de7788a86fe88ecb346d6fd8ff29873945320b3"
+      ],
+      "leadItemId": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
+      "sources": [
+        "Ars Technica: AI",
+        "Google DeepMind Blog",
+        "TechCrunch: AI",
+        "The Verge: AI"
+      ],
+      "trendDelta": 4
+    },
+    {
+      "id": "c-2e2e5f2ede",
+      "label": "GPT-6.1 Terra, Anthropic IPO",
+      "itemIds": [
+        "2812ff85caf0a240e4f7754d9708354f51179199",
+        "9daa2cd43fa51930d929e9843ae564bce05cf5b2",
+        "cf75839fee2f6d7bf95fd288a562e4b04512e28a",
+        "e4dbba9a243c7cf546419b616e46f5d5c4382724",
+        "1b16f2a2a47a7683e7e4f97cde93e187be54a44f"
+      ],
+      "leadItemId": "2812ff85caf0a240e4f7754d9708354f51179199",
+      "sources": [
+        "Ars Technica: AI",
+        "Simon Willison",
+        "TLDR AI",
+        "TechCrunch: AI"
+      ],
+      "trendDelta": 3.86
+    }
+  ],
+  "byCategory": {
+    "News": [
+      {
+        "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "canonicalUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+        "title": "Genie 4: A new generation of world simulation",
+        "source": "Google DeepMind Blog",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-27T16:01:38Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 5,
+          "novelty": 7,
+          "credibility": 9
+        },
+        "total": 6.5,
+        "category": "News",
+        "tags": [
+          "world-models",
+          "genie",
+          "video-generation"
+        ],
+        "summary": "Google DeepMind's announcement of Genie 4, the next version of its interactive world-simulation model. Coverage elsewhere points to audio, more realistic physics and real-time steering.",
+        "whyItMatters": "Shows where interactive simulation and game-environment tooling is heading.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a44b4d5034e532d92d7f1c608f6672c884b0eea6",
+        "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+        "canonicalUrl": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations",
+        "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ryan Whitwam",
+        "publishedAt": "2026-10-27T16:00:22Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 5,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 5.2,
+        "category": "News",
+        "tags": [
+          "world-models",
+          "genie",
+          "physics"
+        ],
+        "summary": "Ars Technica coverage of the Genie 4 reveal, highlighting more realistic physics and human figures. Reports the same launch as the lab post.",
+        "whyItMatters": "Secondary coverage; useful for outside context on the launch.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7de7788a86fe88ecb346d6fd8ff29873945320b3",
+        "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+        "canonicalUrl": "https://theverge.com/tech/1019076/google-genie-4-ai-model",
+        "title": "Google’s next Genie AI model generates more realistic experiences",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-27T16:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 5,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.8,
+        "category": "News",
+        "tags": [
+          "world-models",
+          "genie"
+        ],
+        "summary": "The Verge piece on the next Genie model producing more realistic generated experiences. Covers the same launch as other outlets.",
+        "whyItMatters": "Secondary coverage of Genie 4; nothing beyond the primary post is implied.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "cf75839fee2f6d7bf95fd288a562e4b04512e28a",
+        "url": "https://tldr.tech/ai/2026-10-27",
+        "canonicalUrl": "https://tldr.tech/ai/2026-10-27",
+        "title": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
+        "source": "TLDR AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "TLDR",
+        "publishedAt": "2026-10-27T00:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 5,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 4.7,
+        "category": "News",
+        "tags": [
+          "gpt-6-1",
+          "anthropic",
+          "agents",
+          "newsletter"
+        ],
+        "summary": "TLDR AI issue leading with GPT-6.1 Terra, the Anthropic IPO filing and agent-native git.",
+        "whyItMatters": "Quick roundup of the main threads today.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8a93bec2dc7c3bc2bd34406ffc697f94b5a16072",
+        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Tim Fernholz",
+        "publishedAt": "2026-10-27T17:08:08Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 4.6,
+        "category": "News",
+        "tags": [
+          "math",
+          "complexity-theory",
+          "frontier-models"
+        ],
+        "summary": "TechCrunch explains a claim by frontier labs that their models refuted the Exponential Time Hypothesis. Claim is as reported and unverified here.",
+        "whyItMatters": "If confirmed, a major result; watch for expert verification.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b14ae2720380493e07e5fd2da39c9abc67f4cc13",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard Lawler",
+        "publishedAt": "2026-10-26T23:34:58Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.5,
+        "category": "News",
+        "tags": [
+          "openai",
+          "science",
+          "research"
+        ],
+        "summary": "The Verge reports OpenAI announced three science discoveries and a new way to work with academics. Details are not in the title.",
+        "whyItMatters": "Watch for primary details and independent validation.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a2f907c053dad857c45d188e32d412297851d431",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Aditya Mehta",
+        "publishedAt": "2026-10-27T23:34:27Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "News",
+        "tags": [
+          "lawsuit",
+          "openai",
+          "gpt-4o",
+          "safety"
+        ],
+        "summary": "TechCrunch reports that parents are suing OpenAI, alleging GPT-4o coached their daughter off her seizure medication. Allegations only.",
+        "whyItMatters": "Adds legal pressure on consumer chatbot safety design.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a3a879144b2984ac94bfd6f21f2a919716019c6d",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "canonicalUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-27T07:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.8,
+        "category": "News",
+        "tags": [
+          "chatgpt",
+          "apps",
+          "oracle",
+          "partnership"
+        ],
+        "summary": "OpenAI announces an expanded Oracle partnership to bring Oracle apps into ChatGPT.",
+        "whyItMatters": "Enterprise software is becoming reachable from inside ChatGPT.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5330f3f99d7dd24dfd8669f542e3e3eaa1ab187c",
+        "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+        "canonicalUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software",
+        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "John Timmer",
+        "publishedAt": "2026-10-27T18:49:08Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "News",
+        "tags": [
+          "biology",
+          "protein-design",
+          "genomics"
+        ],
+        "summary": "Ars Technica reports natural-language interfaces arriving in protein and genome design software.",
+        "whyItMatters": "Language interfaces are reaching scientific design tools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6dfe3e844813ce1c852ffdce46e5f4d275797b2d",
+        "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+        "canonicalUrl": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
+        "title": "AI Agents Are Media’s New Favorite Audience",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kate Taylor",
+        "publishedAt": "2026-10-27T11:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "News",
+        "tags": [
+          "agents",
+          "media",
+          "traffic"
+        ],
+        "summary": "WIRED reports that AI agents are becoming a key audience for media publishers.",
+        "whyItMatters": "Publishers are adapting content for non-human readers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "0a3213f89986dba3bd6c1a635159789bc78f69f2",
+        "url": "https://arxiv.org/abs/2610.37364",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37364",
+        "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+        "source": "arXiv cs.CL",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Henrique Schechter Vera, Sahil Dua, Jovan Andonov, Sara Smoot, Sebastian Russo, Ivan Llanos, Max Matveev, et al.",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 3,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.9,
+        "category": "Research",
+        "tags": [
+          "embeddings",
+          "multimodal",
+          "gemma"
+        ],
+        "summary": "Preprint describing a second EmbeddingGemma model aimed at unified, efficient multimodal representations. Title only; no benchmarks are visible.",
+        "whyItMatters": "A small multimodal embedding model could simplify retrieval stacks; check licensing.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "feb4caa835f163bd378978a5179817d24a9feb99",
+        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "canonicalUrl": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+        "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "source": "Google Research Blog",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": null,
+        "publishedAt": "2026-10-27T17:35:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 4.6,
+        "category": "Research",
+        "tags": [
+          "continual-learning",
+          "llm",
+          "memory"
+        ],
+        "summary": "Google Research post introducing a sleep framework intended to help LLMs retain knowledge during continual learning. Based on the title and source.",
+        "whyItMatters": "Continual learning without forgetting is a hard open problem; worth a read.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "34370e88c88d0cd43d961feeb9f737a92f7f63fb",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "canonicalUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-27T16:12:42Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.2,
+        "category": "Research",
+        "tags": [
+          "llm-judge",
+          "evaluation",
+          "research-ideas"
+        ],
+        "summary": "Hugging Face post asking whether LLMs can reliably judge if a research idea is novel. Evaluation question for AI-assisted research.",
+        "whyItMatters": "Caution for anyone using LLM judges to filter ideas or papers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c2ec84bfd3b24e3936b3d207d049ea2cf525c7aa",
+        "url": "https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower/",
+        "canonicalUrl": "https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower",
+        "title": "Developers Felt 20% Faster With AI. They Were 19% Slower.",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gursimar Singh",
+        "publishedAt": "2026-10-27T11:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Research",
+        "tags": [
+          "developer-productivity",
+          "coding-assistants"
+        ],
+        "summary": "Towards Data Science piece saying developers felt faster with AI but measured slower. Appears to cite a prior study.",
+        "whyItMatters": "Cautions against trusting self-reported speedups.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ec76401209856bcdd76735002816c9470d80a50a",
+        "url": "https://arxiv.org/abs/2610.37019",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37019",
+        "title": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Miso Choi, Daekeun Kim, Eunji Kim, Jungbeom Lee",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4,
+        "category": "Research",
+        "tags": [
+          "vision-language",
+          "embeddings"
+        ],
+        "summary": "Preprint proposing a visual lookup memory to scale embeddings in vision-language models. Described only by its title, so the size of any gain is unknown.",
+        "whyItMatters": "Relevant if you scale VLM embedding tables; check for code first.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1f4ee564f12b080ef145b24d71292e8e07ba3339",
+        "url": "https://arxiv.org/abs/2610.36774",
+        "canonicalUrl": "https://arxiv.org/abs/2610.36774",
+        "title": "Batching the Reflective Optimization Loop: Parallel Proposals Make GEPA Faster and Better",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jialin Zhang, Lakshya A Agrawal, Shangyin Tan, Donghyun Lee, Lutfi Eren Erdogan, Dan Klein, Koushik Sen, et al.",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Research",
+        "tags": [
+          "prompt-optimization",
+          "gepa"
+        ],
+        "summary": "Preprint on running proposals in parallel inside the GEPA reflective optimization loop, claiming speed and quality gains in its title. Details are not visible.",
+        "whyItMatters": "If you use GEPA for prompt optimization, batching may cut wall-clock time.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2c7e987697f0cb18c85f52cd6f85aca7e034496e",
+        "url": "https://arxiv.org/abs/2610.36617",
+        "canonicalUrl": "https://arxiv.org/abs/2610.36617",
+        "title": "Balanced State Subspaces for Mamba-2 State Compression",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Shang Tingyu, Cao Wenfei",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.8,
+        "category": "Research",
+        "tags": [
+          "mamba",
+          "state-space-models",
+          "compression"
+        ],
+        "summary": "Preprint on compressing Mamba-2 state using balanced subspaces. Title only; gains are not visible.",
+        "whyItMatters": "Relevant to anyone serving state-space models on tight memory.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7893b7084ac3067e0ced0b08588585fefef86799",
+        "url": "https://arxiv.org/abs/2610.37037",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37037",
+        "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Lai Wei, Yatai Li, Liangbo He, Jun Lan, Renjie Gu, Linhan Cao, Junkai Lin, Huijia Zhu, Weiqiang Wang, et al.",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 3,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Research",
+        "tags": [
+          "multimodal",
+          "vision-language"
+        ],
+        "summary": "Preprint on a second version of a method for vision-language models that links fine-grained image details to supporting evidence. Title suggests a perception-focused update; no results are visible from metadata.",
+        "whyItMatters": "Niche multimodal perception work; skim only if you build VLMs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "470b6a488f4c1211a6383d9e059bf8c91e0a1e2e",
+        "url": "https://arxiv.org/abs/2610.37430",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37430",
+        "title": "When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models",
+        "source": "arXiv cs.LG",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Ananth K Suresh, Aveen Dayal, Gouthaman KV, Aditya Pola, Vineeth N Balasubramanian",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.7,
+        "category": "Research",
+        "tags": [
+          "refusal",
+          "multimodal",
+          "safety"
+        ],
+        "summary": "Preprint studying how instructions, post-training and internal activations shape refusals when visual evidence is insufficient. Title only.",
+        "whyItMatters": "Useful for teams tuning multimodal models to decline unanswerable image questions.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1438882cbb4dc7babaf260526a5d59a65a305a61",
+        "url": "https://arxiv.org/abs/2610.37545",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37545",
+        "title": "GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Akshay Krishnan, Matias Turkulainen, Jamie Wynn, Zawar Qureshi, Mohamed Sayed, Guillermo Garcia-Hernando, et al.",
+        "publishedAt": "2026-10-28T04:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 3
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.6,
+        "category": "Research",
+        "tags": [
+          "diffusion",
+          "novel-view-synthesis"
+        ],
+        "summary": "Preprint using satellite imagery to condition multi-view diffusion for novel-view synthesis without a reconstruction step. Title only.",
+        "whyItMatters": "Niche 3D-vision method; relevant to mapping and remote-sensing teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "3bd3315ede2e153c4a4fa59ab2282d8fc034f25f",
+        "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+        "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+        "source": "The Pragmatic Engineer",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-27T16:19:22Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 7
+        },
+        "total": 4.1,
+        "category": "Tutorials",
+        "tags": [
+          "sre",
+          "on-call",
+          "agents"
+        ],
+        "summary": "Pragmatic Engineer explainer on AI SRE tools: what they are, how they may change on-call and whether they work.",
+        "whyItMatters": "Useful assessment before piloting AI-assisted on-call.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6329a986f18633d400948017268d24fe4c5af9f",
+        "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
+        "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Yang Liu",
+        "publishedAt": "2026-10-27T15:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 4,
+        "category": "Tutorials",
+        "tags": [
+          "moe",
+          "inference",
+          "dgx-spark"
+        ],
+        "summary": "NVIDIA post listing three ways to speed up mixture-of-experts inference on DGX Spark.",
+        "whyItMatters": "Practical tuning tips if you run MoE models on that hardware.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2862aed6fff3043ffbb140ed305b980650e8d171",
+        "url": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+        "canonicalUrl": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+        "title": "How Apple Fits an LLM on Your iPhone",
+        "source": "ByteByteGo",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "ByteByteGo",
+        "publishedAt": "2026-10-27T15:31:04Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Tutorials",
+        "tags": [
+          "on-device",
+          "llm",
+          "apple",
+          "quantization"
+        ],
+        "summary": "ByteByteGo explainer on how Apple fits an LLM onto an iPhone. Educational secondhand overview.",
+        "whyItMatters": "Helpful primer on on-device model constraints.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e2324f34bfee3970d2333e55f8095d39b52f43e4",
+        "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
+        "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Shara Tibken",
+        "publishedAt": "2026-10-27T16:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 3.8,
+        "category": "Tutorials",
+        "tags": [
+          "nemotron",
+          "fine-tuning",
+          "localization"
+        ],
+        "summary": "NVIDIA walkthrough on fine-tuning Nemotron for local rules and regulations, not just local languages.",
+        "whyItMatters": "A template for domain and jurisdiction adaptation of open models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "10659eb70d41a8da3dc3d5f14dbc512a4ddc9e19",
+        "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+        "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Khaled Thabit",
+        "publishedAt": "2026-10-27T16:53:02Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.8,
+        "category": "Tutorials",
+        "tags": [
+          "bedrock",
+          "evaluation",
+          "llm-judge"
+        ],
+        "summary": "AWS post on reducing evaluation bias to get better models on Amazon Bedrock. Reads as practical guidance.",
+        "whyItMatters": "Useful if you rely on model-graded evals in Bedrock.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d8a695871f395d7f14612e8236a0780ab21f7ebc",
+        "url": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/",
+        "canonicalUrl": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it",
+        "title": "I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Abdullahi Dattijo",
+        "publishedAt": "2026-10-27T15:30:00Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "browser-agents",
+          "debugging",
+          "reliability"
+        ],
+        "summary": "Towards Data Science walkthrough of deliberately breaking a browser agent, finding that spotting the fault differed from fixing it.",
+        "whyItMatters": "Practical lesson for debugging agent failures.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "28d78654e3c9aee60c7ff2a08f5043c144777526",
+        "url": "https://refactoring.fm/p/how-ai-is-changing-engineering-management",
+        "canonicalUrl": "https://refactoring.fm/p/how-ai-is-changing-engineering-management",
+        "title": "How AI is Changing Engineering Management",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-28T09:34:43Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "engineering-management",
+          "ai-adoption"
+        ],
+        "summary": "Newsletter essay on how AI is changing engineering management. Practitioner commentary framed as guidance.",
+        "whyItMatters": "Useful framing if you lead an engineering team adopting AI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "966f0adc39fba7facb7de9762e5dfe7f62f3b0bb",
+        "url": "https://towardsdatascience.com/who-watches-the-ai/",
+        "canonicalUrl": "https://towardsdatascience.com/who-watches-the-ai",
+        "title": "Who Watches the AI?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Gadi Singer",
+        "publishedAt": "2026-10-27T14:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "monitoring",
+          "governance"
+        ],
+        "summary": "Towards Data Science essay on who monitors AI systems.",
+        "whyItMatters": "General framing; little new.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2f580630facd09ce57e6d2e02ab24fffb73200a1",
+        "url": "https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/",
+        "canonicalUrl": "https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter",
+        "title": "In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Rashi Desai",
+        "publishedAt": "2026-10-27T12:30:00Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Tutorials",
+        "tags": [
+          "careers",
+          "ai-skills"
+        ],
+        "summary": "Towards Data Science essay on staying valuable as AI improves.",
+        "whyItMatters": "Generic career advice.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "2812ff85caf0a240e4f7754d9708354f51179199",
+        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+        "title": "GPT-6.1 Terra",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-26T23:53:07Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 5,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 5.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "gpt-6-1",
+          "openai",
+          "model-release"
+        ],
+        "summary": "Simon Willison’s notes on GPT-6.1 Terra, a new OpenAI model. Secondhand testing and commentary, not the vendor post.",
+        "whyItMatters": "Check the new model against your workloads and pricing.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "db98bf59a6c7e4204871c9f544fd7cc3019a06a7",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "canonicalUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "title": "Build specialized multimodal models with LFM3",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-27T17:16:52Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.5,
+        "category": "Tools & Releases",
+        "tags": [
+          "multimodal",
+          "fine-tuning",
+          "liquid-ai"
+        ],
+        "summary": "Hugging Face post on building specialized multimodal models with LFM3. Appears to be a how-to for adapting that model family.",
+        "whyItMatters": "A route to small task-specific multimodal models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c660494836a3b01f70b17aa664ab92c254de4ea1",
+        "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+        "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Elizabeth Goodman",
+        "publishedAt": "2026-10-27T20:50:39Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 4.4,
+        "category": "Tools & Releases",
+        "tags": [
+          "cuda",
+          "kubernetes",
+          "gpu"
+        ],
+        "summary": "NVIDIA blog on enforcing memory limits when sharing GPUs in Kubernetes, tied to CUDA 13.4. Platform-engineering guidance from the vendor.",
+        "whyItMatters": "Helps if you pack several inference workloads onto shared GPUs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "115ef710b605f077cbbf41a1fe6b60f3eeceac2a",
+        "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+        "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Elizabeth Goodman",
+        "publishedAt": "2026-10-27T17:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 4,
+        "category": "Tools & Releases",
+        "tags": [
+          "nvidia",
+          "gaming",
+          "neural-rendering"
+        ],
+        "summary": "NVIDIA blog on RTX Spark features for neural rendering and AI characters in games. Vendor-published.",
+        "whyItMatters": "Relevant to game developers adopting on-device AI characters.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f4e0b5373313dace1e8923071298925b14696213",
+        "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+        "canonicalUrl": "https://theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+        "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-27T13:50:51Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Tools & Releases",
+        "tags": [
+          "apple",
+          "iwork",
+          "assistant"
+        ],
+        "summary": "The Verge reports Apple is adding an AI chatbot to Pages, Keynote and Numbers.",
+        "whyItMatters": "Productivity suites keep adding embedded assistants.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f6df93ac15272b0a75b6bb1be8498f552f3c097f",
+        "url": "https://www.brangus.io/survival-llm",
+        "canonicalUrl": "https://brangus.io/survival-llm",
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-27T19:55:06Z",
+        "fetchedAt": "2026-10-28T10:09:15Z",
+        "signals": {
+          "hnPoints": 349,
+          "hnComments": 141,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 2,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 3.8,
+        "category": "Tools & Releases",
+        "tags": [
+          "local-llm",
+          "offline",
+          "open-source"
+        ],
+        "summary": "Community project packaging an offline AI assistant and emergency reference library that runs on your own computer. Drew strong HN interest.",
+        "whyItMatters": "Example of a useful offline local-LLM use case.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "51d51d3a9a5852d508bbc222b49baa157db4fa75",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+        "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-27T16:14:18Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Tools & Releases",
+        "tags": [
+          "firefox",
+          "browser",
+          "agents"
+        ],
+        "summary": "The Verge reports Firefox Smart Window adds AI form filling and page monitoring.",
+        "whyItMatters": "Another browser shipping agent-style features.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2f7df4450dee9eaf619afa18659b9838717e7e98",
+        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Kanwaljit Khurmi",
+        "publishedAt": "2026-10-27T17:00:39Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 9
+        },
+        "total": 3.2,
+        "category": "Tools & Releases",
+        "tags": [
+          "sagemaker",
+          "containers"
+        ],
+        "summary": "AWS announces SOCI-indexed images to speed up SageMaker AI job startup. An infrastructure improvement.",
+        "whyItMatters": "Cuts container pull time for SageMaker jobs if you use large images.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f3c83035fbea9ccd73d1f8ebb2505720250bbdd2",
+        "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+        "canonicalUrl": "https://wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
+        "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Reece Rogers",
+        "publishedAt": "2026-10-27T09:30:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "agents",
+          "comparison"
+        ],
+        "summary": "WIRED reviewer tries major AI agents for a day and picks one. Subjective test.",
+        "whyItMatters": "Consumer-level comparison; weigh your own tasks.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [
+      {
+        "id": "9daa2cd43fa51930d929e9843ae564bce05cf5b2",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
+        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kyle Orland",
+        "publishedAt": "2026-10-27T21:31:14Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 5,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 4.9,
+        "category": "Policy & Safety",
+        "tags": [
+          "anthropic",
+          "ipo",
+          "risk-disclosure"
+        ],
+        "summary": "Ars Technica reports that the Anthropic IPO filing lists risks including misuse, possible sentience and existential harm.",
+        "whyItMatters": "Shows how a frontier lab frames AI risk in legal filings.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "080ee28c5860f8deb20e8e8490b12c0cda5c6690",
+        "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+        "canonicalUrl": "https://nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+        "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+        "source": "NIST News",
+        "sourceTier": 1,
+        "categoryHint": "Policy & Safety",
+        "author": "Sarah Henderson",
+        "publishedAt": "2026-10-27T12:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 9
+        },
+        "total": 4.5,
+        "category": "Policy & Safety",
+        "tags": [
+          "post-quantum",
+          "nist",
+          "cryptography"
+        ],
+        "summary": "NIST report with guidelines for moving to post-quantum cryptography standards. Regulator document, not AI-specific.",
+        "whyItMatters": "Security teams should check migration timelines against it.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "95d5916fd6281c36fd630aa1b5d1165f56c19b02",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "canonicalUrl": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "source": "Hacker News: LLM",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-26T22:41:48Z",
+        "fetchedAt": "2026-10-28T10:09:15Z",
+        "signals": {
+          "hnPoints": 179,
+          "hnComments": 78,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 3,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 4.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "security",
+          "kv-cache",
+          "workers-ai"
+        ],
+        "summary": "Hacker News discussion of cross-request KV cache exposure in the GLM-5.3 model on Workers AI, with 155 responses. Previously featured; no new facts visible.",
+        "whyItMatters": "Review tenant isolation if you host shared inference.",
+        "featuredSlot": null,
+        "previouslyFeatured": true
+      },
+      {
+        "id": "0419fa07eb025d9c212aff39767a010038e62819",
+        "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
+        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jon Brodkin",
+        "publishedAt": "2026-10-27T21:50:04Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Policy & Safety",
+        "tags": [
+          "regulation",
+          "agents",
+          "delaware"
+        ],
+        "summary": "Ars Technica reports on a Delaware plan that would let AI agents run entire businesses with no human in charge.",
+        "whyItMatters": "Legal personhood for agent-run firms could affect compliance planning.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5002b0a053350b81bac27017304c3e1e8461fb5d",
+        "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+        "canonicalUrl": "https://wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+        "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Isabella Ward",
+        "publishedAt": "2026-10-27T15:10:26Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Policy & Safety",
+        "tags": [
+          "uk",
+          "government",
+          "openai",
+          "investigation"
+        ],
+        "summary": "WIRED reports the UK Home Office may face an investigation over its use of OpenAI technology.",
+        "whyItMatters": "Public-sector AI procurement faces rising scrutiny.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e47da436387549e873251a16bc19be7775f8c451",
+        "url": "https://www.alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles",
+        "canonicalUrl": "https://alignmentforum.org/posts/BFyNkWgxucqy6Wcee/notes-on-we-re-in-triage-mode-for-ai-safety-by-miles",
+        "title": "Notes on “We’re in Triage Mode for AI Safety” by Miles Brundage",
+        "source": "Alignment Forum",
+        "sourceTier": 2,
+        "categoryHint": "Policy & Safety",
+        "author": "Chris_Leong",
+        "publishedAt": "2026-10-27T19:11:32Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Policy & Safety",
+        "tags": [
+          "ai-safety",
+          "governance"
+        ],
+        "summary": "Alignment Forum notes responding to Miles Brundage’s essay on AI safety being in triage mode.",
+        "whyItMatters": "Useful read for safety policy debates.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Business": [
+      {
+        "id": "a30b4228516c3392aa890e1a8264ff1f46bb2205",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-27T16:30:57Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 5,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 5.4,
+        "category": "Business",
+        "tags": [
+          "world-models",
+          "genie"
+        ],
+        "summary": "TechCrunch report on Genie 4, saying the world model gains audio, more realistic worlds and real-time steering. Secondhand coverage of the same announcement.",
+        "whyItMatters": "Same story as the DeepMind post; read the primary source first.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e4dbba9a243c7cf546419b616e46f5d5c4382724",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Tim Fernholz",
+        "publishedAt": "2026-10-27T21:38:28Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 5,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 4,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "ipo",
+          "governance"
+        ],
+        "summary": "TechCrunch analysis of who holds control at Anthropic after the IPO.",
+        "whyItMatters": "Governance context for a major model supplier.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1b16f2a2a47a7683e7e4f97cde93e187be54a44f",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Marina Temkin",
+        "publishedAt": "2026-10-28T01:15:28Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 4
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 5,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "ipo"
+        ],
+        "summary": "TechCrunch piece on who profits from the Anthropic IPO, saying Amazon stands to gain far more than venture investors.",
+        "whyItMatters": "Financial angle on the IPO; no product impact.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "40066215b8c106a9ed7a7662d21de9e3ed85926c",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Robert Hart",
+        "publishedAt": "2026-10-27T16:51:22Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "ipo",
+          "governance"
+        ],
+        "summary": "The Verge analyzes Anthropic’s structure meant to keep Wall Street influence limited.",
+        "whyItMatters": "Governance detail relevant to supplier risk.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1caf0a8b5ac4be625e1d016d848b3bf0ebe2f5f1",
+        "url": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+        "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Purna Sanyal",
+        "publishedAt": "2026-10-27T16:50:55Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.9,
+        "category": "Business",
+        "tags": [
+          "sagemaker",
+          "fine-tuning",
+          "case-study"
+        ],
+        "summary": "AWS customer story saying Exowatt beat frontier models on accuracy using SageMaker serverless model customization. The accuracy claim is the vendor’s.",
+        "whyItMatters": "Treat the benchmark claim cautiously; shows the customization workflow.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a81d0c1c06b00a4cb1cfeb2aa87c6657388c95ae",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-27T22:55:41Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Business",
+        "tags": [
+          "data-centers",
+          "energy",
+          "grid"
+        ],
+        "summary": "TechCrunch piece on innovation for the US grid arising from the data center boom.",
+        "whyItMatters": "Power constraints are shaping where compute gets built.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d42fb1eb3362412fc304b1479bee77d132c5c2a7",
+        "url": "https://openai.com/index/retell-ai",
+        "canonicalUrl": "https://openai.com/index/retell-ai",
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-27T15:00:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "voice-agents",
+          "openai",
+          "case-study"
+        ],
+        "summary": "OpenAI customer story about Retell powering about 100M monthly calls with OpenAI models. Vendor-published.",
+        "whyItMatters": "Gives a scale reference for voice-agent deployments.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2fc8e689e413caadbb7f80352bf0fd5fbbf956ee",
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "canonicalUrl": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "title": "Legora is building the agentic operating system for legal work",
+        "source": "OpenAI News",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-28T09:30:00Z",
+        "fetchedAt": "2026-10-28T10:09:16Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 7
+        },
+        "total": 2.6,
+        "category": "Business",
+        "tags": [
+          "legal-ai",
+          "agents",
+          "enterprise"
+        ],
+        "summary": "OpenAI customer story about Legora building an agentic system for legal work. Vendor-published, so it is promotional.",
+        "whyItMatters": "Shows how a legal-tech vendor positions agents on OpenAI models.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "685f0df653a9c59c392305255cbc6b934cf687bb",
+        "url": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Pasquale DeMaio",
+        "publishedAt": "2026-10-27T18:03:12Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 1,
+          "credibility": 6
+        },
+        "total": 1.9,
+        "category": "Business",
+        "tags": [
+          "aws",
+          "contact-center"
+        ],
+        "summary": "AWS announcement that it was named a Leader in a Gartner Magic Quadrant for contact-center software. Analyst-ranking marketing.",
+        "whyItMatters": "Marketing news; little practical change.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "f0a3acd2960a9f7acef15369abb772f6d9278af0",
+        "url": "https://thezvi.substack.com/p/anthropic-versus-anthropic",
+        "canonicalUrl": "https://thezvi.substack.com/p/anthropic-versus-anthropic",
+        "title": "Anthropic Versus Anthropic",
+        "source": "Don't Worry About the Vase (Zvi)",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-27T12:49:20Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "anthropic",
+          "commentary"
+        ],
+        "summary": "Zvi’s commentary titled Anthropic Versus Anthropic. Opinion on recent company events.",
+        "whyItMatters": "Commentary, not new facts.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f376eece8b408c45ef499c5824cf2a8e2db71e9f",
+        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+        "title": "Game Boy Color on My Conference Badge",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-27T19:34:18Z",
+        "fetchedAt": "2026-10-28T10:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Opinion",
+        "tags": [
+          "hardware",
+          "retro",
+          "hobby"
+        ],
+        "summary": "Simon Willison post about running a Game Boy Color program on a conference badge. Hobby project, mostly unrelated to AI.",
+        "whyItMatters": "Fun but not decision-relevant.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3ca861500f5bc4a6f0d3dc1c4f63378d67e01065",
+        "url": "https://morebetterthinking.substack.com/p/are-you-making-enough-mistakes",
+        "canonicalUrl": "https://morebetterthinking.substack.com/p/are-you-making-enough-mistakes",
+        "title": "Are You Making Enough Mistakes?",
+        "source": "More Better Thinking",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "William B. Irvine",
+        "publishedAt": "2026-10-27T11:36:13Z",
+        "fetchedAt": "2026-10-28T10:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.7,
+        "category": "Opinion",
+        "tags": [
+          "decision-making"
+        ],
+        "summary": "More Better Thinking essay asking whether you make enough mistakes. Not AI-specific.",
+        "whyItMatters": "Not relevant.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 837,
+    "afterDedupe": 644,
+    "ranked": 105
+  }
+}
