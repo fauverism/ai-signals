@@ -1,0 +1,545 @@
+{
+ "date": "2026-10-29",
+ "batch": 1,
+ "items": [
+  {
+   "id": "34b0bf3f94c3851e6957dd11bedc60679d6c4b34",
+   "scores": {
+    "importance": 8,
+    "trend": 5,
+    "novelty": 7,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "gemini",
+    "frontier-model",
+    "cybersecurity"
+   ],
+   "summary": "Google DeepMind announces Gemini 4 Carbon, a new frontier model it positions as a step up in cybersecurity work. Access appears limited at launch.",
+   "whyItMatters": "Check whether your team qualifies for early access before planning model swaps.",
+   "organization": "google"
+  },
+  {
+   "id": "8266ea920e518e8f8bd0869badd267193a35ed6b",
+   "scores": {
+    "importance": 6,
+    "trend": 5,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "gemini",
+    "leaderboards",
+    "cybersecurity"
+   ],
+   "summary": "Newsletter roundup says Gemini 4 Carbon leads public leaderboards and is being offered to cyber defenders first.",
+   "whyItMatters": "Leaderboard claims are secondhand; wait for independent evals.",
+   "organization": "google"
+  },
+  {
+   "id": "5ca8bf6a7f7b11cade65a73801e6775664021f63",
+   "scores": {
+    "importance": 7,
+    "trend": 5,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "gemini",
+    "cybersecurity"
+   ],
+   "summary": "The Verge covers the Gemini 4 Carbon launch and Google framing of a large gain in security capability.",
+   "whyItMatters": "Signals Google is targeting security teams as an early customer segment.",
+   "organization": "google"
+  },
+  {
+   "id": "41e0dc889e76cc163b8e72b40cd3babfbef6bd98",
+   "scores": {
+    "importance": 7,
+    "trend": 5,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "gemini",
+    "limited-access"
+   ],
+   "summary": "Ars Technica reports the Gemini 4 Carbon announcement and notes the model is not generally available.",
+   "whyItMatters": "Plan around restricted access; no public API to build against yet.",
+   "organization": "google"
+  },
+  {
+   "id": "009ec69fe7e595eff4af70e1002884a525b69c07",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "world-models",
+    "reinforcement-learning"
+   ],
+   "summary": "Paper proposing backtracking over past experience in world models to improve policies.",
+   "whyItMatters": "Niche RL method; skim only if you work on model-based RL.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "00fd8362fc44eb7454554bf91e229908f0bf51b1",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "reinforcement-learning",
+    "wind-energy"
+   ],
+   "summary": "Paper applying reinforcement learning to wind farm control under noise limits.",
+   "whyItMatters": "Domain-specific RL application; limited reach beyond energy control.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "02716bfcf3021d4081ba1636ed7a2539d5f82c4f",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "graph-learning",
+    "trust"
+   ],
+   "summary": "Paper studying when relations in multi-relational graphs can be trusted given manipulation costs.",
+   "whyItMatters": "Relevant mainly to graph learning researchers.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "02945e2bd1425c69a386a92c5d32e251753a56de",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "steering",
+    "llm",
+    "alignment"
+   ],
+   "summary": "Paper on steering LLMs along several attributes at once using orthogonal, parametrized controls.",
+   "whyItMatters": "Useful if you tune model behavior at inference time.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "0312487af4f63f8ca57ae01a4a69fe25bd9a83d5",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "agents",
+    "guardrails",
+    "authorization"
+   ],
+   "summary": "Paper proposing an authorization guardrail for agentic entity-resolution commits.",
+   "whyItMatters": "Shows one pattern for gating agent writes to records.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "034984c7b088fb68c19d69dbaec82ee337dd9804",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "time-series",
+    "causality"
+   ],
+   "summary": "Paper introducing an amortized model for estimating transfer entropy across lags over time.",
+   "whyItMatters": "Narrow time-series method.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "04bbdc10ffa475ce318e99bbaa7ec26cc8944500",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "agents",
+    "self-improvement",
+    "evaluation"
+   ],
+   "summary": "Paper on co-evolving evaluation rubrics and agent harnesses for continual agent self-improvement.",
+   "whyItMatters": "Relevant if you build self-improving agent loops.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "04ef8e29f2a2b6c28b7368da20f2f70e2be383a3",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "robotics",
+    "evaluation"
+   ],
+   "summary": "Paper proposing kinematic-constraint-based evaluation for articulated object manipulation.",
+   "whyItMatters": "Mainly robotics benchmark researchers.",
+   "organization": "arxiv"
+  },
+  {
+   "id": "b8bfa4647f108004bbc3f4e75fa2aabe3907071c",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "aws",
+    "agents",
+    "bedrock"
+   ],
+   "summary": "AWS walkthrough on building an agentic AI platform with Bedrock AgentCore.",
+   "whyItMatters": "Reference architecture if you deploy agents on AWS.",
+   "organization": "aws"
+  },
+  {
+   "id": "9118d22fa4098f95ab393698c7e3b7d912811b57",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "distributed-training",
+    "aws",
+    "ray"
+   ],
+   "summary": "AWS guide to running Ray Train distributed jobs on EKS using deep learning containers and EFA networking.",
+   "whyItMatters": "Practical recipe for multi-node training on EKS.",
+   "organization": "aws"
+  },
+  {
+   "id": "21f4761ac0bc4960fa088c8b87c5fd00a1f8879f",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "aws",
+    "qa-automation",
+    "agents"
+   ],
+   "summary": "Third part of an AWS series on agentic QA automation using Amazon Nova Act.",
+   "whyItMatters": "Follow-on to a series; useful only if you read parts 1-2.",
+   "organization": "aws"
+  },
+  {
+   "id": "7ae8eb20550eee7692436f1c407fce5b64ca68f4",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "speech-recognition",
+    "nvidia",
+    "multilingual",
+    "open-models"
+   ],
+   "summary": "Hugging Face post on NVIDIA Nemotron 3.5 Transcribe and the Granary v2 dataset for promptable multilingual transcription.",
+   "whyItMatters": "A new open option for multilingual speech-to-text to benchmark.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "75e2017ed4c5a2ecbacf8d375dd8df89d0c0d878",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Business",
+   "tags": [
+    "openai",
+    "enterprise",
+    "servicenow"
+   ],
+   "summary": "OpenAI announces a broader partnership with ServiceNow for enterprise workflows.",
+   "whyItMatters": "Affects teams already on ServiceNow evaluating AI agents.",
+   "organization": "openai"
+  },
+  {
+   "id": "0dc3cf0b7c98dcde7cee9fa081b12b2c28e359be",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "openai",
+    "enterprise"
+   ],
+   "summary": "OpenAI essay on how AI could change the structure of firms.",
+   "whyItMatters": "Framing piece; no product changes to act on.",
+   "organization": "openai"
+  },
+  {
+   "id": "41c97fe8dc29ac4a38662fab728e42ff14149ac9",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "legal-ai",
+    "agents",
+    "openai"
+   ],
+   "summary": "OpenAI customer story on Legora building agent-based software for legal work.",
+   "whyItMatters": "Case study of an agentic product in legal.",
+   "organization": "openai"
+  },
+  {
+   "id": "05a0d3d331514d08e5b88fbdd5e75953650a5279",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "open-source",
+    "policy",
+    "llm"
+   ],
+   "summary": "Discussion of the MicroZig project adopting a policy that bans LLM and AI contributions.",
+   "whyItMatters": "Another open-source project drawing a line on AI contributions.",
+   "organization": "microzig"
+  },
+  {
+   "id": "5e4098babe95c0f83287cf6fe541c954ab163391",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "chrome",
+    "autofill",
+    "gmail",
+    "privacy"
+   ],
+   "summary": "TechCrunch reports Chrome autofill can now draw on Gmail content to complete forms.",
+   "whyItMatters": "Privacy and enterprise-policy implications for Chrome users.",
+   "organization": "google"
+  },
+  {
+   "id": "cca2247626bb8061c273dadd403e418489348458",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "chrome",
+    "autofill",
+    "gmail"
+   ],
+   "summary": "The Verge covers Chrome enhanced autofill pulling details from Gmail.",
+   "whyItMatters": "Check admin settings if you manage Chrome fleets.",
+   "organization": "google"
+  },
+  {
+   "id": "feb4caa835f163bd378978a5179817d24a9feb99",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "continual-learning",
+    "llm"
+   ],
+   "summary": "Community thread on a sleep-style framework for helping LLMs retain knowledge during continual learning.",
+   "whyItMatters": "Early idea; details thin from the thread alone.",
+   "organization": "unknown"
+  },
+  {
+   "id": "697824f502d27faf87a81d7095c1f96bea453a01",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "data-centers",
+    "water",
+    "environment"
+   ],
+   "summary": "Report on AI data center water use in Arizona.",
+   "whyItMatters": "Context for siting and sustainability questions.",
+   "organization": "arizona"
+  },
+  {
+   "id": "ed230ac810bddf59e09d3ab2c03eaeaaddefa782",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "health",
+    "longevity"
+   ],
+   "summary": "First-person account of a blood-based AI longevity prediction service.",
+   "whyItMatters": "Consumer curiosity piece; low practical impact.",
+   "organization": "unknown"
+  },
+  {
+   "id": "7df6a06689af67fd18aed6817d1f843a255a812a",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "decision-making"
+   ],
+   "summary": "Essay on how often people should revise their beliefs.",
+   "whyItMatters": "Not AI-specific.",
+   "organization": "unknown"
+  },
+  {
+   "id": "52ced88a57d975486cb59c4279c5407e6a979fc2",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "openai",
+    "commentary"
+   ],
+   "summary": "Blog post excerpting a remark by OpenAI staff member Ted Sanders.",
+   "whyItMatters": "Brief commentary; little to act on.",
+   "organization": "openai"
+  },
+  {
+   "id": "6e4063072a87ded33da7a638279fc855e41c99a4",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "social-media",
+    "public-sentiment"
+   ],
+   "summary": "Instagram head says public negativity about AI will get worse.",
+   "whyItMatters": "Signals expected public pushback on AI features.",
+   "organization": "meta"
+  },
+  {
+   "id": "1134b6a1764aac4f4edd761d821d33469a5c1169",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "microsoft",
+    "azure",
+    "cloud"
+   ],
+   "summary": "TechCrunch reports Microsoft disclosed Azure revenue in dollars for the first time.",
+   "whyItMatters": "Gives a size benchmark for cloud AI demand.",
+   "organization": "microsoft"
+  },
+  {
+   "id": "9b7dd4a7a6853f5d5578ec65f1b81b44ef5537c2",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "google",
+    "search-ads"
+   ],
+   "summary": "Google is expanding ads in AI Search worldwide as core ad growth slows.",
+   "whyItMatters": "Shifts where advertisers and publishers see AI search traffic.",
+   "organization": "google"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [
+  {
+   "id": "c-8d5fa7b0da",
+   "label": "Gemini 4 Carbon frontier launch"
+  },
+  {
+   "id": "c-a0fcb8eb2a",
+   "label": "Chrome autofill reads Gmail"
+  }
+ ],
+ "fetches": []
+}

@@ -1,0 +1,247 @@
+{
+ "date": "2026-10-29",
+ "batch": 3,
+ "items": [
+  {
+   "id": "65e05126788df454924a4cbb9041acfb67c96d7c",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "benchmarks",
+    "evaluation"
+   ],
+   "summary": "Nathan Lambert discusses Artificial Analysis v5 and the tradeoffs benchmark makers face.",
+   "whyItMatters": "Helps interpret leaderboard numbers.",
+   "organization": "artificial-analysis"
+  },
+  {
+   "id": "5358ace5fc955d7ce8b04a1482475718cd48ba22",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "kan",
+    "neural-networks"
+   ],
+   "summary": "Tutorial on building and visualising Kolmogorov-Arnold Networks.",
+   "whyItMatters": "Hands-on intro if you want to try KANs.",
+   "organization": "unknown"
+  },
+  {
+   "id": "6950fc9975df2b731e265ca462eb6992ca209823",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Business",
+   "tags": [
+    "anthropic",
+    "ipo"
+   ],
+   "summary": "Zvi comments on Anthropic filing an S-1.",
+   "whyItMatters": "Signals Anthropic heading toward a public listing.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "c3f87b32bcfc51dcdebb2cb192e636078e7c6944",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "industrial-ai",
+    "autonomy"
+   ],
+   "summary": "MIT Technology Review on balancing industrial AI autonomy with human control.",
+   "whyItMatters": "Sponsored-style framing; light detail.",
+   "organization": "unknown"
+  },
+  {
+   "id": "63edbeb5fc8956853375fc4aabef4dda10b2c176",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "rag",
+    "retrieval"
+   ],
+   "summary": "Towards Data Science argues a 1994 algorithm can improve RAG pipelines.",
+   "whyItMatters": "Possible cheap retrieval improvement to test.",
+   "organization": "unknown"
+  },
+  {
+   "id": "b80643c2977048e884a979f7a40753ba6f855fce",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "fine-tuning",
+    "embeddings"
+   ],
+   "summary": "Guide on choosing between fine-tuning an LLM and using frozen embeddings with a simple classifier.",
+   "whyItMatters": "Practical decision aid for adaptation costs.",
+   "organization": "unknown"
+  },
+  {
+   "id": "614dd327b184a79340dcac81135d3433e2c5d739",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "workplace-ai",
+    "publishing"
+   ],
+   "summary": "WIRED reports Macmillan staff say a workplace AI assistant was celebrated and then shut down.",
+   "whyItMatters": "Cautionary example of enterprise rollout.",
+   "organization": "macmillan"
+  },
+  {
+   "id": "d957b57aa1e66e8e431747c37c39d4f0116780ef",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "commentary"
+   ],
+   "summary": "Simon Willison quotes a short remark from Terk Terkowitz.",
+   "whyItMatters": "Brief quote post.",
+   "organization": "unknown"
+  },
+  {
+   "id": "28d78654e3c9aee60c7ff2a08f5043c144777526",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "engineering-management",
+    "ai-adoption"
+   ],
+   "summary": "Refactoring newsletter on how AI is changing engineering management.",
+   "whyItMatters": "Useful framing for managers of AI-using teams.",
+   "organization": "unknown"
+  },
+  {
+   "id": "625efce5713df3eb7a7058cb5074f6112bd6668f",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "anthropic",
+    "hiring"
+   ],
+   "summary": "Newsletter says Anthropic ended coding interviews.",
+   "whyItMatters": "Hiring practice shift; secondhand summary.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "5893a044bf5b6f56735d7f5352a9dbfea8dd0938",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "emergency-alerts",
+    "public-safety"
+   ],
+   "summary": "WIRED on AI-generated emergency alerts and whether people are ready.",
+   "whyItMatters": "Raises safety questions for alert systems.",
+   "organization": "unknown"
+  },
+  {
+   "id": "4638e7c281c815581449806a6d3a2a180a47d2b1",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "courts",
+    "governance"
+   ],
+   "summary": "WIRED profile of a judge supporting AI decisions in court cases.",
+   "whyItMatters": "Early case on AI in judicial settings.",
+   "organization": "unknown"
+  },
+  {
+   "id": "502c0185d02df32dbc44cd82e2de2ae6b59f4747",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "elections",
+    "politics"
+   ],
+   "summary": "Platformer on why the feared AI election impact did not materialize.",
+   "whyItMatters": "Retrospective, not new capability.",
+   "organization": "unknown"
+  },
+  {
+   "id": "8c63067a2b44b6b56dc75780d0515774929a4926",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "genie",
+    "coding-models",
+    "drug-discovery"
+   ],
+   "summary": "TLDR AI roundup mentioning Genie 4 worlds, Frontier Code 2 and AI drug discovery.",
+   "whyItMatters": "Digest; follow the linked items instead.",
+   "organization": "unknown"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}

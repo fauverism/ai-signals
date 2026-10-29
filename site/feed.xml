@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:09:56 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini 4 Carbon: Our next frontier model</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid isPermaLink="false">34b0bf3f94c3851e6957dd11bedc60679d6c4b34</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Google DeepMind announces Gemini 4 Carbon, a new frontier model it positions as a step up in cybersecurity work. Access appears limited at launch.</description>
+    </item>
+    <item>
+      <title>PyTorch 2.15 Release Blog</title>
+      <link>https://pytorch.org/blog/pytorch-2-15-release-blog/</link>
+      <guid isPermaLink="false">9d04b7a7d60f7eeeca49e04cab684781a1ffdb0a</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>PyTorch publishes release notes for version 2.15.</description>
+    </item>
+    <item>
+      <title>Anthropic Files Its S-1</title>
+      <link>https://thezvi.substack.com/p/anthropic-files-its-s-1</link>
+      <guid isPermaLink="false">6950fc9975df2b731e265ca462eb6992ca209823</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Business</category>
+      <description>Zvi comments on Anthropic filing an S-1.</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid isPermaLink="false">7ae8eb20550eee7692436f1c407fce5b64ca68f4</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on NVIDIA Nemotron 3.5 Transcribe and the Granary v2 dataset for promptable multilingual transcription.</description>
+    </item>
+    <item>
+      <title>Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms</title>
+      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
+      <guid isPermaLink="false">5e4098babe95c0f83287cf6fe541c954ab163391</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>TechCrunch reports Chrome autofill can now draw on Gmail content to complete forms.</description>
+    </item>
+    <item>
+      <title>How Uber Built A Gateway For AI Agents To Access Tools</title>
+      <link>https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents</link>
+      <guid isPermaLink="false">ccdcae5827c6090af8d2291439604f37d1d5961a</guid>
+      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>ByteByteGo outlines how Uber built a gateway that lets AI agents reach internal tools.</description>
+    </item>
     <item>
       <title>Genie 4: A new generation of world simulation</title>
       <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
@@ -294,54 +342,6 @@
       <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
       <category>Opinion</category>
       <description>Simon Willison&apos;s note on today&apos;s PHP security release and how PHP&apos;s security is being strengthened.</description>
-    </item>
-    <item>
-      <title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</title>
-      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
-      <guid isPermaLink="false">add383da2fc04409f1dd09256501af880b928040</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>News</category>
-      <description>Ars Technica reports that sharing Muse conversations can expose personal and business information to others.</description>
-    </item>
-    <item>
-      <title>Introducing TorchTPU</title>
-      <link>https://pytorch.org/blog/introducing-torchtpu/</link>
-      <guid isPermaLink="false">ab1b21ec165685737c7b8aa4f56021a3f34690cc</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>The PyTorch project introduces TorchTPU, a way to run PyTorch workloads on Google TPUs natively.</description>
-    </item>
-    <item>
-      <title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
-      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
-      <guid isPermaLink="false">3309b6ce15f483d47e2d371d98f4c5a7a1abff72</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>TechCrunch reports the US has ordered federal agencies to remove DeepSeek AI from their systems.</description>
-    </item>
-    <item>
-      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <guid isPermaLink="false">b6629abae55b8c83edc91fa400f5ef26eebb92ca</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>TechCrunch reports Anthropic is proposing a safety bill that could block a model if it might cause mass casualties.</description>
-    </item>
-    <item>
-      <title>Inside NVIDIA Sentry: Secure AI Agents at Runtime</title>
-      <link>https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/</link>
-      <guid isPermaLink="false">5aaac97d85d096996df5d16b8fc0860d97c63f30</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>NVIDIA technical post on Sentry, a runtime layer meant to secure AI agents while they execute.</description>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid isPermaLink="false">4eb9f7080b11166ecabe823c8b93aa97e58d2978</guid>
-      <pubDate>Wed, 21 Oct 2026 10:12:07 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face post on an NVIDIA Cosmos model that generates simulated clinical surgery scenes.</description>
     </item>
   </channel>
 </rss>
