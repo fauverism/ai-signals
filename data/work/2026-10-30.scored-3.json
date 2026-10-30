@@ -1,0 +1,499 @@
+{
+ "date": "2026-10-30",
+ "batch": 3,
+ "items": [
+  {
+   "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "workplace",
+    "policy"
+   ],
+   "summary": "TechCrunch looks at religious exemptions from using AI at work.",
+   "whyItMatters": "HR and policy teams may face similar requests.",
+   "organization": "unknown"
+  },
+  {
+   "id": "946805cb053fe22be229a41aeba88e3c3233d44a",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "outages",
+    "platformer"
+   ],
+   "summary": "Platformer column comparing what Google's and Reddit's recent bad days share.",
+   "whyItMatters": "Opinion-leaning analysis of platform trouble.",
+   "organization": "google"
+  },
+  {
+   "id": "720b04b8c5b9a5a8cb9c64d61c06458931da3434",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "cloud",
+    "capex"
+   ],
+   "summary": "TechCrunch reports AWS's CEO expects a trillion-dollar business after heavy spending first.",
+   "whyItMatters": "Hints at continued capacity investment.",
+   "organization": "aws"
+  },
+  {
+   "id": "32e3919a05879071228a0bdc0a5e34984fc7ca42",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "api-credits",
+    "chatgpt"
+   ],
+   "summary": "Simon Willison notes API credits now available to eligible ChatGPT subscriptions.",
+   "whyItMatters": "Eligible subscribers may get free API usage.",
+   "organization": "openai"
+  },
+  {
+   "id": "1e09943a421e9246b3e0b8e89cf39f0de8ae649c",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "search",
+    "logged-in"
+   ],
+   "summary": "TechCrunch reports Reddit is moving to a logged-in experience as search traffic drops.",
+   "whyItMatters": "AI search is changing how publishers handle traffic.",
+   "organization": "reddit"
+  },
+  {
+   "id": "7587406daf7d14d3030ba887665a0c517452eec6",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "automotive",
+    "assistants"
+   ],
+   "summary": "Rivian expands its joint venture with VW to cover an AI assistant.",
+   "whyItMatters": "Automotive assistant partnership; little technical detail.",
+   "organization": "rivian"
+  },
+  {
+   "id": "bde015e58f3737fa35432c99a4d3fde247a09577",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "consumer-apps",
+    "fashion"
+   ],
+   "summary": "Meta quietly launched an AI fashion app named Style Sketch.",
+   "whyItMatters": "Small consumer experiment from Meta.",
+   "organization": "meta"
+  },
+  {
+   "id": "a03a5f4a210c9ce8de05323ae4057437df0d27a1",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "finance",
+    "anthropic"
+   ],
+   "summary": "Understanding AI argues Anthropic's financials look surprisingly strong.",
+   "whyItMatters": "Context on lab sustainability for vendor risk.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "cfed78c7b30043db18fd17460b9ef0f3843c7492",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "robotics",
+    "trade"
+   ],
+   "summary": "Ars Technica reports a US declaration treating robot imports as a national security threat.",
+   "whyItMatters": "Could affect robotics supply chains and costs.",
+   "organization": "us government"
+  },
+  {
+   "id": "904e4b10c7b3291fa5ab2229febd24218aba0967",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "gemini",
+    "google-docs"
+   ],
+   "summary": "The Verge reports Gemini chats can now generate and edit Google Docs files.",
+   "whyItMatters": "Workspace users can draft documents directly in Gemini.",
+   "organization": "google"
+  },
+  {
+   "id": "4c55e492d89731445e5c47e31486995313ac0b78",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "agents",
+    "security",
+    "pentagon"
+   ],
+   "summary": "WIRED reports a defense contractor gave a personal AI agent access to a secure Pentagon system.",
+   "whyItMatters": "Concrete example of agent access-control failure.",
+   "organization": "us defense",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "066f3bd17c5f1eff64a81b5b3942605b74aafa4c",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "dictation",
+    "productivity"
+   ],
+   "summary": "Granola added a dictation feature to compete with Wispr.",
+   "whyItMatters": "Another entry in voice dictation tools.",
+   "organization": "granola"
+  },
+  {
+   "id": "a911857d9bc975b8a5b717b59a290f9bdc4a4e5d",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 7,
+    "credibility": 4
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "backdoor",
+    "model-security"
+   ],
+   "summary": "Tech Scoop reports researchers hid a backdoor in about 2% of a model's parameters, called BadEngram.",
+   "whyItMatters": "If real, raises concerns about auditing downloaded weights.",
+   "organization": "academic",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "a80dd20eaec84f5f341eb60fdeaab95020df3189",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "agents",
+    "experiment"
+   ],
+   "summary": "Simon Willison describes building a multiplayer game world with autonomous Fable-class models.",
+   "whyItMatters": "Hands-on look at long-running agent capability.",
+   "organization": "simon willison"
+  },
+  {
+   "id": "23e63926cceaf4fd9858e5195a7546407a2f2849",
+   "scores": {
+    "importance": 8,
+    "trend": 3,
+    "novelty": 7,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "open-weights",
+    "cybersecurity",
+    "mistral"
+   ],
+   "summary": "TechCrunch reports Mistral released weights for a trillion-parameter model aimed at cybersecurity.",
+   "whyItMatters": "Large open weights with a security focus; check license and use terms.",
+   "organization": "mistral",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "5ea2cedbadb4714d5e76d4892aa3d5600ca909ab",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "security",
+    "browsers"
+   ],
+   "summary": "ZDNET reports Firefox and Chrome patched over 200 security flaws combined.",
+   "whyItMatters": "Update browsers; part of ongoing AI-found-vulnerability wave if applicable.",
+   "organization": "mozilla"
+  },
+  {
+   "id": "b394caaea4801868674f6107a1135ad97653cdc2",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "ai-search",
+    "ads"
+   ],
+   "summary": "Ars Technica reports Google admits AI search earns less and plans more ads.",
+   "whyItMatters": "Shapes how search monetization affects publishers.",
+   "organization": "google"
+  },
+  {
+   "id": "169aca9d9c2aff8c3eb6d873f911c97cca8b1d31",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "jobs",
+    "workforce"
+   ],
+   "summary": "The Verge reports Microsoft's AI plans involve fewer jobs.",
+   "whyItMatters": "Workforce signal from a major vendor.",
+   "organization": "microsoft"
+  },
+  {
+   "id": "2df0e95472f644377c6498dd7844dd05e5de60a7",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "vision",
+    "benchmark"
+   ],
+   "summary": "Latent Space covers a test of whether frontier models can see past a visual decoy.",
+   "whyItMatters": "Useful read on gaps in visual reasoning.",
+   "organization": "elorian"
+  },
+  {
+   "id": "cb744138db5c70c67fa0b30ca027476c1cf0c0eb",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "agents",
+    "security",
+    "passwords"
+   ],
+   "summary": "ZDNET reports Bank of America warning customers not to share passwords with AI agents.",
+   "whyItMatters": "Plain guidance to give users of agent tools.",
+   "organization": "bank of america"
+  },
+  {
+   "id": "a86185eb36d2fb05169cc751b23c4a990fb96391",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Tutorials",
+   "tags": [
+    "system-design",
+    "data-movement"
+   ],
+   "summary": "ByteByteGo explainer on data movement strategies in system design.",
+   "whyItMatters": "General backend reference.",
+   "organization": "bytebytego"
+  },
+  {
+   "id": "f33a5e23d3df50001c8cb07efb8b449b377ffe3b",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "embeddings",
+    "classification"
+   ],
+   "summary": "Towards Data Science tutorial on cases where labels disagree but embeddings suggest a match.",
+   "whyItMatters": "Practical for cleaning labeled datasets.",
+   "organization": "towards data science"
+  },
+  {
+   "id": "33db78fc06624e0cb72f45275b96c5c53e926afe",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "vibe-coding",
+    "verification"
+   ],
+   "summary": "WIRED looks at math that could make AI-generated code more reliable.",
+   "whyItMatters": "Hints at formal verification for AI code.",
+   "organization": "unknown"
+  },
+  {
+   "id": "cec407323f5f073bc9434b6cb6ea8f06a92c34ba",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "consumer",
+    "recipes"
+   ],
+   "summary": "The Verge reports the NYT Cooking app is testing AI recipe changes.",
+   "whyItMatters": "Small consumer test.",
+   "organization": "nyt"
+  },
+  {
+   "id": "502de87809f2a788098ebe402b07401f2f882833",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "quotes"
+   ],
+   "summary": "Short quoted excerpt shared by Simon Willison.",
+   "whyItMatters": "Low-signal post.",
+   "organization": "simon willison"
+  },
+  {
+   "id": "01b61253f2f19e4cd6a5f3e6a307b2a02a6f303a",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "ipo",
+    "agi"
+   ],
+   "summary": "The Verge says Anthropic is asking Wall Street to believe in AGI.",
+   "whyItMatters": "Context on lab financing narratives.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "e938d897d64bb4ef9ecebc362f4ad77e353c9fa8",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "statistics",
+    "causal-inference"
+   ],
+   "summary": "Tutorial comparing difference-in-differences with lagged-outcome regression.",
+   "whyItMatters": "Reference for experiment analysts.",
+   "organization": "towards data science"
+  },
+  {
+   "id": "3402ab7175b1329b4f3bc018018ccaed69c28b7a",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "newsletter",
+    "ipo"
+   ],
+   "summary": "Zvi's weekly roundup, issue 192, centered on Anthropic going public.",
+   "whyItMatters": "Weekly commentary; skim for links.",
+   "organization": "anthropic"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "4db20898e948fcbbfe57b9ad9fb40b89b701dab2",
+   "reason": "deal with no technical substance"
+  },
+  {
+   "id": "d98eba0869172680e089935e82b291717b4273ff",
+   "reason": "not about AI"
+  }
+ ],
+ "clusterLabels": [],
+ "fetches": []
+}

@@ -1,0 +1,542 @@
+{
+ "date": "2026-10-30",
+ "batch": 1,
+ "items": [
+  {
+   "id": "4716167b47d3acc467867547b57c41d55d78c2c7",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Research",
+   "tags": [
+    "video-segmentation",
+    "event-cameras"
+   ],
+   "summary": "Paper on segmenting objects in video from event-camera streams using language prompts, from a group including Scaramuzza.",
+   "whyItMatters": "Matters mainly if you work on robotics or neuromorphic vision.",
+   "organization": "eth zurich",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "002925941d8693fd00f4addcd1bc1e962b9dc75d",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "multi-agent",
+    "memory"
+   ],
+   "summary": "Paper proposing a compact external memory of skills for multi-agent systems that reason in latent space.",
+   "whyItMatters": "Early idea for cheaper agent memory; no code signal yet.",
+   "organization": "ibm research",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "08b2dea1c3b719db0e0eb51894dfe47b8669883e",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "distillation",
+    "small-models"
+   ],
+   "summary": "Paper on moving capabilities from frontier models to small ones without training, using distilled artifacts.",
+   "whyItMatters": "Could cut cost of small-model deployment if results hold.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "0acb9737d4a60dd7840058cb438b6de2945c4b57",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "category-discovery",
+    "evaluation"
+   ],
+   "summary": "Paper on evaluation errors in generalized category discovery and a way to reduce them.",
+   "whyItMatters": "Narrow subfield; relevant to clustering benchmark authors.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "0b17ab51f19d99f7dc7e124c5bd3429a4810775d",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "reasoning",
+    "technical-report"
+   ],
+   "summary": "Technical report for a model called Metis-1.6 focused on reasoning in two passes, per the title.",
+   "whyItMatters": "Check for benchmarks and weights before taking it seriously.",
+   "organization": "metis",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "120f0e1cc1df5600f446406f4ced61211278d3f8",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "evaluation",
+    "structured-prediction"
+   ],
+   "summary": "Paper proposing a way to judge evaluation metrics for tasks with several outputs per input.",
+   "whyItMatters": "Useful only if you build metrics for structured outputs.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "14e2490a017c44e9096fda69e98022b18be7e441",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "robotics",
+    "inference"
+   ],
+   "summary": "Paired study of inference settings for the pi-0.5 robot policy on the BEHAVIOR-1K benchmark.",
+   "whyItMatters": "Gives robotics teams guidance on which inference knobs matter.",
+   "organization": "physical intelligence",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "1955aa478edf8057785f68154b7acf43e8e1154e",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "calibration",
+    "reasoning"
+   ],
+   "summary": "Paper on a single reasoning pass that adapts to different compute budgets for typed decisions.",
+   "whyItMatters": "Narrow; relevant to budget-aware inference.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "23c5dbfa13122b7736dab81587e0a3cb241cea2e",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "steering",
+    "quantization"
+   ],
+   "summary": "Paper on steering model behavior with clustered vectors that survive quantization.",
+   "whyItMatters": "Niche, but relevant if you quantize steered models.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "a1765f446c5b64b5bbced0cf22070e131e3557ee",
+   "scores": {
+    "importance": 8,
+    "trend": 4,
+    "novelty": 7,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "open-weights",
+    "mistral",
+    "coding"
+   ],
+   "summary": "Hugging Face post introducing Mistral Large 4, nicknamed Le Chonk, as an open-weights release you can download.",
+   "whyItMatters": "New open-weights option to benchmark against your current coding and agent models.",
+   "organization": "mistral",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "669162c73b41696bb405e97874e34b21474f045c",
+   "scores": {
+    "importance": 7,
+    "trend": 3,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "open-weights",
+    "coding",
+    "mistral"
+   ],
+   "summary": "ZDNET reports Le Chonk ranks among top open models for coding, alongside a closed competitor model.",
+   "whyItMatters": "Third-party framing of its coding rank; verify on your own tasks.",
+   "organization": "mistral",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "e4134e946254cc702e0bc13bb90bb44d887a5b45",
+   "scores": {
+    "importance": 6,
+    "trend": 3,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "open-weights",
+    "geopolitics"
+   ],
+   "summary": "WIRED reports Mistral's claim that Le Chonk puts it ahead of Chinese labs among open-weight models.",
+   "whyItMatters": "Vendor claim relayed by press; weigh it against independent evals.",
+   "organization": "mistral",
+   "trendReason": "adjusted for story size and reaction"
+  },
+  {
+   "id": "0add12f8d5eb3d3f3043c17bc23dfe6f1cbd09c1",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "benchmark",
+    "code-generation",
+    "3d"
+   ],
+   "summary": "Benchmark for editing 3D programs from natural-language instructions.",
+   "whyItMatters": "Niche; helpful for teams building 3D code agents.",
+   "organization": "academic"
+  },
+  {
+   "id": "0f3c4e511c2dfa732c8d91cc5b8adde133950231",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "neural-networks",
+    "architecture"
+   ],
+   "summary": "Paper on a neural network design whose behavior doesn't depend on how time is partitioned.",
+   "whyItMatters": "Theory-leaning; limited near-term impact.",
+   "organization": "academic"
+  },
+  {
+   "id": "1633d5b63cf6775f4c4896588e32ddab7e8b7eaa",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "training",
+    "fine-tuning"
+   ],
+   "summary": "Paper analyzing how much a weight update achieves at different training stages.",
+   "whyItMatters": "Informs fine-tuning choices; empirical details unclear from title.",
+   "organization": "academic"
+  },
+  {
+   "id": "186a704fcab39dd31f3b82c8375a620211f8228f",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "chain-of-thought",
+    "scaling"
+   ],
+   "summary": "Study of whether reliance on chain-of-thought grows with model size, finding larger models follow their steps more per the title.",
+   "whyItMatters": "Relevant to arguments over CoT faithfulness.",
+   "organization": "academic"
+  },
+  {
+   "id": "19ee87396c86ce872d60320ebeaf3f9f87821b0e",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "distillation",
+    "on-policy"
+   ],
+   "summary": "Paper examining how much teacher bridges help in interleaved on-policy distillation.",
+   "whyItMatters": "Useful for teams running distillation pipelines.",
+   "organization": "academic"
+  },
+  {
+   "id": "25f6b771ab41596eb2df32bf09c8c1a728f2f1f3",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "small-models",
+    "agents",
+    "terminal"
+   ],
+   "summary": "Paper comparing small and frontier models on terminal tasks to locate where small models fail.",
+   "whyItMatters": "Helps decide which agent tasks small models can take.",
+   "organization": "academic"
+  },
+  {
+   "id": "26f8077f2df7f6aacd5139c3bf98871daa214f6e",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "computer-vision",
+    "evaluation"
+   ],
+   "summary": "Broad empirical comparison of feature extractors for computer vision.",
+   "whyItMatters": "Reference material when picking a vision backbone.",
+   "organization": "academic"
+  },
+  {
+   "id": "2d4a10a983dbb939b37741cd9872f7562536f46d",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "ocr"
+   ],
+   "summary": "Paper with a follow-up to an OCR approach, titled Unlimited OCR Works 2.",
+   "whyItMatters": "OCR users may want to check for accuracy and licensing.",
+   "organization": "academic",
+   "trendReason": "cross-listing inflates source count"
+  },
+  {
+   "id": "2d907d698161a90c9949e8e9887a24fbe08663b7",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "interpretability",
+    "tts",
+    "voice-cloning"
+   ],
+   "summary": "Paper finding interpretable acoustic features inside autoregressive voice-cloning TTS models.",
+   "whyItMatters": "Interpretability work that touches voice-cloning misuse.",
+   "organization": "academic"
+  },
+  {
+   "id": "46130f49b5452940d68e99850aa699275e43105a",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "privacy",
+    "diffusion",
+    "membership-inference"
+   ],
+   "summary": "Paper on a calibration method for membership inference attacks against diffusion models.",
+   "whyItMatters": "Relevant to privacy audits of image models.",
+   "organization": "academic"
+  },
+  {
+   "id": "5161bdf214991aa7346a90573d94d42a0071a2f8",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "federated-learning",
+    "neuroimaging"
+   ],
+   "summary": "Study of unequal data amounts across sites in federated neuroimaging.",
+   "whyItMatters": "Niche medical imaging result.",
+   "organization": "academic"
+  },
+  {
+   "id": "555ed7a1e83d08edba6bfb674a3f096edd3276e0",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "diffusion",
+    "distillation"
+   ],
+   "summary": "Paper proposing Sinkhorn distribution matching for distilling diffusion models.",
+   "whyItMatters": "May speed up few-step image generation; code unknown.",
+   "organization": "academic"
+  },
+  {
+   "id": "579e27c9bd86ff99fda8cfee5a69318e9f8f8a99",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "healthcare",
+    "classification"
+   ],
+   "summary": "Investigation of machine and deep learning methods for diagnosing myocardial infarction.",
+   "whyItMatters": "Narrow clinical study.",
+   "organization": "academic"
+  },
+  {
+   "id": "7019caaad7341b8d9e3b33f61066ab025741761d",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "benchmark",
+    "low-light",
+    "vision"
+   ],
+   "summary": "Paper arguing low-light enhancement benchmarks contain hidden label shifts.",
+   "whyItMatters": "Warns against trusting leaderboard numbers in this subfield.",
+   "organization": "academic"
+  },
+  {
+   "id": "70cb50f0fbabdb07b60d0c7828f5a787073b728f",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "deepfakes",
+    "image-detection"
+   ],
+   "summary": "Paper on whether real and synthetic images can be statistically indistinguishable.",
+   "whyItMatters": "Bears on the limits of AI-image detection.",
+   "organization": "academic"
+  },
+  {
+   "id": "02b592e59c1f3c7a2453c759d833d352454dab45",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging"
+   ],
+   "summary": "Paper on 4D medical image interpolation using a learned motion manifold.",
+   "whyItMatters": "Niche medical imaging technique.",
+   "organization": "academic"
+  },
+  {
+   "id": "0677b7e5a3eebd1e287cfbe47ea7bca6ad11331b",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "stereo-matching",
+    "scaling-laws"
+   ],
+   "summary": "Study of data scaling laws in stereo matching, from in-domain to cross-domain results.",
+   "whyItMatters": "Guides data budgeting for depth estimation.",
+   "organization": "academic"
+  },
+  {
+   "id": "06debd3aef4b82acc8daa281ea2d08bccdde7b17",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "autonomous-driving",
+    "mapping"
+   ],
+   "summary": "Paper on online map construction that stays robust to biased priors.",
+   "whyItMatters": "Niche, driving-stack specific.",
+   "organization": "academic"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [
+  {
+   "id": "c-77eda26480",
+   "label": "Mistral Le Chonk open-weights release"
+  }
+ ],
+ "fetches": []
+}

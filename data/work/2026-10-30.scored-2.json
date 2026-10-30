@@ -1,0 +1,534 @@
+{
+ "date": "2026-10-30",
+ "batch": 2,
+ "items": [
+  {
+   "id": "0722f7f4005dc2b97763d20acab0fd91f368e7c1",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "image-editing",
+    "evaluation"
+   ],
+   "summary": "Paper on assessing visual consistency in product image editing.",
+   "whyItMatters": "Useful for e-commerce image pipelines.",
+   "organization": "academic"
+  },
+  {
+   "id": "08aa423fca72774ccca35b326e08d1359cdb4396",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "sam",
+    "mamba"
+   ],
+   "summary": "Paper pairing Segment Anything with a Mamba U-Net for medical segmentation.",
+   "whyItMatters": "Incremental medical segmentation work.",
+   "organization": "academic"
+  },
+  {
+   "id": "0a61cb391a02c2fde5c7182894dbe2c2b28d89ba",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "gait",
+    "measurement"
+   ],
+   "summary": "Paper on confidence filtering in video gait assessment and the selection bias it adds.",
+   "whyItMatters": "Niche; reminder that filtering shifts error.",
+   "organization": "academic"
+  },
+  {
+   "id": "0ba9bbf87e97cf7dc258037544aea0a4191c8287",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "adversarial-robustness",
+    "vlm"
+   ],
+   "summary": "Paper on text-guided defense for zero-shot adversarial robustness in vision-language models.",
+   "whyItMatters": "Relevant to VLM security teams.",
+   "organization": "academic"
+  },
+  {
+   "id": "0c84daf531400f7dc992226d8c742fc4ac3fabab",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Research",
+   "tags": [
+    "medical-imaging",
+    "tracking"
+   ],
+   "summary": "Paper on point tracking to localize vocal cords in laryngoscopy video.",
+   "whyItMatters": "Narrow clinical application.",
+   "organization": "academic"
+  },
+  {
+   "id": "3fa519422b2c3b8428823a0e68c488cd0e48d96c",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Business",
+   "tags": [
+    "aws",
+    "community"
+   ],
+   "summary": "AWS post on how a UK user group for Amazon Quick grew this year.",
+   "whyItMatters": "Community recap; skip unless you use Amazon Quick.",
+   "organization": "aws"
+  },
+  {
+   "id": "c1d5df7fdedb914fc58a48904729bcf6157b5569",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 9
+   },
+   "category": "Research",
+   "tags": [
+    "roundup",
+    "research"
+   ],
+   "summary": "Microsoft Research newsletter edition collecting recent work from the lab.",
+   "whyItMatters": "Roundup; scan for items in your area.",
+   "organization": "microsoft"
+  },
+  {
+   "id": "1fcf22f867e2d9dab964803fe89899339b79c1da",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "testing",
+    "agents",
+    "nova-act"
+   ],
+   "summary": "AWS walkthrough of building UI tests driven by intent with Amazon Nova Act.",
+   "whyItMatters": "Shows a pattern for agent-driven UI tests on AWS.",
+   "organization": "aws"
+  },
+  {
+   "id": "983901472b07263729ddecaac2f9c8edcbea06bf",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "code-migration",
+    "kiro"
+   ],
+   "summary": "AWS guide to building a repeatable PHP-to-Java migration process with the Kiro tool.",
+   "whyItMatters": "A concrete recipe for agent-assisted code migration.",
+   "organization": "aws"
+  },
+  {
+   "id": "7bf0065ceb1646f57aedf5f7d913738e013e364b",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "model-spec",
+    "alignment"
+   ],
+   "summary": "OpenAI published an updated Model Spec describing intended model behavior.",
+   "whyItMatters": "Defines the behavior rules you can design prompts and policies around.",
+   "organization": "openai"
+  },
+  {
+   "id": "aa702b033bfda9cdbdc92fd60c8f48d84209211d",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "sagemaker",
+    "gpu-scheduling"
+   ],
+   "summary": "AWS added quota management for Batch so teams can lend and borrow resources for SageMaker Training jobs.",
+   "whyItMatters": "Helps teams share training capacity on SageMaker.",
+   "organization": "aws"
+  },
+  {
+   "id": "3dcfe747ba6ccec01fd029d7d43a7bda79bdfd53",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "agents",
+    "mcp",
+    "agentcore"
+   ],
+   "summary": "Case study on a company exposing over 400 APIs to agents through AgentCore Gateway.",
+   "whyItMatters": "Useful pattern for turning APIs into agent tools.",
+   "organization": "aws"
+  },
+  {
+   "id": "415c05d3f517e27ece0c952eefc1caee6eac8238",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "nvidia",
+    "nemotron",
+    "kubernetes"
+   ],
+   "summary": "AWS and NVIDIA guidance on running Nemotron models for agents on EKS and SageMaker HyperPod.",
+   "whyItMatters": "Deployment recipe if you host open models on AWS.",
+   "organization": "aws"
+  },
+  {
+   "id": "8a4b15c66b1180e7c227babae793da6426d13c10",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "tensor-cores",
+    "chemistry"
+   ],
+   "summary": "NVIDIA engineering post on getting more Tensor Core speed for machine-learning interatomic potentials.",
+   "whyItMatters": "Relevant to computational chemistry workloads.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "f3538b6fb36f4f58fdca64e1b764cff7fa0ed810",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "granite",
+    "fine-tuning",
+    "open-models"
+   ],
+   "summary": "Hugging Face post on Granite Switch 4.1.1, which updates model capabilities in a software-update style.",
+   "whyItMatters": "Could simplify shipping model updates without full retrains.",
+   "organization": "ibm"
+  },
+  {
+   "id": "d28967fce9c692cd06eccf3709b27a584532abf2",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "alignment",
+    "misalignment-detection"
+   ],
+   "summary": "OpenAI describes how it detects misalignment in frontier models.",
+   "whyItMatters": "Shows what labs monitor for; useful for evaluation design.",
+   "organization": "openai"
+  },
+  {
+   "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Business",
+   "tags": [
+    "legal",
+    "case-study"
+   ],
+   "summary": "OpenAI case study of a law firm building AI for transactional diligence.",
+   "whyItMatters": "Vendor-authored adoption story; limited detail.",
+   "organization": "openai"
+  },
+  {
+   "id": "85d975255b4f9d004ddb3cbeee15f8e8556ffee6",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "speech",
+    "open-models",
+    "apple-silicon"
+   ],
+   "summary": "Hugging Face post introducing open speech-recognition and decision models for Apple devices.",
+   "whyItMatters": "On-device speech option if you ship on Apple hardware.",
+   "organization": "apple"
+  },
+  {
+   "id": "e1c742c1d925baf7505636d3c989a52bf3620d01",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 8
+   },
+   "category": "News",
+   "tags": [
+    "open-science",
+    "datasets"
+   ],
+   "summary": "Hugging Face announced Project ProtoStar to make publicly funded science data ready for AI use.",
+   "whyItMatters": "Could widen open scientific datasets for training.",
+   "organization": "hugging face"
+  },
+  {
+   "id": "eebb63f2228b3e378b5ad02b225701c5f87407f3",
+   "scores": {
+    "importance": 8,
+    "trend": 6,
+    "novelty": 8,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "gemini",
+    "benchmarks",
+    "leaderboard"
+   ],
+   "summary": "Hacker News thread on Gemini 4 Carbon reaching first place on the Artificial Analysis Intelligence Index v5.",
+   "whyItMatters": "If it holds up, re-run build-or-buy comparisons against it.",
+   "organization": "google"
+  },
+  {
+   "id": "8266ea920e518e8f8bd0869badd267193a35ed6b",
+   "scores": {
+    "importance": 8,
+    "trend": 4,
+    "novelty": 7,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "gemini",
+    "cybersecurity"
+   ],
+   "summary": "Latent Space issue covers Gemini 4 Carbon topping leaderboards and a launch aimed at cyber defenders.",
+   "whyItMatters": "Signals a new top model plus a security-specific offering.",
+   "organization": "google"
+  },
+  {
+   "id": "6c9d1ecb20b3cfc93e81e4ffc4738e1f8315de7d",
+   "scores": {
+    "importance": 6,
+    "trend": 4,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "newsletter",
+    "gemini",
+    "nemotron"
+   ],
+   "summary": "TLDR AI issue covering Gemini 4 Carbon, Nemotron Transcribe and benchmarking pitfalls.",
+   "whyItMatters": "Quick digest of the Gemini launch and a speech model.",
+   "organization": "google"
+  },
+  {
+   "id": "739e0b5535e3ec061840356572d3233664c1c295",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 4
+   },
+   "category": "News",
+   "tags": [
+    "voice",
+    "llm"
+   ],
+   "summary": "Hacker News thread about LLM voice that drew heavy discussion.",
+   "whyItMatters": "Title is thin; skim comments for practitioner views.",
+   "organization": "unknown"
+  },
+  {
+   "id": "638c4d7104de51ad3a78fecb083795e443f83e78",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "simulation",
+    "agents",
+    "firmware"
+   ],
+   "summary": "Launch HN for Simantic, a startup offering firmware simulation for AI agents.",
+   "whyItMatters": "Possible testbed if agents touch embedded systems.",
+   "organization": "simantic"
+  },
+  {
+   "id": "0ccd720ef4ed048bf3a613f866ce09d83cb04d4a",
+   "scores": {
+    "importance": 3,
+    "trend": 2,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "indigenous",
+    "ethics"
+   ],
+   "summary": "Hacker News discussion of a message about AI from the Kogui people.",
+   "whyItMatters": "Perspective piece; not a technical change.",
+   "organization": "kogui people"
+  },
+  {
+   "id": "05a0d3d331514d08e5b88fbdd5e75953650a5279",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "open-source",
+    "policy"
+   ],
+   "summary": "MicroZig is adopting a strict policy against LLM and AI use in its project.",
+   "whyItMatters": "Sign of open-source projects restricting AI contributions.",
+   "organization": "microzig"
+  },
+  {
+   "id": "7f6f8b2b4e14703d14bcf2eb83a004050ea87634",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 4
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "privacy",
+    "claude-code",
+    "prompt-injection"
+   ],
+   "summary": "Tell HN post claiming Claude Code adds the user's email to the prompt and the model sends it to websites.",
+   "whyItMatters": "Unverified privacy report; check your agent's outbound requests.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "9fd54443238a86c46c55690aaec6866d2472f20a",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "copyright",
+    "wikipedia"
+   ],
+   "summary": "The Verge reports Wikipedia's operator warning that a bad AI copyright ruling could threaten the open web.",
+   "whyItMatters": "Copyright rulings shape what training data stays usable.",
+   "organization": "wikimedia"
+  },
+  {
+   "id": "371b1e06db16bd42b653c36d145d715a1fcb5fbe",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "conference",
+    "coding-agents"
+   ],
+   "summary": "Latent Space issue about building the AIE CODE coding agent conference.",
+   "whyItMatters": "Event promo with little technical news.",
+   "organization": "latent space"
+  },
+  {
+   "id": "4d8e9bb639f3cbbdb469d45cc8b2bbcaadf5a441",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "software-factory",
+    "engineering"
+   ],
+   "summary": "Interview on building a software factory with an engineering leader.",
+   "whyItMatters": "Process ideas for teams using AI in delivery.",
+   "organization": "refactoring"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [
+  {
+   "id": "c-2ec51ec2c0",
+   "label": "Gemini 4 Carbon tops leaderboards"
+  }
+ ],
+ "fetches": []
+}

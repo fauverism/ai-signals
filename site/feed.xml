@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:11:43 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid isPermaLink="false">a1765f446c5b64b5bbced0cf22070e131e3557ee</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post introducing Mistral Large 4, nicknamed Le Chonk, as an open-weights release you can download.</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5</title>
+      <link>https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</link>
+      <guid isPermaLink="false">eebb63f2228b3e378b5ad02b225701c5f87407f3</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>News</category>
+      <description>Hacker News thread on Gemini 4 Carbon reaching first place on the Artificial Analysis Intelligence Index v5.</description>
+    </item>
+    <item>
+      <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
+      <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
+      <guid isPermaLink="false">23e63926cceaf4fd9858e5195a7546407a2f2849</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>News</category>
+      <description>TechCrunch reports Mistral released weights for a trillion-parameter model aimed at cybersecurity.</description>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid isPermaLink="false">d28967fce9c692cd06eccf3709b27a584532abf2</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>OpenAI describes how it detects misalignment in frontier models.</description>
+    </item>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="false">7bf0065ceb1646f57aedf5f7d913738e013e364b</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>News</category>
+      <description>OpenAI published an updated Model Spec describing intended model behavior.</description>
+    </item>
+    <item>
+      <title>A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System</title>
+      <link>https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/</link>
+      <guid isPermaLink="false">4c55e492d89731445e5c47e31486995313ac0b78</guid>
+      <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>WIRED reports a defense contractor gave a personal AI agent access to a secure Pentagon system.</description>
+    </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
       <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
@@ -294,54 +342,6 @@
       <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
       <category>News</category>
       <description>Hacker News discussion of an article arguing that LLMs make formal software verification feasible at much larger scale.</description>
-    </item>
-    <item>
-      <title>OpenAI models are coming to Google Cloud</title>
-      <link>https://openai.com/index/openai-models-google-cloud</link>
-      <guid isPermaLink="false">61f4d0141ff303c02405716db977e4c6353bca59</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>News</category>
-      <description>OpenAI says its models are coming to Google Cloud, adding a second major cloud route to them. Details come from OpenAI&apos;s own announcement.</description>
-    </item>
-    <item>
-      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-      <guid isPermaLink="false">d3f519557f32dd3d643c27d4c9f89095ff53a6df</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>OpenAI describes a program to coordinate global response as AI agents uncover critical software vulnerabilities.</description>
-    </item>
-    <item>
-      <title>[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
-      <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
-      <guid isPermaLink="false">f8078d89c26a395a1328ea191a7ce33b4a2f9c3d</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>News</category>
-      <description>Newsletter on DeepSeek DeepInfer, an open inference stack said to serve 155T tokens a day per cluster and earn $22m a day.</description>
-    </item>
-    <item>
-      <title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
-      <guid isPermaLink="false">1f413756a0cb052595fadb94475181bf01be91db</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>News</category>
-      <description>The Verge reports Anthropic launched Claude Duet, a new agent, to take on Meta&apos;s Muse.</description>
-    </item>
-    <item>
-      <title>Using thousands of AI agents to uncover new leads in biological data</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-      <guid isPermaLink="false">1de8e62ff715d1f1b849a16afe7dfd3ed7898410</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>News</category>
-      <description>OpenAI describes using thousands of AI agents to find new leads in biological data.</description>
-    </item>
-    <item>
-      <title>Today&apos;s PHP Security Release, and How We&apos;re Strengthening PHP Security</title>
-      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
-      <guid isPermaLink="false">918065aafd8b1ca439d85160c2c8bbefabed77b6</guid>
-      <pubDate>Thu, 22 Oct 2026 10:10:04 GMT</pubDate>
-      <category>Opinion</category>
-      <description>Simon Willison&apos;s note on today&apos;s PHP security release and how PHP&apos;s security is being strengthened.</description>
     </item>
   </channel>
 </rss>

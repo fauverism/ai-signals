@@ -1,0 +1,213 @@
+{
+ "date": "2026-10-30",
+ "batch": 4,
+ "items": [
+  {
+   "id": "22a42169ff916c20cde5cf42612e16862d8b2383",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "software-engineering",
+    "education"
+   ],
+   "summary": "Podcast interview on software engineering at Google and CS education.",
+   "whyItMatters": "General career listening.",
+   "organization": "google"
+  },
+  {
+   "id": "9af57b5f5723b3fc41c28bd503657f3c53055c93",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "explainer",
+    "research"
+   ],
+   "summary": "Podcast episode explaining what AI research is.",
+   "whyItMatters": "Beginner-level explainer.",
+   "organization": "technically"
+  },
+  {
+   "id": "113fb4594f86cc3db07639f769f34bf835e79832",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "ipo",
+    "business"
+   ],
+   "summary": "The Verge frames Anthropic's business plan as an all-in bet on AGI.",
+   "whyItMatters": "Commentary on lab strategy.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "0aab88e24825247c8690953062351915019fd8c4",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "opinion",
+    "study"
+   ],
+   "summary": "Opinion piece on a new study the author says shows a reason to stop working with AI.",
+   "whyItMatters": "Check the underlying study before drawing conclusions.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "e021545b06e5431d31b74e10b0838f79ac1b5b99",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "benchmarks",
+    "evaluation"
+   ],
+   "summary": "Towards Data Science piece asking whether the top-ranked AI model is truly best.",
+   "whyItMatters": "Useful framing for leaderboard skepticism.",
+   "organization": "towards data science"
+  },
+  {
+   "id": "16013b06c3c03f95091ef2a80f83d2abf663c5e9",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "harness-engineering",
+    "agents"
+   ],
+   "summary": "Hands-on introduction to harness engineering for agents.",
+   "whyItMatters": "Practical start for agent scaffolding.",
+   "organization": "towards data science"
+  },
+  {
+   "id": "0c49eb4fc30298f014f2732cdf1ea4427e4dbec2",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 7
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "agents",
+    "monitoring",
+    "safety"
+   ],
+   "summary": "MIT Technology Review argues AI agents' actions need real-time monitoring.",
+   "whyItMatters": "Supports building action logging into agent systems.",
+   "organization": "mit technology review"
+  },
+  {
+   "id": "697824f502d27faf87a81d7095c1f96bea453a01",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "data-centers",
+    "water"
+   ],
+   "summary": "The Verge reports on AI data centers and Arizona's water.",
+   "whyItMatters": "Resource constraints on compute buildout.",
+   "organization": "unknown"
+  },
+  {
+   "id": "ed230ac810bddf59e09d3ab2c03eaeaaddefa782",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "health",
+    "consumer"
+   ],
+   "summary": "WIRED reporter tries an AI death-prediction clock using their own blood sample.",
+   "whyItMatters": "Consumer health curiosity; limited rigor.",
+   "organization": "unknown"
+  },
+  {
+   "id": "7df6a06689af67fd18aed6817d1f843a255a812a",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "opinion",
+    "thinking"
+   ],
+   "summary": "Essay on whether you change your mind often enough.",
+   "whyItMatters": "Off-topic for most practitioners.",
+   "organization": "unknown"
+  },
+  {
+   "id": "52ced88a57d975486cb59c4279c5407e6a979fc2",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "quotes"
+   ],
+   "summary": "Short quoted excerpt shared by Simon Willison, attributed to Ted Sanders.",
+   "whyItMatters": "Low-signal post.",
+   "organization": "openai"
+  },
+  {
+   "id": "6e4063072a87ded33da7a638279fc855e41c99a4",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "sentiment",
+    "social"
+   ],
+   "summary": "The Verge reports Adam Mosseri expects negativity around AI to get worse.",
+   "whyItMatters": "Signal on public mood toward AI.",
+   "organization": "meta"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}
