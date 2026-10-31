@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:09:38 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI can turn public security fixes into working exploits before users receive an update</title>
+      <link>https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</link>
+      <guid isPermaLink="false">6e7a037d77f2fe304517ed4f70a7dda7e564e192</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>Research</category>
+      <description>Epoch AI reports AI can turn public security fixes into working exploits before users get an update.</description>
+    </item>
+    <item>
+      <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+      <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
+      <guid isPermaLink="false">93351cbb4cc442867866d46b0b95534355430728</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Ars Technica reports that Anthropic&apos;s VS Code extension, as distributed on Cursor, was backdoored for nearly 12 hours.</description>
+    </item>
+    <item>
+      <title>Making it easier for websites to express AI training preferences</title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <guid isPermaLink="false">25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>OpenAI announces work on making it easier for websites to state their preferences about use in AI training.</description>
+    </item>
+    <item>
+      <title>The biggest names in AI are backing a new way to opt out of scraping</title>
+      <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+      <guid isPermaLink="false">205a002f8608f13bc7017dff08753bbbc8e26460</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>The Verge reports major AI companies are backing a new way for sites to opt out of scraping.</description>
+    </item>
+    <item>
+      <title>How a Contractor’s Claude Agent Got Into the Pentagon</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/</link>
+      <guid isPermaLink="false">9fcf1feb8ef62474a7ca301edf5c19f960ae4987</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>WIRED reports on how a contractor&apos;s Claude-based agent ended up inside the Pentagon.</description>
+    </item>
+    <item>
+      <title>Google’s first data center satellite is online and writing poetry</title>
+      <link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
+      <guid isPermaLink="false">fc6c7228713784133471de435e607ec5f6fa1074</guid>
+      <pubDate>Sat, 31 Oct 2026 10:09:38 GMT</pubDate>
+      <category>News</category>
+      <description>TechCrunch covers Google&apos;s first data center satellite coming online and producing its first text output.</description>
+    </item>
     <item>
       <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
       <link>https://huggingface.co/blog/mistral-large4</link>
@@ -294,54 +342,6 @@
       <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
       <category>Tools &amp; Releases</category>
       <description>Hugging Face post pointing to a lookup for checking whether a model runs on AWS Trainium.</description>
-    </item>
-    <item>
-      <title>Hugging Face’s New AI Biology Model Lets You Chat With DNA</title>
-      <link>https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/</link>
-      <guid isPermaLink="false">d524ded1295e7b8ba778538197b5e47a8fc1a7a2</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>WIRED reports a Hugging Face biology model that lets users chat with DNA.</description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-      <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
-      <guid isPermaLink="false">dc028fea27bbb478762025a451f3125783f1687e</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>News</category>
-      <description>Latent Space AINews notes OpenAI’s Patch the Planet program as one of two parties to find the PHP2Shell vulnerabilities.</description>
-    </item>
-    <item>
-      <title>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</title>
-      <link>https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</link>
-      <guid isPermaLink="false">6e54c1bb1c355e79a139a9de4281a49d035ab2d6</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>News</category>
-      <description>WIRED reports hackers exploited the PHP flaws days before patches arrived.</description>
-    </item>
-    <item>
-      <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
-      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
-      <guid isPermaLink="false">ba6fa07d677a822106bce5984f77463673ff3072</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>News</category>
-      <description>OpenAI announces that Uber is rolling out ChatGPT Work to its whole workforce.</description>
-    </item>
-    <item>
-      <title>Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes</title>
-      <link>https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/</link>
-      <guid isPermaLink="false">676b58ceeee7bff886ee60a5877b9531bcfa0546</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>NVIDIA post on running very large models across eight DGX Spark nodes.</description>
-    </item>
-    <item>
-      <title>LLMs are making formal software verification feasible at a much larger scale</title>
-      <link>https://www.anthropic.com/research/formal-verification</link>
-      <guid isPermaLink="false">4e9bfd07ae02849d8691fa6c59ed092354abcaf9</guid>
-      <pubDate>Fri, 23 Oct 2026 10:10:50 GMT</pubDate>
-      <category>News</category>
-      <description>Hacker News discussion of an article arguing that LLMs make formal software verification feasible at much larger scale.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,95 @@
+{
+ "date": "2026-10-31",
+ "batch": 3,
+ "items": [
+  {
+   "id": "371b1e06db16bd42b653c36d145d715a1fcb5fbe",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "conference",
+    "coding-agents"
+   ],
+   "summary": "Latent Space newsletter about building the AIE CODE coding-agent conference.",
+   "whyItMatters": "Event news; low impact.",
+   "organization": "latent-space"
+  },
+  {
+   "id": "4d8e9bb639f3cbbdb469d45cc8b2bbcaadf5a441",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "software-factory",
+    "engineering"
+   ],
+   "summary": "Refactoring interview about building a software factory.",
+   "whyItMatters": "Process ideas for AI-assisted engineering teams.",
+   "organization": "refactoring"
+  },
+  {
+   "id": "946805cb053fe22be229a41aeba88e3c3233d44a",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "search",
+    "platforms"
+   ],
+   "summary": "Platformer on what bad days at Google and Reddit have in common.",
+   "whyItMatters": "Commentary on search and platform shifts.",
+   "organization": "google"
+  },
+  {
+   "id": "a7c615ba377d87cb88d5202611382e95b47bc682",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "mistral",
+    "open-weights",
+    "roundup"
+   ],
+   "summary": "TLDR AI roundup mentioning an open-source Mistral Large 4, agent swarm behavior and an Altman interview.",
+   "whyItMatters": "Roundup; follow the primary Mistral release.",
+   "organization": "mistral"
+  },
+  {
+   "id": "32e3919a05879071228a0bdc0a5e34984fc7ca42",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "openai",
+    "api-credits"
+   ],
+   "summary": "Simon Willison notes API credits being offered to eligible ChatGPT subscriptions.",
+   "whyItMatters": "Check whether your plan qualifies.",
+   "organization": "openai"
+  }
+ ],
+ "skipped": [],
+ "clusterLabels": [],
+ "fetches": []
+}

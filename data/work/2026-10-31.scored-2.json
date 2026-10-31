@@ -1,0 +1,498 @@
+{
+ "date": "2026-10-31",
+ "batch": 2,
+ "items": [
+  {
+   "id": "4e2c9c66b20a8391f87bc4118dd459f1b0b81c8e",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "github",
+    "experiment"
+   ],
+   "summary": "Simon Willison links a repository named nesformer; the entry gives little detail beyond the project name.",
+   "whyItMatters": "Hobby-scale project; check the repo for specifics.",
+   "organization": "simon-willison"
+  },
+  {
+   "id": "1ad66cf690a946d3eeb6b2a9dbb080898748aa47",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Business",
+   "tags": [
+    "anthropic",
+    "ipo",
+    "credit-rating"
+   ],
+   "summary": "TechCrunch relays an FT report that Anthropic is expected to get a high-yield credit rating after its IPO.",
+   "whyItMatters": "Financing terms may shape Anthropic's pricing room.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "ef4c1375c46967bad326604eea8a3d9df9dca81c",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "data-center",
+    "power"
+   ],
+   "summary": "Ars Technica reports a supersonic airliner effort is shifting toward powering AI data centers.",
+   "whyItMatters": "Illustrates demand for data center power.",
+   "organization": "boom-supersonic"
+  },
+  {
+   "id": "9fcf1feb8ef62474a7ca301edf5c19f960ae4987",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "claude",
+    "agents",
+    "security",
+    "government"
+   ],
+   "summary": "WIRED reports on how a contractor's Claude-based agent ended up inside the Pentagon.",
+   "whyItMatters": "Raises access-control questions for agents in sensitive settings.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "07912041c313179bf36a7831586d2eea1d3c1046",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "ai-spending",
+    "market"
+   ],
+   "summary": "TechCrunch looks at signs of strain in the AI spending boom.",
+   "whyItMatters": "Context if you plan around AI infrastructure prices.",
+   "organization": "industry"
+  },
+  {
+   "id": "93351cbb4cc442867866d46b0b95534355430728",
+   "scores": {
+    "importance": 7,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 8
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "supply-chain",
+    "vscode",
+    "security",
+    "cursor"
+   ],
+   "summary": "Ars Technica reports that Anthropic's VS Code extension, as distributed on Cursor, was backdoored for nearly 12 hours.",
+   "whyItMatters": "If you use it in Cursor, check your install and rotate credentials.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "5a1dea183cd6869991962e0cc82ded86db2c8210",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "openai",
+    "hardware",
+    "ram"
+   ],
+   "summary": "The Verge covers Sam Altman arguing that memory belongs in data centers, not on desktops.",
+   "whyItMatters": "Opinion that bears on local-versus-cloud hardware choices.",
+   "organization": "openai"
+  },
+  {
+   "id": "d6402cbeb2e6c77795ffecc06797a0fa3b24ad32",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "education",
+    "ai-policy"
+   ],
+   "summary": "Ars Technica reports a Dartmouth provost lost his job over his own AI use.",
+   "whyItMatters": "Cautionary tale about AI disclosure policies.",
+   "organization": "dartmouth"
+  },
+  {
+   "id": "205a002f8608f13bc7017dff08753bbbc8e26460",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "scraping",
+    "opt-out",
+    "robots"
+   ],
+   "summary": "The Verge reports major AI companies are backing a new way for sites to opt out of scraping.",
+   "whyItMatters": "A shared opt-out signal could shape future crawler rules.",
+   "organization": "industry"
+  },
+  {
+   "id": "eea5a3900bfe3b1e9555122b35a078b675cfbd5a",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "education",
+    "opinion"
+   ],
+   "summary": "Zvi's weekly column on children, education and AI.",
+   "whyItMatters": "Commentary for readers following AI in schools.",
+   "organization": "zvi"
+  },
+  {
+   "id": "bf3ef033c939e15b4766469c2eb1b979ec1641f5",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "android"
+   ],
+   "summary": "ZDNET reports on low early adoption of Android 17.",
+   "whyItMatters": "Minor for AI builders.",
+   "organization": "google"
+  },
+  {
+   "id": "09484dfee9e7507c2e288e12fb98c6cc476fba47",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "storage",
+    "data-center"
+   ],
+   "summary": "Ars Technica reports Fujifilm will expand tape production fivefold as AI drives archiving demand.",
+   "whyItMatters": "Data retention costs are rising with training sets.",
+   "organization": "fujifilm"
+  },
+  {
+   "id": "abf1986abc86fab73f9a50bb441169e254933928",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "retail",
+    "personalization"
+   ],
+   "summary": "The Verge reports Starbucks wants AI to show a personalized drive-thru menu.",
+   "whyItMatters": "Retail personalization example.",
+   "organization": "starbucks"
+  },
+  {
+   "id": "21d66635327b13923864d7a80b972a77f62c00ef",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "open-weights",
+    "cyber-risk",
+    "opinion"
+   ],
+   "summary": "Nathan Lambert revisits his view on whether open models raise cyber risk.",
+   "whyItMatters": "Informs the open-weights safety debate.",
+   "organization": "interconnects"
+  },
+  {
+   "id": "bf6b98dd12dc6578a213fcda54ffe3c1189420a4",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "wearables"
+   ],
+   "summary": "ZDNET covers improved sleep tracking on Samsung Galaxy Watches.",
+   "whyItMatters": "Consumer feature; marginal for builders.",
+   "organization": "samsung"
+  },
+  {
+   "id": "70d0545410fc9ef5d857c30e93b2b59394c692a2",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 4
+   },
+   "category": "News",
+   "tags": [
+    "smart-home"
+   ],
+   "summary": "ZDNET review-style piece on the Echo Show 16 as a smart calendar.",
+   "whyItMatters": "Consumer product note.",
+   "organization": "amazon"
+  },
+  {
+   "id": "0f4b175e90abac104368645c68b087a49c987de4",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "News",
+   "tags": [
+    "security",
+    "router"
+   ],
+   "summary": "ZDNET explains how to check and patch a Netgear router vulnerability.",
+   "whyItMatters": "Patch if you run the affected Netgear models.",
+   "organization": "netgear"
+  },
+  {
+   "id": "871b81f930c7e6ad9245c54b166a162105a1d685",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "fraud",
+    "ai-misuse"
+   ],
+   "summary": "Ars Technica reports the DOJ says AI was used to create thousands of fake students to take student loan money.",
+   "whyItMatters": "Fraud pattern that identity teams should know.",
+   "organization": "doj"
+  },
+  {
+   "id": "8492851df22e040d2faf26cb5a065d293f825257",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "hiring",
+    "interviews"
+   ],
+   "summary": "The Pragmatic Engineer reports on Anthropic dropping its coding interview.",
+   "whyItMatters": "Signal for how hiring adapts to AI coding tools.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "8071379ceff55d4deef4a69421658783a56ce685",
+   "scores": {
+    "importance": 1,
+    "trend": 1,
+    "novelty": 2,
+    "credibility": 4
+   },
+   "category": "News",
+   "tags": [
+    "smart-home",
+    "gemini"
+   ],
+   "summary": "ZDNET on Google Home updates for speakers and cameras.",
+   "whyItMatters": "Consumer update.",
+   "organization": "google"
+  },
+  {
+   "id": "dcaea87b2acf529c97116f19ea02b637a7f6b0a3",
+   "scores": {
+    "importance": 2,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "statistics"
+   ],
+   "summary": "Towards Data Science piece on how people choose a number between one and ten.",
+   "whyItMatters": "Light data-science read.",
+   "organization": "academic"
+  },
+  {
+   "id": "c4bb3b9b5d211eddafcc031cefb160c1b5ee6e3f",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "ethics",
+    "governance"
+   ],
+   "summary": "The Verge reports Pope Leo calling for AI disarmament and saying machines are tools, not persons.",
+   "whyItMatters": "Adds a moral voice to the AI governance debate.",
+   "organization": "vatican"
+  },
+  {
+   "id": "2bd34032abaa9692156ba4fafbcec14d46594e63",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "feature-selection",
+    "tabular"
+   ],
+   "summary": "Towards Data Science write-up comparing binning and feature selection on an insurance hackathon.",
+   "whyItMatters": "Practical tabular-ML lesson.",
+   "organization": "academic"
+  },
+  {
+   "id": "8bf6d66943506208f766c727a2665bd19ae2a6a3",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "opinion"
+   ],
+   "summary": "The Verge commentary on Silicon Valley investing in \"miracles\".",
+   "whyItMatters": "Opinion; limited practical value.",
+   "organization": "industry"
+  },
+  {
+   "id": "a4231a3499cd586a6bdcf5f97ed053b710cb9ef5",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "openai",
+    "math"
+   ],
+   "summary": "The Verge covers Sam Altman saying OpenAI's push into mathematics will continue despite mathematicians' concerns.",
+   "whyItMatters": "Shows OpenAI's direction in research tooling.",
+   "organization": "openai"
+  },
+  {
+   "id": "6f741bac67d2bcba9a005c140e79d51f68ff0824",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "agents",
+    "tools"
+   ],
+   "summary": "Towards Data Science article on giving an agent's tools their own decision-making.",
+   "whyItMatters": "Design idea for agent tool builders.",
+   "organization": "academic"
+  },
+  {
+   "id": "6e7a037d77f2fe304517ed4f70a7dda7e564e192",
+   "scores": {
+    "importance": 7,
+    "trend": 0,
+    "novelty": 7,
+    "credibility": 8
+   },
+   "category": "Research",
+   "tags": [
+    "security",
+    "exploits",
+    "patching"
+   ],
+   "summary": "Epoch AI reports AI can turn public security fixes into working exploits before users get an update.",
+   "whyItMatters": "Shrinks patching windows; prioritize fast updates.",
+   "organization": "epoch-ai"
+  },
+  {
+   "id": "d1eed9de991527c533669504c85c9b9e7a9442a8",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Tutorials",
+   "tags": [
+    "claude-code",
+    "hooks"
+   ],
+   "summary": "Towards Data Science guide to custom Claude Code hooks for common coding frustrations.",
+   "whyItMatters": "Ready-made hook ideas for Claude Code users.",
+   "organization": "anthropic"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "a977761811a976a3ce0fcc7ccfa207309cb2d343",
+   "reason": "stock move"
+  },
+  {
+   "id": "ade2d7581a3b8c2ef2d32e5fc0701e05be7717aa",
+   "reason": "costume listicle"
+  }
+ ],
+ "clusterLabels": [],
+ "fetches": []
+}

@@ -1,0 +1,523 @@
+{
+ "date": "2026-10-31",
+ "batch": 1,
+ "items": [
+  {
+   "id": "002925941d8693fd00f4addcd1bc1e962b9dc75d",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "multi-agent",
+    "memory"
+   ],
+   "summary": "Preprint on a compact external memory of skills that lets cooperating agents reason together without exchanging long text.",
+   "whyItMatters": "Niche multi-agent memory idea; watch for code before adopting.",
+   "organization": "ibm"
+  },
+  {
+   "id": "011b15a002851b3e1f2901a3413515a66de3209b",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "symbolic-regression",
+    "agriculture"
+   ],
+   "summary": "Preprint testing symbolic regression for modeling in livestock farming.",
+   "whyItMatters": "Narrow applied-ML result; little for most builders.",
+   "organization": "academic"
+  },
+  {
+   "id": "01adc24c7043013b4a29eb7a864bce5d7ccbf0f9",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "multi-agent",
+    "verification"
+   ],
+   "summary": "Single-author preprint proposing a message protocol where agents attach checkable proofs to what they send each other.",
+   "whyItMatters": "Idea worth tracking for agent trust, but unproven.",
+   "organization": "cygnux-labs"
+  },
+  {
+   "id": "01ecd44e8df3d802b0b043cec6c30e39ce95960f",
+   "scores": {
+    "importance": 1,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "knowledge-graph"
+   ],
+   "summary": "Preprint describing a two-layer knowledge graph for cataloging open problems from the literature.",
+   "whyItMatters": "Specialist knowledge-graph work; low direct relevance.",
+   "organization": "academic"
+  },
+  {
+   "id": "01f8c9d827819d37cb8a1961298885ae3565a4c6",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "knowledge-graph",
+    "diffusion"
+   ],
+   "summary": "Paper on discovering missing triples in knowledge graphs with a latent diffusion approach anchored on observed facts.",
+   "whyItMatters": "Incremental knowledge-graph completion method.",
+   "organization": "academic"
+  },
+  {
+   "id": "026e4025d8dad6279d123729633a3a703c59cc8d",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "distillation",
+    "uncertainty"
+   ],
+   "summary": "Study of what on-policy distillation actually learns about a teacher's uncertainty, with a way to predict it.",
+   "whyItMatters": "Useful if you distill models; informs when it works.",
+   "organization": "apple"
+  },
+  {
+   "id": "03a36cd2d83b36474974b2739c4f2d21bd6ba992",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 4
+   },
+   "category": "Research",
+   "tags": [
+    "post-training",
+    "moe",
+    "distillation"
+   ],
+   "summary": "Preprint on post-training with calibrated distillation plus a faster execution path for dynamic mixture-of-experts models.",
+   "whyItMatters": "Relevant to teams serving MoE models cheaply.",
+   "organization": "academic"
+  },
+  {
+   "id": "03dc09378522f0fa1b259d124a5cde1edee2e45d",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Research",
+   "tags": [
+    "interpretability",
+    "alignment"
+   ],
+   "summary": "Paper examining whether and how language models form something like a self-concept.",
+   "whyItMatters": "Interesting for alignment work; early-stage findings.",
+   "organization": "academic"
+  },
+  {
+   "id": "feb912e225e8e3aa8c6851f6a306781f9ad4ef83",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "bedrock",
+    "finops",
+    "cost"
+   ],
+   "summary": "AWS guide for finance and platform teams on tracking and controlling Amazon Bedrock spend across an organization.",
+   "whyItMatters": "Concrete cost-control checklist if you run Bedrock.",
+   "organization": "aws"
+  },
+  {
+   "id": "391b23f56ce318264270ee40ff68a2615168e77e",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "agentcore",
+    "coding-agents"
+   ],
+   "summary": "AgentCore runtime now lets you preview a web app live while a coding agent builds it.",
+   "whyItMatters": "Faster feedback loop for agent-built apps on AWS.",
+   "organization": "aws"
+  },
+  {
+   "id": "ae8372a9c3c19778ba7a0f5f5ac450b73f4d52be",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "dynamo",
+    "kubernetes",
+    "inference"
+   ],
+   "summary": "NVIDIA walkthrough for building a validated Kubernetes runtime to deploy Dynamo inference.",
+   "whyItMatters": "Reference setup for teams running Dynamo on Kubernetes.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "52dedc30355aed7e4e17095fb34b03938e70987c",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "edge",
+    "nvidia"
+   ],
+   "summary": "NVIDIA post on running AI models for edge application development using a short set of commands.",
+   "whyItMatters": "Lowers setup cost for edge prototypes on NVIDIA hardware.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "nemotron",
+    "open-weights"
+   ],
+   "summary": "Hugging Face post titled nemotron-halloween; the title alone gives little detail, so treat it as an NVIDIA Nemotron-related community release.",
+   "whyItMatters": "Check the post before relying on it; details are thin.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "44854634469c462edb886c1b4bb97f4c96f47175",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "bedrock",
+    "case-study",
+    "logistics"
+   ],
+   "summary": "AWS case study on a freight company using Bedrock to automate handling of shipment exceptions.",
+   "whyItMatters": "Example workflow for automating exception handling.",
+   "organization": "aws"
+  },
+  {
+   "id": "cabe8a08dfb8581078069bf28aaf679503c8ac59",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "bedrock",
+    "govcloud",
+    "chatgpt"
+   ],
+   "summary": "Guide to configuring the ChatGPT desktop app to run through Amazon Bedrock in AWS GovCloud (US).",
+   "whyItMatters": "Shows a path for regulated US government teams.",
+   "organization": "aws"
+  },
+  {
+   "id": "b5bd2734bcbd8d3c2bd76c30b87c5b370985100e",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "agents",
+    "nemoclaw",
+    "self-hosted"
+   ],
+   "summary": "NVIDIA introduces NemoClaw for building specialized agents on infrastructure you control.",
+   "whyItMatters": "Option for agent stacks you host yourself.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "a283ca869f8753771f55fa70c632d750f5d210d2",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "gpudirect",
+    "storage"
+   ],
+   "summary": "NVIDIA how-to for checking and configuring GPUDirect Storage on a given platform.",
+   "whyItMatters": "Handy for GPU storage tuning; narrow audience.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "c76597c7b39892579058e47c46ffa198b8a9f308",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 8
+   },
+   "category": "Research",
+   "tags": [
+    "evaluation",
+    "copilot",
+    "enterprise"
+   ],
+   "summary": "Microsoft Research on moving from synthetic enterprise evaluations to measuring real confidence in Copilot.",
+   "whyItMatters": "Hints at how vendors validate enterprise assistants.",
+   "organization": "microsoft"
+  },
+  {
+   "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "robots",
+    "ai-training",
+    "opt-out"
+   ],
+   "summary": "OpenAI announces work on making it easier for websites to state their preferences about use in AI training.",
+   "whyItMatters": "Publishers and site owners may get a standard opt-out signal.",
+   "organization": "openai"
+  },
+  {
+   "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 9
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "teen-safety",
+    "openai"
+   ],
+   "summary": "OpenAI publishes a community safety report and describes new protections for teen users.",
+   "whyItMatters": "Affects teams building teen-facing products on its models.",
+   "organization": "openai"
+  },
+  {
+   "id": "d2282bcce1625c643a8eee68a045d3c9816c93c6",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Policy & Safety",
+   "tags": [
+    "copyright",
+    "fair-use"
+   ],
+   "summary": "OpenAI makes its public argument that fair use of training data benefits a broad range of people.",
+   "whyItMatters": "Position statement, not a legal change; context for copyright debate.",
+   "organization": "openai"
+  },
+  {
+   "id": "8f65b6637c02d384249495ddcae34ee31b1add61",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "agents",
+    "commerce"
+   ],
+   "summary": "Ars Technica reports that AI agents account for almost none of DoorDash orders.",
+   "whyItMatters": "Early signal that agent commerce adoption is slow.",
+   "organization": "doordash"
+  },
+  {
+   "id": "e9e7beb52b83e198ec3dacaaa320336d23d5209a",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "Business",
+   "tags": [
+    "agents",
+    "commerce"
+   ],
+   "summary": "TechCrunch reports DoorDash has seen only several hundred orders placed by AI agents.",
+   "whyItMatters": "Agent shopping demand remains small so far.",
+   "organization": "doordash"
+  },
+  {
+   "id": "c6c587b774df9bcd3f4494d63ff64a56803b6cef",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "space",
+    "data-center"
+   ],
+   "summary": "The Verge reports Google's orbiting AI server has sent its first response back to Earth.",
+   "whyItMatters": "Early test of compute in orbit; practical use unclear.",
+   "organization": "google"
+  },
+  {
+   "id": "fc6c7228713784133471de435e607ec5f6fa1074",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "space",
+    "data-center"
+   ],
+   "summary": "TechCrunch covers Google's first data center satellite coming online and producing its first text output.",
+   "whyItMatters": "Same story as the Verge piece; a demo, not a service yet.",
+   "organization": "google"
+  },
+  {
+   "id": "edd821e09ba3cc5366f890405e2c7043fb0c3049",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 7
+   },
+   "category": "Research",
+   "tags": [
+    "lab-automation",
+    "agents"
+   ],
+   "summary": "WIRED reports on an AI agent that carried out an injection into a live mouse's brain.",
+   "whyItMatters": "Shows agents moving into physical lab work.",
+   "organization": "academic"
+  },
+  {
+   "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 3,
+    "credibility": 6
+   },
+   "category": "Business",
+   "tags": [
+    "data-center",
+    "financing"
+   ],
+   "summary": "TechCrunch reports Nvidia is considering acting as cosigner for Nscale's AI data center in West Virginia.",
+   "whyItMatters": "Shows how chip vendors help finance capacity.",
+   "organization": "nvidia"
+  },
+  {
+   "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "assistants",
+    "shutdown"
+   ],
+   "summary": "TechCrunch reports the privacy-focused AI assistant Ollie is shutting down.",
+   "whyItMatters": "Reminder to plan exports if you depend on small assistant apps.",
+   "organization": "ollie"
+  },
+  {
+   "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "News",
+   "tags": [
+    "apple-intelligence",
+    "china"
+   ],
+   "summary": "The Verge reports Apple Intelligence is coming to China with iOS 27.3.",
+   "whyItMatters": "Opens a large market to Apple's on-device AI features.",
+   "organization": "apple"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "4505f5f4bd09cf760b1cd9c94550ff4fcd1b96d1",
+   "reason": "market-move newsletter"
+  }
+ ],
+ "clusterLabels": [
+  {
+   "id": "c-193a366e79",
+   "label": "AI agent orders at DoorDash"
+  },
+  {
+   "id": "c-87bc519188",
+   "label": "Google orbital data center test"
+  }
+ ],
+ "fetches": []
+}

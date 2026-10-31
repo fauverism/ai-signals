@@ -1,93 +1,56 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T10:11:43Z",
-  "editorNote": "Two model stories dominate. Mistral published open weights for Large 4, nicknamed Le Chonk, and press frames it as a coding leader among open models; treat the rankings as vendor-adjacent until you test it. Separately, Gemini 4 Carbon took first place on the Artificial Analysis index and launched for cyber defenders. OpenAI also updated its Model Spec and described how it detects misalignment.",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T10:09:38Z",
+  "editorNote": "Security leads the day. Epoch AI says public patches can now be turned into working exploits before users update, and a backdoored Anthropic VS Code extension on Cursor sat live for nearly 12 hours. If you run either, check installs and shorten patch windows. Separately, major AI companies are backing a shared way for sites to opt out of scraping.",
   "lead": {
-    "id": "a1765f446c5b64b5bbced0cf22070e131e3557ee",
-    "url": "https://huggingface.co/blog/mistral-large4",
-    "canonicalUrl": "https://huggingface.co/blog/mistral-large4",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "source": "Hugging Face Blog",
-    "sourceTier": 1,
-    "categoryHint": "Tools & Releases",
-    "author": null,
-    "publishedAt": "2026-10-29T00:00:00Z",
-    "fetchedAt": "2026-10-30T10:10:17Z",
+    "id": "6e7a037d77f2fe304517ed4f70a7dda7e564e192",
+    "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+    "canonicalUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+    "title": "AI can turn public security fixes into working exploits before users receive an update",
+    "source": "Epoch AI",
+    "sourceTier": 2,
+    "categoryHint": "Research",
+    "author": "Aiden Ament",
+    "publishedAt": "2026-10-30T12:07:16Z",
+    "fetchedAt": "2026-10-31T10:08:41Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
       "redditScore": null,
       "githubStars": null,
       "githubStarsDelta": null,
-      "crossSourceCount": 3
+      "crossSourceCount": 1
     },
     "scores": {
-      "importance": 8,
-      "trend": 4,
+      "importance": 7,
+      "trend": 0,
       "novelty": 7,
-      "credibility": 9
+      "credibility": 8
     },
-    "total": 6.9,
-    "category": "Tools & Releases",
+    "total": 5.4,
+    "category": "Research",
     "tags": [
-      "open-weights",
-      "mistral",
-      "coding"
+      "security",
+      "exploits",
+      "patching"
     ],
-    "summary": "Hugging Face post introducing Mistral Large 4, nicknamed Le Chonk, as an open-weights release you can download.",
-    "whyItMatters": "New open-weights option to benchmark against your current coding and agent models.",
+    "summary": "Epoch AI reports AI can turn public security fixes into working exploits before users get an update.",
+    "whyItMatters": "Shrinks patching windows; prioritize fast updates.",
     "featuredSlot": "lead",
     "previouslyFeatured": false
   },
   "top": [
     {
-      "id": "eebb63f2228b3e378b5ad02b225701c5f87407f3",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "canonicalUrl": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "source": "Hacker News: artificial intelligence",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-29T12:41:56Z",
-      "fetchedAt": "2026-10-30T10:10:16Z",
-      "signals": {
-        "hnPoints": 336,
-        "hnComments": 242,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 3
-      },
-      "scores": {
-        "importance": 8,
-        "trend": 6,
-        "novelty": 8,
-        "credibility": 5
-      },
-      "total": 7.1,
-      "category": "News",
-      "tags": [
-        "gemini",
-        "benchmarks",
-        "leaderboard"
-      ],
-      "summary": "Hacker News thread on Gemini 4 Carbon reaching first place on the Artificial Analysis Intelligence Index v5.",
-      "whyItMatters": "If it holds up, re-run build-or-buy comparisons against it.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "23e63926cceaf4fd9858e5195a7546407a2f2849",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "canonicalUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "source": "TechCrunch: AI",
+      "id": "93351cbb4cc442867866d46b0b95534355430728",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "canonicalUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "source": "Ars Technica: AI",
       "sourceTier": 2,
-      "categoryHint": "Business",
-      "author": "Lucas Ropek",
-      "publishedAt": "2026-10-29T17:00:00Z",
-      "fetchedAt": "2026-10-30T10:10:17Z",
+      "categoryHint": "News",
+      "author": "Dan Goodin",
+      "publishedAt": "2026-10-30T21:09:54Z",
+      "fetchedAt": "2026-10-31T10:08:40Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -97,34 +60,35 @@
         "crossSourceCount": 1
       },
       "scores": {
-        "importance": 8,
-        "trend": 2,
-        "novelty": 7,
-        "credibility": 6
+        "importance": 7,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 8
       },
-      "total": 6,
-      "category": "News",
+      "total": 5.4,
+      "category": "Policy & Safety",
       "tags": [
-        "open-weights",
-        "cybersecurity",
-        "mistral"
+        "supply-chain",
+        "vscode",
+        "security",
+        "cursor"
       ],
-      "summary": "TechCrunch reports Mistral released weights for a trillion-parameter model aimed at cybersecurity.",
-      "whyItMatters": "Large open weights with a security focus; check license and use terms.",
+      "summary": "Ars Technica reports that Anthropic's VS Code extension, as distributed on Cursor, was backdoored for nearly 12 hours.",
+      "whyItMatters": "If you use it in Cursor, check your install and rotate credentials.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "d28967fce9c692cd06eccf3709b27a584532abf2",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "canonicalUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "title": "How we detect frontier model misalignment",
+      "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "canonicalUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
       "source": "OpenAI News",
       "sourceTier": 1,
       "categoryHint": "News",
       "author": null,
-      "publishedAt": "2026-10-29T09:00:00Z",
-      "fetchedAt": "2026-10-30T10:10:17Z",
+      "publishedAt": "2026-10-30T09:30:00Z",
+      "fetchedAt": "2026-10-31T10:08:39Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -142,25 +106,26 @@
       "total": 5,
       "category": "Policy & Safety",
       "tags": [
-        "alignment",
-        "misalignment-detection"
+        "robots",
+        "ai-training",
+        "opt-out"
       ],
-      "summary": "OpenAI describes how it detects misalignment in frontier models.",
-      "whyItMatters": "Shows what labs monitor for; useful for evaluation design.",
+      "summary": "OpenAI announces work on making it easier for websites to state their preferences about use in AI training.",
+      "whyItMatters": "Publishers and site owners may get a standard opt-out signal.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "7bf0065ceb1646f57aedf5f7d913738e013e364b",
-      "url": "https://openai.com/index/updated-model-spec",
-      "canonicalUrl": "https://openai.com/index/updated-model-spec",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "source": "OpenAI News",
-      "sourceTier": 1,
+      "id": "205a002f8608f13bc7017dff08753bbbc8e26460",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "canonicalUrl": "https://theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "source": "The Verge: AI",
+      "sourceTier": 2,
       "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-29T17:00:00Z",
-      "fetchedAt": "2026-10-30T10:10:17Z",
+      "author": "Emma Roth",
+      "publishedAt": "2026-10-30T20:26:10Z",
+      "fetchedAt": "2026-10-31T10:08:40Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -171,32 +136,33 @@
       },
       "scores": {
         "importance": 6,
-        "trend": 1,
-        "novelty": 5,
-        "credibility": 9
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 7
       },
-      "total": 5,
-      "category": "News",
+      "total": 4.7,
+      "category": "Policy & Safety",
       "tags": [
-        "model-spec",
-        "alignment"
+        "scraping",
+        "opt-out",
+        "robots"
       ],
-      "summary": "OpenAI published an updated Model Spec describing intended model behavior.",
-      "whyItMatters": "Defines the behavior rules you can design prompts and policies around.",
+      "summary": "The Verge reports major AI companies are backing a new way for sites to opt out of scraping.",
+      "whyItMatters": "A shared opt-out signal could shape future crawler rules.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "4c55e492d89731445e5c47e31486995313ac0b78",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "canonicalUrl": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "id": "9fcf1feb8ef62474a7ca301edf5c19f960ae4987",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "canonicalUrl": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
       "source": "WIRED: AI",
       "sourceTier": 2,
       "categoryHint": "News",
-      "author": "Vittoria Elliott",
-      "publishedAt": "2026-10-29T18:39:43Z",
-      "fetchedAt": "2026-10-30T10:10:17Z",
+      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+      "publishedAt": "2026-10-30T21:19:26Z",
+      "fetchedAt": "2026-10-31T10:08:40Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -207,19 +173,56 @@
       },
       "scores": {
         "importance": 6,
-        "trend": 1,
+        "trend": 0,
         "novelty": 6,
-        "credibility": 6
+        "credibility": 7
       },
-      "total": 4.8,
+      "total": 4.7,
       "category": "Policy & Safety",
       "tags": [
+        "claude",
         "agents",
         "security",
-        "pentagon"
+        "government"
       ],
-      "summary": "WIRED reports a defense contractor gave a personal AI agent access to a secure Pentagon system.",
-      "whyItMatters": "Concrete example of agent access-control failure.",
+      "summary": "WIRED reports on how a contractor's Claude-based agent ended up inside the Pentagon.",
+      "whyItMatters": "Raises access-control questions for agents in sensitive settings.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "fc6c7228713784133471de435e607ec5f6fa1074",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "canonicalUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "source": "TechCrunch: AI",
+      "sourceTier": 2,
+      "categoryHint": "Business",
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-10-30T17:00:00Z",
+      "fetchedAt": "2026-10-31T10:08:40Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 2
+      },
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 7
+      },
+      "total": 4.2,
+      "category": "News",
+      "tags": [
+        "space",
+        "data-center"
+      ],
+      "summary": "TechCrunch covers Google's first data center satellite coming online and producing its first text output.",
+      "whyItMatters": "Same story as the Verge piece; a demo, not a service yet.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     }
@@ -227,34 +230,30 @@
   "innovations": [],
   "trending": [
     {
-      "id": "c-2ec51ec2c0",
-      "label": "Gemini 4 Carbon tops leaderboards",
+      "id": "c-193a366e79",
+      "label": "AI agent orders at DoorDash",
       "itemIds": [
-        "eebb63f2228b3e378b5ad02b225701c5f87407f3",
-        "8266ea920e518e8f8bd0869badd267193a35ed6b",
-        "6c9d1ecb20b3cfc93e81e4ffc4738e1f8315de7d"
+        "e9e7beb52b83e198ec3dacaaa320336d23d5209a",
+        "8f65b6637c02d384249495ddcae34ee31b1add61"
       ],
-      "leadItemId": "6c9d1ecb20b3cfc93e81e4ffc4738e1f8315de7d",
+      "leadItemId": "e9e7beb52b83e198ec3dacaaa320336d23d5209a",
       "sources": [
-        "Hacker News: artificial intelligence",
-        "Latent Space",
-        "TLDR AI"
+        "Ars Technica: AI",
+        "TechCrunch: AI"
       ],
-      "trendDelta": 2.29
+      "trendDelta": null
     },
     {
-      "id": "c-77eda26480",
-      "label": "Mistral Le Chonk open-weights release",
+      "id": "c-87bc519188",
+      "label": "Google orbital data center test",
       "itemIds": [
-        "a1765f446c5b64b5bbced0cf22070e131e3557ee",
-        "669162c73b41696bb405e97874e34b21474f045c",
-        "e4134e946254cc702e0bc13bb90bb44d887a5b45"
+        "fc6c7228713784133471de435e607ec5f6fa1074",
+        "c6c587b774df9bcd3f4494d63ff64a56803b6cef"
       ],
-      "leadItemId": "a1765f446c5b64b5bbced0cf22070e131e3557ee",
+      "leadItemId": "fc6c7228713784133471de435e607ec5f6fa1074",
       "sources": [
-        "Hugging Face Blog",
-        "WIRED: AI",
-        "ZDNET: AI"
+        "TechCrunch: AI",
+        "The Verge: AI"
       ],
       "trendDelta": null
     }
@@ -262,200 +261,88 @@
   "byCategory": {
     "News": [
       {
-        "id": "eebb63f2228b3e378b5ad02b225701c5f87407f3",
-        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-        "canonicalUrl": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-        "source": "Hacker News: artificial intelligence",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-29T12:41:56Z",
-        "fetchedAt": "2026-10-30T10:10:16Z",
-        "signals": {
-          "hnPoints": 336,
-          "hnComments": 242,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 8,
-          "trend": 6,
-          "novelty": 8,
-          "credibility": 5
-        },
-        "total": 7.1,
-        "category": "News",
-        "tags": [
-          "gemini",
-          "benchmarks",
-          "leaderboard"
-        ],
-        "summary": "Hacker News thread on Gemini 4 Carbon reaching first place on the Artificial Analysis Intelligence Index v5.",
-        "whyItMatters": "If it holds up, re-run build-or-buy comparisons against it.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "8266ea920e518e8f8bd0869badd267193a35ed6b",
-        "url": "https://latent.space/p/ainews-gemini-4-carbon/",
-        "canonicalUrl": "https://latent.space/p/ainews-gemini-4-carbon",
-        "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-        "source": "Latent Space",
+        "id": "fc6c7228713784133471de435e607ec5f6fa1074",
+        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "source": "TechCrunch: AI",
         "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "swyx .ai",
-        "publishedAt": "2026-10-29T05:55:19Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "categoryHint": "Business",
+        "author": "Tim Fernholz",
+        "publishedAt": "2026-10-30T17:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
-          "crossSourceCount": 3
+          "crossSourceCount": 2
         },
         "scores": {
-          "importance": 8,
-          "trend": 4,
-          "novelty": 7,
-          "credibility": 6
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 7
         },
-        "total": 6.5,
+        "total": 4.2,
         "category": "News",
         "tags": [
-          "gemini",
-          "cybersecurity"
+          "space",
+          "data-center"
         ],
-        "summary": "Latent Space issue covers Gemini 4 Carbon topping leaderboards and a launch aimed at cyber defenders.",
-        "whyItMatters": "Signals a new top model plus a security-specific offering.",
+        "summary": "TechCrunch covers Google's first data center satellite coming online and producing its first text output.",
+        "whyItMatters": "Same story as the Verge piece; a demo, not a service yet.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6c587b774df9bcd3f4494d63ff64a56803b6cef",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "canonicalUrl": "https://theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "title": "Google’s satellite AI server transmits its first response to Earth",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-30T18:21:38Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4.2,
+        "category": "News",
+        "tags": [
+          "space",
+          "data-center"
+        ],
+        "summary": "The Verge reports Google's orbiting AI server has sent its first response back to Earth.",
+        "whyItMatters": "Early test of compute in orbit; practical use unclear.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "23e63926cceaf4fd9858e5195a7546407a2f2849",
-        "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Lucas Ropek",
-        "publishedAt": "2026-10-29T17:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 8,
-          "trend": 2,
-          "novelty": 7,
-          "credibility": 6
-        },
-        "total": 6,
-        "category": "News",
-        "tags": [
-          "open-weights",
-          "cybersecurity",
-          "mistral"
-        ],
-        "summary": "TechCrunch reports Mistral released weights for a trillion-parameter model aimed at cybersecurity.",
-        "whyItMatters": "Large open weights with a security focus; check license and use terms.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "6c9d1ecb20b3cfc93e81e4ffc4738e1f8315de7d",
-        "url": "https://tldr.tech/ai/2026-10-29",
-        "canonicalUrl": "https://tldr.tech/ai/2026-10-29",
-        "title": "Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓",
+        "id": "a7c615ba377d87cb88d5202611382e95b47bc682",
+        "url": "https://tldr.tech/ai/2026-10-30",
+        "canonicalUrl": "https://tldr.tech/ai/2026-10-30",
+        "title": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
         "source": "TLDR AI",
         "sourceTier": 2,
         "categoryHint": "News",
         "author": "TLDR",
-        "publishedAt": "2026-10-29T00:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 4,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 5.5,
-        "category": "News",
-        "tags": [
-          "newsletter",
-          "gemini",
-          "nemotron"
-        ],
-        "summary": "TLDR AI issue covering Gemini 4 Carbon, Nemotron Transcribe and benchmarking pitfalls.",
-        "whyItMatters": "Quick digest of the Gemini launch and a speech model.",
-        "featuredSlot": "trending",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "669162c73b41696bb405e97874e34b21474f045c",
-        "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
-        "canonicalUrl": "https://zdnet.com/innovation/mistral-large-4-weights-release",
-        "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
-        "source": "ZDNET: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Radhika Rajkumar",
-        "publishedAt": "2026-10-29T14:00:31Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 7,
-          "trend": 3,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 5.4,
-        "category": "News",
-        "tags": [
-          "open-weights",
-          "coding",
-          "mistral"
-        ],
-        "summary": "ZDNET reports Le Chonk ranks among top open models for coding, alongside a closed competitor model.",
-        "whyItMatters": "Third-party framing of its coding rank; verify on your own tasks.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "7bf0065ceb1646f57aedf5f7d913738e013e364b",
-        "url": "https://openai.com/index/updated-model-spec",
-        "canonicalUrl": "https://openai.com/index/updated-model-spec",
-        "title": "An updated Model Spec for more capable and beneficial AI",
-        "source": "OpenAI News",
-        "sourceTier": 1,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-29T17:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "publishedAt": "2026-10-30T00:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -465,105 +352,34 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 6,
+          "importance": 5,
           "trend": 1,
           "novelty": 5,
-          "credibility": 9
+          "credibility": 5
         },
-        "total": 5,
+        "total": 4,
         "category": "News",
         "tags": [
-          "model-spec",
-          "alignment"
-        ],
-        "summary": "OpenAI published an updated Model Spec describing intended model behavior.",
-        "whyItMatters": "Defines the behavior rules you can design prompts and policies around.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "e4134e946254cc702e0bc13bb90bb44d887a5b45",
-        "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-        "canonicalUrl": "https://wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
-        "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Joel Khalili",
-        "publishedAt": "2026-10-29T14:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 3,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 4.8,
-        "category": "News",
-        "tags": [
+          "mistral",
           "open-weights",
-          "geopolitics"
+          "roundup"
         ],
-        "summary": "WIRED reports Mistral's claim that Le Chonk puts it ahead of Chinese labs among open-weight models.",
-        "whyItMatters": "Vendor claim relayed by press; weigh it against independent evals.",
+        "summary": "TLDR AI roundup mentioning an open-source Mistral Large 4, agent swarm behavior and an Altman interview.",
+        "whyItMatters": "Roundup; follow the primary Mistral release.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "e1c742c1d925baf7505636d3c989a52bf3620d01",
-        "url": "https://huggingface.co/blog/announcing-project-protostar",
-        "canonicalUrl": "https://huggingface.co/blog/announcing-project-protostar",
-        "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-        "source": "Hugging Face Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-10-29T00:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 6,
-          "credibility": 8
-        },
-        "total": 4.1,
-        "category": "News",
-        "tags": [
-          "open-science",
-          "datasets"
-        ],
-        "summary": "Hugging Face announced Project ProtoStar to make publicly funded science data ready for AI use.",
-        "whyItMatters": "Could widen open scientific datasets for training.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "113fb4594f86cc3db07639f769f34bf835e79832",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-        "title": "Anthropic’s business plan: Build God or die trying",
+        "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "canonicalUrl": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
         "source": "The Verge: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Elizabeth Lopatto",
-        "publishedAt": "2026-10-29T13:30:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "author": "Jay Peters",
+        "publishedAt": "2026-10-30T22:32:53Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -576,434 +392,30 @@
           "importance": 4,
           "trend": 1,
           "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.6,
-        "category": "News",
-        "tags": [
-          "ipo",
-          "business"
-        ],
-        "summary": "The Verge frames Anthropic's business plan as an all-in bet on AGI.",
-        "whyItMatters": "Commentary on lab strategy.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "33db78fc06624e0cb72f45275b96c5c53e926afe",
-        "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-        "canonicalUrl": "https://wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis",
-        "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Paresh Dave",
-        "publishedAt": "2026-10-29T15:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.6,
-        "category": "News",
-        "tags": [
-          "vibe-coding",
-          "verification"
-        ],
-        "summary": "WIRED looks at math that could make AI-generated code more reliable.",
-        "whyItMatters": "Hints at formal verification for AI code.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Research": [
-      {
-        "id": "2df0e95472f644377c6498dd7844dd05e5de60a7",
-        "url": "https://latent.space/p/elorian/",
-        "canonicalUrl": "https://latent.space/p/elorian",
-        "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-        "source": "Latent Space",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Richard MacManus",
-        "publishedAt": "2026-10-29T16:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 3.8,
-        "category": "Research",
-        "tags": [
-          "vision",
-          "benchmark"
-        ],
-        "summary": "Latent Space covers a test of whether frontier models can see past a visual decoy.",
-        "whyItMatters": "Useful read on gaps in visual reasoning.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "25f6b771ab41596eb2df32bf09c8c1a728f2f1f3",
-        "url": "https://arxiv.org/abs/2610.39006",
-        "canonicalUrl": "https://arxiv.org/abs/2610.39006",
-        "title": "Blind Spots: Where Small Language Models Fall Behind Frontier Models on Terminal Tasks",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Ashima Suvarna, Ruta Desai, Ahmed Elgohary",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.8,
-        "category": "Research",
-        "tags": [
-          "small-models",
-          "agents",
-          "terminal"
-        ],
-        "summary": "Paper comparing small and frontier models on terminal tasks to locate where small models fail.",
-        "whyItMatters": "Helps decide which agent tasks small models can take.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "186a704fcab39dd31f3b82c8375a620211f8228f",
-        "url": "https://arxiv.org/abs/2610.38433",
-        "canonicalUrl": "https://arxiv.org/abs/2610.38433",
-        "title": "Does Chain-of-Thought Reliance Follow a Scaling Law?Larger Models Follow Their Steps More, Independent of Post-Training",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Esther Xin",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 3.7,
-        "category": "Research",
-        "tags": [
-          "chain-of-thought",
-          "scaling"
-        ],
-        "summary": "Study of whether reliance on chain-of-thought grows with model size, finding larger models follow their steps more per the title.",
-        "whyItMatters": "Relevant to arguments over CoT faithfulness.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "1633d5b63cf6775f4c4896588e32ddab7e8b7eaa",
-        "url": "https://arxiv.org/abs/2610.37719",
-        "canonicalUrl": "https://arxiv.org/abs/2610.37719",
-        "title": "What a Weight Update Buys: Leverage Across Training Stages",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Shikhar Shiromani",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "training",
-          "fine-tuning"
-        ],
-        "summary": "Paper analyzing how much a weight update achieves at different training stages.",
-        "whyItMatters": "Informs fine-tuning choices; empirical details unclear from title.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2d907d698161a90c9949e8e9887a24fbe08663b7",
-        "url": "https://arxiv.org/abs/2610.40505",
-        "canonicalUrl": "https://arxiv.org/abs/2610.40505",
-        "title": "Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models",
-        "source": "arXiv cs.CL",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Anuj Diwan, David Harwath, Eunsol Choi",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "interpretability",
-          "tts",
-          "voice-cloning"
-        ],
-        "summary": "Paper finding interpretable acoustic features inside autoregressive voice-cloning TTS models.",
-        "whyItMatters": "Interpretability work that touches voice-cloning misuse.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "46130f49b5452940d68e99850aa699275e43105a",
-        "url": "https://arxiv.org/abs/2610.40616",
-        "canonicalUrl": "https://arxiv.org/abs/2610.40616",
-        "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Michael Joseph, Yedid Hoshen",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "privacy",
-          "diffusion",
-          "membership-inference"
-        ],
-        "summary": "Paper on a calibration method for membership inference attacks against diffusion models.",
-        "whyItMatters": "Relevant to privacy audits of image models.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "555ed7a1e83d08edba6bfb674a3f096edd3276e0",
-        "url": "https://arxiv.org/abs/2610.39889",
-        "canonicalUrl": "https://arxiv.org/abs/2610.39889",
-        "title": "sDMD: Sinkhorn Distribution Matching Distillation",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Jaihoon Kim, Lingxiao Li, Soshi Shimada, Roshni Cooper, Minhyuk Sung, Yiwei Zhao",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "diffusion",
-          "distillation"
-        ],
-        "summary": "Paper proposing Sinkhorn distribution matching for distilling diffusion models.",
-        "whyItMatters": "May speed up few-step image generation; code unknown.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "7019caaad7341b8d9e3b33f61066ab025741761d",
-        "url": "https://arxiv.org/abs/2610.38121",
-        "canonicalUrl": "https://arxiv.org/abs/2610.38121",
-        "title": "What Does LOL Measure? Hidden Label Shifts in Low-Light Enhancement Benchmarks",
-        "source": "arXiv cs.LG",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Adityan Thirumani Srinivasan",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.5,
-        "category": "Research",
-        "tags": [
-          "benchmark",
-          "low-light",
-          "vision"
-        ],
-        "summary": "Paper arguing low-light enhancement benchmarks contain hidden label shifts.",
-        "whyItMatters": "Warns against trusting leaderboard numbers in this subfield.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "4716167b47d3acc467867547b57c41d55d78c2c7",
-        "url": "https://arxiv.org/abs/2610.39676",
-        "canonicalUrl": "https://arxiv.org/abs/2610.39676",
-        "title": "Event-SAMA: Language-Grounded Video Object Segmentation on Neuromorphic Event Streams",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Sergei Fedorchenko, Max Zehnder, Nikola Zubi\\'c, Rong Zou, Davide Scaramuzza",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 4
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 5,
           "credibility": 7
         },
-        "total": 3.3,
-        "category": "Research",
+        "total": 3.7,
+        "category": "News",
         "tags": [
-          "video-segmentation",
-          "event-cameras"
+          "apple-intelligence",
+          "china"
         ],
-        "summary": "Paper on segmenting objects in video from event-camera streams using language prompts, from a group including Scaramuzza.",
-        "whyItMatters": "Matters mainly if you work on robotics or neuromorphic vision.",
+        "summary": "The Verge reports Apple Intelligence is coming to China with iOS 27.3.",
+        "whyItMatters": "Opens a large market to Apple's on-device AI features.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "002925941d8693fd00f4addcd1bc1e962b9dc75d",
-        "url": "https://arxiv.org/abs/2610.37935",
-        "canonicalUrl": "https://arxiv.org/abs/2610.37935",
-        "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Yuxuan Zhu, Mohammad Mohammadi Amiri, Pin-Yu Chen, Keerthiram Murugesan",
-        "publishedAt": "2026-10-30T04:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.2,
-        "category": "Research",
-        "tags": [
-          "multi-agent",
-          "memory"
-        ],
-        "summary": "Paper proposing a compact external memory of skills for multi-agent systems that reason in latent space.",
-        "whyItMatters": "Early idea for cheaper agent memory; no code signal yet.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tutorials": [
-      {
-        "id": "415c05d3f517e27ece0c952eefc1caee6eac8238",
-        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
-        "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Alex Iankoulski",
-        "publishedAt": "2026-10-29T16:11:08Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "id": "a4231a3499cd586a6bdcf5f97ed053b710cb9ef5",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Robert Hart",
+        "publishedAt": "2026-10-30T13:01:14Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1016,67 +428,30 @@
           "importance": 4,
           "trend": 1,
           "novelty": 4,
-          "credibility": 8
-        },
-        "total": 3.9,
-        "category": "Tutorials",
-        "tags": [
-          "nvidia",
-          "nemotron",
-          "kubernetes"
-        ],
-        "summary": "AWS and NVIDIA guidance on running Nemotron models for agents on EKS and SageMaker HyperPod.",
-        "whyItMatters": "Deployment recipe if you host open models on AWS.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "16013b06c3c03f95091ef2a80f83d2abf663c5e9",
-        "url": "https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/",
-        "canonicalUrl": "https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction",
-        "title": "What Is Harness Engineering? A Hands-On Introduction",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Sam Black",
-        "publishedAt": "2026-10-29T11:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:19Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 5,
           "credibility": 6
         },
         "total": 3.6,
-        "category": "Tutorials",
+        "category": "News",
         "tags": [
-          "harness-engineering",
-          "agents"
+          "openai",
+          "math"
         ],
-        "summary": "Hands-on introduction to harness engineering for agents.",
-        "whyItMatters": "Practical start for agent scaffolding.",
+        "summary": "The Verge covers Sam Altman saying OpenAI's push into mathematics will continue despite mathematicians' concerns.",
+        "whyItMatters": "Shows OpenAI's direction in research tooling.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "8a4b15c66b1180e7c227babae793da6426d13c10",
-        "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
-        "canonicalUrl": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
-        "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-        "source": "NVIDIA Technical Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Anoushka Bhutani",
-        "publishedAt": "2026-10-29T15:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "id": "32e3919a05879071228a0bdc0a5e34984fc7ca42",
+        "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/29/api-credits",
+        "title": "API credits benefit for eligible ChatGPT subscriptions",
+        "source": "Simon Willison",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-29T22:48:29Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1088,68 +463,31 @@
         "scores": {
           "importance": 3,
           "trend": 0,
-          "novelty": 5,
-          "credibility": 8
-        },
-        "total": 3.5,
-        "category": "Tutorials",
-        "tags": [
-          "tensor-cores",
-          "chemistry"
-        ],
-        "summary": "NVIDIA engineering post on getting more Tensor Core speed for machine-learning interatomic potentials.",
-        "whyItMatters": "Relevant to computational chemistry workloads.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "1fcf22f867e2d9dab964803fe89899339b79c1da",
-        "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
-        "title": "Building intent-driven UI testing with Amazon Nova Act",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Sakthi Chellapparimanam",
-        "publishedAt": "2026-10-29T18:20:27Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
           "novelty": 4,
-          "credibility": 8
+          "credibility": 6
         },
-        "total": 3.5,
-        "category": "Tutorials",
+        "total": 3,
+        "category": "News",
         "tags": [
-          "testing",
-          "agents",
-          "nova-act"
+          "openai",
+          "api-credits"
         ],
-        "summary": "AWS walkthrough of building UI tests driven by intent with Amazon Nova Act.",
-        "whyItMatters": "Shows a pattern for agent-driven UI tests on AWS.",
+        "summary": "Simon Willison notes API credits being offered to eligible ChatGPT subscriptions.",
+        "whyItMatters": "Check whether your plan qualifies.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "3dcfe747ba6ccec01fd029d7d43a7bda79bdfd53",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
-        "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Nikhil Kumar",
-        "publishedAt": "2026-10-29T16:54:52Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "id": "5a1dea183cd6869991962e0cc82ded86db2c8210",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Stevie Bonifield",
+        "publishedAt": "2026-10-30T20:48:43Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1162,139 +500,31 @@
           "importance": 3,
           "trend": 1,
           "novelty": 3,
-          "credibility": 8
-        },
-        "total": 3.3,
-        "category": "Tutorials",
-        "tags": [
-          "agents",
-          "mcp",
-          "agentcore"
-        ],
-        "summary": "Case study on a company exposing over 400 APIs to agents through AgentCore Gateway.",
-        "whyItMatters": "Useful pattern for turning APIs into agent tools.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "983901472b07263729ddecaac2f9c8edcbea06bf",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
-        "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Sarat Guttikonda",
-        "publishedAt": "2026-10-29T18:14:17Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 8
-        },
-        "total": 3.3,
-        "category": "Tutorials",
-        "tags": [
-          "code-migration",
-          "kiro"
-        ],
-        "summary": "AWS guide to building a repeatable PHP-to-Java migration process with the Kiro tool.",
-        "whyItMatters": "A concrete recipe for agent-assisted code migration.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "e021545b06e5431d31b74e10b0838f79ac1b5b99",
-        "url": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
-        "canonicalUrl": "https://towardsdatascience.com/is-the-1-ai-model-really-1",
-        "title": "Is the #1 AI Model Really #1?",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Utkarsh Mangal",
-        "publishedAt": "2026-10-29T12:30:00Z",
-        "fetchedAt": "2026-10-30T10:10:19Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
           "credibility": 6
         },
-        "total": 3.2,
-        "category": "Tutorials",
+        "total": 3,
+        "category": "News",
         "tags": [
-          "benchmarks",
-          "evaluation"
+          "openai",
+          "hardware",
+          "ram"
         ],
-        "summary": "Towards Data Science piece asking whether the top-ranked AI model is truly best.",
-        "whyItMatters": "Useful framing for leaderboard skepticism.",
+        "summary": "The Verge covers Sam Altman arguing that memory belongs in data centers, not on desktops.",
+        "whyItMatters": "Opinion that bears on local-versus-cloud hardware choices.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "f33a5e23d3df50001c8cb07efb8b449b377ffe3b",
-        "url": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
-        "canonicalUrl": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes",
-        "title": "When Labels Say No, But Embeddings Say Yes",
-        "source": "Towards Data Science",
+        "id": "871b81f930c7e6ad9245c54b166a162105a1d685",
+        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+        "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "source": "Ars Technica: AI",
         "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Theophano Mitsa",
-        "publishedAt": "2026-10-29T15:30:00Z",
-        "fetchedAt": "2026-10-30T10:10:19Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.2,
-        "category": "Tutorials",
-        "tags": [
-          "embeddings",
-          "classification"
-        ],
-        "summary": "Towards Data Science tutorial on cases where labels disagree but embeddings suggest a match.",
-        "whyItMatters": "Practical for cleaning labeled datasets.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "a86185eb36d2fb05169cc751b23c4a990fb96391",
-        "url": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
-        "canonicalUrl": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
-        "title": "Data Movement Strategies In System Design",
-        "source": "ByteByteGo",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "ByteByteGo",
-        "publishedAt": "2026-10-29T15:31:02Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "categoryHint": "News",
+        "author": "Ashley Belanger",
+        "publishedAt": "2026-10-30T16:53:49Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1310,27 +540,685 @@
           "credibility": 7
         },
         "total": 2.9,
-        "category": "Tutorials",
+        "category": "News",
         "tags": [
-          "system-design",
-          "data-movement"
+          "fraud",
+          "ai-misuse"
         ],
-        "summary": "ByteByteGo explainer on data movement strategies in system design.",
-        "whyItMatters": "General backend reference.",
+        "summary": "Ars Technica reports the DOJ says AI was used to create thousands of fake students to take student loan money.",
+        "whyItMatters": "Fraud pattern that identity teams should know.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "e938d897d64bb4ef9ecebc362f4ad77e353c9fa8",
-        "url": "https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression/",
-        "canonicalUrl": "https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression",
-        "title": "Difference-in-Differences vs Lagged-Outcome Regression",
+        "id": "d6402cbeb2e6c77795ffecc06797a0fa3b24ad32",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "canonicalUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job",
+        "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Nate Anderson",
+        "publishedAt": "2026-10-30T20:40:13Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.5,
+        "category": "News",
+        "tags": [
+          "education",
+          "ai-policy"
+        ],
+        "summary": "Ars Technica reports a Dartmouth provost lost his job over his own AI use.",
+        "whyItMatters": "Cautionary tale about AI disclosure policies.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Lucas Ropek",
+        "publishedAt": "2026-10-30T22:56:13Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 2.5,
+        "category": "News",
+        "tags": [
+          "assistants",
+          "shutdown"
+        ],
+        "summary": "TechCrunch reports the privacy-focused AI assistant Ollie is shutting down.",
+        "whyItMatters": "Reminder to plan exports if you depend on small assistant apps.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "6e7a037d77f2fe304517ed4f70a7dda7e564e192",
+        "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+        "canonicalUrl": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+        "title": "AI can turn public security fixes into working exploits before users receive an update",
+        "source": "Epoch AI",
+        "sourceTier": 2,
+        "categoryHint": "Research",
+        "author": "Aiden Ament",
+        "publishedAt": "2026-10-30T12:07:16Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 0,
+          "novelty": 7,
+          "credibility": 8
+        },
+        "total": 5.4,
+        "category": "Research",
+        "tags": [
+          "security",
+          "exploits",
+          "patching"
+        ],
+        "summary": "Epoch AI reports AI can turn public security fixes into working exploits before users get an update.",
+        "whyItMatters": "Shrinks patching windows; prioritize fast updates.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c76597c7b39892579058e47c46ffa198b8a9f308",
+        "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+        "canonicalUrl": "https://microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+        "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+        "source": "Microsoft Research",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, et al.",
+        "publishedAt": "2026-10-30T13:05:28Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Research",
+        "tags": [
+          "evaluation",
+          "copilot",
+          "enterprise"
+        ],
+        "summary": "Microsoft Research on moving from synthetic enterprise evaluations to measuring real confidence in Copilot.",
+        "whyItMatters": "Hints at how vendors validate enterprise assistants.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "edd821e09ba3cc5366f890405e2c7043fb0c3049",
+        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "canonicalUrl": "https://wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "source": "WIRED: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Emily Mullin",
+        "publishedAt": "2026-10-31T10:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 7
+        },
+        "total": 4,
+        "category": "Research",
+        "tags": [
+          "lab-automation",
+          "agents"
+        ],
+        "summary": "WIRED reports on an AI agent that carried out an injection into a live mouse's brain.",
+        "whyItMatters": "Shows agents moving into physical lab work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "026e4025d8dad6279d123729633a3a703c59cc8d",
+        "url": "https://arxiv.org/abs/2610.39020",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39020",
+        "title": "Distilling the Shape of Uncertainty: What On-Policy Distillation Learns and How to Predict It",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Shiping Yang, Chuanqi Tang, Hossein Hajimirsadeghi, Layla El Asri, Mohammad Amin Shabani, Angel X. Chang",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 5
+        },
+        "total": 3.1,
+        "category": "Research",
+        "tags": [
+          "distillation",
+          "uncertainty"
+        ],
+        "summary": "Study of what on-policy distillation actually learns about a teacher's uncertainty, with a way to predict it.",
+        "whyItMatters": "Useful if you distill models; informs when it works.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "03a36cd2d83b36474974b2739c4f2d21bd6ba992",
+        "url": "https://arxiv.org/abs/2610.39876",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39876",
+        "title": "Turing LLM Post-Training: Calibrated Distillation and Efficient Dynamic-MoE Execution",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Yue He, Jiahui Hu, Shaman Tang, Hua Zhou, Qiman Wu, Menglin Li, Yizhao Wang, Yuheng Zhang, Da Zhu, Zhou Wang, et al.",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Research",
+        "tags": [
+          "post-training",
+          "moe",
+          "distillation"
+        ],
+        "summary": "Preprint on post-training with calibrated distillation plus a faster execution path for dynamic mixture-of-experts models.",
+        "whyItMatters": "Relevant to teams serving MoE models cheaply.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "002925941d8693fd00f4addcd1bc1e962b9dc75d",
+        "url": "https://arxiv.org/abs/2610.37935",
+        "canonicalUrl": "https://arxiv.org/abs/2610.37935",
+        "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Yuxuan Zhu, Mohammad Mohammadi Amiri, Pin-Yu Chen, Keerthiram Murugesan",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Research",
+        "tags": [
+          "multi-agent",
+          "memory"
+        ],
+        "summary": "Preprint on a compact external memory of skills that lets cooperating agents reason together without exchanging long text.",
+        "whyItMatters": "Niche multi-agent memory idea; watch for code before adopting.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01f8c9d827819d37cb8a1961298885ae3565a4c6",
+        "url": "https://arxiv.org/abs/2610.39114",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39114",
+        "title": "From Local Recovery to Unified Generation: Discovering Triple Set in Knowledge Graphs via Observation-Anchored Latent Diffusion",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Jiaqi Wang, Yisen Gao, Huayang Shi, Junhao Hou, Wengen Li, Jihong Guan, Yichao Zhang, Shuigeng Zhou, et al.",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Research",
+        "tags": [
+          "knowledge-graph",
+          "diffusion"
+        ],
+        "summary": "Paper on discovering missing triples in knowledge graphs with a latent diffusion approach anchored on observed facts.",
+        "whyItMatters": "Incremental knowledge-graph completion method.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "03dc09378522f0fa1b259d124a5cde1edee2e45d",
+        "url": "https://arxiv.org/abs/2610.39795",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39795",
+        "title": "The Role of Self-Concept In Language Models",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Yijie Hao, Joyce C. Ho",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.5,
+        "category": "Research",
+        "tags": [
+          "interpretability",
+          "alignment"
+        ],
+        "summary": "Paper examining whether and how language models form something like a self-concept.",
+        "whyItMatters": "Interesting for alignment work; early-stage findings.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "01adc24c7043013b4a29eb7a864bce5d7ccbf0f9",
+        "url": "https://arxiv.org/abs/2610.39109",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39109",
+        "title": "PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent Communication",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Bravish Ghosh (Cygnux Labs)",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 2.3,
+        "category": "Research",
+        "tags": [
+          "multi-agent",
+          "verification"
+        ],
+        "summary": "Single-author preprint proposing a message protocol where agents attach checkable proofs to what they send each other.",
+        "whyItMatters": "Idea worth tracking for agent trust, but unproven.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "011b15a002851b3e1f2901a3413515a66de3209b",
+        "url": "https://arxiv.org/abs/2610.39839",
+        "canonicalUrl": "https://arxiv.org/abs/2610.39839",
+        "title": "Exploring the Potential of Symbolic Regression in Precision Livestock Farming",
+        "source": "arXiv cs.AI",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Elisabeth Mayrhuber, Maciej Oczak, Michael Iwersen, David Brunner, Viktoria Dorfer, Stephan Winkler",
+        "publishedAt": "2026-10-31T04:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 1,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 1.9,
+        "category": "Research",
+        "tags": [
+          "symbolic-regression",
+          "agriculture"
+        ],
+        "summary": "Preprint testing symbolic regression for modeling in livestock farming.",
+        "whyItMatters": "Narrow applied-ML result; little for most builders.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "feb912e225e8e3aa8c6851f6a306781f9ad4ef83",
+        "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+        "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Aswath Ram A Srinivasan",
+        "publishedAt": "2026-10-30T22:42:24Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 3.6,
+        "category": "Tutorials",
+        "tags": [
+          "bedrock",
+          "finops",
+          "cost"
+        ],
+        "summary": "AWS guide for finance and platform teams on tracking and controlling Amazon Bedrock spend across an organization.",
+        "whyItMatters": "Concrete cost-control checklist if you run Bedrock.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "cabe8a08dfb8581078069bf28aaf679503c8ac59",
+        "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+        "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Virgil Ennes",
+        "publishedAt": "2026-10-30T17:27:45Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.5,
+        "category": "Tutorials",
+        "tags": [
+          "bedrock",
+          "govcloud",
+          "chatgpt"
+        ],
+        "summary": "Guide to configuring the ChatGPT desktop app to run through Amazon Bedrock in AWS GovCloud (US).",
+        "whyItMatters": "Shows a path for regulated US government teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "52dedc30355aed7e4e17095fb34b03938e70987c",
+        "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+        "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Shara Tibken",
+        "publishedAt": "2026-10-30T20:33:18Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "edge",
+          "nvidia"
+        ],
+        "summary": "NVIDIA post on running AI models for edge application development using a short set of commands.",
+        "whyItMatters": "Lowers setup cost for edge prototypes on NVIDIA hardware.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ae8372a9c3c19778ba7a0f5f5ac450b73f4d52be",
+        "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+        "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Stefan Schimanski",
+        "publishedAt": "2026-10-30T21:35:31Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "dynamo",
+          "kubernetes",
+          "inference"
+        ],
+        "summary": "NVIDIA walkthrough for building a validated Kubernetes runtime to deploy Dynamo inference.",
+        "whyItMatters": "Reference setup for teams running Dynamo on Kubernetes.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6f741bac67d2bcba9a005c140e79d51f68ff0824",
+        "url": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+        "canonicalUrl": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too",
+        "title": "Your Agent’s Tools Can Make Decisions, Too",
         "source": "Towards Data Science",
         "sourceTier": 2,
         "categoryHint": "Tutorials",
-        "author": "Ryan OSullivan",
-        "publishedAt": "2026-10-29T14:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:19Z",
+        "author": "Shuai Guo",
+        "publishedAt": "2026-10-30T12:30:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "Tutorials",
+        "tags": [
+          "agents",
+          "tools"
+        ],
+        "summary": "Towards Data Science article on giving an agent's tools their own decision-making.",
+        "whyItMatters": "Design idea for agent tool builders.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d1eed9de991527c533669504c85c9b9e7a9442a8",
+        "url": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+        "canonicalUrl": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations",
+        "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Chien Vu Minh",
+        "publishedAt": "2026-10-30T11:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code",
+          "hooks"
+        ],
+        "summary": "Towards Data Science guide to custom Claude Code hooks for common coding frustrations.",
+        "whyItMatters": "Ready-made hook ideas for Claude Code users.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4d8e9bb639f3cbbdb469d45cc8b2bbcaadf5a441",
+        "url": "https://refactoring.fm/p/building-your-software-factory-with",
+        "canonicalUrl": "https://refactoring.fm/p/building-your-software-factory-with",
+        "title": "Building Your Software Factory 🏭 — with Benedikt Stemmildt",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-10-30T08:02:08Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1348,138 +1236,134 @@
         "total": 2.7,
         "category": "Tutorials",
         "tags": [
-          "statistics",
-          "causal-inference"
+          "software-factory",
+          "engineering"
         ],
-        "summary": "Tutorial comparing difference-in-differences with lagged-outcome regression.",
-        "whyItMatters": "Reference for experiment analysts.",
+        "summary": "Refactoring interview about building a software factory.",
+        "whyItMatters": "Process ideas for AI-assisted engineering teams.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "dcaea87b2acf529c97116f19ea02b637a7f6b0a3",
+        "url": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+        "canonicalUrl": "https://towardsdatascience.com/pick-a-number-between-1-and-10",
+        "title": "Pick a Number Between 1 and 10",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Spyros Georgopoulos",
+        "publishedAt": "2026-10-30T15:30:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.6,
+        "category": "Tutorials",
+        "tags": [
+          "statistics"
+        ],
+        "summary": "Towards Data Science piece on how people choose a number between one and ten.",
+        "whyItMatters": "Light data-science read.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a283ca869f8753771f55fa70c632d750f5d210d2",
+        "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+        "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+        "source": "NVIDIA Technical Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Phil Carns",
+        "publishedAt": "2026-10-30T15:01:36Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 8
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "gpudirect",
+          "storage"
+        ],
+        "summary": "NVIDIA how-to for checking and configuring GPUDirect Storage on a given platform.",
+        "whyItMatters": "Handy for GPU storage tuning; narrow audience.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "2bd34032abaa9692156ba4fafbcec14d46594e63",
+        "url": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/",
+        "canonicalUrl": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon",
+        "title": "Binning or Feature Selection: Which One Won Us an Insurance Hackathon?",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Mario Defrance",
+        "publishedAt": "2026-10-30T14:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "feature-selection",
+          "tabular"
+        ],
+        "summary": "Towards Data Science write-up comparing binning and feature selection on an insurance hackathon.",
+        "whyItMatters": "Practical tabular-ML lesson.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Tools & Releases": [
       {
-        "id": "a1765f446c5b64b5bbced0cf22070e131e3557ee",
-        "url": "https://huggingface.co/blog/mistral-large4",
-        "canonicalUrl": "https://huggingface.co/blog/mistral-large4",
-        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "source": "Hugging Face Blog",
+        "id": "b5bd2734bcbd8d3c2bd76c30b87c5b370985100e",
+        "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+        "canonicalUrl": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+        "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+        "source": "NVIDIA Technical Blog",
         "sourceTier": 1,
         "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-10-29T00:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 3
-        },
-        "scores": {
-          "importance": 8,
-          "trend": 4,
-          "novelty": 7,
-          "credibility": 9
-        },
-        "total": 6.9,
-        "category": "Tools & Releases",
-        "tags": [
-          "open-weights",
-          "mistral",
-          "coding"
-        ],
-        "summary": "Hugging Face post introducing Mistral Large 4, nicknamed Le Chonk, as an open-weights release you can download.",
-        "whyItMatters": "New open-weights option to benchmark against your current coding and agent models.",
-        "featuredSlot": "lead",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "85d975255b4f9d004ddb3cbeee15f8e8556ffee6",
-        "url": "https://huggingface.co/blog/anydecisionmodel",
-        "canonicalUrl": "https://huggingface.co/blog/anydecisionmodel",
-        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "source": "Hugging Face Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-10-29T00:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 6,
-          "credibility": 8
-        },
-        "total": 4.4,
-        "category": "Tools & Releases",
-        "tags": [
-          "speech",
-          "open-models",
-          "apple-silicon"
-        ],
-        "summary": "Hugging Face post introducing open speech-recognition and decision models for Apple devices.",
-        "whyItMatters": "On-device speech option if you ship on Apple hardware.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "f3538b6fb36f4f58fdca64e1b764cff7fa0ed810",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-        "canonicalUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-        "title": "Granite Switch 4.1.1 — Update models like you update software",
-        "source": "Hugging Face Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-10-29T13:37:07Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 6,
-          "credibility": 8
-        },
-        "total": 4.4,
-        "category": "Tools & Releases",
-        "tags": [
-          "granite",
-          "fine-tuning",
-          "open-models"
-        ],
-        "summary": "Hugging Face post on Granite Switch 4.1.1, which updates model capabilities in a software-update style.",
-        "whyItMatters": "Could simplify shipping model updates without full retrains.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "904e4b10c7b3291fa5ab2229febd24218aba0967",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Stevie Bonifield",
-        "publishedAt": "2026-10-29T18:45:31Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "author": "Nicola Sessions",
+        "publishedAt": "2026-10-30T16:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1492,103 +1376,31 @@
           "importance": 4,
           "trend": 1,
           "novelty": 5,
-          "credibility": 6
+          "credibility": 8
         },
-        "total": 3.8,
+        "total": 4.1,
         "category": "Tools & Releases",
         "tags": [
-          "gemini",
-          "google-docs"
-        ],
-        "summary": "The Verge reports Gemini chats can now generate and edit Google Docs files.",
-        "whyItMatters": "Workspace users can draft documents directly in Gemini.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "32e3919a05879071228a0bdc0a5e34984fc7ca42",
-        "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/29/api-credits",
-        "title": "API credits benefit for eligible ChatGPT subscriptions",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-29T22:48:29Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 7
-        },
-        "total": 3.7,
-        "category": "Tools & Releases",
-        "tags": [
-          "api-credits",
-          "chatgpt"
-        ],
-        "summary": "Simon Willison notes API credits now available to eligible ChatGPT subscriptions.",
-        "whyItMatters": "Eligible subscribers may get free API usage.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "638c4d7104de51ad3a78fecb083795e443f83e78",
-        "url": "https://news.ycombinator.com/item?id=50291116",
-        "canonicalUrl": "https://news.ycombinator.com/item?id=50291116",
-        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-29T15:56:32Z",
-        "fetchedAt": "2026-10-30T10:10:16Z",
-        "signals": {
-          "hnPoints": 69,
-          "hnComments": 21,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 6,
-          "credibility": 5
-        },
-        "total": 3.6,
-        "category": "Tools & Releases",
-        "tags": [
-          "simulation",
           "agents",
-          "firmware"
+          "nemoclaw",
+          "self-hosted"
         ],
-        "summary": "Launch HN for Simantic, a startup offering firmware simulation for AI agents.",
-        "whyItMatters": "Possible testbed if agents touch embedded systems.",
+        "summary": "NVIDIA introduces NemoClaw for building specialized agents on infrastructure you control.",
+        "whyItMatters": "Option for agent stacks you host yourself.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "aa702b033bfda9cdbdc92fd60c8f48d84209211d",
-        "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-        "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+        "id": "391b23f56ce318264270ee40ff68a2615168e77e",
+        "url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime",
+        "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
         "source": "AWS Machine Learning Blog",
         "sourceTier": 1,
         "categoryHint": "Tools & Releases",
-        "author": "Michelle Goodstein",
-        "publishedAt": "2026-10-29T16:58:57Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "author": "Sundar Raghavan",
+        "publishedAt": "2026-10-30T21:40:03Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1598,69 +1410,33 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 8
-        },
-        "total": 3.5,
-        "category": "Tools & Releases",
-        "tags": [
-          "sagemaker",
-          "gpu-scheduling"
-        ],
-        "summary": "AWS added quota management for Batch so teams can lend and borrow resources for SageMaker Training jobs.",
-        "whyItMatters": "Helps teams share training capacity on SageMaker.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "bde015e58f3737fa35432c99a4d3fde247a09577",
-        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-        "title": "Meta quietly launches an AI fashion app called Style Sketch",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Aisha Malik",
-        "publishedAt": "2026-10-29T19:14:36Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
+          "importance": 4,
           "trend": 1,
           "novelty": 5,
-          "credibility": 6
+          "credibility": 8
         },
-        "total": 3.5,
+        "total": 4.1,
         "category": "Tools & Releases",
         "tags": [
-          "consumer-apps",
-          "fashion"
+          "agentcore",
+          "coding-agents"
         ],
-        "summary": "Meta quietly launched an AI fashion app named Style Sketch.",
-        "whyItMatters": "Small consumer experiment from Meta.",
+        "summary": "AgentCore runtime now lets you preview a web app live while a coding agent builds it.",
+        "whyItMatters": "Faster feedback loop for agent-built apps on AWS.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "066f3bd17c5f1eff64a81b5b3942605b74aafa4c",
-        "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
-        "title": "Granola crunches up a dictation feature to compete with Wispr",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Ivan Mehta",
-        "publishedAt": "2026-10-29T17:54:38Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "id": "b2263e9f84127c7621047d154deaa4fa09bbff2b",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "canonicalUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+        "title": "nemotron-halloween",
+        "source": "Hugging Face Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-30T17:57:24Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1678,25 +1454,25 @@
         "total": 3,
         "category": "Tools & Releases",
         "tags": [
-          "dictation",
-          "productivity"
+          "nemotron",
+          "open-weights"
         ],
-        "summary": "Granola added a dictation feature to compete with Wispr.",
-        "whyItMatters": "Another entry in voice dictation tools.",
+        "summary": "Hugging Face post titled nemotron-halloween; the title alone gives little detail, so treat it as an NVIDIA Nemotron-related community release.",
+        "whyItMatters": "Check the post before relying on it; details are thin.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "cec407323f5f073bc9434b6cb6ea8f06a92c34ba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-        "title": "The NYT Cooking app is testing AI recipe modifications",
-        "source": "The Verge: AI",
+        "id": "4e2c9c66b20a8391f87bc4118dd459f1b0b81c8e",
+        "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+        "canonicalUrl": "https://simonwillison.net/2026/Oct/30/nesformer",
+        "title": "dbreunig/nesformer",
+        "source": "Simon Willison",
         "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Jess Weatherbed",
-        "publishedAt": "2026-10-29T14:39:37Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-30T21:59:22Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1707,34 +1483,72 @@
         },
         "scores": {
           "importance": 2,
-          "trend": 1,
+          "trend": 0,
           "novelty": 4,
           "credibility": 6
         },
-        "total": 2.9,
+        "total": 2.6,
         "category": "Tools & Releases",
         "tags": [
-          "consumer",
-          "recipes"
+          "github",
+          "experiment"
         ],
-        "summary": "The Verge reports the NYT Cooking app is testing AI recipe changes.",
-        "whyItMatters": "Small consumer test.",
+        "summary": "Simon Willison links a repository named nesformer; the entry gives little detail beyond the project name.",
+        "whyItMatters": "Hobby-scale project; check the repo for specifics.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Policy & Safety": [
       {
-        "id": "d28967fce9c692cd06eccf3709b27a584532abf2",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "canonicalUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "title": "How we detect frontier model misalignment",
+        "id": "93351cbb4cc442867866d46b0b95534355430728",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "canonicalUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Dan Goodin",
+        "publishedAt": "2026-10-30T21:09:54Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 8
+        },
+        "total": 5.4,
+        "category": "Policy & Safety",
+        "tags": [
+          "supply-chain",
+          "vscode",
+          "security",
+          "cursor"
+        ],
+        "summary": "Ars Technica reports that Anthropic's VS Code extension, as distributed on Cursor, was backdoored for nearly 12 hours.",
+        "whyItMatters": "If you use it in Cursor, check your install and rotate credentials.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "canonicalUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "title": "Making it easier for websites to express AI training preferences",
         "source": "OpenAI News",
         "sourceTier": 1,
         "categoryHint": "News",
         "author": null,
-        "publishedAt": "2026-10-29T09:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "publishedAt": "2026-10-30T09:30:00Z",
+        "fetchedAt": "2026-10-31T10:08:39Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1752,25 +1566,26 @@
         "total": 5,
         "category": "Policy & Safety",
         "tags": [
-          "alignment",
-          "misalignment-detection"
+          "robots",
+          "ai-training",
+          "opt-out"
         ],
-        "summary": "OpenAI describes how it detects misalignment in frontier models.",
-        "whyItMatters": "Shows what labs monitor for; useful for evaluation design.",
+        "summary": "OpenAI announces work on making it easier for websites to state their preferences about use in AI training.",
+        "whyItMatters": "Publishers and site owners may get a standard opt-out signal.",
         "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "4c55e492d89731445e5c47e31486995313ac0b78",
-        "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-        "canonicalUrl": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-        "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-        "source": "WIRED: AI",
+        "id": "205a002f8608f13bc7017dff08753bbbc8e26460",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "canonicalUrl": "https://theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "source": "The Verge: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Vittoria Elliott",
-        "publishedAt": "2026-10-29T18:39:43Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-30T20:26:10Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1781,69 +1596,33 @@
         },
         "scores": {
           "importance": 6,
-          "trend": 1,
+          "trend": 0,
           "novelty": 6,
-          "credibility": 6
-        },
-        "total": 4.8,
-        "category": "Policy & Safety",
-        "tags": [
-          "agents",
-          "security",
-          "pentagon"
-        ],
-        "summary": "WIRED reports a defense contractor gave a personal AI agent access to a secure Pentagon system.",
-        "whyItMatters": "Concrete example of agent access-control failure.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "a911857d9bc975b8a5b717b59a290f9bdc4a4e5d",
-        "url": "https://techscoop.substack.com/p/badengram-researchers-hid-an-ai-backdoor",
-        "canonicalUrl": "https://techscoop.substack.com/p/badengram-researchers-hid-an-ai-backdoor",
-        "title": "BadEngram: Researchers Hid an AI Backdoor in Just 2% of a Model’s Parameters",
-        "source": "Tech Scoop",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Hey Maria",
-        "publishedAt": "2026-10-29T17:01:16Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 1,
-          "novelty": 7,
-          "credibility": 4
+          "credibility": 7
         },
         "total": 4.7,
         "category": "Policy & Safety",
         "tags": [
-          "backdoor",
-          "model-security"
+          "scraping",
+          "opt-out",
+          "robots"
         ],
-        "summary": "Tech Scoop reports researchers hid a backdoor in about 2% of a model's parameters, called BadEngram.",
-        "whyItMatters": "If real, raises concerns about auditing downloaded weights.",
-        "featuredSlot": null,
+        "summary": "The Verge reports major AI companies are backing a new way for sites to opt out of scraping.",
+        "whyItMatters": "A shared opt-out signal could shape future crawler rules.",
+        "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "0c49eb4fc30298f014f2732cdf1ea4427e4dbec2",
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "canonicalUrl": "https://technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "source": "MIT Technology Review: AI",
+        "id": "9fcf1feb8ef62474a7ca301edf5c19f960ae4987",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+        "canonicalUrl": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+        "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+        "source": "WIRED: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Madhulika Srikumar, Claire Leibowicz",
-        "publishedAt": "2026-10-29T10:11:12Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+        "publishedAt": "2026-10-30T21:19:26Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1853,107 +1632,35 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 5,
+          "importance": 6,
           "trend": 0,
-          "novelty": 5,
+          "novelty": 6,
           "credibility": 7
         },
-        "total": 4.1,
+        "total": 4.7,
         "category": "Policy & Safety",
         "tags": [
+          "claude",
           "agents",
-          "monitoring",
-          "safety"
+          "security",
+          "government"
         ],
-        "summary": "MIT Technology Review argues AI agents' actions need real-time monitoring.",
-        "whyItMatters": "Supports building action logging into agent systems.",
-        "featuredSlot": null,
+        "summary": "WIRED reports on how a contractor's Claude-based agent ended up inside the Pentagon.",
+        "whyItMatters": "Raises access-control questions for agents in sensitive settings.",
+        "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "7f6f8b2b4e14703d14bcf2eb83a004050ea87634",
-        "url": "https://news.ycombinator.com/item?id=50286306",
-        "canonicalUrl": "https://news.ycombinator.com/item?id=50286306",
-        "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
+        "id": "c7606af40dbb903f1458e0f22e7105b96ee65c77",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "canonicalUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "title": "Community safety report and new protections for teens",
+        "source": "OpenAI News",
+        "sourceTier": 1,
         "categoryHint": "News",
         "author": null,
-        "publishedAt": "2026-10-29T09:06:12Z",
-        "fetchedAt": "2026-10-30T10:10:16Z",
-        "signals": {
-          "hnPoints": 29,
-          "hnComments": 3,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 5,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 4
-        },
-        "total": 3.9,
-        "category": "Policy & Safety",
-        "tags": [
-          "privacy",
-          "claude-code",
-          "prompt-injection"
-        ],
-        "summary": "Tell HN post claiming Claude Code adds the user's email to the prompt and the model sends it to websites.",
-        "whyItMatters": "Unverified privacy report; check your agent's outbound requests.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "9fd54443238a86c46c55690aaec6866d2472f20a",
-        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-        "canonicalUrl": "https://theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Lauren Feiner",
         "publishedAt": "2026-10-30T09:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 5,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.7,
-        "category": "Policy & Safety",
-        "tags": [
-          "copyright",
-          "wikipedia"
-        ],
-        "summary": "The Verge reports Wikipedia's operator warning that a bad AI copyright ruling could threaten the open web.",
-        "whyItMatters": "Copyright rulings shape what training data stays usable.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "cfed78c7b30043db18fd17460b9ef0f3843c7492",
-        "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-        "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
-        "title": "Trump declares robot imports a national security threat",
-        "source": "Ars Technica: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Jeremy Hsu",
-        "publishedAt": "2026-10-29T19:07:53Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "fetchedAt": "2026-10-31T10:08:39Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1965,67 +1672,67 @@
         "scores": {
           "importance": 4,
           "trend": 0,
-          "novelty": 5,
-          "credibility": 6
+          "novelty": 4,
+          "credibility": 9
         },
-        "total": 3.6,
+        "total": 3.8,
         "category": "Policy & Safety",
         "tags": [
-          "robotics",
-          "trade"
+          "teen-safety",
+          "openai"
         ],
-        "summary": "Ars Technica reports a US declaration treating robot imports as a national security threat.",
-        "whyItMatters": "Could affect robotics supply chains and costs.",
+        "summary": "OpenAI publishes a community safety report and describes new protections for teen users.",
+        "whyItMatters": "Affects teams building teen-facing products on its models.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "0ccd720ef4ed048bf3a613f866ce09d83cb04d4a",
-        "url": "https://sonidoselva.com/perspectiva-kogui",
-        "canonicalUrl": "https://sonidoselva.com/perspectiva-kogui",
-        "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
-        "source": "Hacker News: artificial intelligence",
-        "sourceTier": 3,
+        "id": "d2282bcce1625c643a8eee68a045d3c9816c93c6",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "canonicalUrl": "https://openai.com/index/fair-use-benefits-everyone",
+        "title": "Fair use benefits everyone",
+        "source": "OpenAI News",
+        "sourceTier": 1,
         "categoryHint": "News",
         "author": null,
-        "publishedAt": "2026-10-29T11:29:49Z",
-        "fetchedAt": "2026-10-30T10:10:16Z",
+        "publishedAt": "2026-10-30T00:00:00Z",
+        "fetchedAt": "2026-10-31T10:08:39Z",
         "signals": {
-          "hnPoints": 124,
-          "hnComments": 104,
+          "hnPoints": null,
+          "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 3,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 5
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 8
         },
-        "total": 3.6,
+        "total": 3.4,
         "category": "Policy & Safety",
         "tags": [
-          "indigenous",
-          "ethics"
+          "copyright",
+          "fair-use"
         ],
-        "summary": "Hacker News discussion of a message about AI from the Kogui people.",
-        "whyItMatters": "Perspective piece; not a technical change.",
+        "summary": "OpenAI makes its public argument that fair use of training data benefits a broad range of people.",
+        "whyItMatters": "Position statement, not a legal change; context for copyright debate.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "cb744138db5c70c67fa0b30ca027476c1cf0c0eb",
-        "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
-        "canonicalUrl": "https://zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents",
-        "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
-        "source": "ZDNET: AI",
+        "id": "c4bb3b9b5d211eddafcc031cefb160c1b5ee6e3f",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+        "source": "The Verge: AI",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Nina Raemont",
-        "publishedAt": "2026-10-29T15:36:26Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "author": "Emma Roth",
+        "publishedAt": "2026-10-30T14:58:06Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2037,322 +1744,215 @@
         "scores": {
           "importance": 3,
           "trend": 1,
-          "novelty": 3,
-          "credibility": 6
+          "novelty": 4,
+          "credibility": 7
         },
-        "total": 3,
+        "total": 3.4,
         "category": "Policy & Safety",
         "tags": [
-          "agents",
-          "security",
-          "passwords"
+          "ethics",
+          "governance"
         ],
-        "summary": "ZDNET reports Bank of America warning customers not to share passwords with AI agents.",
-        "whyItMatters": "Plain guidance to give users of agent tools.",
+        "summary": "The Verge reports Pope Leo calling for AI disarmament and saying machines are tools, not persons.",
+        "whyItMatters": "Adds a moral voice to the AI governance debate.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Business": [
       {
-        "id": "01b61253f2f19e4cd6a5f3e6a307b2a02a6f303a",
-        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-        "canonicalUrl": "https://theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-        "title": "Anthropic is asking Wall Street to believe in AGI",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Nilay Patel",
-        "publishedAt": "2026-10-29T14:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.6,
-        "category": "Business",
-        "tags": [
-          "ipo",
-          "agi"
-        ],
-        "summary": "The Verge says Anthropic is asking Wall Street to believe in AGI.",
-        "whyItMatters": "Context on lab financing narratives.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2d9928289658e98658f7f3e71e7d1e4d989180d1",
-        "url": "https://openai.com/index/ropes-gray-ai-diligence",
-        "canonicalUrl": "https://openai.com/index/ropes-gray-ai-diligence",
-        "title": "How Ropes & Gray is developing AI for transactional diligence",
-        "source": "OpenAI News",
-        "sourceTier": 1,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-29T07:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 8
-        },
-        "total": 3.3,
-        "category": "Business",
-        "tags": [
-          "legal",
-          "case-study"
-        ],
-        "summary": "OpenAI case study of a law firm building AI for transactional diligence.",
-        "whyItMatters": "Vendor-authored adoption story; limited detail.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "169aca9d9c2aff8c3eb6d873f911c97cca8b1d31",
-        "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-        "canonicalUrl": "https://theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-        "title": "Microsoft’s AI future has fewer jobs",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Tom Warren",
-        "publishedAt": "2026-10-29T16:00:00Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.3,
-        "category": "Business",
-        "tags": [
-          "jobs",
-          "workforce"
-        ],
-        "summary": "The Verge reports Microsoft's AI plans involve fewer jobs.",
-        "whyItMatters": "Workforce signal from a major vendor.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "b394caaea4801868674f6107a1135ad97653cdc2",
-        "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-        "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
-        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-        "source": "Ars Technica: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Ryan Whitwam",
-        "publishedAt": "2026-10-29T16:24:55Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.3,
-        "category": "Business",
-        "tags": [
-          "ai-search",
-          "ads"
-        ],
-        "summary": "Ars Technica reports Google admits AI search earns less and plans more ads.",
-        "whyItMatters": "Shapes how search monetization affects publishers.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "a03a5f4a210c9ce8de05323ae4057437df0d27a1",
-        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
-        "canonicalUrl": "https://understandingai.org/p/anthropics-financials-are-surprisingly",
-        "title": "Anthropic’s financials are surprisingly strong",
-        "source": "Understanding AI (Timothy B. Lee)",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Kai Williams",
-        "publishedAt": "2026-10-29T19:10:41Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.3,
-        "category": "Business",
-        "tags": [
-          "finance",
-          "anthropic"
-        ],
-        "summary": "Understanding AI argues Anthropic's financials look surprisingly strong.",
-        "whyItMatters": "Context on lab sustainability for vendor risk.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
-        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
-        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Amanda Silberling",
-        "publishedAt": "2026-10-30T01:20:48Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.2,
-        "category": "Business",
-        "tags": [
-          "workplace",
-          "policy"
-        ],
-        "summary": "TechCrunch looks at religious exemptions from using AI at work.",
-        "whyItMatters": "HR and policy teams may face similar requests.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "7587406daf7d14d3030ba887665a0c517452eec6",
-        "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-        "title": "Rivian expands joint venture with VW to include AI assistant",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Kirsten Korosec",
-        "publishedAt": "2026-10-29T20:05:47Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3,
-        "category": "Business",
-        "tags": [
-          "automotive",
-          "assistants"
-        ],
-        "summary": "Rivian expands its joint venture with VW to cover an AI assistant.",
-        "whyItMatters": "Automotive assistant partnership; little technical detail.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "1e09943a421e9246b3e0b8e89cf39f0de8ae649c",
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Sarah Perez",
-        "publishedAt": "2026-10-29T20:08:31Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3,
-        "category": "Business",
-        "tags": [
-          "search",
-          "logged-in"
-        ],
-        "summary": "TechCrunch reports Reddit is moving to a logged-in experience as search traffic drops.",
-        "whyItMatters": "AI search is changing how publishers handle traffic.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "720b04b8c5b9a5a8cb9c64d61c06458931da3434",
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "id": "1ad66cf690a946d3eeb6b2a9dbb080898748aa47",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
         "source": "TechCrunch: AI",
         "sourceTier": 2,
         "categoryHint": "Business",
         "author": "Lucas Ropek",
-        "publishedAt": "2026-10-29T23:42:22Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "publishedAt": "2026-10-30T21:52:03Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.2,
+        "category": "Business",
+        "tags": [
+          "anthropic",
+          "ipo",
+          "credit-rating"
+        ],
+        "summary": "TechCrunch relays an FT report that Anthropic is expected to get a high-yield credit rating after its IPO.",
+        "whyItMatters": "Financing terms may shape Anthropic's pricing room.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e9e7beb52b83e198ec3dacaaa320336d23d5209a",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Ivan Mehta",
+        "publishedAt": "2026-10-30T13:54:25Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "agents",
+          "commerce"
+        ],
+        "summary": "TechCrunch reports DoorDash has seen only several hundred orders placed by AI agents.",
+        "whyItMatters": "Agent shopping demand remains small so far.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "44854634469c462edb886c1b4bb97f4c96f47175",
+        "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+        "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Saumya Shah",
+        "publishedAt": "2026-10-30T17:32:20Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "bedrock",
+          "case-study",
+          "logistics"
+        ],
+        "summary": "AWS case study on a freight company using Bedrock to automate handling of shipment exceptions.",
+        "whyItMatters": "Example workflow for automating exception handling.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8f65b6637c02d384249495ddcae34ee31b1add61",
+        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+        "canonicalUrl": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far",
+        "title": "Basically no one is using AI agents for their DoorDash orders",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Kyle Orland",
+        "publishedAt": "2026-10-30T19:30:52Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 7
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "agents",
+          "commerce"
+        ],
+        "summary": "Ars Technica reports that AI agents account for almost none of DoorDash orders.",
+        "whyItMatters": "Early signal that agent commerce adoption is slow.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "07912041c313179bf36a7831586d2eea1d3c1046",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+        "title": "Cracks are emerging in the AI spending boom",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Rebecca Bellan",
+        "publishedAt": "2026-10-30T21:17:40Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.1,
+        "category": "Business",
+        "tags": [
+          "ai-spending",
+          "market"
+        ],
+        "summary": "TechCrunch looks at signs of strain in the AI spending boom.",
+        "whyItMatters": "Context if you plan around AI infrastructure prices.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "canonicalUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "source": "TechCrunch: AI",
+        "sourceTier": 2,
+        "categoryHint": "Business",
+        "author": "Aditya Mehta",
+        "publishedAt": "2026-10-31T01:20:05Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2370,25 +1970,25 @@
         "total": 3,
         "category": "Business",
         "tags": [
-          "cloud",
-          "capex"
+          "data-center",
+          "financing"
         ],
-        "summary": "TechCrunch reports AWS's CEO expects a trillion-dollar business after heavy spending first.",
-        "whyItMatters": "Hints at continued capacity investment.",
+        "summary": "TechCrunch reports Nvidia is considering acting as cosigner for Nscale's AI data center in West Virginia.",
+        "whyItMatters": "Shows how chip vendors help finance capacity.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "3fa519422b2c3b8428823a0e68c488cd0e48d96c",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
-        "title": "How the UK Amazon Quick User Group grew in 2026",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Priyanka Bettaswamygowda",
-        "publishedAt": "2026-10-29T20:16:40Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "id": "09484dfee9e7507c2e288e12fb98c6cc476fba47",
+        "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+        "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+        "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "source": "Ars Technica: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Nick Indge",
+        "publishedAt": "2026-10-30T17:38:19Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2399,34 +1999,34 @@
         },
         "scores": {
           "importance": 2,
-          "trend": 0,
-          "novelty": 2,
-          "credibility": 8
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 6
         },
-        "total": 2.4,
+        "total": 2.6,
         "category": "Business",
         "tags": [
-          "aws",
-          "community"
+          "storage",
+          "data-center"
         ],
-        "summary": "AWS post on how a UK user group for Amazon Quick grew this year.",
-        "whyItMatters": "Community recap; skip unless you use Amazon Quick.",
+        "summary": "Ars Technica reports Fujifilm will expand tape production fivefold as AI drives archiving demand.",
+        "whyItMatters": "Data retention costs are rising with training sets.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Opinion": [
       {
-        "id": "a80dd20eaec84f5f341eb60fdeaab95020df3189",
-        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
-        "title": "Building a multiplayer game world with autonomous Fable-class models",
-        "source": "Simon Willison",
+        "id": "8492851df22e040d2faf26cb5a065d293f825257",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+        "canonicalUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+        "title": "The Pulse: Anthropic kills the coding interview",
+        "source": "The Pragmatic Engineer",
         "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-29T17:00:26Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
+        "categoryHint": "Tutorials",
+        "author": "Gergely Orosz",
+        "publishedAt": "2026-10-30T16:37:51Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2437,32 +2037,32 @@
         },
         "scores": {
           "importance": 4,
-          "trend": 0,
-          "novelty": 5,
+          "trend": 1,
+          "novelty": 4,
           "credibility": 7
         },
         "total": 3.7,
         "category": "Opinion",
         "tags": [
-          "agents",
-          "experiment"
+          "hiring",
+          "interviews"
         ],
-        "summary": "Simon Willison describes building a multiplayer game world with autonomous Fable-class models.",
-        "whyItMatters": "Hands-on look at long-running agent capability.",
+        "summary": "The Pragmatic Engineer reports on Anthropic dropping its coding interview.",
+        "whyItMatters": "Signal for how hiring adapts to AI coding tools.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "3402ab7175b1329b4f3bc018018ccaed69c28b7a",
-        "url": "https://thezvi.substack.com/p/ai-192-anthropic-is-going-public",
-        "canonicalUrl": "https://thezvi.substack.com/p/ai-192-anthropic-is-going-public",
-        "title": "AI #192: Anthropic Is Going Public",
-        "source": "Don't Worry About the Vase (Zvi)",
+        "id": "946805cb053fe22be229a41aeba88e3c3233d44a",
+        "url": "https://www.platformer.news/thursday-newsletter-6/",
+        "canonicalUrl": "https://platformer.news/thursday-newsletter-6",
+        "title": "What Google and Reddit's bad days have in common",
+        "source": "Platformer (Casey Newton)",
         "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Zvi Mowshowitz",
-        "publishedAt": "2026-10-29T13:49:48Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "categoryHint": "News",
+        "author": "Casey Newton",
+        "publishedAt": "2026-10-30T00:51:00Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2472,103 +2072,33 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 4,
+          "importance": 3,
           "trend": 1,
           "novelty": 3,
-          "credibility": 6
+          "credibility": 7
         },
-        "total": 3.3,
+        "total": 3.1,
         "category": "Opinion",
         "tags": [
-          "newsletter",
-          "ipo"
+          "search",
+          "platforms"
         ],
-        "summary": "Zvi's weekly roundup, issue 192, centered on Anthropic going public.",
-        "whyItMatters": "Weekly commentary; skim for links.",
+        "summary": "Platformer on what bad days at Google and Reddit have in common.",
+        "whyItMatters": "Commentary on search and platform shifts.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "52ced88a57d975486cb59c4279c5407e6a979fc2",
-        "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/28/ted-sanders",
-        "title": "Quoting Ted Sanders",
-        "source": "Simon Willison",
+        "id": "21d66635327b13923864d7a80b972a77f62c00ef",
+        "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "canonicalUrl": "https://interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "title": "Was I wrong about open models & cyber risks?",
+        "source": "Interconnects (Nathan Lambert)",
         "sourceTier": 2,
         "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-28T23:23:21Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 2,
-          "credibility": 6
-        },
-        "total": 2.4,
-        "category": "Opinion",
-        "tags": [
-          "quotes"
-        ],
-        "summary": "Short quoted excerpt shared by Simon Willison, attributed to Ted Sanders.",
-        "whyItMatters": "Low-signal post.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "502de87809f2a788098ebe402b07401f2f882833",
-        "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/29/ben-hylak",
-        "title": "Quoting Ben Hylak",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-29T14:06:27Z",
-        "fetchedAt": "2026-10-30T10:10:17Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 2,
-          "credibility": 6
-        },
-        "total": 2.4,
-        "category": "Opinion",
-        "tags": [
-          "quotes"
-        ],
-        "summary": "Short quoted excerpt shared by Simon Willison.",
-        "whyItMatters": "Low-signal post.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0aab88e24825247c8690953062351915019fd8c4",
-        "url": "https://www.thealgorithmicbridge.com/p/new-study-anthropic-just-gave-you",
-        "canonicalUrl": "https://thealgorithmicbridge.com/p/new-study-anthropic-just-gave-you",
-        "title": "New Study: Anthropic Just Gave You a Reason to Stop Working With AI",
-        "source": "The Algorithmic Bridge",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Alberto Romero",
-        "publishedAt": "2026-10-29T13:20:35Z",
-        "fetchedAt": "2026-10-30T10:10:19Z",
+        "author": "Nathan Lambert",
+        "publishedAt": "2026-10-30T17:36:56Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2581,30 +2111,31 @@
           "importance": 3,
           "trend": 0,
           "novelty": 3,
-          "credibility": 4
+          "credibility": 7
         },
-        "total": 2.4,
+        "total": 2.9,
         "category": "Opinion",
         "tags": [
-          "opinion",
-          "study"
+          "open-weights",
+          "cyber-risk",
+          "opinion"
         ],
-        "summary": "Opinion piece on a new study the author says shows a reason to stop working with AI.",
-        "whyItMatters": "Check the underlying study before drawing conclusions.",
+        "summary": "Nathan Lambert revisits his view on whether open models raise cyber risk.",
+        "whyItMatters": "Informs the open-weights safety debate.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "7df6a06689af67fd18aed6817d1f843a255a812a",
-        "url": "https://morebetterthinking.substack.com/p/are-you-changing-your-mind-often-605",
-        "canonicalUrl": "https://morebetterthinking.substack.com/p/are-you-changing-your-mind-often-605",
-        "title": "Are You Changing Your Mind Often Enough?",
-        "source": "More Better Thinking",
+        "id": "eea5a3900bfe3b1e9555122b35a078b675cfbd5a",
+        "url": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
+        "canonicalUrl": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
+        "title": "Childhood and Education #22: Voice Without Exit",
+        "source": "Don't Worry About the Vase (Zvi)",
         "sourceTier": 2,
         "categoryHint": "Opinion",
-        "author": "William B. Irvine",
-        "publishedAt": "2026-10-29T08:33:26Z",
-        "fetchedAt": "2026-10-30T10:10:18Z",
+        "author": "Zvi Mowshowitz",
+        "publishedAt": "2026-10-30T20:25:47Z",
+        "fetchedAt": "2026-10-31T10:08:41Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -2614,27 +2145,62 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 1,
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.1,
+        "category": "Opinion",
+        "tags": [
+          "education",
+          "opinion"
+        ],
+        "summary": "Zvi's weekly column on children, education and AI.",
+        "whyItMatters": "Commentary for readers following AI in schools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8bf6d66943506208f766c727a2665bd19ae2a6a3",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "canonicalUrl": "https://theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "title": "Silicon Valley wants you to invest in miracles",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ellen Thomas",
+        "publishedAt": "2026-10-30T13:11:05Z",
+        "fetchedAt": "2026-10-31T10:08:40Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
           "trend": 0,
           "novelty": 2,
           "credibility": 5
         },
-        "total": 1.6,
+        "total": 2,
         "category": "Opinion",
         "tags": [
-          "opinion",
-          "thinking"
+          "opinion"
         ],
-        "summary": "Essay on whether you change your mind often enough.",
-        "whyItMatters": "Off-topic for most practitioners.",
+        "summary": "The Verge commentary on Silicon Valley investing in \"miracles\".",
+        "whyItMatters": "Opinion; limited practical value.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ]
   },
   "stats": {
-    "collected": 1248,
-    "afterDedupe": 972,
-    "ranked": 100
+    "collected": 458,
+    "afterDedupe": 458,
+    "ranked": 62
   }
 }

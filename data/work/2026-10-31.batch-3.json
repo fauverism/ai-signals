@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-31",
+  "batch": 3,
+  "of": 3,
+  "clusters": [],
+  "items": [
+    {
+      "id": "371b1e06db16bd42b653c36d145d715a1fcb5fbe",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "source": "Latent Space",
+      "sourceTier": 2,
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "author": "swyx .ai",
+      "publishedAt": "2026-10-30T08:24:29Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "4d8e9bb639f3cbbdb469d45cc8b2bbcaadf5a441",
+      "title": "Building Your Software Factory 🏭 — with Benedikt Stemmildt",
+      "source": "Refactoring (Luca Rossi)",
+      "sourceTier": 2,
+      "url": "https://refactoring.fm/p/building-your-software-factory-with",
+      "author": "Luca Rossi",
+      "publishedAt": "2026-10-30T08:02:08Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "946805cb053fe22be229a41aeba88e3c3233d44a",
+      "title": "What Google and Reddit's bad days have in common",
+      "source": "Platformer (Casey Newton)",
+      "sourceTier": 2,
+      "url": "https://www.platformer.news/thursday-newsletter-6/",
+      "author": "Casey Newton",
+      "publishedAt": "2026-10-30T00:51:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "a7c615ba377d87cb88d5202611382e95b47bc682",
+      "title": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
+      "source": "TLDR AI",
+      "sourceTier": 2,
+      "url": "https://tldr.tech/ai/2026-10-30",
+      "author": "TLDR",
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "categoryHint": "News",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0.86,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "32e3919a05879071228a0bdc0a5e34984fc7ca42",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "source": "Simon Willison",
+      "sourceTier": 2,
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "author": null,
+      "publishedAt": "2026-10-29T22:48:29Z",
+      "categoryHint": "Opinion",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    }
+  ]
+}
