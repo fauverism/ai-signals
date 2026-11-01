@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 10:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:08:43 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How We Took Over ChatGPT Accounts</title>
+      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+      <guid isPermaLink="false">dd35d009aad680f7bdb8901c179d770026e55ae7</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Simon Willison links a write-up describing how researchers took over ChatGPT accounts.</description>
+    </item>
+    <item>
+      <title>Malware uses LLMs to rank victims by how much they&apos;re worth</title>
+      <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</link>
+      <guid isPermaLink="false">5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>Community thread on malware that uses language models to estimate which infected victims are most valuable to target.</description>
+    </item>
+    <item>
+      <title>Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims</title>
+      <link>https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/</link>
+      <guid isPermaLink="false">1d78de13bdeab01c224b4b7e4ecce85ec6042d3e</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>Policy &amp; Safety</category>
+      <description>WIRED reports on infostealer malware that uses AI to compile profiles on its victims.</description>
+    </item>
+    <item>
+      <title>Apple Intelligence is finally coming to China with iOS 27.3</title>
+      <link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link>
+      <guid isPermaLink="false">1fff1698b18b443752bc0b4d67dc49ffd055d210</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Apple Intelligence is slated to reach China with iOS 27.3.</description>
+    </item>
+    <item>
+      <title>ChatGPT and Codex usage limits merging</title>
+      <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+      <guid isPermaLink="false">85c82f0a957177ca5125b1b3319938ad77cd28da</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>News</category>
+      <description>Thread reporting that ChatGPT and Codex usage limits are being combined into a single allowance.</description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Claude AI blocks video game cloning and reverse-engineering</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
+      <guid isPermaLink="false">2b51d8c5bce733011aac5fdefae4619c2a6becc8</guid>
+      <pubDate>Sun, 01 Nov 2026 10:08:43 GMT</pubDate>
+      <category>News</category>
+      <description>Discussion of reports that Claude now refuses requests to recreate or reverse-engineer existing video games.</description>
+    </item>
     <item>
       <title>AI can turn public security fixes into working exploits before users receive an update</title>
       <link>https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</link>
@@ -294,54 +342,6 @@
       <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
       <category>Business</category>
       <description>The Verge covers how Google&apos;s AI search changes have disrupted online publishing.</description>
-    </item>
-    <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid isPermaLink="false">48e2274fdf2ba9fe48db533ddecc410e5cc41b05</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>OpenAI describes how it secures the environment used to train its frontier models.</description>
-    </item>
-    <item>
-      <title>OpenAI now trains its frontier AI models with no internet access</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
-      <guid isPermaLink="false">67972bfe49043d8d45b3a63c2912c88d62b50f4c</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>News</category>
-      <description>The Verge reports OpenAI trains its frontier models without internet access.</description>
-    </item>
-    <item>
-      <title>Introducing Kimi K3.1 Pro</title>
-      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-      <guid isPermaLink="false">6c51129e93f61d6bfd1eb8442e4c471f06be25fd</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Simon Willison&apos;s note on the release of Kimi K3.1 Pro.</description>
-    </item>
-    <item>
-      <title>PHP2Shell: Haven’t patched yet? Take these steps now to mitigate</title>
-      <link>https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/</link>
-      <guid isPermaLink="false">5316d14cfc395661c277ba3adc2b604444ad536d</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>News</category>
-      <description>ZDNET gives mitigation steps for the PHP2Shell vulnerability for unpatched systems.</description>
-    </item>
-    <item>
-      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-      <link>https://latent.space/p/ainews-kimi-31/</link>
-      <guid isPermaLink="false">c1ad71a16e1f5eab9c3e07cb6299112a1a597293</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>News</category>
-      <description>Latent Space roundup covering a Kimi 3.1 Pro open-weights release and a faster API tier.</description>
-    </item>
-    <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid isPermaLink="false">6430909168b586858591a32fd2f7f0e213984c90</guid>
-      <pubDate>Sat, 24 Oct 2026 10:08:49 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face post pointing to a lookup for checking whether a model runs on AWS Trainium.</description>
     </item>
   </channel>
 </rss>

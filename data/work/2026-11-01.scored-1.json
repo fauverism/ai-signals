@@ -1,0 +1,443 @@
+{
+  "date": "2026-11-01",
+  "batch": 1,
+  "items": [
+    {
+      "id": "feb912e225e8e3aa8c6851f6a306781f9ad4ef83",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "amazon-bedrock",
+        "finops",
+        "cost-management"
+      ],
+      "summary": "AWS guide for finance and platform teams on tracking and controlling Amazon Bedrock spend across an organization.",
+      "whyItMatters": "Gives platform teams a checklist for cost visibility on Bedrock workloads.",
+      "organization": "amazon"
+    },
+    {
+      "id": "2b51d8c5bce733011aac5fdefae4619c2a6becc8",
+      "scores": {
+        "importance": 4,
+        "trend": 2,
+        "novelty": 5,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "claude",
+        "guardrails",
+        "game-development"
+      ],
+      "summary": "Discussion of reports that Claude now refuses requests to recreate or reverse-engineer existing video games.",
+      "whyItMatters": "Check whether your game-modding or clone-adjacent prompts hit the new refusals.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
+      "scores": {
+        "importance": 6,
+        "trend": 2,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "malware",
+        "llm-abuse",
+        "infostealer"
+      ],
+      "summary": "Community thread on malware that uses language models to estimate which infected victims are most valuable to target.",
+      "whyItMatters": "Attackers are adding LLM triage to theft pipelines; revisit endpoint and credential defenses.",
+      "organization": "unknown"
+    },
+    {
+      "id": "85c82f0a957177ca5125b1b3319938ad77cd28da",
+      "scores": {
+        "importance": 5,
+        "trend": 3,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "chatgpt",
+        "codex",
+        "usage-limits"
+      ],
+      "summary": "Thread reporting that ChatGPT and Codex usage limits are being combined into a single allowance.",
+      "whyItMatters": "If you use both products, your effective quota may change; check your plan.",
+      "organization": "openai"
+    },
+    {
+      "id": "14074b4203bb23f176964166bd2fb761022eb843",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 4
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "tiny-models",
+        "bootloader",
+        "show-hn"
+      ],
+      "summary": "Show HN project that fits a small language model into a boot sector, as a demonstration of how little code inference needs.",
+      "whyItMatters": "A curiosity, but it shows how small a working inference loop can be.",
+      "organization": "unknown"
+    },
+    {
+      "id": "dd35d009aad680f7bdb8901c179d770026e55ae7",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "account-takeover",
+        "chatgpt",
+        "security"
+      ],
+      "summary": "Simon Willison links a write-up describing how researchers took over ChatGPT accounts.",
+      "whyItMatters": "Review how your own AI product handles session and account security.",
+      "organization": "openai"
+    },
+    {
+      "id": "4c77a0dfd6338debf2fa3d6f68af301e16bc3b18",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "datasette",
+        "llm",
+        "plugin"
+      ],
+      "summary": "Alpha release 0.1a9 of the datasette-llm plugin.",
+      "whyItMatters": "Only relevant if you build on Datasette with LLM plugins.",
+      "organization": "datasette"
+    },
+    {
+      "id": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "apple",
+        "strategy"
+      ],
+      "summary": "Apple CEO says the company will add AI features only where they serve a purpose.",
+      "whyItMatters": "Signals a measured Apple stance on AI features for app developers.",
+      "organization": "apple"
+    },
+    {
+      "id": "1e07dda87d37899ea69970337136e456e430421b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "ai-safety",
+        "policy",
+        "india"
+      ],
+      "summary": "Alignment Forum post on how to convey AI catastrophic-risk arguments to senior policymakers in India.",
+      "whyItMatters": "Useful framing if you brief non-technical officials on AI risk.",
+      "organization": "unknown"
+    },
+    {
+      "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "xai",
+        "data-centers",
+        "lawsuit"
+      ],
+      "summary": "A judge let the NAACP lawsuit over pollution from an xAI data center proceed.",
+      "whyItMatters": "Environmental litigation is becoming a siting risk for AI compute.",
+      "organization": "xai"
+    },
+    {
+      "id": "18eadc7cf156685b55ca4e73883234836ff72d19",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "finance",
+        "long-horizon"
+      ],
+      "summary": "Latent Space piece on using agents for long-running financial work and where they need to prompt people.",
+      "whyItMatters": "Shows where human checkpoints fit in long agent workflows.",
+      "organization": "unknown"
+    },
+    {
+      "id": "ee9f8f39beac17095a41c387246bb008552d4c3a",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "meta",
+        "companions",
+        "consumer-ai"
+      ],
+      "summary": "Writer builds an AI virtual pet ahead of a similar Meta product.",
+      "whyItMatters": "Light read on consumer AI companions.",
+      "organization": "meta"
+    },
+    {
+      "id": "763c4915a40409dabe3b23f744c40339a06ab5b6",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "testing",
+        "software-quality"
+      ],
+      "summary": "Towards Data Science walkthrough on building more reliable applications with Claude Code.",
+      "whyItMatters": "Practical habits for getting steadier output from a coding agent.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "10dfd3542f1d1b2491d3b1929fbd8b28ae13af41",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "glossary",
+        "newsletter"
+      ],
+      "summary": "ByteByteGo newsletter issue 231 with a glossary of common AI terms.",
+      "whyItMatters": "Handy reference for onboarding teammates new to AI.",
+      "organization": "bytebytego"
+    },
+    {
+      "id": "cf997b3e3678dcb82e5d1f60e143f169868616bf",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "vatican",
+        "ethics",
+        "commentary"
+      ],
+      "summary": "Gary Marcus reports on a Vatican event about AI.",
+      "whyItMatters": "Context on religious institutions entering AI governance debates.",
+      "organization": "vatican"
+    },
+    {
+      "id": "b0e56347728abb8794463819c0916f44e51b161b",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "sycophancy",
+        "belief-revision",
+        "llm-behavior"
+      ],
+      "summary": "Essay on whether language models can revise their answers appropriately when challenged.",
+      "whyItMatters": "Relevant to anyone designing self-correction loops.",
+      "organization": "unknown"
+    },
+    {
+      "id": "10465feee05d71e98c9d43453426c351e31b125a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "sycophancy",
+        "agents",
+        "evaluation"
+      ],
+      "summary": "Author tests AI agents by falsely telling them their wrong answers were right and reports one model went along.",
+      "whyItMatters": "A cheap test you can run on your own agents for sycophancy.",
+      "organization": "unknown"
+    },
+    {
+      "id": "1d78de13bdeab01c224b4b7e4ecce85ec6042d3e",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Policy & Safety",
+      "tags": [
+        "infostealer",
+        "malware",
+        "doxxing"
+      ],
+      "summary": "WIRED reports on infostealer malware that uses AI to compile profiles on its victims.",
+      "whyItMatters": "Stolen data is now being enriched automatically; tighten credential hygiene.",
+      "organization": "unknown"
+    },
+    {
+      "id": "d5bb41b6ba041206b1410f5dbd278a1cd9bcfe74",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "meta",
+        "muse",
+        "enterprise"
+      ],
+      "summary": "WIRED assessment of Meta's Muse and its potential, and limited impact so far, on businesses.",
+      "whyItMatters": "Helps judge whether Muse merits a pilot yet.",
+      "organization": "meta"
+    },
+    {
+      "id": "edd821e09ba3cc5366f890405e2c7043fb0c3049",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "agents",
+        "lab-automation",
+        "neuroscience"
+      ],
+      "summary": "WIRED reports an AI agent carried out a drug injection into a live mouse brain.",
+      "whyItMatters": "Early sign of agents controlling physical lab equipment.",
+      "organization": "unknown"
+    },
+    {
+      "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "nvidia",
+        "nscale",
+        "data-centers"
+      ],
+      "summary": "Nvidia is weighing acting as cosigner for Nscale's planned AI data center in West Virginia.",
+      "whyItMatters": "Shows chipmakers backing the financing of compute capacity.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Business",
+      "tags": [
+        "ollie",
+        "shutdown",
+        "privacy"
+      ],
+      "summary": "Privacy-focused assistant Ollie is shutting down.",
+      "whyItMatters": "If you depend on small AI assistants, plan for export and exit.",
+      "organization": "ollie"
+    },
+    {
+      "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "apple-intelligence",
+        "china",
+        "ios"
+      ],
+      "summary": "Apple Intelligence is slated to reach China with iOS 27.3.",
+      "whyItMatters": "Opens a large user market to on-device Apple AI features.",
+      "organization": "apple"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "5a4bff0c2db23b045cd7fa25bcd86c5de5800d91",
+      "reason": "event promo"
+    },
+    {
+      "id": "4caded1205a8917c552197cbf1fe87bca4a1b5a7",
+      "reason": "duplicate story in cluster"
+    },
+    {
+      "id": "c10fef6ec8169f8257315dbfd15371a70ecfbb0c",
+      "reason": "funding, no substance"
+    },
+    {
+      "id": "4505f5f4bd09cf760b1cd9c94550ff4fcd1b96d1",
+      "reason": "stock-price story"
+    }
+  ],
+  "clusterLabels": [
+    {
+      "id": "c-a9ef093add",
+      "label": "Claude refuses game cloning requests"
+    }
+  ],
+  "fetches": []
+}

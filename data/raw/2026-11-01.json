@@ -1,0 +1,542 @@
+[
+  {
+    "id": "dd35d009aad680f7bdb8901c179d770026e55ae7",
+    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "canonicalUrl": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+    "title": "How We Took Over ChatGPT Accounts",
+    "source": "Simon Willison",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": null,
+    "publishedAt": "2026-10-31T23:15:22Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4c77a0dfd6338debf2fa3d6f68af301e16bc3b18",
+    "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+    "canonicalUrl": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+    "title": "datasette-llm 0.1a9",
+    "source": "Simon Willison",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": null,
+    "publishedAt": "2026-10-31T22:10:01Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "85c82f0a957177ca5125b1b3319938ad77cd28da",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "canonicalUrl": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "title": "ChatGPT and Codex usage limits merging",
+    "source": "Hacker News: LLM",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-31T21:49:07Z",
+    "fetchedAt": "2026-11-01T10:07:55Z",
+    "signals": {
+      "hnPoints": 124,
+      "hnComments": 62,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-10-31T21:41:00Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1e07dda87d37899ea69970337136e456e430421b",
+    "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "canonicalUrl": "https://alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+    "source": "Alignment Forum",
+    "sourceTier": 2,
+    "categoryHint": "Policy & Safety",
+    "author": "TurnTrout",
+    "publishedAt": "2026-10-31T21:37:22Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5a4bff0c2db23b045cd7fa25bcd86c5de5800d91",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-10-31T21:36:07Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-10-31T21:17:03Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c10fef6ec8169f8257315dbfd15371a70ecfbb0c",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-10-31T16:12:55Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "18eadc7cf156685b55ca4e73883234836ff72d19",
+    "url": "https://latent.space/p/arca/",
+    "canonicalUrl": "https://latent.space/p/arca",
+    "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+    "source": "Latent Space",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Richard MacManus",
+    "publishedAt": "2026-10-31T16:05:00Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ee9f8f39beac17095a41c387246bb008552d4c3a",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "canonicalUrl": "https://theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-10-31T16:05:00Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "763c4915a40409dabe3b23f744c40339a06ab5b6",
+    "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
+    "canonicalUrl": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code",
+    "title": "How to Build Bug-Free Applications with Claude Code",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Eivind Kjosbakken",
+    "publishedAt": "2026-10-31T16:00:00Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "10dfd3542f1d1b2491d3b1929fbd8b28ae13af41",
+    "url": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+    "canonicalUrl": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+    "title": "EP231: AI Terms You Need to Know",
+    "source": "ByteByteGo",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "ByteByteGo",
+    "publishedAt": "2026-10-31T15:31:08Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "cf997b3e3678dcb82e5d1f60e143f169868616bf",
+    "url": "https://garymarcus.substack.com/p/report-from-the-vatican",
+    "canonicalUrl": "https://garymarcus.substack.com/p/report-from-the-vatican",
+    "title": "Report from the Vatican",
+    "source": "Marcus on AI",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Gary Marcus",
+    "publishedAt": "2026-10-31T15:17:33Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4caded1205a8917c552197cbf1fe87bca4a1b5a7",
+    "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+    "canonicalUrl": "https://gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+    "title": "Anthropic orders AI tool Claude to stop remaking video games",
+    "source": "Hacker News: LLM",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-31T14:41:44Z",
+    "fetchedAt": "2026-11-01T10:07:55Z",
+    "signals": {
+      "hnPoints": 29,
+      "hnComments": 16,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "canonicalUrl": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "source": "Hacker News: LLM",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-31T14:29:03Z",
+    "fetchedAt": "2026-11-01T10:07:55Z",
+    "signals": {
+      "hnPoints": 248,
+      "hnComments": 131,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b0e56347728abb8794463819c0916f44e51b161b",
+    "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/",
+    "canonicalUrl": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind",
+    "title": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Emmimal P Alexander",
+    "publishedAt": "2026-10-31T14:00:00Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2b51d8c5bce733011aac5fdefae4619c2a6becc8",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+    "canonicalUrl": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+    "source": "Hacker News: artificial intelligence",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-31T13:25:00Z",
+    "fetchedAt": "2026-11-01T10:07:55Z",
+    "signals": {
+      "hnPoints": 71,
+      "hnComments": 42,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "14074b4203bb23f176964166bd2fb761022eb843",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "canonicalUrl": "https://github.com/kerlenton/bootgpt",
+    "title": "Show HN: A language model that lives in a boot sector",
+    "source": "Hacker News: LLM",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-10-31T12:58:29Z",
+    "fetchedAt": "2026-11-01T10:07:55Z",
+    "signals": {
+      "hnPoints": 83,
+      "hnComments": 5,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "10465feee05d71e98c9d43453426c351e31b125a",
+    "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
+    "canonicalUrl": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me",
+    "title": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+    "source": "Towards Data Science",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Abdullahi Dattijo",
+    "publishedAt": "2026-10-31T12:00:00Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1d78de13bdeab01c224b4b7e4ecce85ec6042d3e",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "canonicalUrl": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "source": "WIRED: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "publishedAt": "2026-10-31T12:00:00Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "d5bb41b6ba041206b1410f5dbd278a1cd9bcfe74",
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "canonicalUrl": "https://wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "source": "WIRED: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Paresh Dave",
+    "publishedAt": "2026-10-31T10:30:00Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "edd821e09ba3cc5366f890405e2c7043fb0c3049",
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "canonicalUrl": "https://wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "source": "WIRED: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Emily Mullin",
+    "publishedAt": "2026-10-31T10:00:00Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "4505f5f4bd09cf760b1cd9c94550ff4fcd1b96d1",
+    "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+    "canonicalUrl": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
+    "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+    "source": "Latent Space",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "swyx .ai",
+    "publishedAt": "2026-10-31T05:00:48Z",
+    "fetchedAt": "2026-11-01T10:07:57Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Aditya Mehta",
+    "publishedAt": "2026-10-31T01:20:05Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "canonicalUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "source": "TechCrunch: AI",
+    "sourceTier": 2,
+    "categoryHint": "Business",
+    "author": "Lucas Ropek",
+    "publishedAt": "2026-10-30T22:56:13Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "feb912e225e8e3aa8c6851f6a306781f9ad4ef83",
+    "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+    "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+    "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+    "source": "AWS Machine Learning Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Aswath Ram A Srinivasan",
+    "publishedAt": "2026-10-30T22:42:24Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "canonicalUrl": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "source": "The Verge: AI",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Jay Peters",
+    "publishedAt": "2026-10-30T22:32:53Z",
+    "fetchedAt": "2026-11-01T10:07:56Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  }
+]
