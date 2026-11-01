@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { classifyDirty, failureReport, formatSummary, isPushRejection, parsePorcelain, publishSpecs, staleWorkFiles } from './daily.js';
+import { classifyDirty, failureReport, formatSummary, isPushRejection, parsePorcelain, publishSpecs, staleWorkFiles } from './weekly.js';
 
 test('porcelain output is parsed, including renames', () => {
   assert.deepEqual(parsePorcelain(' M data/latest.json\n?? data/raw/2026-10-08.json\nR  a.txt -> b.txt\n'), [
@@ -22,7 +22,7 @@ test('site/index.html is generated only when just its meta block changed', () =>
 });
 
 test("a fresh run clears that day's batches, scored files and dropped links only", () => {
-  const names = ['2026-10-08.batch-1.json', '2026-10-08.scored-2.json', '2026-10-08.dropped.json', '2026-10-07.scored-1.json', '2026-10-08.dry-edition.json', 'daily-run.json', 'README.md'];
+  const names = ['2026-10-08.batch-1.json', '2026-10-08.scored-2.json', '2026-10-08.dropped.json', '2026-10-07.scored-1.json', '2026-10-08.dry-edition.json', 'weekly-run.json', 'README.md'];
   assert.deepEqual(staleWorkFiles('2026-10-08', names), ['2026-10-08.batch-1.json', '2026-10-08.scored-2.json', '2026-10-08.dropped.json']);
 });
 
@@ -63,7 +63,7 @@ test('a failed run still produces five lines and says why', () => {
 
 test('the failure report names the step and reason and says nothing was pushed', () => {
   const md = failureReport({ date: '2026-10-08', step: 'check', reason: 'only 12 items were ranked', now: '2026-10-08T11:00:00Z', check: { checkedAt: 'x', passed: false, problems: ['p1'], dropped: [{ url: 'https://d.example', reason: 'HTTP 404' }] } });
-  assert.match(md, /^# Daily run failed: 2026-10-08/);
+  assert.match(md, /^# Weekly run failed: 2026-10-08/);
   assert.match(md, /\*\*Step:\*\* check/);
   assert.match(md, /only 12 items were ranked/);
   assert.match(md, /Pushed:\*\* nothing/);

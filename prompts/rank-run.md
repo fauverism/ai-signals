@@ -1,6 +1,6 @@
 # Ranking run
 
-How Claude Code runs a day's ranking. The judging is yours; the script does the rest. Standard: `prompts/editorial-rubric.md`.
+How Claude Code runs an edition's ranking. The judging is yours; the script does the rest. Standard: `prompts/editorial-rubric.md`.
 
 Commands take `--date YYYY-MM-DD` (default: today in America/New_York) and `--dry-run` (writes `data/work/<date>.dry-*.json` instead of the real edition, `latest.json` and `archive.json`; use it for rehearsals).
 
@@ -59,7 +59,7 @@ Merges the scored files, recomputes every total in code, applies the featuring r
 
 ## 4. Editor's note
 
-Open the Edition and replace the placeholder `editorNote` with the day's note, following the rubric: at most 600 characters, plain voice, naming the 1–2 real themes of the day from the lead, top items and trending clusters. Edit nothing else in the Edition by hand.
+Open the Edition and replace the placeholder `editorNote` with the week's note, following the rubric: at most 600 characters, plain voice, naming the 1–2 real themes of the week from the lead, top items and trending clusters. Edit nothing else in the Edition by hand.
 
 ## 5. Validate
 
@@ -71,6 +71,6 @@ Re-checks the Edition against the schema and the rubric's rules (totals, slot ru
 
 ## 6. Report
 
-(In a daily run, `prompts/daily-run.md` skips this step and prints its own summary.)
+(In a scheduled run, `prompts/weekly-run.md` skips this step and prints its own summary.)
 
 Tell the user the lead, the top 5 and the innovations with their four scores, anything unusual from the assembly notes (a lead fallback, a Tutorials swap, clamped trend scores), and how many source fetches you used.

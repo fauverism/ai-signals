@@ -17,11 +17,11 @@
     "test": "node --test",
     "serve": "node scripts/serve.js",
     "verify-sources": "NODE_USE_ENV_PROXY=1 node scripts/verify-sources.js",
-    "daily": "node scripts/daily.js",
-    "daily:start": "node scripts/daily.js start",
-    "daily:publish": "node scripts/daily.js publish",
-    "daily:summary": "node scripts/daily.js summary",
-    "daily:fail": "node scripts/daily.js fail",
+    "weekly": "node scripts/weekly.js",
+    "weekly:start": "node scripts/weekly.js start",
+    "weekly:publish": "node scripts/weekly.js publish",
+    "weekly:summary": "node scripts/weekly.js summary",
+    "weekly:fail": "node scripts/weekly.js fail",
     "newsletter": "node scripts/newsletter.js"
   },
   "dependencies": {

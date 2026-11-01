@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { createDraft, dailyMarkdown, dailySubject, persistentCluster, trimHeadline, weeklyMarkdown, weeklyTop, wordCount } from './newsletter.js';
+import { createDraft, editionMarkdown, editionSubject, trimHeadline, wordCount } from './newsletter.js';
 
 const item = (n, total, extra = {}) => ({ id: `id${n}`, url: `https://example.com/${n}`, canonicalUrl: `https://example.com/${n}`, title: `Story number ${n}`, source: 'Src', summary: `Summary of story ${n}.`, whyItMatters: `Why ${n} matters.`, total, ...extra });
 const edition = (date, extra = {}) => ({
@@ -19,12 +19,12 @@ test('trimHeadline: short titles pass, long ones cut at a word with an ellipsis 
 });
 
 test('subject is the trimmed lead + " and 5 more"', () => {
-  assert.equal(dailySubject(edition('2026-10-08')), 'Story number 0 and 5 more');
+  assert.equal(editionSubject(edition('2026-10-08')), 'Last Week in AI Design: Story number 0 and 5 more');
 });
 
-test('daily markdown has every section, links to originals, and fits the word limit', () => {
-  const md = dailyMarkdown(edition('2026-10-08'), { siteUrl });
-  assert.match(md, /^\*Thursday, October 8, 2026\*/);
+test('weekly markdown has every section, links to originals, and fits the word limit', () => {
+  const md = editionMarkdown(edition('2026-10-08'), { siteUrl });
+  assert.match(md, /^\*Last Week in AI Design · Thursday, October 8, 2026\*/);
   assert.match(md, /A short note about the day\./);
   assert.match(md, /## \[Story number 0\]\(https:\/\/example\.com\/0\)/);
   assert.match(md, /\*\*Why it matters:\*\* Why 0 matters\./);
@@ -35,27 +35,12 @@ test('daily markdown has every section, links to originals, and fits the word li
 });
 
 test('no innovations -> no Innovations heading; over-long mail sheds detail, then fails loudly', () => {
-  assert.doesNotMatch(dailyMarkdown(edition('2026-10-08', { innovations: [] }), { siteUrl }), /Innovations/);
+  assert.doesNotMatch(editionMarkdown(edition('2026-10-08', { innovations: [] }), { siteUrl }), /Innovations/);
   const wordy = edition('2026-10-08');
   wordy.top.forEach((i) => { i.whyItMatters = 'word '.repeat(40); });
-  const md = dailyMarkdown(wordy, { siteUrl, maxWords: 150 });
+  const md = editionMarkdown(wordy, { siteUrl, maxWords: 150 });
   assert.doesNotMatch(md, /word word/);
-  assert.throws(() => dailyMarkdown(wordy, { siteUrl, maxWords: 20 }), /over 20 words/);
-});
-
-test('weekly: top 10 by total across editions, deduped by URL; most persistent cluster wins', () => {
-  const mk = (date, base, trending) => edition(date, { lead: item(base, 9 - base / 100), top: [1, 2, 3, 4, 5].map((n) => item(base + n, 6)), innovations: [], byCategory: { News: [item(base + 9, 3)] }, trending });
-  const a = mk('2026-10-04', 10, [{ id: 'c1', label: 'Old story', itemIds: ['id11'], leadItemId: 'id11', sources: ['A'] }, { id: 'c2', label: 'Short', itemIds: ['id12'], leadItemId: 'id12', sources: ['A'] }]);
-  const b = mk('2026-10-05', 20, [{ id: 'c1b', label: 'Old story, day two', itemIds: ['id11', 'id21'], leadItemId: 'id21', sources: ['A', 'B'] }]);
-  const top = weeklyTop([a, b]);
-  assert.equal(top.length, 10);
-  assert.ok(top.every((x, i) => i === 0 || top[i - 1].item.total >= x.item.total));
-  assert.equal(new Set(top.map((x) => x.item.url)).size, 10);
-  const c = persistentCluster([a, b]);
-  assert.equal(c.days, 2);
-  assert.equal(c.label, 'Old story, day two');
-  assert.match(weeklyMarkdown([a, b], '2026-10-11', { siteUrl }), /Stayed in the news[\s\S]*2 days/);
-  assert.equal(persistentCluster([edition('2026-10-08')]), null);
+  assert.throws(() => editionMarkdown(wordy, { siteUrl, maxWords: 20 }), /over 20 words/);
 });
 
 const KEY = 'sk_test_SECRET_KEY';
@@ -67,27 +52,27 @@ const recorder = (handler) => {
 
 test('createDraft POSTs status "draft" explicitly with the token auth header', async () => {
   const { calls, fetchImpl } = recorder((url, init) => (init.method === 'GET' ? respond(200, { results: [], next: null }) : respond(201, { id: 'em_1', status: 'draft', absolute_url: 'https://b/x' })));
-  const r = await createDraft({ subject: 'S', body: 'B', marker: 'daily:2026-10-08' }, { apiKey: KEY, fetchImpl });
+  const r = await createDraft({ subject: 'S', body: 'B', marker: 'edition:2026-10-08' }, { apiKey: KEY, fetchImpl });
   assert.deepEqual(r, { id: 'em_1', url: 'https://b/x', action: 'created' });
   const post = calls.find((c) => c.method === 'POST');
   assert.equal(post.url, 'https://api.buttondown.com/v1/emails');
   assert.equal(post.headers.authorization, `Token ${KEY}`);
   assert.equal(post.body.status, 'draft');
-  assert.deepEqual(post.body.metadata, { ai_signal: 'daily:2026-10-08' });
+  assert.deepEqual(post.body.metadata, { ai_signal: 'edition:2026-10-08' });
   assert.ok(!calls.some((c) => c.headers['x-buttondown-live-dangerously']));
 });
 
 test('a same-day re-run updates the existing draft instead of creating another', async () => {
-  const { calls, fetchImpl } = recorder((url, init) => (init.method === 'GET' ? respond(200, { results: [{ id: 'em_9', status: 'draft', metadata: { ai_signal: 'daily:2026-10-08' } }], next: null }) : respond(200, { id: 'em_9', status: 'draft' })));
-  const r = await createDraft({ subject: 'S', body: 'B', marker: 'daily:2026-10-08' }, { apiKey: KEY, fetchImpl });
+  const { calls, fetchImpl } = recorder((url, init) => (init.method === 'GET' ? respond(200, { results: [{ id: 'em_9', status: 'draft', metadata: { ai_signal: 'edition:2026-10-08' } }], next: null }) : respond(200, { id: 'em_9', status: 'draft' })));
+  const r = await createDraft({ subject: 'S', body: 'B', marker: 'edition:2026-10-08' }, { apiKey: KEY, fetchImpl });
   assert.equal(r.action, 'updated');
   assert.deepEqual(calls.map((c) => c.method), ['GET', 'PATCH']);
   assert.match(calls[1].url, /\/emails\/em_9$/);
 });
 
 test('a sent email with the same marker is never touched', async () => {
-  const { calls, fetchImpl } = recorder((url, init) => (init.method === 'GET' ? respond(200, { results: [{ id: 'em_9', status: 'sent', metadata: { ai_signal: 'daily:2026-10-08' } }], next: null }) : respond(201, { id: 'em_10', status: 'draft' })));
-  await createDraft({ subject: 'S', body: 'B', marker: 'daily:2026-10-08' }, { apiKey: KEY, fetchImpl });
+  const { calls, fetchImpl } = recorder((url, init) => (init.method === 'GET' ? respond(200, { results: [{ id: 'em_9', status: 'sent', metadata: { ai_signal: 'edition:2026-10-08' } }], next: null }) : respond(201, { id: 'em_10', status: 'draft' })));
+  await createDraft({ subject: 'S', body: 'B', marker: 'edition:2026-10-08' }, { apiKey: KEY, fetchImpl });
   assert.deepEqual(calls.map((c) => c.method), ['GET', 'POST']);
 });
 

@@ -16,6 +16,7 @@
       "tier": { "description": "1 = primary/official, 2 = established press or researchers, 3 = community.", "type": "integer", "minimum": 1, "maximum": 3 },
       "defaultCategory": { "$ref": "common.schema.json#/$defs/category" },
       "enabled": { "type": "boolean" },
+      "scope": { "description": "Which title filter applies: ai (default; needs a UI/UX focus term), design (needs an AI term), both (exclude terms only).", "enum": ["ai", "design", "both"] },
       "notes": { "type": "string", "maxLength": 300 }
     }
   }

@@ -7,9 +7,9 @@ const HOUR = 3600 * 1000;
 export const DEFAULTS = {
   cap: 150,
   perSourceCap: 8, // at most this many items from one source in the capped set (null = no limit); stops arXiv filling the cap
-  nearDupHours: 48,
+  nearDupHours: 168, // a weekly edition: the same story can resurface any day of the week
   nearDupJaccard: 0.6,
-  clusterHours: 72,
+  clusterHours: 168,
 };
 
 // Cluster linking thresholds (cosine similarity of IDF-weighted title tokens).

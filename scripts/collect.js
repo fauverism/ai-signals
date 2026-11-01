@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Fetches every enabled source and writes data/raw/<edition-date>.json (metadata only, no body text).
-// Usage: node scripts/collect.js [--date YYYY-MM-DD] [--hours 36]
+// Usage: node scripts/collect.js [--date YYYY-MM-DD] [--hours 168]   (weekly edition: the last 7 days)
 //   Window length can also come from COLLECT_WINDOW_HOURS. Behind an HTTPS proxy: NODE_USE_ENV_PROXY=1.
 // One failing source never fails the run; problems go to data/logs/<edition-date>.json.
 // robots.txt is honored for feeds. API sources (Algolia, GitHub) are governed by their published terms.
@@ -10,7 +10,7 @@ import { adapterFor } from './adapters/index.js';
 import { editionDate, isInWindow, toUtcIso } from './lib/dates.js';
 import { parseFeed } from './lib/feed.js';
 import { createHttp } from './lib/http.js';
-import { createKeywordFilter } from './lib/keywords.js';
+import { createTopicFilter } from './lib/keywords.js';
 import { buildRawItem } from './lib/raw-item.js';
 import { root, schemaErrors } from './lib/schemas.js';
 
@@ -22,7 +22,7 @@ const flag = (name) => {
 
 const now = new Date();
 const date = flag('date') ?? editionDate(now);
-const windowHours = Number(flag('hours') ?? process.env.COLLECT_WINDOW_HOURS ?? 36);
+const windowHours = Number(flag('hours') ?? process.env.COLLECT_WINDOW_HOURS ?? 168);
 if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error(`--date must be YYYY-MM-DD, got "${date}"`);
 if (!(windowHours > 0)) throw new Error(`window hours must be a positive number, got "${windowHours}"`);
 
@@ -51,7 +51,8 @@ async function writeJson(file, data) {
 }
 
 const sources = (await readJson(paths.sources)).filter((s) => s.enabled);
-const matchesTopic = createKeywordFilter(await readJson(paths.keywords));
+// Keeps only the AI x UI/UX overlap; how depends on each source's `scope` (see lib/keywords.js).
+const matchesTopic = createTopicFilter(await readJson(paths.keywords));
 // Bump when feed parsing changes: cached parses from an older parser are discarded.
 const PARSER_VERSION = 2;
 const loaded = await readJson(paths.cache, { entries: {} });
@@ -115,7 +116,7 @@ async function runSource(source) {
     row.fetched = result.items.length;
     for (const item of result.items) {
       if (!isInWindow(item.publishedAt, now, windowHours)) continue;
-      if (source.tier === 3 && !matchesTopic(item.title)) continue;
+      if (!matchesTopic(source, item.title)) continue;
       try {
         const rawItem = buildRawItem(source, item, result.fetchedAt);
         const problems = schemaErrors('raw-item', rawItem);

@@ -57,7 +57,7 @@ function renderHeader(edition) {
   const updated = $('updated');
   updated.textContent = `Updated ${fmtClock(edition.generatedAt)}`;
   updated.setAttribute('datetime', edition.generatedAt);
-  document.title = `AI Broadside, ${fmtEditionDate(edition.date)}`;
+  document.title = `Last Week in AI Design, ${fmtEditionDate(edition.date)}`;
 }
 
 function renderNote(text) {
@@ -99,7 +99,7 @@ function renderInnovations(edition, now) {
   $('innovations').hidden = false;
 }
 
-/** Momentum from trendDelta: today's topic size minus its recent average. */
+/** Momentum from trendDelta: this edition's topic size minus its recent average. */
 function momentum(delta) {
   if (delta == null) return { glyph: '–', word: 'No baseline yet', cls: '' };
   const sign = delta > 0 ? '+' : '';
@@ -177,7 +177,7 @@ function renderCategories(edition, now) {
               ),
             ),
           )
-        : h('p', { class: 'empty' }, `Nothing in ${cat} today.`),
+        : h('p', { class: 'empty' }, `Nothing in ${cat} this week.`),
     );
     tabs.push({ tab, panel });
   });
@@ -212,7 +212,7 @@ function renderCategories(edition, now) {
 
 /**
  * Fills every section from an edition. `now` anchors the "3h ago" labels: the real time on the front page,
- * the edition's own generation time on an archived edition, so it reads the way it did that day.
+ * the edition's own generation time on an archived edition, so it reads the way it did when published.
  */
 export function renderEdition(edition, now) {
   const pool = new Map();

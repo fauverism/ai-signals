@@ -20,7 +20,8 @@ const cap = Number(flag('cap') ?? DEFAULTS.cap);
 // Default from lib/dedupe.js (8). `--per-source-cap 0` means no limit.
 const perSourceFlag = flag('per-source-cap');
 const perSourceCap = perSourceFlag == null ? DEFAULTS.perSourceCap : Number(perSourceFlag) > 0 ? Number(perSourceFlag) : null;
-const LOOKBACK = 7;
+// Prior editions used for trend history: about a month of weekly editions.
+const LOOKBACK = 4;
 
 const rawFile = path.join(root, 'data/raw', `${date}.json`);
 const outFile = path.join(root, 'data/raw', `${date}.deduped.json`);

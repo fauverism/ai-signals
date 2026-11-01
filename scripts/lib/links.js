@@ -2,7 +2,7 @@
 // 401, 403 and 429 also count as alive: the server answered, it just won't serve a bot (paywalls, Cloudflare challenges, rate limits).
 const ALIVE_BOT_BLOCKS = new Set([401, 403, 429]);
 export const LINK_TIMEOUT_MS = 5000;
-const USER_AGENT = 'AI-Signal/0.1 (+https://github.com/fauverism/ai-signals; daily AI news aggregator)';
+const USER_AGENT = 'AI-Signal/0.1 (+https://github.com/fauverism/ai-signals; weekly AI x UI/UX digest)';
 
 /**
  * 2xx and 3xx pass; redirects are not followed (the link answered, which is what we're asking).

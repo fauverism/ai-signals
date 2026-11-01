@@ -24,7 +24,7 @@ The pages fetch `../data/*.json`, so `/site` and `/data` must be served side by 
 
 ## Generated files (`npm run build`)
 
-`scripts/build.js` writes these from `data/latest.json`, `data/archive.json` and `data/editions/`. It runs in `npm run daily` after ranking, and `npm run check` fails if they are stale. None exist until the first edition is published.
+`scripts/build.js` writes these from `data/latest.json`, `data/archive.json` and `data/editions/`. It runs in the weekly run (`prompts/weekly-run.md`) after ranking, and `npm run check` fails if they are stale. None exist until the first edition is published.
 
 | File | What it is |
 | --- | --- |

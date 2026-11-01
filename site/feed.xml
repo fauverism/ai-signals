@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Broadside</title>
+    <title>Last Week in AI Design</title>
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
-    <description>News of artificial intelligence, ranked and printed daily: research, tutorials, tools and releases. Every link goes to the original publisher.</description>
+    <description>AI for UI, UX and visual design, ranked and printed every Monday: skills, UI generation, tools and how designers work with AI. Every link goes to the original publisher.</description>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Nov 2026 10:08:43 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>

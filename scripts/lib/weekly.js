@@ -1,4 +1,4 @@
-// Pure helpers for the scheduled daily run (scripts/daily.js is the runner).
+// Pure helpers for the scheduled weekly run (scripts/weekly.js is the runner).
 
 /** Paths a run generates. A failed run's leftovers here are safe to discard at the start of the next one. */
 export const GENERATED_ROOTS = [
@@ -63,7 +63,7 @@ export function formatSummary({ edition, collectLog, failure = null }) {
 /** The markdown written to data/logs/<date>-failed.md. */
 export function failureReport({ date, step, reason, now, check = null }) {
   const lines = [
-    `# Daily run failed: ${date}`,
+    `# Weekly run failed: ${date}`,
     '',
     `- **When:** ${now}`,
     `- **Step:** ${step}`,
@@ -75,7 +75,7 @@ export function failureReport({ date, step, reason, now, check = null }) {
     if (check.problems?.length) lines.push('- Problems:', ...check.problems.map((p) => `  - ${p}`));
     if (check.dropped?.length) lines.push('- Dead links dropped:', ...check.dropped.map((d) => `  - ${d.url} (${d.reason})`));
   }
-  lines.push('', 'Fix the cause and run `prompts/daily-run.md` again; a re-run starts from a clean slate and overwrites the day.', '');
+  lines.push('', 'Fix the cause and run `prompts/weekly-run.md` again; a re-run starts from a clean slate and overwrites the edition.', '');
   return lines.join('\n');
 }
 
