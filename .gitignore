@@ -159,8 +159,8 @@ data/cache/
 # Throwaway preview from `npm run build -- --dry`
 data/work/dry-site/
 
-# State of a daily run in progress (scripts/daily.js)
-data/work/daily-run.json
+# State of a weekly run in progress (scripts/weekly.js)
+data/work/weekly-run.json
 
 # Deploy bundle (npm run bundle)
 dist/

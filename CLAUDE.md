@@ -1,9 +1,12 @@
-# CLAUDE.md — AI Broadside
+# CLAUDE.md — Last Week in AI Design
 
-AI Broadside (repo: ai-signals) is a daily aggregator of AI industry news, research, tutorials, tools
-and releases. It ranks links by **importance**, **trend momentum** and
-**novelty**, then features the best ones on a static site. A daily email draft
-is created in Buttondown for the owner to review and send.
+Last Week in AI Design (repo: ai-signals) is a **weekly** digest, published every
+Monday, of AI news for **UI, UX and visual design**: agent skills, UI generation,
+design tools, and how designers are using AI. It collects the past seven days,
+ranks links by **importance**, **trend momentum** and **novelty**, then features
+the best ones on a static site. A weekly email draft is created in Buttondown for
+the owner to review and send. The beat is defined in
+`prompts/editorial-rubric.md` ("The beat").
 
 These rules apply to every session. Follow them unless the user explicitly
 overrides one.
@@ -80,7 +83,7 @@ written to JSON files so they are reviewable and reproducible.
 
 | Path | Purpose |
 | --- | --- |
-| `/sources` | Source registry: feeds, APIs, per-source config |
+| `/sources` | Source registry: feeds, APIs, per-source config and `scope`; topic keywords |
 | `/scripts` | Node pipeline (fetch, parse, dedupe, count, build, publish) |
 | `/schemas` | JSON Schemas for every file in `/data` |
 | `/data/raw` | Fetched item metadata (no body text); `<date>.deduped.json` is the set sent to ranking |
@@ -95,7 +98,7 @@ directories without updating this file.
 
 ## Pipeline order
 
-1. Fetch from `/sources` → `/data/raw`
+1. Fetch the last 7 days from `/sources` → `/data/raw`, keeping only the AI × UI/UX overlap
 2. Parse and normalize; dedupe by canonical URL and title similarity
 3. Count mentions and momentum signals
 4. Claude scores, summarizes, clusters, and writes the editor's note
@@ -103,7 +106,8 @@ directories without updating this file.
 5. Validate against `/schemas`; write the edition to `/data/editions`
 6. Site reads editions as static JSON; newsletter sent via Buttondown
 
-Each step is re-runnable and idempotent for a given edition date.
+Each step is re-runnable and idempotent for a given edition date. The
+scheduled task runs `prompts/weekly-run.md` every Monday morning (US Eastern).
 
 ## Working conventions
 

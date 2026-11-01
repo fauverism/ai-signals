@@ -57,17 +57,31 @@ export function fitHeadline(text, { maxWidth = 1040, maxHeight = 262, sizes = [6
   return { size, lines, lineHeight };
 }
 
-/** "AI" in a wax seal, then "Broadside" in blackletter, centred as a pair. */
+/** "Last Week in", then "AI" in a wax seal, then "Design", in blackletter, centred as a line (shrunk to fit). */
 function nameplate() {
-  const size = 92;
-  const seal = 112;
-  const gap = 22;
-  const textWidth = measure('Broadside', size, 700, 'UnifrakturCook');
-  const x0 = Math.round((OG_WIDTH - (seal + gap + textWidth)) / 2);
+  const before = 'Last Week in';
+  const after = 'Design';
+  const maxWidth = OG_WIDTH - 2 * 80;
+  let size = 84;
+  let seal;
+  let gap;
+  let w1;
+  let w2;
+  for (; ; size -= 2) {
+    seal = Math.round(size * 1.15);
+    gap = Math.round(size * 0.2);
+    w1 = measure(before, size, 700, 'UnifrakturCook');
+    w2 = measure(after, size, 700, 'UnifrakturCook');
+    if (w1 + gap + seal + gap + w2 <= maxWidth || size <= 48) break;
+  }
+  const x0 = Math.round((OG_WIDTH - (w1 + gap + seal + gap + w2)) / 2);
+  const xSeal = x0 + w1 + gap;
   const cy = 112;
-  return `<g transform="translate(${x0} ${cy - seal / 2}) scale(${seal / 100})">${SEAL}</g>
-  <text x="${x0 + seal / 2}" y="${cy + 15}" font-family="${HEADLINE_FAMILY}" font-size="44" letter-spacing="1" fill="#f8efdb" text-anchor="middle">AI</text>
-  <text x="${x0 + seal + gap}" y="140" font-family="UnifrakturCook" font-weight="700" font-size="${size}" fill="#231c14">Broadside</text>`;
+  const baseline = Math.round(cy + size * 0.3);
+  return `<text x="${x0}" y="${baseline}" font-family="UnifrakturCook" font-weight="700" font-size="${size}" fill="#231c14">${before}</text>
+  <g transform="translate(${xSeal} ${cy - seal / 2}) scale(${seal / 100})">${SEAL}</g>
+  <text x="${xSeal + seal / 2}" y="${Math.round(cy + seal * 0.14)}" font-family="${HEADLINE_FAMILY}" font-size="${Math.round(seal * 0.4)}" letter-spacing="1" fill="#f8efdb" text-anchor="middle">AI</text>
+  <text x="${xSeal + seal + gap}" y="${baseline}" font-family="UnifrakturCook" font-weight="700" font-size="${size}" fill="#231c14">${after}</text>`;
 }
 
 export function ogSvg({ dateLabel, headline, tagline }) {

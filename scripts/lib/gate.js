@@ -3,7 +3,7 @@ import { editionItems, editionProblems } from './rank.js';
 import { schemaErrors } from './schemas.js';
 import { semanticErrors } from './semantic.js';
 
-export const MIN_RANKED = 20;
+export const MIN_RANKED = 12; // a narrow weekly beat (AI x UI/UX) yields fewer stories than a broad daily one
 // If this share of the featured links fail at once, the problem is almost certainly our network, not the links.
 export const MAX_DEAD_SHARE = 0.5;
 

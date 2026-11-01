@@ -5,4 +5,4 @@
 export const SITE_URL = 'https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/';
 
 // The line under the masthead on the social preview image.
-export const SITE_TAGLINE = 'News of artificial intelligence, ranked and printed daily.';
+export const SITE_TAGLINE = 'AI for UI, UX and visual design, ranked and printed every Monday.';

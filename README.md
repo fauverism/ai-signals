@@ -1,6 +1,6 @@
-# AI Broadside
+# Last Week in AI Design
 
-Daily aggregator of AI news, research, tutorials, tools and releases, ranked by importance, trend momentum and novelty. See `CLAUDE.md` for the project rules.
+A weekly digest, published every Monday, of AI news for UI, UX and visual design: agent skills, UI generation, design tools and how designers are using AI. Stories are ranked by importance, trend momentum and novelty. See `CLAUDE.md` for the project rules.
 
 ```
 npm install

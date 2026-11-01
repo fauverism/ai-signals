@@ -34,10 +34,10 @@ test('a well-formed edition has no problems', () => {
   assert.deepEqual(structuralProblems(edition()), []);
 });
 
-test('fewer than 20 ranked items fails, 20 passes', () => {
-  assert.equal(MIN_RANKED, 20);
-  assert.match(structuralProblems(edition({ ranked: 19 })).join('\n'), /only 19 items were ranked; at least 20 are required/);
-  assert.deepEqual(structuralProblems(edition({ ranked: 20 })), []);
+test('fewer than 12 ranked items fails, 12 passes', () => {
+  assert.equal(MIN_RANKED, 12);
+  assert.match(structuralProblems(edition({ ranked: 11 })).join('\n'), /only 11 items were ranked; at least 12 are required/);
+  assert.deepEqual(structuralProblems(edition({ ranked: 12 })), []);
 });
 
 test('a placeholder editor note fails the rules check', () => {

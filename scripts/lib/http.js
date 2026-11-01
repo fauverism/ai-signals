@@ -1,5 +1,5 @@
 // Polite HTTP client: timeout, per-host concurrency cap, one retry on 429/503, robots.txt for feeds.
-export const USER_AGENT = 'AI-Signal/0.1 (+https://github.com/fauverism/ai-signals; daily AI news aggregator)';
+export const USER_AGENT = 'AI-Signal/0.1 (+https://github.com/fauverism/ai-signals; weekly AI x UI/UX digest)';
 const ROBOTS_TOKEN = 'ai-signal';
 
 class Semaphore {

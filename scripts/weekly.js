@@ -1,19 +1,19 @@
 #!/usr/bin/env node
-// Plumbing for the scheduled daily run (prompts/daily-run.md). The judging is Claude's; this does the rest.
-//   npm run daily:start            clean leftovers, git pull (deploy branch), reset today's work files, record the run's date
-//   npm run daily:publish          re-verify, commit "Edition YYYY-MM-DD" and push to the deploy branch (rolls the commit back if the push fails)
-//   npm run daily:summary          print the five-line summary
-//   npm run daily:fail -- "<step>" "<reason>"   write data/logs/<date>-failed.md (never touches git)
+// Plumbing for the scheduled weekly run (prompts/weekly-run.md). The judging is Claude's; this does the rest.
+//   npm run weekly:start            clean leftovers, git pull (deploy branch), reset this edition's work files, record the run's date
+//   npm run weekly:publish          re-verify, commit "Edition YYYY-MM-DD" and push to the deploy branch (rolls the commit back if the push fails)
+//   npm run weekly:summary          print the five-line summary
+//   npm run weekly:fail -- "<step>" "<reason>"   write data/logs/<date>-failed.md (never touches git)
 import { spawnSync } from 'node:child_process';
 import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { editionDate, toUtcIso } from './lib/dates.js';
-import { GENERATED_ROOTS, INDEX_HTML, PUSH_RETRY_DELAYS_MS, classifyDirty, failureReport, formatSummary, isPushRejection, parsePorcelain, publishSpecs, staleWorkFiles } from './lib/daily.js';
+import { GENERATED_ROOTS, INDEX_HTML, PUSH_RETRY_DELAYS_MS, classifyDirty, failureReport, formatSummary, isPushRejection, parsePorcelain, publishSpecs, staleWorkFiles } from './lib/weekly.js';
 import { root } from './lib/schemas.js';
 import { stampOgMeta } from './lib/site-build.js';
 
 const [command, ...args] = process.argv.slice(2);
-const stateFile = path.join(root, 'data/work/daily-run.json');
+const stateFile = path.join(root, 'data/work/weekly-run.json');
 const rel = (p) => path.relative(root, p);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -38,7 +38,7 @@ const die = (message) => {
 };
 async function requireState() {
   const state = await readJson(stateFile);
-  if (!state) die('No daily run is in progress (data/work/daily-run.json is missing). Run `npm run daily:start` first.');
+  if (!state) die('No weekly run is in progress (data/work/weekly-run.json is missing). Run `npm run weekly:start` first.');
   return state;
 }
 /** Specs that match something git knows or could add (git add errors on a spec that matches nothing). */
@@ -56,7 +56,7 @@ async function start() {
     indexOnlyMeta = head && stampOgMeta(head, '') === stampOgMeta(work, '');
   }
   const { generated, other } = classifyDirty(dirty, { indexOnlyMeta });
-  if (other.length) die(`The working tree has uncommitted changes outside generated files, so a daily run can't start safely:\n  ${other.join('\n  ')}\nCommit or stash them first.`);
+  if (other.length) die(`The working tree has uncommitted changes outside generated files, so a weekly run can't start safely:\n  ${other.join('\n  ')}\nCommit or stash them first.`);
 
   if (generated.length) {
     // Leftovers of an earlier failed run: discard them (data/logs/*-failed.md is ignored by git and stays).
@@ -83,7 +83,7 @@ async function start() {
   const head = git(['rev-parse', '--short', 'HEAD']).out.trim();
   await mkdir(path.dirname(stateFile), { recursive: true });
   await writeFile(stateFile, `${JSON.stringify({ date, startedAt: toUtcIso(new Date()), branch, head, failed: false }, null, 2)}\n`);
-  console.log(`\nDaily run for edition ${date} on ${branch} at ${head}`);
+  console.log(`\nWeekly run for edition ${date} on ${branch} at ${head}`);
 }
 
 // ---------- publish ----------
@@ -149,7 +149,7 @@ async function fail() {
 
 const commands = { start, publish, summary, fail };
 if (!command) {
-  console.log('The daily run is judged by Claude Code, so it is a prompt, not a script: run prompts/daily-run.md.\nThis file is its plumbing: ' + Object.keys(commands).map((c) => `daily:${c}`).join(', ') + '.');
+  console.log('The weekly run is judged by Claude Code, so it is a prompt, not a script: run prompts/weekly-run.md.\nThis file is its plumbing: ' + Object.keys(commands).map((c) => `weekly:${c}`).join(', ') + '.');
   process.exit(0);
 }
 if (!commands[command]) die(`Unknown command "${command}". Use one of: ${Object.keys(commands).join(', ')}.`);

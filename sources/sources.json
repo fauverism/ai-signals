@@ -140,36 +140,6 @@
     "notes": "New listings; high volume, rank hard."
   },
   {
-    "id": "arxiv-cs-cl",
-    "name": "arXiv cs.CL",
-    "type": "rss",
-    "url": "https://rss.arxiv.org/rss/cs.CL",
-    "tier": 1,
-    "defaultCategory": "Research",
-    "enabled": true,
-    "notes": "New listings; high volume."
-  },
-  {
-    "id": "arxiv-cs-lg",
-    "name": "arXiv cs.LG",
-    "type": "rss",
-    "url": "https://rss.arxiv.org/rss/cs.LG",
-    "tier": 1,
-    "defaultCategory": "Research",
-    "enabled": true,
-    "notes": "New listings; very high volume."
-  },
-  {
-    "id": "arxiv-cs-cv",
-    "name": "arXiv cs.CV",
-    "type": "rss",
-    "url": "https://rss.arxiv.org/rss/cs.CV",
-    "tier": 1,
-    "defaultCategory": "Research",
-    "enabled": true,
-    "notes": "New listings; high volume."
-  },
-  {
     "id": "hf-daily-papers",
     "name": "Hugging Face Daily Papers",
     "type": "rss",
@@ -440,10 +410,40 @@
     "notes": ""
   },
   {
+    "id": "github-topic-llm",
+    "name": "GitHub: topic llm",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Allm&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": false,
+    "notes": "Off for the UI/UX edition: mostly generic or spam repos. Search API stands in for Trending (no official API). Unauthenticated limit is 10 req/min."
+  },
+  {
+    "id": "github-topic-machine-learning",
+    "name": "GitHub: topic machine-learning",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Amachine-learning&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": false,
+    "notes": "Off for the UI/UX edition: mostly generic or spam repos. See github-topic-llm."
+  },
+  {
+    "id": "github-topic-ai-agents",
+    "name": "GitHub: topic ai-agents",
+    "type": "api",
+    "url": "https://api.github.com/search/repositories?q=topic%3Aai-agents&sort=updated&order=desc&per_page=50",
+    "tier": 3,
+    "defaultCategory": "Tools & Releases",
+    "enabled": false,
+    "notes": "Off for the UI/UX edition: mostly generic or spam repos. See github-topic-llm."
+  },
+  {
     "id": "reddit-machinelearning",
     "name": "r/MachineLearning",
     "type": "atom",
-    "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day",
+    "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=week",
     "tier": 3,
     "defaultCategory": "Research",
     "enabled": true,
@@ -453,7 +453,7 @@
     "id": "reddit-localllama",
     "name": "r/LocalLLaMA",
     "type": "atom",
-    "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day",
+    "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=week",
     "tier": 3,
     "defaultCategory": "Tools & Releases",
     "enabled": true,
@@ -463,7 +463,7 @@
     "id": "reddit-artificial",
     "name": "r/artificial",
     "type": "atom",
-    "url": "https://www.reddit.com/r/artificial/top/.rss?t=day",
+    "url": "https://www.reddit.com/r/artificial/top/.rss?t=week",
     "tier": 3,
     "defaultCategory": "News",
     "enabled": true,
@@ -476,8 +476,8 @@
     "url": "https://www.nist.gov/news-events/news/rss.xml",
     "tier": 1,
     "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": "All NIST news; keyword filter required."
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition (policy)."
   },
   {
     "id": "cset-georgetown",
@@ -486,8 +486,8 @@
     "url": "https://cset.georgetown.edu/feed/",
     "tier": 2,
     "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": ""
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition (policy)."
   },
   {
     "id": "future-of-life",
@@ -496,8 +496,8 @@
     "url": "https://futureoflife.org/feed/",
     "tier": 2,
     "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": ""
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition (policy)."
   },
   {
     "id": "alignment-forum",
@@ -506,8 +506,8 @@
     "url": "https://www.alignmentforum.org/feed.xml",
     "tier": 2,
     "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": "Technical safety research; community-written."
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition (safety research)."
   },
   {
     "id": "epoch-ai",
@@ -516,8 +516,8 @@
     "url": "https://epochai.substack.com/feed",
     "tier": 2,
     "defaultCategory": "Research",
-    "enabled": true,
-    "notes": "Data on compute and trends."
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition."
   },
   {
     "id": "eu-ai-act-newsletter",
@@ -526,8 +526,8 @@
     "url": "https://artificialintelligenceact.eu/feed/",
     "tier": 2,
     "defaultCategory": "Policy & Safety",
-    "enabled": true,
-    "notes": "Feed URL from memory."
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition (policy)."
   },
   {
     "id": "ainews-smol",
@@ -676,7 +676,205 @@
     "url": "https://michaelpollan.substack.com/feed",
     "tier": 2,
     "defaultCategory": "Opinion",
+    "enabled": false,
+    "notes": "Off-focus for the UI/UX edition."
+  },
+  {
+    "id": "figma-blog",
+    "name": "Figma Blog",
+    "type": "atom",
+    "url": "https://www.figma.com/blog/feed/atom.xml",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
     "enabled": true,
-    "notes": "Added by request as a personal interest, not AI-focused. Exempt from keyword filtering."
+    "scope": "both",
+    "notes": "Figma product and AI news (Figma Make, Weave). Unfiltered; Claude skips off-focus posts."
+  },
+  {
+    "id": "lovable-blog",
+    "name": "Lovable Blog",
+    "type": "rss",
+    "url": "https://lovable.dev/blog/rss.xml",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "scope": "both",
+    "notes": "AI app and UI builder."
+  },
+  {
+    "id": "vercel-blog",
+    "name": "Vercel Blog",
+    "type": "atom",
+    "url": "https://vercel.com/atom",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "scope": "ai",
+    "notes": "Includes v0 (UI generation); the focus filter drops infra posts."
+  },
+  {
+    "id": "google-labs",
+    "name": "Google Labs (The Keyword)",
+    "type": "rss",
+    "url": "https://blog.google/technology/google-labs/rss/",
+    "tier": 1,
+    "defaultCategory": "Tools & Releases",
+    "enabled": true,
+    "scope": "ai",
+    "notes": "Stitch and other design experiments."
+  },
+  {
+    "id": "nngroup",
+    "name": "Nielsen Norman Group",
+    "type": "rss",
+    "url": "https://www.nngroup.com/feed/rss/",
+    "tier": 1,
+    "defaultCategory": "Research",
+    "enabled": true,
+    "scope": "design",
+    "notes": "UX research and guidance."
+  },
+  {
+    "id": "builder-io-blog",
+    "name": "Builder.io Blog",
+    "type": "rss",
+    "url": "https://www.builder.io/blog/feed.xml",
+    "tier": 1,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "scope": "design",
+    "notes": "Design-to-code and AI frontend tooling."
+  },
+  {
+    "id": "uxdesign-cc",
+    "name": "UX Collective",
+    "type": "rss",
+    "url": "https://uxdesign.cc/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "design-systems-collective",
+    "name": "Design Systems Collective",
+    "type": "rss",
+    "url": "https://www.designsystemscollective.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "design",
+    "notes": "Design systems, tokens and AI-generated components."
+  },
+  {
+    "id": "jakob-nielsen",
+    "name": "Jakob Nielsen on UX",
+    "type": "rss",
+    "url": "https://jakobnielsenphd.substack.com/feed",
+    "tier": 2,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "smashing-magazine",
+    "name": "Smashing Magazine",
+    "type": "rss",
+    "url": "https://www.smashingmagazine.com/feed/",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "css-tricks",
+    "name": "CSS-Tricks",
+    "type": "rss",
+    "url": "https://css-tricks.com/feed/",
+    "tier": 2,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "fast-company-design",
+    "name": "Fast Company: Design",
+    "type": "rss",
+    "url": "https://www.fastcompany.com/co-design/rss",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "creative-bloq",
+    "name": "Creative Bloq",
+    "type": "rss",
+    "url": "https://www.creativebloq.com/feeds.xml",
+    "tier": 2,
+    "defaultCategory": "News",
+    "enabled": true,
+    "scope": "design",
+    "notes": "How illustrators, artists and visual designers meet AI tools."
+  },
+  {
+    "id": "design-bootcamp",
+    "name": "Bootcamp (UX publication)",
+    "type": "rss",
+    "url": "https://medium.com/feed/design-bootcamp",
+    "tier": 3,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "design",
+    "notes": "Medium publication; quality varies."
+  },
+  {
+    "id": "ux-planet",
+    "name": "UX Planet",
+    "type": "rss",
+    "url": "https://uxplanet.org/feed",
+    "tier": 3,
+    "defaultCategory": "Tutorials",
+    "enabled": true,
+    "scope": "design",
+    "notes": "Medium publication; quality varies."
+  },
+  {
+    "id": "medium-ai-design",
+    "name": "Medium: ai-design tag",
+    "type": "rss",
+    "url": "https://medium.com/feed/tag/ai-design",
+    "tier": 3,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "both",
+    "notes": "Tag feed; quality varies."
+  },
+  {
+    "id": "dribbble-stories",
+    "name": "Dribbble Stories",
+    "type": "rss",
+    "url": "https://dribbble.com/stories.rss",
+    "tier": 3,
+    "defaultCategory": "Opinion",
+    "enabled": true,
+    "scope": "design",
+    "notes": ""
+  },
+  {
+    "id": "sidebar-io",
+    "name": "Sidebar",
+    "type": "rss",
+    "url": "https://sidebar.io/feed.xml",
+    "tier": 3,
+    "defaultCategory": "News",
+    "enabled": true,
+    "scope": "design",
+    "notes": "Curated daily design links."
   }
 ]

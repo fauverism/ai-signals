@@ -6,9 +6,9 @@ Source registry, read by `scripts/collect.js`.
 | --- | --- |
 | `sources.json` | The registry: only sources verified to respond with a valid feed. **Generated** by `npm run verify-sources`; don't edit by hand. |
 | `candidates.json` | Unverified wish list the verifier reads. Edit this, then re-run the verifier. |
-| `keywords.json` | `include` / `exclude` lists that keep community sources (tier 3, and broad feeds) on-topic. |
+| `keywords.json` | `include` (AI), `focus` (UI/UX/design) and `exclude` lists that keep every source on the AI x UI/UX beat. |
 
-Entry fields: `id`, `name`, `type` (`rss` \| `atom` \| `api` \| `html-list`), `url`, `tier` (1 primary/official, 2 established press or researchers, 3 community), `defaultCategory`, `enabled`, `notes`.
+Entry fields: `id`, `name`, `type` (`rss` \| `atom` \| `api` \| `html-list`), `url`, `tier` (1 primary/official, 2 established press or researchers, 3 community), `defaultCategory`, `enabled`, `scope` (optional: `ai`, `design` or `both`; see Keywords), `notes`.
 
 ## Verifying
 
@@ -20,4 +20,10 @@ Fetches every candidate (20 s timeout, one retry). Entries pass if they return H
 
 ## Keywords
 
-Match case-insensitively on whole words/phrases against the **title only** (never body text). Keep an item if it matches any `include` term and no `exclude` term. Apply to tier 3 sources and to broad feeds noted as needing it.
+Match case-insensitively on whole words/phrases against the **title only** (never body text). An `exclude` term always drops the item. Otherwise it depends on the source's `scope`:
+
+- `ai` (default): an AI source. The title needs a `focus` term (UI, UX, design, Figma, skills…); tier 3 sources also need an `include` term.
+- `design`: a design source. The title needs an `include` (AI) term.
+- `both`: the source already covers AI in design (Figma's blog, an ai-design tag). Only `exclude` applies.
+
+The keywords are deliberately loose; the rubric's `off-beat` skip rule catches what slips through.

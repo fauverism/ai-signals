@@ -2,13 +2,29 @@
   "include": [
     "ai", "a.i.", "artificial intelligence", "machine learning", "deep learning", "neural network",
     "llm", "llms", "large language model", "language model", "foundation model", "transformer",
-    "generative", "diffusion model", "fine-tuning", "fine-tune", "rag", "embeddings", "inference",
-    "agentic", "ai agent", "ai agents", "multimodal", "reasoning model", "open-weight", "open weights",
+    "generative", "gen ai", "genai", "diffusion model", "fine-tuning", "fine-tune", "rag", "embeddings",
+    "agentic", "agent", "agents", "ai agent", "ai agents", "agent skills", "claude skills", "skill.md", "mcp",
+    "multimodal", "reasoning model", "open-weight", "open weights", "prompt", "prompts", "prompting",
+    "vibe coding", "vibe-coding", "vibe coded", "vibe-coded", "generative ui", "text-to-image", "image model",
     "gpt", "chatgpt", "openai", "anthropic", "claude", "gemini", "deepmind", "mistral", "llama",
-    "hugging face", "pytorch", "cuda", "ai safety", "alignment", "ai regulation", "ai act", "copilot"
+    "hugging face", "copilot", "midjourney", "firefly", "stable diffusion", "dall-e", "figma make", "v0",
+    "lovable", "cursor", "ai safety", "ai regulation", "ai act"
+  ],
+  "focus": [
+    "ui", "ux", "gui", "user interface", "user interfaces", "user experience", "interface design",
+    "design", "designs", "designer", "designers", "designing", "design system", "design systems", "design tokens",
+    "visual design", "product design", "web design", "graphic design", "motion design", "branding", "typography",
+    "illustration", "illustrator", "photoshop", "adobe", "firefly", "canva", "figma", "figma make", "framer",
+    "midjourney", "image generation", "image editing", "creative", "creatives", "artists",
+    "prototype", "prototypes", "prototyping", "wireframe", "wireframes", "mockup", "mockups",
+    "frontend", "front-end", "css", "tailwind", "component", "components", "website", "websites",
+    "landing page", "app builder", "generative ui", "ui generation", "vibe coding", "vibe-coding", "v0",
+    "lovable", "usability", "accessibility", "a11y", "hci", "human-computer interaction",
+    "skill", "skills", "agent skills", "claude skills", "skill.md"
   ],
   "exclude": [
     "bitcoin", "crypto", "cryptocurrency", "nft", "blockchain", "airdrop", "giveaway", "coupon",
-    "who is hiring", "who wants to be hired", "hiring", "job opening", "promo code", "horoscope"
+    "who is hiring", "who wants to be hired", "hiring", "job opening", "promo code", "horoscope",
+    "protein design", "drug design", "chip design", "antenna", "experimental design"
   ]
 }
