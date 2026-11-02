@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>AI for UI, UX and visual design, ranked and printed every Monday: skills, UI generation, tools and how designers work with AI. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:18:53 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How we’re training a Figma-fluent editing model</title>
+      <link>https://www.figma.com/blog/training-a-figma-fluent-editing-model/</link>
+      <guid isPermaLink="false">c91316c9b17b91b3021d7e0774c7505767a7c8c3</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Figma describes how it is training an editing model that understands Figma files.</description>
+    </item>
+    <item>
+      <title>The TL;DR on Figma Weave: Make your creative process repeatable</title>
+      <link>https://www.figma.com/blog/the-tldr-on-figma-weave/</link>
+      <guid isPermaLink="false">769b87a9983fe824abb6d71a83ecf3461869e100</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Figma explains Weave, a feature for turning a creative process into a repeatable workflow.</description>
+    </item>
+    <item>
+      <title>The Role of UX in Agentic Software Factories</title>
+      <link>https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
+      <guid isPermaLink="false">48c9e720164ce250810f98ca17cc65b54e74bc58</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Research</category>
+      <description>NN/g looks at where UX work fits when software is produced by agent-driven pipelines.</description>
+    </item>
+    <item>
+      <title>Your Agentic Design System Needs a Closed Loop</title>
+      <link>https://www.designsystemscollective.com/your-agentic-design-system-needs-a-closed-loop-dee888ddd362?source=rss----dbd299f90c1d---4</link>
+      <guid isPermaLink="false">d3e5b3470480587af5b806e312c592a60658fd3c</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Opinion</category>
+      <description>An argument that agentic design systems need a closed feedback loop.</description>
+    </item>
+    <item>
+      <title>AI can draw the screen. It can’t decide what the brand allows.</title>
+      <link>https://www.designsystemscollective.com/ai-can-draw-the-screen-it-cant-decide-what-the-brand-allows-c7b513e9076f?source=rss----dbd299f90c1d---4</link>
+      <guid isPermaLink="false">9de2c87958bfcfce4b02e50eafb4d701f429032f</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Opinion</category>
+      <description>The piece argues AI can draw screens but cannot decide what a brand permits.</description>
+    </item>
+    <item>
+      <title>Building intent-driven UI testing with Amazon Nova Act</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/</link>
+      <guid isPermaLink="false">1fcf22f867e2d9dab964803fe89899339b79c1da</guid>
+      <pubDate>Mon, 02 Nov 2026 11:18:53 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>AWS shows how to build UI tests driven by intent using Amazon Nova Act.</description>
+    </item>
     <item>
       <title>How We Took Over ChatGPT Accounts</title>
       <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
@@ -294,54 +342,6 @@
       <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
       <category>Tools &amp; Releases</category>
       <description>NVIDIA post on Mission Control 2.5, which adds automatic recovery for AI workloads on Kubernetes.</description>
-    </item>
-    <item>
-      <title>On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models</title>
-      <link>https://arxiv.org/abs/2610.32770</link>
-      <guid isPermaLink="false">292a4eacd9568177cf700768068920de2c863ad0</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint on a data-free way for a language model to improve itself through on-policy training, with Google-affiliated authors.</description>
-    </item>
-    <item>
-      <title>Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery</title>
-      <link>https://arxiv.org/abs/2610.32866</link>
-      <guid isPermaLink="false">03ec60f5864491dd1d4b6a6ccb42f17271a7ddf3</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint proposing a sparse variant of LoRA fine-tuning meant to make the resulting circuits easier to trace inside a model.</description>
-    </item>
-    <item>
-      <title>Fooling LLM Safety Guards into Judging the Wrong Text</title>
-      <link>https://arxiv.org/abs/2610.31695</link>
-      <guid isPermaLink="false">4ff8bb862413a25a4aad44bf0ffb5616d112d940</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint showing ways to make LLM safety guard models judge the wrong text.</description>
-    </item>
-    <item>
-      <title>$\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model</title>
-      <link>https://arxiv.org/abs/2610.32177</link>
-      <guid isPermaLink="false">160c614ba71b9bc0bd656504ae9381b28e7268dd</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint on a unified vision-language world model that adapts how many reasoning streams it runs, from a Stanford-linked author group.</description>
-    </item>
-    <item>
-      <title>A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</title>
-      <link>https://lynchlab.net/llm-skin-cancer</link>
-      <guid isPermaLink="false">1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>News</category>
-      <description>Community-shared item claiming an older convolutional network beats frontier language models at skin cancer diagnosis; the title gives no detail on method.</description>
-    </item>
-    <item>
-      <title>Google’s AI search changes upended online publishing</title>
-      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
-      <guid isPermaLink="false">6f9ed043fa8a15137f83a00b5d05579dcc87fcd7</guid>
-      <pubDate>Mon, 26 Oct 2026 10:13:48 GMT</pubDate>
-      <category>Business</category>
-      <description>The Verge covers how Google&apos;s AI search changes have disrupted online publishing.</description>
     </item>
   </channel>
 </rss>

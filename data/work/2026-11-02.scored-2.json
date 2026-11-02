@@ -1,0 +1,472 @@
+{
+  "date": "2026-11-02",
+  "batch": 2,
+  "items": [
+    {
+      "id": "2d600954bed88c2741fac083a628293f491f9cc8",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "An essay placing the current AI shake-up in UX within two decades of earlier change.",
+      "whyItMatters": "Context, not news.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "d0aafa41494669cdc570f14f3fb403f548a6c7bd",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "consumer-ui"
+      ],
+      "summary": "Fast Company covers people using AI to declutter and redesign their smart TV interfaces.",
+      "whyItMatters": "Shows non-designers redesigning UIs with AI.",
+      "organization": "fast company"
+    },
+    {
+      "id": "8ceb49a72617e9cd2aac13c43508ce1022efa7d9",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "ui-generation"
+      ],
+      "summary": "The piece considers what AI-generated components cost when a design system is the standard.",
+      "whyItMatters": "Useful lens on governance of generated components.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "f7aae3c273a75f9e7b8690c3a8e49cea10abe6e5",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "marketing"
+      ],
+      "summary": "Fast Company on how marketers can compete in the age of AI.",
+      "whyItMatters": "Marketing-oriented; thin design angle.",
+      "organization": "fast company"
+    },
+    {
+      "id": "d3e5b3470480587af5b806e312c592a60658fd3c",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "agent-skills"
+      ],
+      "summary": "An argument that agentic design systems need a closed feedback loop.",
+      "whyItMatters": "Gives a pattern for checking generated UI against the system.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "5bb8792eb772748c12a38fd05a7190fde994901a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Another Nielsen roundup, including AI and creative jobs and proactive AI.",
+      "whyItMatters": "Skim for the creative-jobs thread.",
+      "organization": "jakob nielsen"
+    },
+    {
+      "id": "689d4f5955631e1b6b1a05062e6516e9302830d3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "An argument for using AI to improve a design portfolio.",
+      "whyItMatters": "Practical but common advice.",
+      "organization": "bootcamp"
+    },
+    {
+      "id": "69f81648662f7d5def885febb65bf82f941afb08",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "ai-products"
+      ],
+      "summary": "Sidebar links an AI notepad product for meetings.",
+      "whyItMatters": "Not design-specific.",
+      "organization": "sidebar"
+    },
+    {
+      "id": "0567690d46b7511c2012a02647184b859ce834c6",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-agents"
+      ],
+      "summary": "A comparison of several personal agent products.",
+      "whyItMatters": "Light comparison.",
+      "organization": "bootcamp"
+    },
+    {
+      "id": "c89c32dc6a16896867b49275f1dad1e967af5c57",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation",
+        "craft"
+      ],
+      "summary": "A before-and-after walkthrough on keeping UI from looking AI-generated.",
+      "whyItMatters": "Concrete tips for polishing generated interfaces.",
+      "organization": "medium"
+    },
+    {
+      "id": "975cebe5512551c0ffffb867f1af3ad42456effa",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "A video-style post on new guidance for writing Claude skills.",
+      "whyItMatters": "Check Anthropic's own docs before relying on it.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "38da9e6a04cb027de833693f1c264845fb52e8ba",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "An essay on designers suddenly being asked to speak publicly.",
+      "whyItMatters": "Tangential to AI practice.",
+      "organization": "medium"
+    },
+    {
+      "id": "c3e6dc7f7d40dab046b77a3a11eb8b51695e48d4",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "ui-generation"
+      ],
+      "summary": "A playbook for designers moving from mockups to merged pull requests with AI.",
+      "whyItMatters": "A concrete workflow for designers shipping code.",
+      "organization": "bootcamp"
+    },
+    {
+      "id": "ca5e13303aa8ee475429d4efa89948801bcfd504",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "branding"
+      ],
+      "summary": "A branding case study for an AI and robotics company.",
+      "whyItMatters": "Brand case study, minor AI link.",
+      "organization": "dribbble"
+    },
+    {
+      "id": "7fc14074e3f392c02b5fbdf3464a3bde7bb90c3d",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux"
+      ],
+      "summary": "A Spanish-language essay about an anticipated UX storm.",
+      "whyItMatters": "Narrow audience and unclear angle.",
+      "organization": "medium"
+    },
+    {
+      "id": "44c55cb65b08a368c25100c04214755114a0fd59",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "A list-style post on Claude add-ons for work.",
+      "whyItMatters": "Low-signal; verify against official sources.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "74e76d99b591d4db928e0fe9ad6f4da87c3a931a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation"
+      ],
+      "summary": "A piece asking where enterprise value lies when designs take seconds to generate.",
+      "whyItMatters": "Raises the value-of-design question.",
+      "organization": "medium"
+    },
+    {
+      "id": "b0d5d00a08db30f0ee4456461afc4c3550952182",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "agentic-ux"
+      ],
+      "summary": "An essay on what designers design when AI agents mediate interfaces.",
+      "whyItMatters": "Prompts rethinking of design scope for agents.",
+      "organization": "dribbble"
+    },
+    {
+      "id": "9c0517030e113afc6bf26f493fd67fdc8fd5eca8",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude"
+      ],
+      "summary": "A post on common mistakes with a Claude model.",
+      "whyItMatters": "Model tips, little design focus.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "00a614119a0d7115f858ea962d64d29eaecaf6ad",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation",
+        "craft"
+      ],
+      "summary": "A guide to making vibe-coded apps look designed.",
+      "whyItMatters": "Practical polish steps for generated apps.",
+      "organization": "medium"
+    },
+    {
+      "id": "4d5d0ec757e72b3bed9e47835f411e86bda0935c",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "An essay on why developers embraced AI faster than designers.",
+      "whyItMatters": "Context for the adoption gap.",
+      "organization": "medium"
+    },
+    {
+      "id": "4b2ad770bfe264f328756acebb10e543993f5403",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation"
+      ],
+      "summary": "An explainer on generative UI and what designers still control.",
+      "whyItMatters": "Intro framing for generative UI.",
+      "organization": "medium"
+    },
+    {
+      "id": "9dcf985a1d6c67e3d7ffa74288d19dee4bfcc158",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 2
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude"
+      ],
+      "summary": "A post with a headline about a Claude 2.0 release that the metadata does not support.",
+      "whyItMatters": "Treat the claim with caution.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "cca11c4d2b26460c58d582499e6439b881faaebc",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "branding"
+      ],
+      "summary": "Sidebar links to a piece on Microsoft's Copilot identity.",
+      "whyItMatters": "Brand-identity example for AI products.",
+      "organization": "microsoft"
+    },
+    {
+      "id": "97b479ce8f1d32280b8cb23b9fa0d9e6fcc2eb64",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "ai-ux-patterns"
+      ],
+      "summary": "Sidebar links a piece on offering undo in AI products.",
+      "whyItMatters": "A concrete AI UX pattern to adopt.",
+      "organization": "sidebar"
+    },
+    {
+      "id": "499a694a5572030488d4336413d651d25a6d7ea8",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "product-design"
+      ],
+      "summary": "An argument that AI makes product design more important for SaaS.",
+      "whyItMatters": "Positioning argument for design.",
+      "organization": "dribbble"
+    },
+    {
+      "id": "9539f46ab493c0e23254d4c9b557e3d6ddd158b7",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "An explainer on how Claude Code skills differ from other extension types.",
+      "whyItMatters": "Clarifies terms before building design skills.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "3fd84da854f7cb68620f868d4192d501d783f365",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude"
+      ],
+      "summary": "A post on prompting a Claude model.",
+      "whyItMatters": "General prompting; low design relevance.",
+      "organization": "anthropic"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "5330f3f99d7dd24dfd8669f542e3e3eaa1ab187c",
+      "reason": "off-beat"
+    },
+    {
+      "id": "a0de6bfeeec34658e78deea1f8903290029c99be",
+      "reason": "listicle"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

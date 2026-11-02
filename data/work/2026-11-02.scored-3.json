@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "batch": 3,
+  "items": [
+    {
+      "id": "3fa4866c1074ca55886f48380d5d45066eb832be",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "An explainer on AGENTS.md files in Claude Code.",
+      "whyItMatters": "Context for configuring agents.",
+      "organization": "anthropic"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-02",
+  "batch": 3,
+  "of": 3,
+  "clusters": [],
+  "items": [
+    {
+      "id": "3fa4866c1074ca55886f48380d5d45066eb832be",
+      "title": "AGENTS.md in Claude Code: What it is and why it matters",
+      "source": "UX Planet",
+      "sourceTier": 3,
+      "url": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+      "author": "Nick Babich",
+      "publishedAt": "2026-10-26T12:17:25Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": null,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    }
+  ]
+}

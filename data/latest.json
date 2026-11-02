@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T10:08:43Z",
-  "editorNote": "A quiet Saturday. The security thread runs through the top of the list: researchers describe taking over ChatGPT accounts, and two reports say infostealer malware is using language models to profile and rank its victims. Separately, Anthropic reportedly has Claude refuse to recreate video games, and OpenAI is said to be merging ChatGPT and Codex usage limits.",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T11:18:53Z",
+  "editorNote": "Figma is the center of a quiet week: it described how it is training an editing model that understands Figma files, and it detailed Weave for repeatable creative workflows. The other thread is governance. Nielsen Norman Group asks where UX fits in agent-built software, and two design-systems pieces argue generated screens need brand rules and a feedback loop to stay on system.",
   "lead": {
-    "id": "dd35d009aad680f7bdb8901c179d770026e55ae7",
-    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-    "canonicalUrl": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
-    "title": "How We Took Over ChatGPT Accounts",
-    "source": "Simon Willison",
-    "sourceTier": 2,
-    "categoryHint": "Opinion",
+    "id": "c91316c9b17b91b3021d7e0774c7505767a7c8c3",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "canonicalUrl": "https://figma.com/blog/training-a-figma-fluent-editing-model",
+    "title": "How we’re training a Figma-fluent editing model",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
     "author": null,
-    "publishedAt": "2026-10-31T23:15:22Z",
-    "fetchedAt": "2026-11-01T10:07:56Z",
+    "publishedAt": "2026-10-29T21:00:00Z",
+    "fetchedAt": "2026-11-02T11:18:02Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -22,38 +22,37 @@
       "crossSourceCount": 1
     },
     "scores": {
-      "importance": 5,
+      "importance": 7,
       "trend": 0,
-      "novelty": 4,
-      "credibility": 7
+      "novelty": 7,
+      "credibility": 9
     },
-    "total": 3.8,
-    "category": "Policy & Safety",
+    "total": 5.6,
+    "category": "Tools & Releases",
     "tags": [
-      "account-takeover",
-      "chatgpt",
-      "security"
+      "figma",
+      "ui-generation"
     ],
-    "summary": "Simon Willison links a write-up describing how researchers took over ChatGPT accounts.",
-    "whyItMatters": "Review how your own AI product handles session and account security.",
+    "summary": "Figma describes how it is training an editing model that understands Figma files.",
+    "whyItMatters": "A model fluent in Figma files could change how edits get made.",
     "featuredSlot": "lead",
     "previouslyFeatured": false
   },
   "top": [
     {
-      "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "canonicalUrl": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "categoryHint": "News",
+      "id": "769b87a9983fe824abb6d71a83ecf3461869e100",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "canonicalUrl": "https://figma.com/blog/the-tldr-on-figma-weave",
+      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "source": "Figma Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
       "author": null,
-      "publishedAt": "2026-10-31T14:29:03Z",
-      "fetchedAt": "2026-11-01T10:07:55Z",
+      "publishedAt": "2026-10-31T00:58:00Z",
+      "fetchedAt": "2026-11-02T11:18:02Z",
       "signals": {
-        "hnPoints": 248,
-        "hnComments": 131,
+        "hnPoints": null,
+        "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
@@ -61,33 +60,68 @@
       },
       "scores": {
         "importance": 6,
-        "trend": 2,
+        "trend": 1,
         "novelty": 6,
-        "credibility": 4
+        "credibility": 9
       },
-      "total": 4.7,
-      "category": "Policy & Safety",
+      "total": 5.2,
+      "category": "Tools & Releases",
       "tags": [
-        "malware",
-        "llm-abuse",
-        "infostealer"
+        "figma",
+        "designer-workflow"
       ],
-      "summary": "Community thread on malware that uses language models to estimate which infected victims are most valuable to target.",
-      "whyItMatters": "Attackers are adding LLM triage to theft pipelines; revisit endpoint and credential defenses.",
+      "summary": "Figma explains Weave, a feature for turning a creative process into a repeatable workflow.",
+      "whyItMatters": "Look at whether Weave can codify steps your team repeats.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "1d78de13bdeab01c224b4b7e4ecce85ec6042d3e",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "canonicalUrl": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "source": "WIRED: AI",
+      "id": "48c9e720164ce250810f98ca17cc65b54e74bc58",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "canonicalUrl": "https://nngroup.com/articles/ux-agentic-software-factories",
+      "title": "The Role of UX in Agentic Software Factories",
+      "source": "Nielsen Norman Group",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-30T17:00:00Z",
+      "fetchedAt": "2026-11-02T11:18:02Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "total": 4.7,
+      "category": "Research",
+      "tags": [
+        "designer-workflow",
+        "agentic-ux"
+      ],
+      "summary": "NN/g looks at where UX work fits when software is produced by agent-driven pipelines.",
+      "whyItMatters": "Frames what UX input still matters when agents ship the code.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "d3e5b3470480587af5b806e312c592a60658fd3c",
+      "url": "https://www.designsystemscollective.com/your-agentic-design-system-needs-a-closed-loop-dee888ddd362?source=rss----dbd299f90c1d---4",
+      "canonicalUrl": "https://designsystemscollective.com/your-agentic-design-system-needs-a-closed-loop-dee888ddd362?source=rss----dbd299f90c1d---4",
+      "title": "Your Agentic Design System Needs a Closed Loop",
+      "source": "Design Systems Collective",
       "sourceTier": 2,
-      "categoryHint": "News",
-      "author": "Lily Hay Newman, Matt Burgess",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "fetchedAt": "2026-11-01T10:07:56Z",
+      "categoryHint": "Opinion",
+      "author": "Kartva",
+      "publishedAt": "2026-10-26T14:18:59Z",
+      "fetchedAt": "2026-11-02T11:18:03Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -103,28 +137,27 @@
         "credibility": 6
       },
       "total": 4.5,
-      "category": "Policy & Safety",
+      "category": "Opinion",
       "tags": [
-        "infostealer",
-        "malware",
-        "doxxing"
+        "design-systems",
+        "agent-skills"
       ],
-      "summary": "WIRED reports on infostealer malware that uses AI to compile profiles on its victims.",
-      "whyItMatters": "Stolen data is now being enriched automatically; tighten credential hygiene.",
+      "summary": "An argument that agentic design systems need a closed feedback loop.",
+      "whyItMatters": "Gives a pattern for checking generated UI against the system.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "canonicalUrl": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "source": "The Verge: AI",
+      "id": "9de2c87958bfcfce4b02e50eafb4d701f429032f",
+      "url": "https://www.designsystemscollective.com/ai-can-draw-the-screen-it-cant-decide-what-the-brand-allows-c7b513e9076f?source=rss----dbd299f90c1d---4",
+      "canonicalUrl": "https://designsystemscollective.com/ai-can-draw-the-screen-it-cant-decide-what-the-brand-allows-c7b513e9076f?source=rss----dbd299f90c1d---4",
+      "title": "AI can draw the screen. It can’t decide what the brand allows.",
+      "source": "Design Systems Collective",
       "sourceTier": 2,
-      "categoryHint": "News",
-      "author": "Jay Peters",
-      "publishedAt": "2026-10-30T22:32:53Z",
-      "fetchedAt": "2026-11-01T10:07:56Z",
+      "categoryHint": "Opinion",
+      "author": "Sebastian Balderas Espinosa",
+      "publishedAt": "2026-10-30T07:04:02Z",
+      "fetchedAt": "2026-11-02T11:18:03Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -134,130 +167,76 @@
         "crossSourceCount": 1
       },
       "scores": {
-        "importance": 5,
-        "trend": 1,
+        "importance": 6,
+        "trend": 0,
         "novelty": 5,
         "credibility": 6
       },
-      "total": 4.2,
-      "category": "Tools & Releases",
+      "total": 4.3,
+      "category": "Opinion",
       "tags": [
-        "apple-intelligence",
-        "china",
-        "ios"
+        "design-systems",
+        "ui-generation"
       ],
-      "summary": "Apple Intelligence is slated to reach China with iOS 27.3.",
-      "whyItMatters": "Opens a large user market to on-device Apple AI features.",
+      "summary": "The piece argues AI can draw screens but cannot decide what a brand permits.",
+      "whyItMatters": "Reminds teams to encode brand rules for generators.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "85c82f0a957177ca5125b1b3319938ad77cd28da",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "canonicalUrl": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "title": "ChatGPT and Codex usage limits merging",
-      "source": "Hacker News: LLM",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-31T21:49:07Z",
-      "fetchedAt": "2026-11-01T10:07:55Z",
+      "id": "1fcf22f867e2d9dab964803fe89899339b79c1da",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+      "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "source": "AWS Machine Learning Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": "Sakthi Chellapparimanam",
+      "publishedAt": "2026-10-29T18:20:27Z",
+      "fetchedAt": "2026-11-02T11:18:01Z",
       "signals": {
-        "hnPoints": 124,
-        "hnComments": 62,
+        "hnPoints": null,
+        "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
         "crossSourceCount": 1
       },
       "scores": {
-        "importance": 5,
-        "trend": 3,
-        "novelty": 4,
-        "credibility": 4
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
       },
       "total": 4.1,
-      "category": "News",
+      "category": "Tools & Releases",
       "tags": [
-        "chatgpt",
-        "codex",
-        "usage-limits"
+        "ui-testing"
       ],
-      "summary": "Thread reporting that ChatGPT and Codex usage limits are being combined into a single allowance.",
-      "whyItMatters": "If you use both products, your effective quota may change; check your plan.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "2b51d8c5bce733011aac5fdefae4619c2a6becc8",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "canonicalUrl": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "source": "Hacker News: artificial intelligence",
-      "sourceTier": 3,
-      "categoryHint": "News",
-      "author": null,
-      "publishedAt": "2026-10-31T13:25:00Z",
-      "fetchedAt": "2026-11-01T10:07:55Z",
-      "signals": {
-        "hnPoints": 71,
-        "hnComments": 42,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 2
-      },
-      "scores": {
-        "importance": 4,
-        "trend": 2,
-        "novelty": 5,
-        "credibility": 4
-      },
-      "total": 3.8,
-      "category": "News",
-      "tags": [
-        "claude",
-        "guardrails",
-        "game-development"
-      ],
-      "summary": "Discussion of reports that Claude now refuses requests to recreate or reverse-engineer existing video games.",
-      "whyItMatters": "Check whether your game-modding or clone-adjacent prompts hit the new refusals.",
+      "summary": "AWS shows how to build UI tests driven by intent using Amazon Nova Act.",
+      "whyItMatters": "A route to UI tests that survive layout changes.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     }
   ],
   "innovations": [],
-  "trending": [
-    {
-      "id": "c-a9ef093add",
-      "label": "Claude refuses game cloning requests",
-      "itemIds": [
-        "2b51d8c5bce733011aac5fdefae4619c2a6becc8"
-      ],
-      "leadItemId": "2b51d8c5bce733011aac5fdefae4619c2a6becc8",
-      "sources": [
-        "Hacker News: LLM",
-        "Hacker News: artificial intelligence"
-      ],
-      "trendDelta": 2
-    }
-  ],
+  "trending": [],
   "byCategory": {
     "News": [
       {
-        "id": "85c82f0a957177ca5125b1b3319938ad77cd28da",
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "canonicalUrl": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "title": "ChatGPT and Codex usage limits merging",
-        "source": "Hacker News: LLM",
+        "id": "97b479ce8f1d32280b8cb23b9fa0d9e6fcc2eb64",
+        "url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
+        "canonicalUrl": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
+        "title": "On giving people an undo button in AI products",
+        "source": "Sidebar",
         "sourceTier": 3,
         "categoryHint": "News",
         "author": null,
-        "publishedAt": "2026-10-31T21:49:07Z",
-        "fetchedAt": "2026-11-01T10:07:55Z",
+        "publishedAt": "2026-10-29T07:18:06Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
         "signals": {
-          "hnPoints": 124,
-          "hnComments": 62,
+          "hnPoints": null,
+          "hnComments": null,
           "redditScore": null,
           "githubStars": null,
           "githubStarsDelta": null,
@@ -265,222 +244,31 @@
         },
         "scores": {
           "importance": 5,
-          "trend": 3,
-          "novelty": 4,
-          "credibility": 4
-        },
-        "total": 4.1,
-        "category": "News",
-        "tags": [
-          "chatgpt",
-          "codex",
-          "usage-limits"
-        ],
-        "summary": "Thread reporting that ChatGPT and Codex usage limits are being combined into a single allowance.",
-        "whyItMatters": "If you use both products, your effective quota may change; check your plan.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2b51d8c5bce733011aac5fdefae4619c2a6becc8",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-        "canonicalUrl": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-        "source": "Hacker News: artificial intelligence",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-31T13:25:00Z",
-        "fetchedAt": "2026-11-01T10:07:55Z",
-        "signals": {
-          "hnPoints": 71,
-          "hnComments": 42,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 2
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 2,
-          "novelty": 5,
-          "credibility": 4
-        },
-        "total": 3.8,
-        "category": "News",
-        "tags": [
-          "claude",
-          "guardrails",
-          "game-development"
-        ],
-        "summary": "Discussion of reports that Claude now refuses requests to recreate or reverse-engineer existing video games.",
-        "whyItMatters": "Check whether your game-modding or clone-adjacent prompts hit the new refusals.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      }
-    ],
-    "Research": [
-      {
-        "id": "edd821e09ba3cc5366f890405e2c7043fb0c3049",
-        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-        "canonicalUrl": "https://wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
-        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Emily Mullin",
-        "publishedAt": "2026-10-31T10:00:00Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 7,
-          "credibility": 6
-        },
-        "total": 4.1,
-        "category": "Research",
-        "tags": [
-          "agents",
-          "lab-automation",
-          "neuroscience"
-        ],
-        "summary": "WIRED reports an AI agent carried out a drug injection into a live mouse brain.",
-        "whyItMatters": "Early sign of agents controlling physical lab equipment.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "10465feee05d71e98c9d43453426c351e31b125a",
-        "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
-        "canonicalUrl": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me",
-        "title": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Abdullahi Dattijo",
-        "publishedAt": "2026-10-31T12:00:00Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 5
-        },
-        "total": 3.4,
-        "category": "Research",
-        "tags": [
-          "sycophancy",
-          "agents",
-          "evaluation"
-        ],
-        "summary": "Author tests AI agents by falsely telling them their wrong answers were right and reports one model went along.",
-        "whyItMatters": "A cheap test you can run on your own agents for sycophancy.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "b0e56347728abb8794463819c0916f44e51b161b",
-        "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/",
-        "canonicalUrl": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind",
-        "title": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Emmimal P Alexander",
-        "publishedAt": "2026-10-31T14:00:00Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
           "trend": 0,
           "novelty": 4,
           "credibility": 5
-        },
-        "total": 2.8,
-        "category": "Research",
-        "tags": [
-          "sycophancy",
-          "belief-revision",
-          "llm-behavior"
-        ],
-        "summary": "Essay on whether language models can revise their answers appropriately when challenged.",
-        "whyItMatters": "Relevant to anyone designing self-correction loops.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tutorials": [
-      {
-        "id": "feb912e225e8e3aa8c6851f6a306781f9ad4ef83",
-        "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
-        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
-        "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-        "source": "AWS Machine Learning Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Aswath Ram A Srinivasan",
-        "publishedAt": "2026-10-30T22:42:24Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 9
         },
         "total": 3.5,
-        "category": "Tutorials",
+        "category": "News",
         "tags": [
-          "amazon-bedrock",
-          "finops",
-          "cost-management"
+          "ai-ux-patterns"
         ],
-        "summary": "AWS guide for finance and platform teams on tracking and controlling Amazon Bedrock spend across an organization.",
-        "whyItMatters": "Gives platform teams a checklist for cost visibility on Bedrock workloads.",
+        "summary": "Sidebar links a piece on offering undo in AI products.",
+        "whyItMatters": "A concrete AI UX pattern to adopt.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "763c4915a40409dabe3b23f744c40339a06ab5b6",
-        "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
-        "canonicalUrl": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code",
-        "title": "How to Build Bug-Free Applications with Claude Code",
-        "source": "Towards Data Science",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Eivind Kjosbakken",
-        "publishedAt": "2026-10-31T16:00:00Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
+        "id": "35aeb24fede6fb143bc3c18602e2f057d69ff228",
+        "url": "https://www.figma.com/blog/making-something-human-4-things-we-took-away-from-config-india/",
+        "canonicalUrl": "https://figma.com/blog/making-something-human-4-things-we-took-away-from-config-india",
+        "title": "Making something human: 4 things we took away from Config India",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-29T20:00:00Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -491,371 +279,31 @@
         },
         "scores": {
           "importance": 3,
-          "trend": 0,
+          "trend": 1,
           "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.6,
-        "category": "Tutorials",
-        "tags": [
-          "claude-code",
-          "testing",
-          "software-quality"
-        ],
-        "summary": "Towards Data Science walkthrough on building more reliable applications with Claude Code.",
-        "whyItMatters": "Practical habits for getting steadier output from a coding agent.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "10dfd3542f1d1b2491d3b1929fbd8b28ae13af41",
-        "url": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-        "canonicalUrl": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-        "title": "EP231: AI Terms You Need to Know",
-        "source": "ByteByteGo",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "ByteByteGo",
-        "publishedAt": "2026-10-31T15:31:08Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 2,
-          "credibility": 6
-        },
-        "total": 2.4,
-        "category": "Tutorials",
-        "tags": [
-          "glossary",
-          "newsletter"
-        ],
-        "summary": "ByteByteGo newsletter issue 231 with a glossary of common AI terms.",
-        "whyItMatters": "Handy reference for onboarding teammates new to AI.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tools & Releases": [
-      {
-        "id": "1fff1698b18b443752bc0b4d67dc49ffd055d210",
-        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "canonicalUrl": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Jay Peters",
-        "publishedAt": "2026-10-30T22:32:53Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 5,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 4.2,
-        "category": "Tools & Releases",
-        "tags": [
-          "apple-intelligence",
-          "china",
-          "ios"
-        ],
-        "summary": "Apple Intelligence is slated to reach China with iOS 27.3.",
-        "whyItMatters": "Opens a large user market to on-device Apple AI features.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "14074b4203bb23f176964166bd2fb761022eb843",
-        "url": "https://github.com/kerlenton/bootgpt",
-        "canonicalUrl": "https://github.com/kerlenton/bootgpt",
-        "title": "Show HN: A language model that lives in a boot sector",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-31T12:58:29Z",
-        "fetchedAt": "2026-11-01T10:07:55Z",
-        "signals": {
-          "hnPoints": 83,
-          "hnComments": 5,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 6,
-          "credibility": 4
-        },
-        "total": 2.8,
-        "category": "Tools & Releases",
-        "tags": [
-          "tiny-models",
-          "bootloader",
-          "show-hn"
-        ],
-        "summary": "Show HN project that fits a small language model into a boot sector, as a demonstration of how little code inference needs.",
-        "whyItMatters": "A curiosity, but it shows how small a working inference loop can be.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "4c77a0dfd6338debf2fa3d6f68af301e16bc3b18",
-        "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/31/datasette-llm",
-        "title": "datasette-llm 0.1a9",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-31T22:10:01Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 2,
           "credibility": 8
         },
-        "total": 2.7,
-        "category": "Tools & Releases",
+        "total": 3.3,
+        "category": "News",
         "tags": [
-          "datasette",
-          "llm",
-          "plugin"
+          "designer-workflow"
         ],
-        "summary": "Alpha release 0.1a9 of the datasette-llm plugin.",
-        "whyItMatters": "Only relevant if you build on Datasette with LLM plugins.",
+        "summary": "Figma shares four takeaways from its Config India event.",
+        "whyItMatters": "Light read on current designer concerns.",
         "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Policy & Safety": [
-      {
-        "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "canonicalUrl": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "source": "Hacker News: LLM",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-10-31T14:29:03Z",
-        "fetchedAt": "2026-11-01T10:07:55Z",
-        "signals": {
-          "hnPoints": 248,
-          "hnComments": 131,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 2,
-          "novelty": 6,
-          "credibility": 4
-        },
-        "total": 4.7,
-        "category": "Policy & Safety",
-        "tags": [
-          "malware",
-          "llm-abuse",
-          "infostealer"
-        ],
-        "summary": "Community thread on malware that uses language models to estimate which infected victims are most valuable to target.",
-        "whyItMatters": "Attackers are adding LLM triage to theft pipelines; revisit endpoint and credential defenses.",
-        "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "1d78de13bdeab01c224b4b7e4ecce85ec6042d3e",
-        "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-        "canonicalUrl": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-        "source": "WIRED: AI",
+        "id": "096e82c3987e14642538589a43a9f7b358d3702a",
+        "url": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
+        "canonicalUrl": "https://creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
+        "title": "\"Use their tools against them\": why AI isn't the death of production design",
+        "source": "Creative Bloq",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Lily Hay Newman, Matt Burgess",
+        "author": "Natalie Fear",
         "publishedAt": "2026-10-31T12:00:00Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 0,
-          "novelty": 6,
-          "credibility": 6
-        },
-        "total": 4.5,
-        "category": "Policy & Safety",
-        "tags": [
-          "infostealer",
-          "malware",
-          "doxxing"
-        ],
-        "summary": "WIRED reports on infostealer malware that uses AI to compile profiles on its victims.",
-        "whyItMatters": "Stolen data is now being enriched automatically; tighten credential hygiene.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "dd35d009aad680f7bdb8901c179d770026e55ae7",
-        "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-        "canonicalUrl": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
-        "title": "How We Took Over ChatGPT Accounts",
-        "source": "Simon Willison",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": null,
-        "publishedAt": "2026-10-31T23:15:22Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 5,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 7
-        },
-        "total": 3.8,
-        "category": "Policy & Safety",
-        "tags": [
-          "account-takeover",
-          "chatgpt",
-          "security"
-        ],
-        "summary": "Simon Willison links a write-up describing how researchers took over ChatGPT accounts.",
-        "whyItMatters": "Review how your own AI product handles session and account security.",
-        "featuredSlot": "lead",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
-        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-31T21:17:03Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 6
-        },
-        "total": 3,
-        "category": "Policy & Safety",
-        "tags": [
-          "xai",
-          "data-centers",
-          "lawsuit"
-        ],
-        "summary": "A judge let the NAACP lawsuit over pollution from an xAI data center proceed.",
-        "whyItMatters": "Environmental litigation is becoming a siting risk for AI compute.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "1e07dda87d37899ea69970337136e456e430421b",
-        "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
-        "canonicalUrl": "https://alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
-        "title": "Explaining “AI might obliterate you” to senior policymakers in India",
-        "source": "Alignment Forum",
-        "sourceTier": 2,
-        "categoryHint": "Policy & Safety",
-        "author": "TurnTrout",
-        "publishedAt": "2026-10-31T21:37:22Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 6
-        },
-        "total": 2.7,
-        "category": "Policy & Safety",
-        "tags": [
-          "ai-safety",
-          "policy",
-          "india"
-        ],
-        "summary": "Alignment Forum post on how to convey AI catastrophic-risk arguments to senior policymakers in India.",
-        "whyItMatters": "Useful framing if you brief non-technical officials on AI risk.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Business": [
-      {
-        "id": "d5bb41b6ba041206b1410f5dbd278a1cd9bcfe74",
-        "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-        "canonicalUrl": "https://wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
-        "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-        "source": "WIRED: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Paresh Dave",
-        "publishedAt": "2026-10-31T10:30:00Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -871,28 +319,96 @@
           "credibility": 6
         },
         "total": 3.1,
-        "category": "Business",
+        "category": "News",
         "tags": [
-          "meta",
-          "muse",
-          "enterprise"
+          "designer-workflow"
         ],
-        "summary": "WIRED assessment of Meta's Muse and its potential, and limited impact so far, on businesses.",
-        "whyItMatters": "Helps judge whether Muse merits a pilot yet.",
+        "summary": "Creative Bloq covers a production designer's view that AI will not end production design.",
+        "whyItMatters": "Useful framing for how the production role is shifting.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "c6b2d3ea79170b2aaebd03c698f22e18c5fd0ff8",
-        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "source": "TechCrunch: AI",
+        "id": "d0aafa41494669cdc570f14f3fb403f548a6c7bd",
+        "url": "https://www.fastcompany.com/91630508/vibe-coding-smart-tv-redesign?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "canonicalUrl": "https://fastcompany.com/91630508/vibe-coding-smart-tv-redesign?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+        "title": "These people are cutting the clutter and redesigning their smart TVs with AI",
+        "source": "Fast Company: Design",
         "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Aditya Mehta",
-        "publishedAt": "2026-10-31T01:20:05Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
+        "categoryHint": "News",
+        "author": "Chris Velazco",
+        "publishedAt": "2026-10-28T15:30:43Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "News",
+        "tags": [
+          "consumer-ui"
+        ],
+        "summary": "Fast Company covers people using AI to declutter and redesign their smart TV interfaces.",
+        "whyItMatters": "Shows non-designers redesigning UIs with AI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "49546a79294d169eecd17ed5f8c0ac117f937b50",
+        "url": "https://www.fastcompany.com/91632291/prada-ad-luxury-brands-all-in-on-handmade-ads?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "canonicalUrl": "https://fastcompany.com/91632291/prada-ad-luxury-brands-all-in-on-handmade-ads?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+        "title": "As AI slop floods feeds, luxury brands are going all in on handmade ads",
+        "source": "Fast Company: Design",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "María José Gutiérrez Chávez",
+        "publishedAt": "2026-10-30T14:30:00Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3,
+        "category": "News",
+        "tags": [
+          "craft"
+        ],
+        "summary": "Luxury brands are leaning on handmade-looking ads as AI-made content spreads.",
+        "whyItMatters": "Signals demand for visible craft in brand work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "cca11c4d2b26460c58d582499e6439b881faaebc",
+        "url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+        "canonicalUrl": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+        "title": "Microsoft’s identity for Copilot positions it as a tool for work",
+        "source": "Sidebar",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-10-29T07:24:37Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -905,31 +421,29 @@
           "importance": 3,
           "trend": 1,
           "novelty": 3,
-          "credibility": 6
+          "credibility": 5
         },
-        "total": 3,
-        "category": "Business",
+        "total": 2.8,
+        "category": "News",
         "tags": [
-          "nvidia",
-          "nscale",
-          "data-centers"
+          "branding"
         ],
-        "summary": "Nvidia is weighing acting as cosigner for Nscale's planned AI data center in West Virginia.",
-        "whyItMatters": "Shows chipmakers backing the financing of compute capacity.",
+        "summary": "Sidebar links to a piece on Microsoft's Copilot identity.",
+        "whyItMatters": "Brand-identity example for AI products.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "source": "TechCrunch: AI",
-        "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Anthony Ha",
-        "publishedAt": "2026-10-31T21:41:00Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
+        "id": "4482f4004aead1093f1856f1d2366bdec23a7b22",
+        "url": "https://www.figma.com/blog/source-material-brent-david-freaney/",
+        "canonicalUrl": "https://figma.com/blog/source-material-brent-david-freaney",
+        "title": "Source material: \"BRAT\" Art Director Brent David Freaney finds design inspiration from everyday life",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-28T13:00:00Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -939,33 +453,67 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 3,
-          "trend": 0,
+          "importance": 2,
+          "trend": 1,
           "novelty": 2,
-          "credibility": 6
+          "credibility": 8
         },
-        "total": 2.5,
-        "category": "Business",
+        "total": 2.7,
+        "category": "News",
         "tags": [
-          "apple",
-          "strategy"
+          "designer-workflow"
         ],
-        "summary": "Apple CEO says the company will add AI features only where they serve a purpose.",
-        "whyItMatters": "Signals a measured Apple stance on AI features for app developers.",
+        "summary": "Figma profiles an art director and where they find inspiration.",
+        "whyItMatters": "Inspiration read, not about AI practice.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
-        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-        "canonicalUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-        "source": "TechCrunch: AI",
+        "id": "36d60f03a37aa0bf5e310ba42925004547fce067",
+        "url": "https://lovable.dev/blog/hello-from-lovables-new-london-home",
+        "canonicalUrl": "https://lovable.dev/blog/hello-from-lovables-new-london-home",
+        "title": "Hello from Lovable's new London home",
+        "source": "Lovable Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Lovable",
+        "publishedAt": "2026-10-29T08:00:00Z",
+        "fetchedAt": "2026-11-02T11:18:01Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 8
+        },
+        "total": 2.7,
+        "category": "News",
+        "tags": [
+          "ui-generation"
+        ],
+        "summary": "Lovable posts about opening a new London office.",
+        "whyItMatters": "Company news; little changes in daily work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f7aae3c273a75f9e7b8690c3a8e49cea10abe6e5",
+        "url": "https://www.fastcompany.com/91620201/how-marketers-can-outperform-the-algorithm-and-their-competition-innovation-leadership-marketing-strategy-ai-technology?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "canonicalUrl": "https://fastcompany.com/91620201/how-marketers-can-outperform-the-algorithm-and-their-competition-innovation-leadership-marketing-strategy-ai-technology?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+        "title": "This is how marketers can win in the age of AI",
+        "source": "Fast Company: Design",
         "sourceTier": 2,
-        "categoryHint": "Business",
-        "author": "Lucas Ropek",
-        "publishedAt": "2026-10-30T22:56:13Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
+        "categoryHint": "News",
+        "author": "Tom Kenny",
+        "publishedAt": "2026-10-27T10:02:00Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -978,33 +526,819 @@
           "importance": 2,
           "trend": 0,
           "novelty": 2,
-          "credibility": 6
+          "credibility": 5
         },
-        "total": 2.1,
-        "category": "Business",
+        "total": 2,
+        "category": "News",
         "tags": [
-          "ollie",
-          "shutdown",
-          "privacy"
+          "marketing"
         ],
-        "summary": "Privacy-focused assistant Ollie is shutting down.",
-        "whyItMatters": "If you depend on small AI assistants, plan for export and exit.",
+        "summary": "Fast Company on how marketers can compete in the age of AI.",
+        "whyItMatters": "Marketing-oriented; thin design angle.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "69f81648662f7d5def885febb65bf82f941afb08",
+        "url": "https://bit.ly/side-gra8",
+        "canonicalUrl": "https://bit.ly/side-gra8",
+        "title": "The AI Notepad for back-to-back meetings",
+        "source": "Sidebar",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-11-02T05:44:00Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "News",
+        "tags": [
+          "ai-products"
+        ],
+        "summary": "Sidebar links an AI notepad product for meetings.",
+        "whyItMatters": "Not design-specific.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
+    "Research": [
+      {
+        "id": "48c9e720164ce250810f98ca17cc65b54e74bc58",
+        "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "canonicalUrl": "https://nngroup.com/articles/ux-agentic-software-factories",
+        "title": "The Role of UX in Agentic Software Factories",
+        "source": "Nielsen Norman Group",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Tanner Kohler",
+        "publishedAt": "2026-10-30T17:00:00Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 4.7,
+        "category": "Research",
+        "tags": [
+          "designer-workflow",
+          "agentic-ux"
+        ],
+        "summary": "NN/g looks at where UX work fits when software is produced by agent-driven pipelines.",
+        "whyItMatters": "Frames what UX input still matters when agents ship the code.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "975cebe5512551c0ffffb867f1af3ad42456effa",
+        "url": "https://uxplanet.org/anthropic-just-revealed-3-new-rules-for-claude-skills-bf6d5ff66930?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/anthropic-just-revealed-3-new-rules-for-claude-skills-bf6d5ff66930?source=rss----819cc2aaeee0---4",
+        "title": "Anthropic Just Revealed 3 NEW Rules for Claude Skills",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-01T15:22:18Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 3
+        },
+        "total": 3.1,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills"
+        ],
+        "summary": "A video-style post on new guidance for writing Claude skills.",
+        "whyItMatters": "Check Anthropic's own docs before relying on it.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9539f46ab493c0e23254d4c9b557e3d6ddd158b7",
+        "url": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
+        "title": "Claude Code Skills vs. Mods vs. Plugins vs. Agents: What’s the Difference?",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-28T13:28:02Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.8,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills"
+        ],
+        "summary": "An explainer on how Claude Code skills differ from other extension types.",
+        "whyItMatters": "Clarifies terms before building design skills.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3fd84da854f7cb68620f868d4192d501d783f365",
+        "url": "https://uxplanet.org/claude-opus-5-5-official-prompting-guide-25eaa238acdb?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-opus-5-5-official-prompting-guide-25eaa238acdb?source=rss----819cc2aaeee0---4",
+        "title": "Claude Opus 5.5 Official Prompting Guide",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-27T13:06:21Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "claude"
+        ],
+        "summary": "A post on prompting a Claude model.",
+        "whyItMatters": "General prompting; low design relevance.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9c0517030e113afc6bf26f493fd67fdc8fd5eca8",
+        "url": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
+        "title": "Claude 5.5 Model Mistakes You’re Still Making",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-30T15:48:55Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "claude"
+        ],
+        "summary": "A post on common mistakes with a Claude model.",
+        "whyItMatters": "Model tips, little design focus.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "44c55cb65b08a368c25100c04214755114a0fd59",
+        "url": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
+        "title": "5 NEW Claude Mods that will change how you work",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-31T15:07:38Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 3
+        },
+        "total": 2.5,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills"
+        ],
+        "summary": "A list-style post on Claude add-ons for work.",
+        "whyItMatters": "Low-signal; verify against official sources.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "3fa4866c1074ca55886f48380d5d45066eb832be",
+        "url": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+        "title": "AGENTS.md in Claude Code: What it is and why it matters",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-26T12:17:25Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills"
+        ],
+        "summary": "An explainer on AGENTS.md files in Claude Code.",
+        "whyItMatters": "Context for configuring agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "30fab9d4cf19dac53172155410b82b03f3e1aff8",
+        "url": "https://refactoring.fm/p/process-migrations-shared-skills",
+        "canonicalUrl": "https://refactoring.fm/p/process-migrations-shared-skills",
+        "title": "Process migrations, shared skills, and weekly readings! 💡",
+        "source": "Refactoring (Luca Rossi)",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Luca Rossi",
+        "publishedAt": "2026-11-02T09:10:59Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 5
+        },
+        "total": 2,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills"
+        ],
+        "summary": "Newsletter issue mentioning shared skills among other topics.",
+        "whyItMatters": "Mostly engineering-focused; thin design angle.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9dcf985a1d6c67e3d7ffa74288d19dee4bfcc158",
+        "url": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
+        "title": "Anthropic Just Shipped Claude 2.0",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-10-29T15:18:28Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 2
+        },
+        "total": 1.8,
+        "category": "Tutorials",
+        "tags": [
+          "claude"
+        ],
+        "summary": "A post with a headline about a Claude 2.0 release that the metadata does not support.",
+        "whyItMatters": "Treat the claim with caution.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "c91316c9b17b91b3021d7e0774c7505767a7c8c3",
+        "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+        "canonicalUrl": "https://figma.com/blog/training-a-figma-fluent-editing-model",
+        "title": "How we’re training a Figma-fluent editing model",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-29T21:00:00Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 7,
+          "trend": 0,
+          "novelty": 7,
+          "credibility": 9
+        },
+        "total": 5.6,
+        "category": "Tools & Releases",
+        "tags": [
+          "figma",
+          "ui-generation"
+        ],
+        "summary": "Figma describes how it is training an editing model that understands Figma files.",
+        "whyItMatters": "A model fluent in Figma files could change how edits get made.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "769b87a9983fe824abb6d71a83ecf3461869e100",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+        "canonicalUrl": "https://figma.com/blog/the-tldr-on-figma-weave",
+        "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-10-31T00:58:00Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 5.2,
+        "category": "Tools & Releases",
+        "tags": [
+          "figma",
+          "designer-workflow"
+        ],
+        "summary": "Figma explains Weave, a feature for turning a creative process into a repeatable workflow.",
+        "whyItMatters": "Look at whether Weave can codify steps your team repeats.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1fcf22f867e2d9dab964803fe89899339b79c1da",
+        "url": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+        "canonicalUrl": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+        "title": "Building intent-driven UI testing with Amazon Nova Act",
+        "source": "AWS Machine Learning Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Sakthi Chellapparimanam",
+        "publishedAt": "2026-10-29T18:20:27Z",
+        "fetchedAt": "2026-11-02T11:18:01Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 8
+        },
+        "total": 4.1,
+        "category": "Tools & Releases",
+        "tags": [
+          "ui-testing"
+        ],
+        "summary": "AWS shows how to build UI tests driven by intent using Amazon Nova Act.",
+        "whyItMatters": "A route to UI tests that survive layout changes.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [],
+    "Business": [],
     "Opinion": [
       {
-        "id": "18eadc7cf156685b55ca4e73883234836ff72d19",
-        "url": "https://latent.space/p/arca/",
-        "canonicalUrl": "https://latent.space/p/arca",
-        "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-        "source": "Latent Space",
+        "id": "d3e5b3470480587af5b806e312c592a60658fd3c",
+        "url": "https://www.designsystemscollective.com/your-agentic-design-system-needs-a-closed-loop-dee888ddd362?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/your-agentic-design-system-needs-a-closed-loop-dee888ddd362?source=rss----dbd299f90c1d---4",
+        "title": "Your Agentic Design System Needs a Closed Loop",
+        "source": "Design Systems Collective",
         "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Richard MacManus",
-        "publishedAt": "2026-10-31T16:05:00Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
+        "categoryHint": "Opinion",
+        "author": "Kartva",
+        "publishedAt": "2026-10-26T14:18:59Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
+        },
+        "total": 4.5,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "agent-skills"
+        ],
+        "summary": "An argument that agentic design systems need a closed feedback loop.",
+        "whyItMatters": "Gives a pattern for checking generated UI against the system.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9de2c87958bfcfce4b02e50eafb4d701f429032f",
+        "url": "https://www.designsystemscollective.com/ai-can-draw-the-screen-it-cant-decide-what-the-brand-allows-c7b513e9076f?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/ai-can-draw-the-screen-it-cant-decide-what-the-brand-allows-c7b513e9076f?source=rss----dbd299f90c1d---4",
+        "title": "AI can draw the screen. It can’t decide what the brand allows.",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Sebastian Balderas Espinosa",
+        "publishedAt": "2026-10-30T07:04:02Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "ui-generation"
+        ],
+        "summary": "The piece argues AI can draw screens but cannot decide what a brand permits.",
+        "whyItMatters": "Reminds teams to encode brand rules for generators.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "8ceb49a72617e9cd2aac13c43508ce1022efa7d9",
+        "url": "https://www.designsystemscollective.com/what-ai-generated-components-actually-cost-when-the-system-is-the-standard-a9ac100421da?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/what-ai-generated-components-actually-cost-when-the-system-is-the-standard-a9ac100421da?source=rss----dbd299f90c1d---4",
+        "title": "What AI-generated components actually cost when the system is the standard",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Tina Singh",
+        "publishedAt": "2026-10-27T15:25:36Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 3.9,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "ui-generation"
+        ],
+        "summary": "The piece considers what AI-generated components cost when a design system is the standard.",
+        "whyItMatters": "Useful lens on governance of generated components.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "b0d5d00a08db30f0ee4456461afc4c3550952182",
+        "url": "https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents",
+        "canonicalUrl": "https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents",
+        "title": "The Interface Is Disappearing: What Designers Actually Design in the Age of AI Agents",
+        "source": "Dribbble Stories",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": null,
+        "publishedAt": "2026-10-30T16:54:41Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 3.5,
+        "category": "Opinion",
+        "tags": [
+          "designer-workflow",
+          "agentic-ux"
+        ],
+        "summary": "An essay on what designers design when AI agents mediate interfaces.",
+        "whyItMatters": "Prompts rethinking of design scope for agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4b2ad770bfe264f328756acebb10e543993f5403",
+        "url": "https://generativeai.pub/generative-ui-explained-what-designers-still-control-37cab49f11ec?source=rss------ai_design-5",
+        "canonicalUrl": "https://generativeai.pub/generative-ui-explained-what-designers-still-control-37cab49f11ec?source=rss------ai_design-5",
+        "title": "Generative UI Explained: What Designers Still Control",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Nishkarsh Gupta",
+        "publishedAt": "2026-10-30T03:28:14Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.4,
+        "category": "Opinion",
+        "tags": [
+          "ui-generation"
+        ],
+        "summary": "An explainer on generative UI and what designers still control.",
+        "whyItMatters": "Intro framing for generative UI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "4d5d0ec757e72b3bed9e47835f411e86bda0935c",
+        "url": "https://medium.com/@formisbahulislam/the-designer-in-the-loop-why-developers-embraced-ai-and-designers-didnt-f4fa1860de45?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@formisbahulislam/the-designer-in-the-loop-why-developers-embraced-ai-and-designers-didnt-f4fa1860de45?source=rss------ai_design-5",
+        "title": "The Designer in the Loop: Why Developers Embraced AI and Designers Didn’t.",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Dr. Misbah Ul Islam",
+        "publishedAt": "2026-10-30T06:42:02Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.4,
+        "category": "Opinion",
+        "tags": [
+          "designer-workflow"
+        ],
+        "summary": "An essay on why developers embraced AI faster than designers.",
+        "whyItMatters": "Context for the adoption gap.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "00a614119a0d7115f858ea962d64d29eaecaf6ad",
+        "url": "https://uxhassan.medium.com/how-to-make-vibe-coded-apps-look-designed-not-generated-0e4327767bc3?source=rss------ai_design-5",
+        "canonicalUrl": "https://uxhassan.medium.com/how-to-make-vibe-coded-apps-look-designed-not-generated-0e4327767bc3?source=rss------ai_design-5",
+        "title": "How to Make Vibe-Coded Apps Look Designed, Not Generated",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Hassan Mushtaq",
+        "publishedAt": "2026-10-30T12:37:17Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.4,
+        "category": "Opinion",
+        "tags": [
+          "ui-generation",
+          "craft"
+        ],
+        "summary": "A guide to making vibe-coded apps look designed.",
+        "whyItMatters": "Practical polish steps for generated apps.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c3e6dc7f7d40dab046b77a3a11eb8b51695e48d4",
+        "url": "https://medium.com/design-bootcamp/from-mockups-to-merged-prs-an-ai-native-designers-playbook-72a506cd67c7?source=rss----48e972f5c24e---4",
+        "canonicalUrl": "https://medium.com/design-bootcamp/from-mockups-to-merged-prs-an-ai-native-designers-playbook-72a506cd67c7?source=rss----48e972f5c24e---4",
+        "title": "From Mockups to Merged PRs: An AI-Native Designer’s Playbook",
+        "source": "Bootcamp (UX publication)",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Xinran Ma",
+        "publishedAt": "2026-11-01T14:30:38Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.4,
+        "category": "Opinion",
+        "tags": [
+          "designer-workflow",
+          "ui-generation"
+        ],
+        "summary": "A playbook for designers moving from mockups to merged pull requests with AI.",
+        "whyItMatters": "A concrete workflow for designers shipping code.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c89c32dc6a16896867b49275f1dad1e967af5c57",
+        "url": "https://medium.com/@muskaanaraidesigns/how-to-make-your-ui-not-look-ai-generated-a-real-before-and-after-ac8a7323b75b?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@muskaanaraidesigns/how-to-make-your-ui-not-look-ai-generated-a-real-before-and-after-ac8a7323b75b?source=rss------ai_design-5",
+        "title": "How to make your UI not look AI-generated (a real before and after)",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Muskaan Arai",
+        "publishedAt": "2026-11-01T20:22:37Z",
+        "fetchedAt": "2026-11-02T11:18:03Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.4,
+        "category": "Opinion",
+        "tags": [
+          "ui-generation",
+          "craft"
+        ],
+        "summary": "A before-and-after walkthrough on keeping UI from looking AI-generated.",
+        "whyItMatters": "Concrete tips for polishing generated interfaces.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5e91c059cf7f428a310afd79b55230854f91c618",
+        "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+        "canonicalUrl": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+        "title": "Beyond chatbots: UX for deep AI research",
+        "source": "UX Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Mary Borysova",
+        "publishedAt": "2026-10-28T23:23:05Z",
+        "fetchedAt": "2026-11-02T11:18:02Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1017,99 +1351,23 @@
           "importance": 4,
           "trend": 0,
           "novelty": 4,
-          "credibility": 6
-        },
-        "total": 3.3,
-        "category": "Opinion",
-        "tags": [
-          "agents",
-          "finance",
-          "long-horizon"
-        ],
-        "summary": "Latent Space piece on using agents for long-running financial work and where they need to prompt people.",
-        "whyItMatters": "Shows where human checkpoints fit in long agent workflows.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "cf997b3e3678dcb82e5d1f60e143f169868616bf",
-        "url": "https://garymarcus.substack.com/p/report-from-the-vatican",
-        "canonicalUrl": "https://garymarcus.substack.com/p/report-from-the-vatican",
-        "title": "Report from the Vatican",
-        "source": "Marcus on AI",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Gary Marcus",
-        "publishedAt": "2026-10-31T15:17:33Z",
-        "fetchedAt": "2026-11-01T10:07:57Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 3,
           "credibility": 5
         },
-        "total": 2.6,
+        "total": 3.2,
         "category": "Opinion",
         "tags": [
-          "vatican",
-          "ethics",
-          "commentary"
+          "ai-ux-patterns"
         ],
-        "summary": "Gary Marcus reports on a Vatican event about AI.",
-        "whyItMatters": "Context on religious institutions entering AI governance debates.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "ee9f8f39beac17095a41c387246bb008552d4c3a",
-        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-        "canonicalUrl": "https://theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-        "title": "I built an AI Tamagotchi before Meta could",
-        "source": "The Verge: AI",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Sean Hollister",
-        "publishedAt": "2026-10-31T16:05:00Z",
-        "fetchedAt": "2026-11-01T10:07:56Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.5,
-        "category": "Opinion",
-        "tags": [
-          "meta",
-          "companions",
-          "consumer-ai"
-        ],
-        "summary": "Writer builds an AI virtual pet ahead of a similar Meta product.",
-        "whyItMatters": "Light read on consumer AI companions.",
+        "summary": "An essay on interface design for deep AI research tools beyond chat.",
+        "whyItMatters": "Ideas for layouts beyond a chat box.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ]
   },
   "stats": {
-    "collected": 27,
-    "afterDedupe": 27,
-    "ranked": 23
+    "collected": 64,
+    "afterDedupe": 63,
+    "ranked": 47
   }
 }

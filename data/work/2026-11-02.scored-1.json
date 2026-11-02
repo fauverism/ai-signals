@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-02",
+  "batch": 1,
+  "items": [
+    {
+      "id": "769b87a9983fe824abb6d71a83ecf3461869e100",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "designer-workflow"
+      ],
+      "summary": "Figma explains Weave, a feature for turning a creative process into a repeatable workflow.",
+      "whyItMatters": "Look at whether Weave can codify steps your team repeats.",
+      "organization": "figma"
+    },
+    {
+      "id": "48c9e720164ce250810f98ca17cc65b54e74bc58",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "designer-workflow",
+        "agentic-ux"
+      ],
+      "summary": "NN/g looks at where UX work fits when software is produced by agent-driven pipelines.",
+      "whyItMatters": "Frames what UX input still matters when agents ship the code.",
+      "organization": "nielsen norman group"
+    },
+    {
+      "id": "c91316c9b17b91b3021d7e0774c7505767a7c8c3",
+      "scores": {
+        "importance": 7,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "ui-generation"
+      ],
+      "summary": "Figma describes how it is training an editing model that understands Figma files.",
+      "whyItMatters": "A model fluent in Figma files could change how edits get made.",
+      "organization": "figma"
+    },
+    {
+      "id": "35aeb24fede6fb143bc3c18602e2f057d69ff228",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Figma shares four takeaways from its Config India event.",
+      "whyItMatters": "Light read on current designer concerns.",
+      "organization": "figma"
+    },
+    {
+      "id": "1fcf22f867e2d9dab964803fe89899339b79c1da",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-testing"
+      ],
+      "summary": "AWS shows how to build UI tests driven by intent using Amazon Nova Act.",
+      "whyItMatters": "A route to UI tests that survive layout changes.",
+      "organization": "amazon"
+    },
+    {
+      "id": "36d60f03a37aa0bf5e310ba42925004547fce067",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "ui-generation"
+      ],
+      "summary": "Lovable posts about opening a new London office.",
+      "whyItMatters": "Company news; little changes in daily work.",
+      "organization": "lovable"
+    },
+    {
+      "id": "4482f4004aead1093f1856f1d2366bdec23a7b22",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Figma profiles an art director and where they find inspiration.",
+      "whyItMatters": "Inspiration read, not about AI practice.",
+      "organization": "figma"
+    },
+    {
+      "id": "d51d05328288dfc3662de39f3b3bbb55655776d9",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation"
+      ],
+      "summary": "Lovable writes about unused apps piling up in team workspaces.",
+      "whyItMatters": "Hints at the cleanup cost of AI-built apps.",
+      "organization": "lovable"
+    },
+    {
+      "id": "b5f63234c990ac144ab5541d02fbf11d74693fee",
+      "scores": {
+        "importance": 3,
+        "trend": 2,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "mcp"
+      ],
+      "summary": "A newsletter roundup touching AI in UX, autonomy by design and Figma with MCP.",
+      "whyItMatters": "Skim for pointers on Figma MCP usage.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "30fab9d4cf19dac53172155410b82b03f3e1aff8",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "Newsletter issue mentioning shared skills among other topics.",
+      "whyItMatters": "Mostly engineering-focused; thin design angle.",
+      "organization": "refactoring"
+    },
+    {
+      "id": "82d675f6348c4c7c136dac773a6f5a7870c0170f",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-ux-patterns"
+      ],
+      "summary": "An argument for showing AI costs clearly to users in product interfaces.",
+      "whyItMatters": "A pattern to consider for usage-based AI features.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "096e82c3987e14642538589a43a9f7b358d3702a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Creative Bloq covers a production designer's view that AI will not end production design.",
+      "whyItMatters": "Useful framing for how the production role is shifting.",
+      "organization": "creative bloq"
+    },
+    {
+      "id": "49546a79294d169eecd17ed5f8c0ac117f937b50",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "craft"
+      ],
+      "summary": "Luxury brands are leaning on handmade-looking ads as AI-made content spreads.",
+      "whyItMatters": "Signals demand for visible craft in brand work.",
+      "organization": "fast company"
+    },
+    {
+      "id": "58ea40b051e3708f7e57ef8ef7ebb74e3f4d8664",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-research"
+      ],
+      "summary": "Nielsen's weekly roundup covering AI persuasion, synthetic users and AI subscription churn.",
+      "whyItMatters": "Skim for the synthetic-user debate.",
+      "organization": "jakob nielsen"
+    },
+    {
+      "id": "7d5a221da44c0107008358e8612fa0a679c1b0ea",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "An essay arguing the people who use AI should shape how it is adopted.",
+      "whyItMatters": "Supports pushing for a voice in AI adoption.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "9de2c87958bfcfce4b02e50eafb4d701f429032f",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "ui-generation"
+      ],
+      "summary": "The piece argues AI can draw screens but cannot decide what a brand permits.",
+      "whyItMatters": "Reminds teams to encode brand rules for generators.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "3ad9d9ff313c1d3c142dced8b45f1a438acf2e44",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "A designer describes shifting to study AI full-time.",
+      "whyItMatters": "One personal story; limited new practice.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "5e91c059cf7f428a310afd79b55230854f91c618",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-ux-patterns"
+      ],
+      "summary": "An essay on interface design for deep AI research tools beyond chat.",
+      "whyItMatters": "Ideas for layouts beyond a chat box.",
+      "organization": "ux collective"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "0db0c245e89f90c7bbad8c517e2fa1430cd86f54",
+      "reason": "off-beat"
+    },
+    {
+      "id": "0f0be6b6fe11bb4606b236c433bcc97041b7b39d",
+      "reason": "off-beat"
+    },
+    {
+      "id": "c17a67a2aea9e206ef23f7e3a851cf102d01d642",
+      "reason": "off-beat"
+    },
+    {
+      "id": "dc4647908b8b4f5a2cb5fd6d65078a37a0e2689f",
+      "reason": "off-beat"
+    },
+    {
+      "id": "f6bfa7a1ca6484082cd6ab7bd987aa2e99aa78c4",
+      "reason": "off-beat"
+    },
+    {
+      "id": "25cc4c9bb2e3e7e535a029d8ccf56c3c1c4d2670",
+      "reason": "off-beat"
+    },
+    {
+      "id": "187707dce2c80f8439b0cdb54d75e9eb857bf4c3",
+      "reason": "off-beat"
+    },
+    {
+      "id": "d9c67afc625144a0beceb57d9d84572f1a329c0e",
+      "reason": "off-beat"
+    },
+    {
+      "id": "7f6f8b2b4e14703d14bcf2eb83a004050ea87634",
+      "reason": "off-beat"
+    },
+    {
+      "id": "71d851d89db29cf067e23eee6ea6213659a086f2",
+      "reason": "off-beat"
+    },
+    {
+      "id": "a86185eb36d2fb05169cc751b23c4a990fb96391",
+      "reason": "off-beat"
+    },
+    {
+      "id": "33db78fc06624e0cb72f45275b96c5c53e926afe",
+      "reason": "off-beat"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}
