@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>AI for UI, UX and visual design, ranked and printed every Monday: skills, UI generation, tools and how designers work with AI. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:13:56 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Palette: teaching a small model to build decks in your design language</title>
+      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+      <guid isPermaLink="false">bc4177032a04e266005389ab50fe48dec84e39b0</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Hugging Face post on training a small model to produce slide decks that follow a given design language.</description>
+    </item>
+    <item>
+      <title>Workflow lab: Test ideas with code layers and the Figma agent</title>
+      <link>https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/</link>
+      <guid isPermaLink="false">fa8e611759ccc35e69d64a1357311f67f6e03b7a</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>Figma workflow walkthrough on testing ideas using code layers together with its agent.</description>
+    </item>
+    <item>
+      <title>Chat SDK agents can now stream generative UI with json-render</title>
+      <link>https://vercel.com/changelog/json-render-and-chat-sdk-agents</link>
+      <guid isPermaLink="false">ca6f08fa829e8403741135b114721d938a7d87e4</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Vercel announces that Chat SDK agents can stream generative UI using its json-render format.</description>
+    </item>
+    <item>
+      <title>DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle</title>
+      <link>https://arxiv.org/abs/2611.08933</link>
+      <guid isPermaLink="false">1f0c64abe535c3dff8125c3e7fc53cd0710a133a</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Research</category>
+      <description>Benchmark paper that tests frontier AI agents across stages of professional design work, from brief to delivery.</description>
+    </item>
+    <item>
+      <title>Agent Harness: Definition</title>
+      <link>https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
+      <guid isPermaLink="false">0edab277d1b7c3b2294d6b8532d5eccce17225ae</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Research</category>
+      <description>NN/g defines the term agent harness, giving UX teams shared vocabulary for agent-based products.</description>
+    </item>
+    <item>
+      <title>Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs</title>
+      <link>https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/</link>
+      <guid isPermaLink="false">6ce9fe52db65d87a4bb732b47edb1211626fbc69</guid>
+      <pubDate>Mon, 09 Nov 2026 11:13:56 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>NVIDIA post on faster image generation with a FLUX model on Blackwell GPUs.</description>
+    </item>
     <item>
       <title>How we’re training a Figma-fluent editing model</title>
       <link>https://www.figma.com/blog/training-a-figma-fluent-editing-model/</link>
@@ -294,54 +342,6 @@
       <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>NIST report with guidelines for moving to post-quantum cryptography standards. Regulator document, not AI-specific.</description>
-    </item>
-    <item>
-      <title>Introducing GPT-6.1 Terra</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-      <guid isPermaLink="false">1758535ac6be3e6bbbbd229f2163da1b6bc77452</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>OpenAI announces GPT-6.1 Terra, a new model in its GPT-6.1 line, also covered by an independent blogger.</description>
-    </item>
-    <item>
-      <title>Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</link>
-      <guid isPermaLink="false">3dc689c9c8a58febf2e9f9ba3429d1cd570001c7</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Business</category>
-      <description>The Verge reports on Anthropic’s IPO filing and the company’s stated mission and plans.</description>
-    </item>
-    <item>
-      <title>Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)</title>
-      <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
-      <guid isPermaLink="false">95d5916fd6281c36fd630aa1b5d1165f56c19b02</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>Hacker News discussion of a report that Workers AI served cross-request KV cache data in 155 responses of a GLM model.</description>
-    </item>
-    <item>
-      <title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
-      <guid isPermaLink="false">0f715e1693d7c6b7d219b2afbd429b317d5e50d8</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Tutorials</category>
-      <description>AWS post describing prompt caching patterns for agent workloads that call OpenAI models on Amazon Bedrock.</description>
-    </item>
-    <item>
-      <title>How Black-Box Distillation Works</title>
-      <link>https://cset.georgetown.edu/article/how-black-box-distillation-works/</link>
-      <guid isPermaLink="false">d037ed9023380d4f17ff13fe3049889b3e82c504</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>CSET explainer on how black-box distillation works and why it matters for policy.</description>
-    </item>
-    <item>
-      <title>How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes</title>
-      <link>https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/</link>
-      <guid isPermaLink="false">56260fcd11d47ed1a5c9b22cbca55ea4b8c31702</guid>
-      <pubDate>Tue, 27 Oct 2026 10:13:08 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>NVIDIA post on Mission Control 2.5, which adds automatic recovery for AI workloads on Kubernetes.</description>
     </item>
   </channel>
 </rss>

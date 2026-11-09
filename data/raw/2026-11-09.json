@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "40e36b29035364c866012b58b4c82f6396d2fca9",
+    "url": "https://www.creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
+    "canonicalUrl": "https://creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
+    "title": "An anti-AI indie game about keeping hand-drawn fish has become a surprise viral hit",
+    "source": "Creative Bloq",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Joe Foley",
+    "publishedAt": "2026-11-09T08:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7269aedfdccbe6aeb207e9cc3b8a12b5cf214a05",
+    "url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
+    "canonicalUrl": "https://seanvoisen.com/writing/design-system-ai-readiness",
+    "title": "What does design system AI readiness mean, anyway?",
+    "source": "Sidebar",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-11-09T05:03:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0186ff350cbffb592db0c2aa4947c2645d0747e1",
+    "url": "https://arxiv.org/abs/2611.09030",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09030",
+    "title": "A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Kaiyuan Chen, Xinyue Zhu, Shuangyu Xie, Uksang Yoo, Thi Thu Phuong Luong, Marcus Gualtieri, Christian Juette, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1f0c64abe535c3dff8125c3e7fc53cd0710a133a",
+    "url": "https://arxiv.org/abs/2611.08933",
+    "canonicalUrl": "https://arxiv.org/abs/2611.08933",
+    "title": "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Rong Pan, Jianqiang Wang",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "219f4cd13b8fe93c0ac15e79d941395136824d1c",
+    "url": "https://arxiv.org/abs/2611.09327",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09327",
+    "title": "Robust Deep Prototype Classifiers via Lipschitz Training",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Adia Khalid Khan, Lukas Gehring, Benjamin Paa{\\ss}en",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3b5241b369e52597a4306333aeb15955b003dc14",
+    "url": "https://arxiv.org/abs/2611.08543",
+    "canonicalUrl": "https://arxiv.org/abs/2611.08543",
+    "title": "SAFTAC: Simulation-Augmented Fine-Tuning of Open-Source LLMs for Analog Circuit Design",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Junsheng Huang, Yifan Sun, Zhuoer Zhang, Ning Wei, Yening Liu, Michael Molter, Pavan Kumar Hanumolu, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "445fe8236ac019988e393c14553930a769f84510",
+    "url": "https://arxiv.org/abs/2611.09454",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09454",
+    "title": "From LoRA to Language: Recovering Skill Documents from Adapters",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Saranya Dintakurthy Swadha, Pavan C Shekar, Arpit Jain, Aswanth Krishnan",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7d9495d57b1b701dde58c683820360123afa3b72",
+    "url": "https://arxiv.org/abs/2611.08749",
+    "canonicalUrl": "https://arxiv.org/abs/2611.08749",
+    "title": "How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Will Tucker-Ray, Marika Swanberg, Alexander Knop, Marvin Chow, Eric Culbertson, Julian Jacobs, Pritish Kamath, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7f00c909b0102d9c0a6b2f64f148652c3f6a327b",
+    "url": "https://arxiv.org/abs/2611.09413",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09413",
+    "title": "SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Jiakai Yang, Haoye Zheng, Yixiao Yue, Qinqin Yang, Zhong Chen, Shuhui Cai, Congbo Cai",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8a45f6b23574a6f38b8be9a118f6ca31f12b543f",
+    "url": "https://arxiv.org/abs/2611.09348",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09348",
+    "title": "When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Louise Nayeong Koh, Yaechan Lee, Myeongjong Lee, Doyeon Kim, Juyoung Park, Seunggyu Kim, Inseo Kim, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "91ef58fd8446a22ffed7967dfef5068ac9e53ad1",
+    "url": "https://arxiv.org/abs/2611.09003",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09003",
+    "title": "FoundaRF: A Physics-Informed Foundation Model Framework for Radio-Frequency Passive Components",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Houbo He, Chris Han, Hyunsu Chae, Lei Xia, Qiang Zhou, Lawrence Liu, Sensen Li, David Z. Pan, Taiyun Chi",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "9c3a2d896fea7b352589228f4a11b2ede46031b2",
+    "url": "https://arxiv.org/abs/2611.09825",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09825",
+    "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng, Luo Mai",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b00f09daa2fb2a145d6ae1651c7e4ba9f1111b0e",
+    "url": "https://arxiv.org/abs/2611.09036",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09036",
+    "title": "ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mohamed Elmoghany, Kehan Li, Ruoqu Chen, Tarun Chiruvolu, Shutong Zhang, Ryan Wang, Stephen Tian, Yaru Niu, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bbfaf925acde6e073efc7d3d6978122f1995b9f5",
+    "url": "https://arxiv.org/abs/2611.09058",
+    "canonicalUrl": "https://arxiv.org/abs/2611.09058",
+    "title": "ProtoCouncil: Multi-Encoder Anatomical Prototypes for Prostate Cancer Detection in Micro-Ultrasound",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Mohammad Mahdi Abootorabi, Nooshin Maghsoodi, Armin Saadat, Obed Dzikunu, Zhuoxin Guo, Hannes Cash, et al.",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "efc916f298f6cb606cca38ca7b140dc8902c166d",
+    "url": "https://arxiv.org/abs/2611.08947",
+    "canonicalUrl": "https://arxiv.org/abs/2611.08947",
+    "title": "More with Less: Efficient Parallel Scientific Code Translation via an Agent-Skill Workflow",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Jianuo Shen, Pengyi Xu, Bo Zhang",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fcc75ba8c95748c03548ccc158950b593dcca50f",
+    "url": "https://arxiv.org/abs/2611.08706",
+    "canonicalUrl": "https://arxiv.org/abs/2611.08706",
+    "title": "Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection",
+    "source": "arXiv cs.AI",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Bo Qu, Zhurong Wang, Frank Zahradnik, Ming Ouyang",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8f4c817a3bd5f956eb412756f46bbcc77a412599",
+    "url": "https://rey-chan.medium.com/exploring-a-frontier-approach-to-designing-mobile-experiences-f212ff270504?source=rss------ai_design-5",
+    "canonicalUrl": "https://rey-chan.medium.com/exploring-a-frontier-approach-to-designing-mobile-experiences-f212ff270504?source=rss------ai_design-5",
+    "title": "Exploring a “Frontier” Approach to Designing Mobile Experiences",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Rey.",
+    "publishedAt": "2026-11-09T02:54:11Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3229bf5988e628a616ec7b13dfc3bb9529dddabe",
+    "url": "https://medium.com/design-bootcamp/design-vibe-coding-and-organization-d71b50fcb8a9?source=rss----48e972f5c24e---4",
+    "canonicalUrl": "https://medium.com/design-bootcamp/design-vibe-coding-and-organization-d71b50fcb8a9?source=rss----48e972f5c24e---4",
+    "title": "Design, vibe coding, and organization",
+    "source": "Bootcamp (UX publication)",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Sanjana",
+    "publishedAt": "2026-11-08T21:18:16Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "73ebc39cf600c6c5d74dc74a6e2877b41bb41445",
+    "url": "https://medium.com/design-bootcamp/do-we-still-need-figma-and-what-happens-to-designers-in-the-ai-era-3efc9bade8d4?source=rss----48e972f5c24e---4",
+    "canonicalUrl": "https://medium.com/design-bootcamp/do-we-still-need-figma-and-what-happens-to-designers-in-the-ai-era-3efc9bade8d4?source=rss----48e972f5c24e---4",
+    "title": "Do We Still Need Figma? And What Happens to Designers in the AI Era?",
+    "source": "Bootcamp (UX publication)",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Balogun Ayanfe Olamide",
+    "publishedAt": "2026-11-08T13:34:12Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0cfeba5c1bb52f6566e5f258b82824c075befe01",
+    "url": "https://medium.com/studioscale-co/how-ai-is-changing-the-way-we-design-from-ideas-to-working-experience-2d6097917363?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/studioscale-co/how-ai-is-changing-the-way-we-design-from-ideas-to-working-experience-2d6097917363?source=rss------ai_design-5",
+    "title": "How AI is changing the way we design: From ideas to working experiences",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Ayşe",
+    "publishedAt": "2026-11-08T10:12:32Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b7cd58670b281cf9ffca6e4f45255e99a34760fc",
+    "url": "https://medium.com/design-bootcamp/when-is-ai-assisted-discovery-good-enough-to-trust-d433660f18fb?source=rss----48e972f5c24e---4",
+    "canonicalUrl": "https://medium.com/design-bootcamp/when-is-ai-assisted-discovery-good-enough-to-trust-d433660f18fb?source=rss----48e972f5c24e---4",
+    "title": "When Is AI-Assisted Discovery Good Enough to Trust?",
+    "source": "Bootcamp (UX publication)",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Gale Robins",
+    "publishedAt": "2026-11-07T14:50:02Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "b148f2127e395a987a528b745434eec89dea1bb5",
+    "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+    "title": "After the AI bubble: a manifesto",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Oliver Meredith Cox",
+    "publishedAt": "2026-11-06T22:42:58Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "6ce9fe52db65d87a4bb732b47edb1211626fbc69",
+    "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+    "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+    "source": "NVIDIA Technical Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Olivia Stoner",
+    "publishedAt": "2026-11-06T22:20:20Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ca6f08fa829e8403741135b114721d938a7d87e4",
+    "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+    "canonicalUrl": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+    "title": "Chat SDK agents can now stream generative UI with json-render",
+    "source": "Vercel Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Railly Hugo, Lahfir, Ben Sabic",
+    "publishedAt": "2026-11-06T21:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bfcf79d47dc3abefe4ba4f5bd083dce7d3be71e3",
+    "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
+    "canonicalUrl": "https://figma.com/blog/in-conversation-dylan-field-and-david-friedberg",
+    "title": "In conversation: Dylan Field and David Friedberg on the human role in creating with AI",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-06T20:31:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8fae653eae413ac791aa72c56100eaddaab27c51",
+    "url": "https://www.fastcompany.com/91636722/dior-holiday-ad-is-triggering-yet-another-ai-debate?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "canonicalUrl": "https://fastcompany.com/91636722/dior-holiday-ad-is-triggering-yet-another-ai-debate?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+    "title": "Dior’s holiday ad triggers new AI debate",
+    "source": "Fast Company: Design",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Jesus Diaz",
+    "publishedAt": "2026-11-06T20:15:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0edab277d1b7c3b2294d6b8532d5eccce17225ae",
+    "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "canonicalUrl": "https://nngroup.com/articles/agent-harness",
+    "title": "Agent Harness: Definition",
+    "source": "Nielsen Norman Group",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": "Caleb Sponheim",
+    "publishedAt": "2026-11-06T18:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8ed73057abf4bca8c78071758157e98a8e0746dc",
+    "url": "https://medium.com/@aurabinda.ghosh831/canva-lays-off-22-of-its-workforce-is-it-over-for-designers-6808e05e24af?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/@aurabinda.ghosh831/canva-lays-off-22-of-its-workforce-is-it-over-for-designers-6808e05e24af?source=rss------ai_design-5",
+    "title": "Canva lays off 22% of it’s workforce. Is It Over for Designers?",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Aurabinda Ghosh",
+    "publishedAt": "2026-11-06T15:47:19Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "292e967b299850818f63f9b6293acd74967d23a8",
+    "url": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
+    "canonicalUrl": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
+    "title": "GPT-6.1 Terra for UI Design",
+    "source": "UX Planet",
+    "sourceTier": 3,
+    "categoryHint": "Tutorials",
+    "author": "Nick Babich",
+    "publishedAt": "2026-11-06T14:13:43Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "3826c227cf4787399857bb9bafc789197ccc3a36",
+    "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261106",
+    "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261106",
+    "title": "UX Roundup: Slow AI | Emphasis | Goals vs. Execution | Too Many Apps | AI Homework | Cookie Banners | Productivity | Elaboration Likelihood Model",
+    "source": "Jakob Nielsen on UX",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Jakob Nielsen",
+    "publishedAt": "2026-11-06T12:21:34Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "13bb20222ef8ed6eb83bf20fe45b95badff72433",
+    "url": "https://www.creativebloq.com/deals/get-78-percent-off-bluehost-ai-website-builder-and-hosting",
+    "canonicalUrl": "https://creativebloq.com/deals/get-78-percent-off-bluehost-ai-website-builder-and-hosting",
+    "title": "Get 78% off Bluehost AI website builder and hosting",
+    "source": "Creative Bloq",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Joe Foley",
+    "publishedAt": "2026-11-06T10:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2bb369df924597abb184f11c2e62a600269052ec",
+    "url": "https://www.designsystemscollective.com/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss----dbd299f90c1d---4",
+    "canonicalUrl": "https://designsystemscollective.com/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss----dbd299f90c1d---4",
+    "title": "AI drew the side panel. Should it update when the filter changes?",
+    "source": "Design Systems Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Tina Singh",
+    "publishedAt": "2026-11-06T06:47:36Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "cdc02131d881a7a275769fb47d734ea346dc9d85",
+    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
+    "canonicalUrl": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
+    "title": "Everyone is building AI agents. Who’s designing the stop button?",
+    "source": "Sidebar",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-11-06T04:21:29Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "ce2198b45ec83b39e570fa5bfde4df9782ce3ca2",
+    "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+    "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Patrick Neeman",
+    "publishedAt": "2026-11-06T04:13:24Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "34aa5b1d1b261a3ec795e41337c5a7a62ada2b24",
+    "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+    "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+    "source": "NVIDIA Technical Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Shara Tibken",
+    "publishedAt": "2026-11-05T16:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "cabaa2ef3d0727d16e34555d93028a4a3405c660",
+    "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+    "canonicalUrl": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible",
+    "title": "Making Immersive LLM Chat Experiences More Accessible",
+    "source": "Smashing Magazine",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Eric Bailey",
+    "publishedAt": "2026-11-05T13:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5d09d1c4a1e92bb07ab06ea2af446dd4cea0244b",
+    "url": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
+    "canonicalUrl": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
+    "title": "5 NEW GitHub Repos for Claude Code Worth Trying for Product Design",
+    "source": "UX Planet",
+    "sourceTier": 3,
+    "categoryHint": "Tutorials",
+    "author": "Nick Babich",
+    "publishedAt": "2026-11-05T12:40:07Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "70a1b0b23348536fb00f2cc12965f78c98d429fc",
+    "url": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
+    "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Russell Pinkston",
+    "publishedAt": "2026-11-05T10:49:10Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "f0c4cb54d17621a9c1bfcaf4098c1354927b3099",
+    "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+    "title": "AI can generate the interface. What makes it worth caring about?",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Dolphia",
+    "publishedAt": "2026-11-04T22:12:46Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5a73980a44ff30ebad7d9afd75ee1240f32e27a0",
+    "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+    "title": "What AI has changed in Design Systems, and what is still up to us",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Anna Lefour",
+    "publishedAt": "2026-11-04T22:12:09Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fa8e611759ccc35e69d64a1357311f67f6e03b7a",
+    "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
+    "canonicalUrl": "https://figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers",
+    "title": "Workflow lab: Test ideas with code layers and the Figma agent",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-04T22:12:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "9bcf9d6e3195dce22a38e758b90f8dd519514fd9",
+    "url": "https://www.fastcompany.com/91635513/canvas-big-layoffs-say-a-lot-about-the-ai-design-landscape?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "canonicalUrl": "https://fastcompany.com/91635513/canvas-big-layoffs-say-a-lot-about-the-ai-design-landscape?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+    "title": "Canva’s big layoffs say a lot about the AI design landscape",
+    "source": "Fast Company: Design",
+    "sourceTier": 2,
+    "categoryHint": "News",
+    "author": "Grace Snelling",
+    "publishedAt": "2026-11-04T19:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "2445379dbd1fa57718af972e865b559ad9edc1c8",
+    "url": "https://tldr.takara.ai/p/2611.06838",
+    "canonicalUrl": "https://tldr.takara.ai/p/2611.06838",
+    "title": "Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties",
+    "source": "Hugging Face Daily Papers",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": null,
+    "publishedAt": "2026-11-04T17:54:14Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "547f134dd51fb49672a006c2e436bbf18a38787e",
+    "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
+    "canonicalUrl": "https://figma.com/blog/how-figma-manages-sandboxes-at-scale",
+    "title": "How Figma manages sandboxes at scale",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-04T16:23:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "84ecd190588d2ef16a189b8d1b133a87a12ece0c",
+    "url": "https://css-tricks.com/smashing-ai-conference/",
+    "canonicalUrl": "https://css-tricks.com/smashing-ai-conference",
+    "title": "Smashing AI Conference",
+    "source": "CSS-Tricks",
+    "sourceTier": 2,
+    "categoryHint": "Tutorials",
+    "author": "Geoff Graham",
+    "publishedAt": "2026-11-04T15:02:51Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "995ea7be162a0e3f2fa8ca14e13285454bb97bf6",
+    "url": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
+    "canonicalUrl": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
+    "title": "How to Become One of the Top 1% Most Effective Claude Code Users",
+    "source": "UX Planet",
+    "sourceTier": 3,
+    "categoryHint": "Tutorials",
+    "author": "Nick Babich",
+    "publishedAt": "2026-11-04T13:28:42Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "a007396a71490a89a671940f8598b88b805baddd",
+    "url": "https://medium.com/@leylamenchola/no-faces-just-hands-guess-the-pianist-b4be3463ab65?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/@leylamenchola/no-faces-just-hands-guess-the-pianist-b4be3463ab65?source=rss------ai_design-5",
+    "title": "No Faces, Just Hands: Guess the Pianist",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Leyla Menchola",
+    "publishedAt": "2026-11-04T13:01:44Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "8d682625501f63fb4d1061bdb1fbeac07426a06c",
+    "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+    "canonicalUrl": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+    "title": "How we built Lovable, and why we keep rebuilding it",
+    "source": "Lovable Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": "Anton Osika",
+    "publishedAt": "2026-11-04T12:30:00Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "852d1e37aa450a0773fa0905190e8b20883940ef",
+    "url": "https://www.designsystemscollective.com/the-autonomy-vs-alignment-dial-for-ai-e32cc252c9bc?source=rss----dbd299f90c1d---4",
+    "canonicalUrl": "https://designsystemscollective.com/the-autonomy-vs-alignment-dial-for-ai-e32cc252c9bc?source=rss----dbd299f90c1d---4",
+    "title": "The autonomy vs alignment dial for AI​​​​‌",
+    "source": "Design Systems Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Cristian Morales Achiardi",
+    "publishedAt": "2026-11-04T08:30:43Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "02eb4e6e34d4aa926b36c36229bfa9ea535c1949",
+    "url": "https://www.designsystemscollective.com/designing-in-pairs-a-pm-claude-and-figma-0ebc8ca8f1ba?source=rss----dbd299f90c1d---4",
+    "canonicalUrl": "https://designsystemscollective.com/designing-in-pairs-a-pm-claude-and-figma-0ebc8ca8f1ba?source=rss----dbd299f90c1d---4",
+    "title": "Designing in pairs: a PM, Claude and Figma",
+    "source": "Design Systems Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Muhammad Talal Saleem",
+    "publishedAt": "2026-11-04T08:29:51Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "0243822cb838a12a24c09e48e268b4a4cbd038f1",
+    "url": "https://www.designsystemscollective.com/humans-and-ai-agents-working-together-with-shared-memory-a82987d976d2?source=rss----dbd299f90c1d---4",
+    "canonicalUrl": "https://designsystemscollective.com/humans-and-ai-agents-working-together-with-shared-memory-a82987d976d2?source=rss----dbd299f90c1d---4",
+    "title": "Humans and AI agents working together with shared memory",
+    "source": "Design Systems Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Melina Kukkasela",
+    "publishedAt": "2026-11-04T08:24:25Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "55d36ba24ba00b2976cb2eb27f1df7290fa84476",
+    "url": "https://www.designsystemscollective.com/your-agentic-design-system-needs-product-memory-ac0037b69b23?source=rss----dbd299f90c1d---4",
+    "canonicalUrl": "https://designsystemscollective.com/your-agentic-design-system-needs-product-memory-ac0037b69b23?source=rss----dbd299f90c1d---4",
+    "title": "Your Agentic Design System Needs Product Memory",
+    "source": "Design Systems Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Kartva",
+    "publishedAt": "2026-11-04T08:23:10Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5e1b5156704dca5c09b9ddd62bef2484ab2b5b3e",
+    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+    "canonicalUrl": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+    "title": "Building an AI-ready design system library",
+    "source": "Sidebar",
+    "sourceTier": 3,
+    "categoryHint": "News",
+    "author": null,
+    "publishedAt": "2026-11-04T06:42:05Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "c5068dee26003945bf145909f3569cd8e3d81dee",
+    "url": "https://tldr.takara.ai/p/2611.05984",
+    "canonicalUrl": "https://tldr.takara.ai/p/2611.05984",
+    "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+    "source": "Hugging Face Daily Papers",
+    "sourceTier": 1,
+    "categoryHint": "Research",
+    "author": null,
+    "publishedAt": "2026-11-04T05:22:05Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "26fdec23e0ba53fb58ebb2d484cd27b1ca748815",
+    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+    "canonicalUrl": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+    "title": "Everyone is building AI agents. Who’s designing the stop button?",
+    "source": "UX Collective",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Michał Krztoń",
+    "publishedAt": "2026-11-03T22:40:34Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "canonicalUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "source": "Hugging Face Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-03T16:35:36Z",
+    "fetchedAt": "2026-11-09T11:13:06Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "fd76f3df21b04158ab2cd1d0e27f0c223b68befc",
+    "url": "https://medium.com/@AnjaliCDSouza/design-reflections-from-future-product-days-2026-7aa6eba895f5?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/@AnjaliCDSouza/design-reflections-from-future-product-days-2026-7aa6eba895f5?source=rss------ai_design-5",
+    "title": "Design reflections from Future Product Days 2026",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Anjali",
+    "publishedAt": "2026-11-03T16:31:10Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7b93fbe6eea2764a7a44186ebdd1cee0b597c614",
+    "url": "https://roadtrip.medium.com/your-agent-doesnt-need-more-data-it-needs-a-briefing-5453628be0b6?source=rss------ai_design-5",
+    "canonicalUrl": "https://roadtrip.medium.com/your-agent-doesnt-need-more-data-it-needs-a-briefing-5453628be0b6?source=rss------ai_design-5",
+    "title": "Your Agent Doesn’t Need More Data. It Needs a Briefing.",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Praasshant Dubey",
+    "publishedAt": "2026-11-03T14:49:21Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "7c38424a963b529cdc35d54c903171540c5d3fb3",
+    "url": "https://medium.com/@diywebai/diycanvas-from-sketch-to-live-website-without-writing-a-single-line-of-code-94a0cb047eaa?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/@diywebai/diycanvas-from-sketch-to-live-website-without-writing-a-single-line-of-code-94a0cb047eaa?source=rss------ai_design-5",
+    "title": "DiyCanvas: From Sketch to Live Website Without Writing a Single Line of Code",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "DiyWeb",
+    "publishedAt": "2026-11-03T14:41:26Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "1174bcf0b8d25097222575627319114e8d9f236e",
+    "url": "https://uxplanet.org/6-tricks-to-level-up-claude-design-7ed86375be49?source=rss----819cc2aaeee0---4",
+    "canonicalUrl": "https://uxplanet.org/6-tricks-to-level-up-claude-design-7ed86375be49?source=rss----819cc2aaeee0---4",
+    "title": "6 Tricks to Level Up Claude Design",
+    "source": "UX Planet",
+    "sourceTier": 3,
+    "categoryHint": "Tutorials",
+    "author": "Nick Babich",
+    "publishedAt": "2026-11-03T14:14:26Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "72685d2f89495f047fafbe9b18a578b5cb092507",
+    "url": "https://medium.com/@moirixand/diario-de-una-product-designer-explorando-ai-parte-2-d173c14329e8?source=rss------ai_design-5",
+    "canonicalUrl": "https://medium.com/@moirixand/diario-de-una-product-designer-explorando-ai-parte-2-d173c14329e8?source=rss------ai_design-5",
+    "title": "Diario de una Product Designer explorando AI — Parte 2",
+    "source": "Medium: ai-design tag",
+    "sourceTier": 3,
+    "categoryHint": "Opinion",
+    "author": "Moira Andreoli",
+    "publishedAt": "2026-11-03T11:46:56Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5257715bd16cd640b8d1b2cb83fe5664fba0e9f6",
+    "url": "https://www.figma.com/blog/hello-kitty-and-friends-in-figma/",
+    "canonicalUrl": "https://figma.com/blog/hello-kitty-and-friends-in-figma",
+    "title": "How we brought Hello Kitty® and Friends to Figma",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-02T14:58:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "5af930b44f3294c9fa5594071eb479e844af3d02",
+    "url": "https://www.figma.com/blog/figma-and-sanrio-celebrate-hello-kitty-and-friends/",
+    "canonicalUrl": "https://figma.com/blog/figma-and-sanrio-celebrate-hello-kitty-and-friends",
+    "title": "Figma and Sanrio® celebrate Hello Kitty® and the joy of making things with friends",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-02T14:00:00Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  },
+  {
+    "id": "900f8861aca16836e53faa7fb5191474625bae43",
+    "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261102",
+    "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261102",
+    "title": "UX Roundup: Practice Interviewing With AI | AI Answer Complexity | Date-Picking | NASA-TLX | Why vs. What | Activity Theory | Filtering | Commanding Heights",
+    "source": "Jakob Nielsen on UX",
+    "sourceTier": 2,
+    "categoryHint": "Opinion",
+    "author": "Jakob Nielsen",
+    "publishedAt": "2026-11-02T12:21:35Z",
+    "fetchedAt": "2026-11-09T11:13:07Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    }
+  }
+]

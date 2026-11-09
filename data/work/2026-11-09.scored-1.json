@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-09",
+  "batch": 1,
+  "items": [
+    {
+      "id": "1f0c64abe535c3dff8125c3e7fc53cd0710a133a",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 7
+      },
+      "category": "Research",
+      "tags": [
+        "ui-generation",
+        "benchmark",
+        "designer-workflow"
+      ],
+      "summary": "Benchmark paper that tests frontier AI agents across stages of professional design work, from brief to delivery.",
+      "whyItMatters": "Shows where agents still fall short of a full design workflow.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "445fe8236ac019988e393c14553930a769f84510",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "agent-skills"
+      ],
+      "summary": "Paper on recovering written skill documents from model adapters, relevant to how agent skills are packaged and inspected.",
+      "whyItMatters": "Niche, but touches how skill files relate to model behavior.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "7d9495d57b1b701dde58c683820360123afa3b72",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "image-generation",
+        "designer-workflow"
+      ],
+      "summary": "Descriptive analysis of how viral, educational and commercial uses of LLM image tools differ, built to protect user privacy.",
+      "whyItMatters": "Gives a picture of how people actually use image generation.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "8a45f6b23574a6f38b8be9a118f6ca31f12b543f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Research",
+      "tags": [
+        "agent-skills",
+        "security"
+      ],
+      "summary": "Paper tracing how backdoors can enter agent skills during automated skill optimization.",
+      "whyItMatters": "A caution if you let tools rewrite your skill files.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "6ce9fe52db65d87a4bb732b47edb1211626fbc69",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "image-generation",
+        "flux"
+      ],
+      "summary": "NVIDIA post on faster image generation with a FLUX model on Blackwell GPUs.",
+      "whyItMatters": "Faster image models mean shorter iteration loops for visual work.",
+      "organization": "nvidia"
+    },
+    {
+      "id": "ca6f08fa829e8403741135b114721d938a7d87e4",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 6,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-generation",
+        "generative-ui",
+        "vercel"
+      ],
+      "summary": "Vercel announces that Chat SDK agents can stream generative UI using its json-render format.",
+      "whyItMatters": "A concrete path for agents to return real interface components.",
+      "organization": "vercel"
+    },
+    {
+      "id": "bfcf79d47dc3abefe4ba4f5bd083dce7d3be71e3",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "figma"
+      ],
+      "summary": "Figma conversation between its CEO and a guest on the human role when creating with AI.",
+      "whyItMatters": "Context on how Figma frames the designer role as tools change.",
+      "organization": "figma"
+    },
+    {
+      "id": "0edab277d1b7c3b2294d6b8532d5eccce17225ae",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "ux-patterns",
+        "agents"
+      ],
+      "summary": "NN/g defines the term agent harness, giving UX teams shared vocabulary for agent-based products.",
+      "whyItMatters": "Shared terms help you scope and critique agent product UX.",
+      "organization": "nielsen-norman-group"
+    },
+    {
+      "id": "fa8e611759ccc35e69d64a1357311f67f6e03b7a",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tutorials",
+      "tags": [
+        "figma",
+        "ui-generation",
+        "designer-workflow"
+      ],
+      "summary": "Figma workflow walkthrough on testing ideas using code layers together with its agent.",
+      "whyItMatters": "Shows a hands-on way to prototype with Figma's agent.",
+      "organization": "figma"
+    },
+    {
+      "id": "2445379dbd1fa57718af972e865b559ad9edc1c8",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Research",
+      "tags": [
+        "image-generation"
+      ],
+      "summary": "Paper proposing context-aware autoregressive image generation and reporting emerging reasoning behavior.",
+      "whyItMatters": "Background research; little direct effect on design work yet.",
+      "organization": "arxiv-authors"
+    },
+    {
+      "id": "547f134dd51fb49672a006c2e436bbf18a38787e",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "infrastructure"
+      ],
+      "summary": "Figma engineering post about running sandboxes at scale.",
+      "whyItMatters": "Hints at the infrastructure behind agent features in Figma.",
+      "organization": "figma"
+    },
+    {
+      "id": "8d682625501f63fb4d1061bdb1fbeac07426a06c",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 8
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation",
+        "lovable"
+      ],
+      "summary": "Lovable explains how it has rebuilt its AI app builder repeatedly as models change.",
+      "whyItMatters": "Useful view of how fast UI-generation products shift under you.",
+      "organization": "lovable"
+    },
+    {
+      "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 7,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-generation",
+        "design-systems"
+      ],
+      "summary": "Hugging Face post on training a small model to produce slide decks that follow a given design language.",
+      "whyItMatters": "Points to design-system-aware generation on small models.",
+      "organization": "hugging-face"
+    },
+    {
+      "id": "26fdec23e0ba53fb58ebb2d484cd27b1ca748815",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-patterns",
+        "agents"
+      ],
+      "summary": "Essay asking who designs the stop controls for AI agents.",
+      "whyItMatters": "A prompt to design interruption and override for agent UIs.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "40e36b29035364c866012b58b4c82f6396d2fca9",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow",
+        "ethics"
+      ],
+      "summary": "Report on an indie game that markets itself as hand-drawn and anti-AI and found a large audience.",
+      "whyItMatters": "Signals audience appetite for visibly human-made art.",
+      "organization": "creative-bloq"
+    },
+    {
+      "id": "b148f2127e395a987a528b745434eec89dea1bb5",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Manifesto-style essay on design work after the AI hype cycle.",
+      "whyItMatters": "Opinion; a view on where design goes next.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "8fae653eae413ac791aa72c56100eaddaab27c51",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "ethics",
+        "visual-design"
+      ],
+      "summary": "Fast Company covers renewed debate about a Dior holiday ad and AI use.",
+      "whyItMatters": "Another data point on audience reaction to AI in ads.",
+      "organization": "dior"
+    },
+    {
+      "id": "3826c227cf4787399857bb9bafc789197ccc3a36",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-research"
+      ],
+      "summary": "Jakob Nielsen's roundup of short UX notes, including a section on slow AI.",
+      "whyItMatters": "Quick scan of current UX thinking; not new research.",
+      "organization": "nielsen-norman-group"
+    },
+    {
+      "id": "2bb369df924597abb184f11c2e62a600269052ec",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "ui-generation"
+      ],
+      "summary": "Essay on a specific interaction question raised by an AI-drawn side panel and filters.",
+      "whyItMatters": "Shows the small behavior gaps AI-generated UI leaves open.",
+      "organization": "design-systems-collective-author"
+    },
+    {
+      "id": "ce2198b45ec83b39e570fa5bfde4df9782ce3ca2",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-patterns",
+        "search"
+      ],
+      "summary": "Essay arguing exploratory search still beats a single AI answer.",
+      "whyItMatters": "Supports designing for exploration in AI search.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "cabaa2ef3d0727d16e34555d93028a4a3405c660",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 7
+      },
+      "category": "Tutorials",
+      "tags": [
+        "accessibility",
+        "ux-patterns"
+      ],
+      "summary": "Smashing Magazine guide to making immersive LLM chat interfaces more accessible.",
+      "whyItMatters": "Practical accessibility guidance for chat-style AI products.",
+      "organization": "smashing-magazine"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "0186ff350cbffb592db0c2aa4947c2645d0747e1",
+      "reason": "off-beat"
+    },
+    {
+      "id": "219f4cd13b8fe93c0ac15e79d941395136824d1c",
+      "reason": "off-beat"
+    },
+    {
+      "id": "3b5241b369e52597a4306333aeb15955b003dc14",
+      "reason": "off-beat"
+    },
+    {
+      "id": "7f00c909b0102d9c0a6b2f64f148652c3f6a327b",
+      "reason": "off-beat"
+    },
+    {
+      "id": "34aa5b1d1b261a3ec795e41337c5a7a62ada2b24",
+      "reason": "off-beat"
+    },
+    {
+      "id": "c5068dee26003945bf145909f3569cd8e3d81dee",
+      "reason": "off-beat"
+    },
+    {
+      "id": "5257715bd16cd640b8d1b2cb83fe5664fba0e9f6",
+      "reason": "off-beat"
+    },
+    {
+      "id": "5af930b44f3294c9fa5594071eb479e844af3d02",
+      "reason": "off-beat"
+    },
+    {
+      "id": "13bb20222ef8ed6eb83bf20fe45b95badff72433",
+      "reason": "promo"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

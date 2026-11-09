@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-09",
+  "batch": 2,
+  "items": [
+    {
+      "id": "70a1b0b23348536fb00f2cc12965f78c98d429fc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "ux-research"
+      ],
+      "summary": "Essay questioning whether AI is harming UX practice or magnifying existing problems.",
+      "whyItMatters": "A debate piece on AI's effect on UX craft.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "f0c4cb54d17621a9c1bfcaf4098c1354927b3099",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ui-generation",
+        "craft"
+      ],
+      "summary": "Essay on what makes generated interfaces worth caring about.",
+      "whyItMatters": "Frames the quality bar for AI-generated UI.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "5a73980a44ff30ebad7d9afd75ee1240f32e27a0",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems"
+      ],
+      "summary": "Essay on what AI has changed in design systems and what remains for humans.",
+      "whyItMatters": "Helps decide where to keep human ownership in a design system.",
+      "organization": "ux-collective-author"
+    },
+    {
+      "id": "9bcf9d6e3195dce22a38e758b90f8dd519514fd9",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "canva",
+        "design-industry"
+      ],
+      "summary": "Fast Company analysis of Canva's large layoffs and what they suggest about AI in design tools.",
+      "whyItMatters": "Context on how AI is reshaping design tool companies.",
+      "organization": "canva"
+    },
+    {
+      "id": "852d1e37aa450a0773fa0905190e8b20883940ef",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "design-systems"
+      ],
+      "summary": "Essay on balancing autonomy and alignment for AI agents.",
+      "whyItMatters": "A framing for how much freedom to give design agents.",
+      "organization": "design-systems-collective-author"
+    },
+    {
+      "id": "02eb4e6e34d4aa926b36c36229bfa9ea535c1949",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "figma",
+        "claude"
+      ],
+      "summary": "Account of a design workflow where a PM, Claude and Figma work together.",
+      "whyItMatters": "A concrete example of designing in a human and AI pair.",
+      "organization": "design-systems-collective-author"
+    },
+    {
+      "id": "0243822cb838a12a24c09e48e268b4a4cbd038f1",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents",
+        "design-systems"
+      ],
+      "summary": "Essay on humans and AI agents collaborating through shared memory.",
+      "whyItMatters": "Ideas for keeping context between designers and agents.",
+      "organization": "design-systems-collective-author"
+    },
+    {
+      "id": "55d36ba24ba00b2976cb2eb27f1df7290fa84476",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "agents"
+      ],
+      "summary": "Essay arguing agentic design systems need product memory.",
+      "whyItMatters": "Suggests recording decisions so agents can reuse them.",
+      "organization": "design-systems-collective-author"
+    },
+    {
+      "id": "900f8861aca16836e53faa7fb5191474625bae43",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-research"
+      ],
+      "summary": "Jakob Nielsen's roundup including practice interviewing with AI and AI answer complexity.",
+      "whyItMatters": "Quick scan of current UX thinking; not new research.",
+      "organization": "nielsen-norman-group"
+    },
+    {
+      "id": "7269aedfdccbe6aeb207e9cc3b8a12b5cf214a05",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "design-systems",
+        "agent-skills"
+      ],
+      "summary": "Sidebar link on what AI readiness means for a design system.",
+      "whyItMatters": "Pointer to thinking about making design systems usable by AI.",
+      "organization": "sidebar"
+    },
+    {
+      "id": "8f4c817a3bd5f956eb412756f46bbcc77a412599",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "mobile",
+        "ux-patterns"
+      ],
+      "summary": "Personal exploration of a Frontier approach to designing mobile experiences.",
+      "whyItMatters": "Individual take; limited new practice.",
+      "organization": "medium-author"
+    },
+    {
+      "id": "3229bf5988e628a616ec7b13dfc3bb9529dddabe",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "vibe-coding",
+        "designer-workflow"
+      ],
+      "summary": "Essay linking design, vibe coding and organizational change.",
+      "whyItMatters": "Relevant to designers who now ship code with AI.",
+      "organization": "bootcamp-author"
+    },
+    {
+      "id": "73ebc39cf600c6c5d74dc74a6e2877b41bb41445",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "figma",
+        "designer-workflow"
+      ],
+      "summary": "Essay asking whether Figma is still needed and what happens to designers.",
+      "whyItMatters": "Recurring debate; useful as a gauge of designer sentiment.",
+      "organization": "bootcamp-author"
+    },
+    {
+      "id": "0cfeba5c1bb52f6566e5f258b82824c075befe01",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Article on how AI is changing design from ideas to working experiences.",
+      "whyItMatters": "General overview; little new.",
+      "organization": "medium-author"
+    },
+    {
+      "id": "b7cd58670b281cf9ffca6e4f45255e99a34760fc",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-research",
+        "ai-research"
+      ],
+      "summary": "Piece on when AI-assisted discovery research can be trusted.",
+      "whyItMatters": "Raises the trust question for AI-assisted research.",
+      "organization": "bootcamp-author"
+    },
+    {
+      "id": "8ed73057abf4bca8c78071758157e98a8e0746dc",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "canva",
+        "design-industry"
+      ],
+      "summary": "Commentary on Canva's layoffs and what they mean for designers.",
+      "whyItMatters": "Reaction piece; read with the news coverage.",
+      "organization": "canva"
+    },
+    {
+      "id": "292e967b299850818f63f9b6293acd74967d23a8",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ui-generation"
+      ],
+      "summary": "Tutorial on using a GPT model for UI design.",
+      "whyItMatters": "May help compare models for UI work; check claims.",
+      "organization": "openai"
+    },
+    {
+      "id": "995ea7be162a0e3f2fa8ca14e13285454bb97bf6",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "designer-workflow"
+      ],
+      "summary": "Guide on getting more from Claude Code, aimed at designers.",
+      "whyItMatters": "General usage tips for design-adjacent coding.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "5e1b5156704dca5c09b9ddd62bef2484ab2b5b3e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 5
+      },
+      "category": "News",
+      "tags": [
+        "design-systems",
+        "agent-skills"
+      ],
+      "summary": "Sidebar link on building an AI-ready design system library.",
+      "whyItMatters": "Pointer to making component libraries machine-readable.",
+      "organization": "sidebar"
+    },
+    {
+      "id": "fd76f3df21b04158ab2cd1d0e27f0c223b68befc",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "conference"
+      ],
+      "summary": "Reflections from a product design conference.",
+      "whyItMatters": "Event notes; little new.",
+      "organization": "medium-author"
+    },
+    {
+      "id": "7b93fbe6eea2764a7a44186ebdd1cee0b597c614",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Opinion that agents need a briefing rather than more data.",
+      "whyItMatters": "Loosely related to prompting agents with context.",
+      "organization": "medium-author"
+    },
+    {
+      "id": "7c38424a963b529cdc35d54c903171540c5d3fb3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 3
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-generation",
+        "sketch-to-code"
+      ],
+      "summary": "Article about a tool that turns sketches into live websites without hand-written code.",
+      "whyItMatters": "One more sketch-to-site option to evaluate.",
+      "organization": "diycanvas"
+    },
+    {
+      "id": "72685d2f89495f047fafbe9b18a578b5cb092507",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 3
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow"
+      ],
+      "summary": "Spanish-language diary of a product designer exploring AI, part two.",
+      "whyItMatters": "Personal account of designer experimentation.",
+      "organization": "medium-author"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "84ecd190588d2ef16a189b8d1b133a87a12ece0c",
+      "reason": "promo"
+    },
+    {
+      "id": "5d09d1c4a1e92bb07ab06ea2af446dd4cea0244b",
+      "reason": "listicle"
+    },
+    {
+      "id": "a007396a71490a89a671940f8598b88b805baddd",
+      "reason": "off-beat"
+    },
+    {
+      "id": "1174bcf0b8d25097222575627319114e8d9f236e",
+      "reason": "listicle"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}
