@@ -1,0 +1,370 @@
+{
+ "date": "2026-11-16",
+ "batch": 1,
+ "items": [
+  {
+   "id": "f5c0adb3a7cb7548756108bfc6c9488f4bcac9d1",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow",
+    "figma"
+   ],
+   "summary": "Figma's own blog post on where AI fits in creative work, framing how designers might use it during the process.",
+   "whyItMatters": "Useful as Figma's stated stance on AI in design work.",
+   "organization": "figma"
+  },
+  {
+   "id": "6f448cafbd4858716251dd9c15361237403926f6",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Research",
+   "tags": [
+    "ux-research",
+    "designer-workflow"
+   ],
+   "summary": "Nielsen Norman Group piece on how UX research teams can keep pace with development teams now moving at AI speed.",
+   "whyItMatters": "Shows how researchers can adjust their cadence to AI-paced build cycles.",
+   "organization": "nielsen norman group"
+  },
+  {
+   "id": "d1e623d51577606f208f1355fa038bcf1fd76c9c",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 5,
+    "credibility": 9
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "image-generation",
+    "creative-tools"
+   ],
+   "summary": "Google Labs announces five new Flow tools that were designed by visual artists.",
+   "whyItMatters": "Worth trying if your work touches AI image and video creation.",
+   "organization": "google"
+  },
+  {
+   "id": "5aea0d5ef48ff8c0898defe0c4a7e1f4679747c3",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "figma",
+    "ui-generation",
+    "designer-workflow"
+   ],
+   "summary": "Figma walks through how 3D transforms and its agent were used to produce a product launch video.",
+   "whyItMatters": "A concrete example of using Figma's agent for motion work.",
+   "organization": "figma"
+  },
+  {
+   "id": "27668d0dd263b2a5991ab3e3948d4cdcb1b89da8",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 8
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "ui-generation",
+    "lovable"
+   ],
+   "summary": "Lovable describes how its platform helps users find and fix security issues in apps they build.",
+   "whyItMatters": "Relevant if you ship prototypes built with Lovable.",
+   "organization": "lovable"
+  },
+  {
+   "id": "66ed14c6418f09b7978d8f5a418f20d5f39ca484",
+   "scores": {
+    "importance": 6,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 9
+   },
+   "category": "News",
+   "tags": [
+    "adobe",
+    "creative-tools"
+   ],
+   "summary": "Google announces closer integration of Adobe's creative and productivity tools with its everyday apps.",
+   "whyItMatters": "Adobe tools may soon be reachable from inside Google apps you already use.",
+   "organization": "adobe"
+  },
+  {
+   "id": "bdea120a0c27b6ddb365708e1603ea4b8ebea82a",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 8
+   },
+   "category": "Tutorials",
+   "tags": [
+    "figma",
+    "ui-generation",
+    "designer-workflow"
+   ],
+   "summary": "Figma lists six simple ways to start using its agent in design work.",
+   "whyItMatters": "A quick set of starting points for trying Figma's agent.",
+   "organization": "figma"
+  },
+  {
+   "id": "f70cad4799368846b5dcbfc37ad792e94c210371",
+   "scores": {
+    "importance": 4,
+    "trend": 4,
+    "novelty": 3,
+    "credibility": 3
+   },
+   "category": "Opinion",
+   "tags": [
+    "ui-generation",
+    "aesthetics"
+   ],
+   "summary": "A promotional-style review arguing the new Claude model produces strong visual aesthetics.",
+   "whyItMatters": "Treat as a vendor-adjacent opinion; test the model on your own UI tasks.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "2a74f2fd7ffd7d6c31ea5521b1a88263ac98e693",
+   "scores": {
+    "importance": 6,
+    "trend": 4,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "ui-generation",
+    "prompting",
+    "agent-skills"
+   ],
+   "summary": "Nick Babich summarizes the official prompting guidance for the new Claude model, aimed at design work.",
+   "whyItMatters": "Gives prompting habits to try when generating UI with this model.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "17e9b89832013ba39d6d037cddf54870d24ec26f",
+   "scores": {
+    "importance": 4,
+    "trend": 4,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "ui-generation"
+   ],
+   "summary": "Nick Babich argues the new Claude model is getting less attention than it deserves for design tasks.",
+   "whyItMatters": "A second view to weigh before choosing a model for UI work.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "e7a4b9331943b7aa043fbc12bb7a4ec2cad3de33",
+   "scores": {
+    "importance": 5,
+    "trend": 4,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow",
+    "ui-generation"
+   ],
+   "summary": "Nick Babich asks whether the new Claude model could take over product design tasks.",
+   "whyItMatters": "Frames what the model can and cannot do in your daily design tasks.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "7e026260028fe763f35596ddce19958c75892ff3",
+   "scores": {
+    "importance": 5,
+    "trend": 4,
+    "novelty": 4,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "ui-generation",
+    "designer-workflow"
+   ],
+   "summary": "A hands-on look at the new Claude model for UI design that weighs quality against cost.",
+   "whyItMatters": "Helps you judge whether the quality gain justifies the price.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "5e45f3c414b036f5e9585e40e69350960db8c886",
+   "scores": {
+    "importance": 4,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "adobe",
+    "ethics",
+    "image-generation"
+   ],
+   "summary": "Creative Bloq's writer says recent developments have shaken their trust in Adobe Firefly as a safe option.",
+   "whyItMatters": "Bears on which image tools you can safely use in client work.",
+   "organization": "adobe"
+  },
+  {
+   "id": "68f8e0cf3e932c2819777aa3edda71c827d51786",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "ux-research",
+    "designer-workflow"
+   ],
+   "summary": "Jakob Nielsen's roundup of short UX items covering AI, agents, synthetic users and onboarding.",
+   "whyItMatters": "Skim for quick pointers on AI in UX practice.",
+   "organization": "nielsen norman group"
+  },
+  {
+   "id": "0f77776f7c503aeeb3abddc98bf500cb734eea6e",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "ui-generation",
+    "creative-tools"
+   ],
+   "summary": "Latent Space covers ArtCraft, a project that cloned Photoshop with AI and aims to rebuild more creative software.",
+   "whyItMatters": "An early sign of AI-built clones of design software.",
+   "organization": "artcraft"
+  },
+  {
+   "id": "7ff25f6c3d77e1f6e599a296a8935bf0c956275f",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 6
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow"
+   ],
+   "summary": "An essay arguing AI should be treated as a design material, like others designers already work with.",
+   "whyItMatters": "A framing you can borrow when discussing AI with your team.",
+   "organization": "ux collective"
+  },
+  {
+   "id": "844c926268a76779b4711fa47dcf119ca3b98977",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow"
+   ],
+   "summary": "An essay on the mental cost borne by people who use AI most effectively.",
+   "whyItMatters": "Prompts reflection on your own AI workload.",
+   "organization": "ux collective"
+  },
+  {
+   "id": "ebb2101084bef4927dc07212897bf39a19cb5224",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "Tutorials",
+   "tags": [
+    "ux-patterns",
+    "ai-products"
+   ],
+   "summary": "Smashing Magazine offers a four-question audit for deciding whether a product should add an AI feature.",
+   "whyItMatters": "Gives a checklist to challenge AI feature requests.",
+   "organization": "smashing magazine"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "1668e120e90d2f3fc13587264c18ebfe89907c54",
+   "reason": "off-beat"
+  },
+  {
+   "id": "a62157b7365e5a189530fc769c1af5fe0d6d393f",
+   "reason": "off-beat"
+  },
+  {
+   "id": "b3b36b2217305f38e086415dc0f0cd7243413410",
+   "reason": "off-beat"
+  },
+  {
+   "id": "cdb07f4f4aa3799f13f5e6924979f37f9029bd2a",
+   "reason": "off-beat"
+  },
+  {
+   "id": "aff6802cc567cefae253a360226bdf5f2f963dcc",
+   "reason": "off-beat"
+  },
+  {
+   "id": "01e9525280d458b3f7497a29fddb0b2291cdb18b",
+   "reason": "listicle"
+  },
+  {
+   "id": "44850ac5c455c0b2768213da053c7d2787d3f652",
+   "reason": "off-beat"
+  },
+  {
+   "id": "cf388cc693fbd32f92f74032edc8e7185382b8f0",
+   "reason": "off-beat"
+  },
+  {
+   "id": "4d0c29e8f59af820b01fe14a26a5fb1de072fbac",
+   "reason": "off-beat"
+  },
+  {
+   "id": "71cb7085c61894272af7b2e1a066035dff9fb4ba",
+   "reason": "off-beat"
+  },
+  {
+   "id": "139f5234195098913ab45773a04361ef0ce843d4",
+   "reason": "off-beat"
+  },
+  {
+   "id": "aae6e3d98ec72df28f8f343926b46ec6a229f0f0",
+   "reason": "off-beat"
+  }
+ ],
+ "clusterLabels": [
+  {
+   "id": "c-e3ea99d497",
+   "label": "New Claude model for UI"
+  }
+ ],
+ "fetches": []
+}

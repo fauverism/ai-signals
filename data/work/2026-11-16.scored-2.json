@@ -1,0 +1,312 @@
+{
+ "date": "2026-11-16",
+ "batch": 2,
+ "items": [
+  {
+   "id": "4f88892275cbff68afd373e831aa08f41063acd2",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "ux-research"
+   ],
+   "summary": "Jakob Nielsen argues AI makes it cheap to count free-form answers, shifting how researchers weigh open and closed questions.",
+   "whyItMatters": "May change how you design survey and interview questions.",
+   "organization": "nielsen norman group"
+  },
+  {
+   "id": "cab6adb1a4a48053073a3bf04bdca39afc45d1b2",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "design-systems",
+    "ui-generation",
+    "designer-workflow"
+   ],
+   "summary": "A hands-on guide for design and product teams on prototyping with AI inside an existing design system.",
+   "whyItMatters": "Practical steps for AI prototyping that stays on your design system.",
+   "organization": "ux collective"
+  },
+  {
+   "id": "2ec4f6ad3a8db2e8799e6730e13fb79b3221a7d9",
+   "scores": {
+    "importance": 4,
+    "trend": 0,
+    "novelty": 4,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "agents",
+    "ux-patterns"
+   ],
+   "summary": "Latent Space interview with Resend's Zeno Rocha on designing products for use by AI agents.",
+   "whyItMatters": "Hints at interface needs when agents are users.",
+   "organization": "resend"
+  },
+  {
+   "id": "7e230adb9a8030df191e6bf04f84d82d8d8ff8c4",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 6,
+    "credibility": 6
+   },
+   "category": "Tutorials",
+   "tags": [
+    "agent-skills"
+   ],
+   "summary": "Walkthrough of a session-start hook that raised how often Claude Code skills fire, from 15% to 62%.",
+   "whyItMatters": "Try it if your design skills rarely get triggered.",
+   "organization": "anthropic"
+  },
+  {
+   "id": "1216becc72ff53326a4c33be93648524250e7e24",
+   "scores": {
+    "importance": 6,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 6
+   },
+   "category": "News",
+   "tags": [
+    "adobe",
+    "creative-tools"
+   ],
+   "summary": "Fast Company reports on Adobe's push into agents across its products.",
+   "whyItMatters": "Signals where Adobe tools are heading for your workflow.",
+   "organization": "adobe"
+  },
+  {
+   "id": "f90d9ac7c62276c55ae51189e567dbd7fcd845fd",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 5
+   },
+   "category": "Opinion",
+   "tags": [
+    "design-systems",
+    "agents"
+   ],
+   "summary": "An essay on writing the rules that keep an AI agent in check after building it.",
+   "whyItMatters": "Relevant if you encode design rules for agents.",
+   "organization": "design systems collective"
+  },
+  {
+   "id": "27d03829ad08a3f27348b0bbe115fe0224a9295b",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 7
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow",
+    "ux-research"
+   ],
+   "summary": "Another Jakob Nielsen roundup touching on taste, AI teammates and new work with AI.",
+   "whyItMatters": "Skim for quick UX and AI pointers.",
+   "organization": "nielsen norman group"
+  },
+  {
+   "id": "6112cbb638ae1ea5b95e33a11768be5566da2003",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow"
+   ],
+   "summary": "An opinion piece on judging designers for the tools they use, centered on Figma.",
+   "whyItMatters": "Adds to the debate on tool use and craft credit.",
+   "organization": "bootcamp"
+  },
+  {
+   "id": "9c4df49932a56eb9ecaedcd770dadae7521446e8",
+   "scores": {
+    "importance": 5,
+    "trend": 0,
+    "novelty": 5,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "design-systems",
+    "ui-generation"
+   ],
+   "summary": "An ongoing case study of building a design system that AI tools can build from.",
+   "whyItMatters": "A worked example of AI-ready design system structure.",
+   "organization": "bootcamp"
+  },
+  {
+   "id": "2931669b856bfa8fd96beee3cd2e894664955168",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow"
+   ],
+   "summary": "An essay arguing that generating something is not designing it and expertise matters more.",
+   "whyItMatters": "Supports the case for design judgment alongside generation.",
+   "organization": "medium"
+  },
+  {
+   "id": "2f61ecbbac214d52affb847768d5d4c72c2f04d1",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 3
+   },
+   "category": "Opinion",
+   "tags": [
+    "designer-workflow"
+   ],
+   "summary": "A post on building a repeatable system for content instead of single prompts.",
+   "whyItMatters": "Minor tip on systematizing prompts.",
+   "organization": "medium"
+  },
+  {
+   "id": "e30b5fce6a579ef57d7fb0f233b50df6e6faf508",
+   "scores": {
+    "importance": 3,
+    "trend": 1,
+    "novelty": 4,
+    "credibility": 4
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "image-generation"
+   ],
+   "summary": "A platform post on running Qwen Image 2.1 with accurate typography at 2K.",
+   "whyItMatters": "Relevant if you need text rendered in generated images.",
+   "organization": "qwen"
+  },
+  {
+   "id": "a4b3baab270e1b1d5568bac73863d0296cc0dc40",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Tutorials",
+   "tags": [
+    "design-systems",
+    "designer-workflow"
+   ],
+   "summary": "French-language article on running and collaborating on a design system with an AI.",
+   "whyItMatters": "Shows one team's way of working with AI on a design system.",
+   "organization": "medium"
+  },
+  {
+   "id": "acedfa34fbffad424f81b28640f6e493c31a6084",
+   "scores": {
+    "importance": 2,
+    "trend": 0,
+    "novelty": 2,
+    "credibility": 3
+   },
+   "category": "Tutorials",
+   "tags": [
+    "image-generation"
+   ],
+   "summary": "A how-to on making a business flyer with AI tools.",
+   "whyItMatters": "Basic walkthrough for non-designers.",
+   "organization": "medium"
+  },
+  {
+   "id": "335b296d2f71c78d1efcb0d9f53b389efdbbacd4",
+   "scores": {
+    "importance": 3,
+    "trend": 0,
+    "novelty": 3,
+    "credibility": 4
+   },
+   "category": "Opinion",
+   "tags": [
+    "ux-patterns",
+    "ai-products"
+   ],
+   "summary": "A reflective piece on the experience of AI anticipating what a user wants.",
+   "whyItMatters": "Raises UX questions about predictive AI.",
+   "organization": "medium"
+  },
+  {
+   "id": "b327c3aaa3966ffd41ad14dba9df836f62f05882",
+   "scores": {
+    "importance": 5,
+    "trend": 1,
+    "novelty": 6,
+    "credibility": 5
+   },
+   "category": "Tools & Releases",
+   "tags": [
+    "agent-skills",
+    "creative-tools"
+   ],
+   "summary": "Nick Babich covers new Claude features for whiteboards, sheets and data.",
+   "whyItMatters": "New surfaces designers may use for visual thinking with Claude.",
+   "organization": "anthropic"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "8554f9a224e0622ef66023f57e6c174d6ffe1dda",
+   "reason": "off-beat"
+  },
+  {
+   "id": "7892364c6954958f6d6b8539bafc3d86c5bdde60",
+   "reason": "off-beat"
+  },
+  {
+   "id": "d57e656a36a41cef3174e71eb7ae874a43f91a8b",
+   "reason": "off-beat"
+  },
+  {
+   "id": "6fa4efafca2d62e8df8f8d062fe911667ce18410",
+   "reason": "off-beat"
+  },
+  {
+   "id": "844a86e14ffa4e96387ce692f943c7e2c4e0ad18",
+   "reason": "off-beat"
+  },
+  {
+   "id": "d491912f672d09266441e6bf97031b574053814a",
+   "reason": "listicle"
+  },
+  {
+   "id": "5d7a311bf932a86aec8cdea9f9d18792ab663fcc",
+   "reason": "off-beat"
+  },
+  {
+   "id": "d8887a09bc5ec1d43e06cbbb8d27ed94bb2ee87e",
+   "reason": "off-beat"
+  },
+  {
+   "id": "46aa2353bf0711c18f4899979b569cbbb9ab4742",
+   "reason": "listicle"
+  }
+ ],
+ "clusterLabels": [],
+ "fetches": []
+}

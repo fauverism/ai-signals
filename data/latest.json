@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T11:13:56Z",
-  "editorNote": "A quiet week, with two threads. Tools are getting better at working inside a team’s own design language: a small model trained to build decks that follow it, Vercel agents streaming real interface components, and Figma showing code layers with its agent. Alongside that, new work measures how far agents get across a full design process, and commentary on Canva’s layoffs keeps the question of the designer’s role open.",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:10:28Z",
+  "editorNote": "Adobe was the week’s main story: Google is bringing Adobe’s creative tools closer to its apps, and Fast Company says Adobe is going all in on agents. The other theme is the new Claude model, which drew five design-focused write-ups in a few days, including a prompting guide. Figma also published starter ideas for its agent, and Google Labs showed Flow tools made by artists.",
   "lead": {
-    "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
-    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "canonicalUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "source": "Hugging Face Blog",
+    "id": "66ed14c6418f09b7978d8f5a418f20d5f39ca484",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "canonicalUrl": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "source": "Google AI (The Keyword)",
     "sourceTier": 1,
-    "categoryHint": "Tools & Releases",
+    "categoryHint": "News",
     "author": null,
-    "publishedAt": "2026-11-03T16:35:36Z",
-    "fetchedAt": "2026-11-09T11:13:06Z",
+    "publishedAt": "2026-11-10T14:00:00Z",
+    "fetchedAt": "2026-11-16T11:09:17Z",
     "signals": {
       "hnPoints": null,
       "hnComments": null,
@@ -23,144 +23,70 @@
     },
     "scores": {
       "importance": 6,
-      "trend": 0,
-      "novelty": 7,
-      "credibility": 8
+      "trend": 1,
+      "novelty": 6,
+      "credibility": 9
     },
-    "total": 5.1,
-    "category": "Tools & Releases",
+    "total": 5.2,
+    "category": "News",
     "tags": [
-      "ui-generation",
-      "design-systems"
+      "adobe",
+      "creative-tools"
     ],
-    "summary": "Hugging Face post on training a small model to produce slide decks that follow a given design language.",
-    "whyItMatters": "Points to design-system-aware generation on small models.",
+    "summary": "Google announces closer integration of Adobe's creative and productivity tools with its everyday apps.",
+    "whyItMatters": "Adobe tools may soon be reachable from inside Google apps you already use.",
     "featuredSlot": "lead",
     "previouslyFeatured": false
   },
   "top": [
     {
-      "id": "fa8e611759ccc35e69d64a1357311f67f6e03b7a",
-      "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
-      "canonicalUrl": "https://figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers",
-      "title": "Workflow lab: Test ideas with code layers and the Figma agent",
-      "source": "Figma Blog",
-      "sourceTier": 1,
-      "categoryHint": "Tools & Releases",
-      "author": null,
-      "publishedAt": "2026-11-04T22:12:00Z",
-      "fetchedAt": "2026-11-09T11:13:07Z",
+      "id": "2a74f2fd7ffd7d6c31ea5521b1a88263ac98e693",
+      "url": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+      "canonicalUrl": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+      "title": "Claude Fable 5.2 Official Prompting Guide",
+      "source": "UX Planet",
+      "sourceTier": 3,
+      "categoryHint": "Tutorials",
+      "author": "Nick Babich",
+      "publishedAt": "2026-11-13T14:22:48Z",
+      "fetchedAt": "2026-11-16T11:09:18Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
         "redditScore": null,
         "githubStars": null,
         "githubStarsDelta": null,
-        "crossSourceCount": 1
+        "crossSourceCount": 2
       },
       "scores": {
         "importance": 6,
-        "trend": 1,
+        "trend": 4,
         "novelty": 5,
-        "credibility": 9
+        "credibility": 6
       },
-      "total": 5,
+      "total": 5.3,
       "category": "Tutorials",
       "tags": [
-        "figma",
         "ui-generation",
-        "designer-workflow"
+        "prompting",
+        "agent-skills"
       ],
-      "summary": "Figma workflow walkthrough on testing ideas using code layers together with its agent.",
-      "whyItMatters": "Shows a hands-on way to prototype with Figma's agent.",
+      "summary": "Nick Babich summarizes the official prompting guidance for the new Claude model, aimed at design work.",
+      "whyItMatters": "Gives prompting habits to try when generating UI with this model.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "ca6f08fa829e8403741135b114721d938a7d87e4",
-      "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "canonicalUrl": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-      "title": "Chat SDK agents can now stream generative UI with json-render",
-      "source": "Vercel Blog",
+      "id": "d1e623d51577606f208f1355fa038bcf1fd76c9c",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools",
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "source": "Google Labs (The Keyword)",
       "sourceTier": 1,
       "categoryHint": "Tools & Releases",
-      "author": "Railly Hugo, Lahfir, Ben Sabic",
-      "publishedAt": "2026-11-06T21:00:00Z",
-      "fetchedAt": "2026-11-09T11:13:07Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "scores": {
-        "importance": 6,
-        "trend": 0,
-        "novelty": 6,
-        "credibility": 9
-      },
-      "total": 5,
-      "category": "Tools & Releases",
-      "tags": [
-        "ui-generation",
-        "generative-ui",
-        "vercel"
-      ],
-      "summary": "Vercel announces that Chat SDK agents can stream generative UI using its json-render format.",
-      "whyItMatters": "A concrete path for agents to return real interface components.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "1f0c64abe535c3dff8125c3e7fc53cd0710a133a",
-      "url": "https://arxiv.org/abs/2611.08933",
-      "canonicalUrl": "https://arxiv.org/abs/2611.08933",
-      "title": "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle",
-      "source": "arXiv cs.AI",
-      "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Rong Pan, Jianqiang Wang",
-      "publishedAt": "2026-11-09T05:00:00Z",
-      "fetchedAt": "2026-11-09T11:13:06Z",
-      "signals": {
-        "hnPoints": null,
-        "hnComments": null,
-        "redditScore": null,
-        "githubStars": null,
-        "githubStarsDelta": null,
-        "crossSourceCount": 1
-      },
-      "scores": {
-        "importance": 6,
-        "trend": 0,
-        "novelty": 7,
-        "credibility": 7
-      },
-      "total": 4.9,
-      "category": "Research",
-      "tags": [
-        "ui-generation",
-        "benchmark",
-        "designer-workflow"
-      ],
-      "summary": "Benchmark paper that tests frontier AI agents across stages of professional design work, from brief to delivery.",
-      "whyItMatters": "Shows where agents still fall short of a full design workflow.",
-      "featuredSlot": "top",
-      "previouslyFeatured": false
-    },
-    {
-      "id": "0edab277d1b7c3b2294d6b8532d5eccce17225ae",
-      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "canonicalUrl": "https://nngroup.com/articles/agent-harness",
-      "title": "Agent Harness: Definition",
-      "source": "Nielsen Norman Group",
-      "sourceTier": 1,
-      "categoryHint": "Research",
-      "author": "Caleb Sponheim",
-      "publishedAt": "2026-11-06T18:00:00Z",
-      "fetchedAt": "2026-11-09T11:13:06Z",
+      "author": "Arathi Sethumadhavan",
+      "publishedAt": "2026-11-12T20:30:00Z",
+      "fetchedAt": "2026-11-16T11:09:17Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -176,27 +102,27 @@
         "credibility": 9
       },
       "total": 4.6,
-      "category": "Research",
+      "category": "Tools & Releases",
       "tags": [
-        "ux-patterns",
-        "agents"
+        "image-generation",
+        "creative-tools"
       ],
-      "summary": "NN/g defines the term agent harness, giving UX teams shared vocabulary for agent-based products.",
-      "whyItMatters": "Shared terms help you scope and critique agent product UX.",
+      "summary": "Google Labs announces five new Flow tools that were designed by visual artists.",
+      "whyItMatters": "Worth trying if your work touches AI image and video creation.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     },
     {
-      "id": "6ce9fe52db65d87a4bb732b47edb1211626fbc69",
-      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
-      "canonicalUrl": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
-      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-      "source": "NVIDIA Technical Blog",
+      "id": "bdea120a0c27b6ddb365708e1603ea4b8ebea82a",
+      "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
+      "canonicalUrl": "https://figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now",
+      "title": "6 easy ways to use the Figma agent right now",
+      "source": "Figma Blog",
       "sourceTier": 1,
       "categoryHint": "Tools & Releases",
-      "author": "Olivia Stoner",
-      "publishedAt": "2026-11-06T22:20:20Z",
-      "fetchedAt": "2026-11-09T11:13:06Z",
+      "author": null,
+      "publishedAt": "2026-11-09T21:46:00Z",
+      "fetchedAt": "2026-11-16T11:09:18Z",
       "signals": {
         "hnPoints": null,
         "hnComments": null,
@@ -206,38 +132,202 @@
         "crossSourceCount": 1
       },
       "scores": {
-        "importance": 4,
-        "trend": 1,
-        "novelty": 5,
+        "importance": 6,
+        "trend": 0,
+        "novelty": 4,
         "credibility": 8
       },
-      "total": 4.1,
-      "category": "Tools & Releases",
+      "total": 4.3,
+      "category": "Tutorials",
       "tags": [
-        "image-generation",
-        "flux"
+        "figma",
+        "ui-generation",
+        "designer-workflow"
       ],
-      "summary": "NVIDIA post on faster image generation with a FLUX model on Blackwell GPUs.",
-      "whyItMatters": "Faster image models mean shorter iteration loops for visual work.",
+      "summary": "Figma lists six simple ways to start using its agent in design work.",
+      "whyItMatters": "A quick set of starting points for trying Figma's agent.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "1216becc72ff53326a4c33be93648524250e7e24",
+      "url": "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "canonicalUrl": "https://fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+      "title": "Adobe is fully in its agent era",
+      "source": "Fast Company: Design",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jesus Diaz",
+      "publishedAt": "2026-11-10T14:00:00Z",
+      "fetchedAt": "2026-11-16T11:09:18Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "News",
+      "tags": [
+        "adobe",
+        "creative-tools"
+      ],
+      "summary": "Fast Company reports on Adobe's push into agents across its products.",
+      "whyItMatters": "Signals where Adobe tools are heading for your workflow.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "cab6adb1a4a48053073a3bf04bdca39afc45d1b2",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "canonicalUrl": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "source": "UX Collective",
+      "sourceTier": 2,
+      "categoryHint": "Opinion",
+      "author": "Christine Vallaure",
+      "publishedAt": "2026-11-10T23:34:58Z",
+      "fetchedAt": "2026-11-16T11:09:18Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "Tutorials",
+      "tags": [
+        "design-systems",
+        "ui-generation",
+        "designer-workflow"
+      ],
+      "summary": "A hands-on guide for design and product teams on prototyping with AI inside an existing design system.",
+      "whyItMatters": "Practical steps for AI prototyping that stays on your design system.",
       "featuredSlot": "top",
       "previouslyFeatured": false
     }
   ],
   "innovations": [],
-  "trending": [],
+  "trending": [
+    {
+      "id": "c-e3ea99d497",
+      "label": "New Claude model for UI",
+      "itemIds": [
+        "2a74f2fd7ffd7d6c31ea5521b1a88263ac98e693",
+        "7e026260028fe763f35596ddce19958c75892ff3",
+        "e7a4b9331943b7aa043fbc12bb7a4ec2cad3de33",
+        "17e9b89832013ba39d6d037cddf54870d24ec26f",
+        "f70cad4799368846b5dcbfc37ad792e94c210371"
+      ],
+      "leadItemId": "7e026260028fe763f35596ddce19958c75892ff3",
+      "sources": [
+        "Medium: ai-design tag",
+        "UX Planet"
+      ],
+      "trendDelta": 5
+    }
+  ],
   "byCategory": {
     "News": [
       {
-        "id": "9bcf9d6e3195dce22a38e758b90f8dd519514fd9",
-        "url": "https://www.fastcompany.com/91635513/canvas-big-layoffs-say-a-lot-about-the-ai-design-landscape?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-        "canonicalUrl": "https://fastcompany.com/91635513/canvas-big-layoffs-say-a-lot-about-the-ai-design-landscape?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
-        "title": "Canva’s big layoffs say a lot about the AI design landscape",
+        "id": "66ed14c6418f09b7978d8f5a418f20d5f39ca484",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+        "canonicalUrl": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+        "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "source": "Google AI (The Keyword)",
+        "sourceTier": 1,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-11-10T14:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:17Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 9
+        },
+        "total": 5.2,
+        "category": "News",
+        "tags": [
+          "adobe",
+          "creative-tools"
+        ],
+        "summary": "Google announces closer integration of Adobe's creative and productivity tools with its everyday apps.",
+        "whyItMatters": "Adobe tools may soon be reachable from inside Google apps you already use.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1216becc72ff53326a4c33be93648524250e7e24",
+        "url": "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "canonicalUrl": "https://fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+        "title": "Adobe is fully in its agent era",
         "source": "Fast Company: Design",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Grace Snelling",
-        "publishedAt": "2026-11-04T19:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "Jesus Diaz",
+        "publishedAt": "2026-11-10T14:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "News",
+        "tags": [
+          "adobe",
+          "creative-tools"
+        ],
+        "summary": "Fast Company reports on Adobe's push into agents across its products.",
+        "whyItMatters": "Signals where Adobe tools are heading for your workflow.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0f77776f7c503aeeb3abddc98bf500cb734eea6e",
+        "url": "https://latent.space/p/artcraft/",
+        "canonicalUrl": "https://latent.space/p/artcraft",
+        "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "source": "Latent Space",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Richard MacManus",
+        "publishedAt": "2026-11-13T04:17:25Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -249,103 +339,31 @@
         "scores": {
           "importance": 5,
           "trend": 0,
-          "novelty": 4,
+          "novelty": 6,
           "credibility": 6
         },
-        "total": 3.7,
+        "total": 4.2,
         "category": "News",
         "tags": [
-          "canva",
-          "design-industry"
+          "ui-generation",
+          "creative-tools"
         ],
-        "summary": "Fast Company analysis of Canva's large layoffs and what they suggest about AI in design tools.",
-        "whyItMatters": "Context on how AI is reshaping design tool companies.",
+        "summary": "Latent Space covers ArtCraft, a project that cloned Photoshop with AI and aims to rebuild more creative software.",
+        "whyItMatters": "An early sign of AI-built clones of design software.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "5e1b5156704dca5c09b9ddd62bef2484ab2b5b3e",
-        "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-        "canonicalUrl": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-        "title": "Building an AI-ready design system library",
-        "source": "Sidebar",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-11-04T06:42:05Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.2,
-        "category": "News",
-        "tags": [
-          "design-systems",
-          "agent-skills"
-        ],
-        "summary": "Sidebar link on building an AI-ready design system library.",
-        "whyItMatters": "Pointer to making component libraries machine-readable.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "7269aedfdccbe6aeb207e9cc3b8a12b5cf214a05",
-        "url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
-        "canonicalUrl": "https://seanvoisen.com/writing/design-system-ai-readiness",
-        "title": "What does design system AI readiness mean, anyway?",
-        "source": "Sidebar",
-        "sourceTier": 3,
-        "categoryHint": "News",
-        "author": null,
-        "publishedAt": "2026-11-09T05:03:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.2,
-        "category": "News",
-        "tags": [
-          "design-systems",
-          "agent-skills"
-        ],
-        "summary": "Sidebar link on what AI readiness means for a design system.",
-        "whyItMatters": "Pointer to thinking about making design systems usable by AI.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "8fae653eae413ac791aa72c56100eaddaab27c51",
-        "url": "https://www.fastcompany.com/91636722/dior-holiday-ad-is-triggering-yet-another-ai-debate?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-        "canonicalUrl": "https://fastcompany.com/91636722/dior-holiday-ad-is-triggering-yet-another-ai-debate?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
-        "title": "Dior’s holiday ad triggers new AI debate",
-        "source": "Fast Company: Design",
+        "id": "2ec4f6ad3a8db2e8799e6730e13fb79b3221a7d9",
+        "url": "https://latent.space/p/resend/",
+        "canonicalUrl": "https://latent.space/p/resend",
+        "title": "Designing for Agents — Zeno Rocha, Resend",
+        "source": "Latent Space",
         "sourceTier": 2,
         "categoryHint": "News",
-        "author": "Jesus Diaz",
-        "publishedAt": "2026-11-06T20:15:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "swyx .ai",
+        "publishedAt": "2026-11-10T20:05:17Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -357,69 +375,108 @@
         "scores": {
           "importance": 4,
           "trend": 0,
-          "novelty": 3,
+          "novelty": 4,
           "credibility": 6
         },
-        "total": 3.1,
+        "total": 3.3,
         "category": "News",
         "tags": [
-          "ethics",
-          "visual-design"
+          "agents",
+          "ux-patterns"
         ],
-        "summary": "Fast Company covers renewed debate about a Dior holiday ad and AI use.",
-        "whyItMatters": "Another data point on audience reaction to AI in ads.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "40e36b29035364c866012b58b4c82f6396d2fca9",
-        "url": "https://www.creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
-        "canonicalUrl": "https://creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
-        "title": "An anti-AI indie game about keeping hand-drawn fish has become a surprise viral hit",
-        "source": "Creative Bloq",
-        "sourceTier": 2,
-        "categoryHint": "News",
-        "author": "Joe Foley",
-        "publishedAt": "2026-11-09T08:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 6
-        },
-        "total": 2.7,
-        "category": "News",
-        "tags": [
-          "designer-workflow",
-          "ethics"
-        ],
-        "summary": "Report on an indie game that markets itself as hand-drawn and anti-AI and found a large audience.",
-        "whyItMatters": "Signals audience appetite for visibly human-made art.",
+        "summary": "Latent Space interview with Resend's Zeno Rocha on designing products for use by AI agents.",
+        "whyItMatters": "Hints at interface needs when agents are users.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Research": [
       {
-        "id": "1f0c64abe535c3dff8125c3e7fc53cd0710a133a",
-        "url": "https://arxiv.org/abs/2611.08933",
-        "canonicalUrl": "https://arxiv.org/abs/2611.08933",
-        "title": "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle",
-        "source": "arXiv cs.AI",
+        "id": "6f448cafbd4858716251dd9c15361237403926f6",
+        "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "canonicalUrl": "https://nngroup.com/articles/research-in-the-loop",
+        "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+        "source": "Nielsen Norman Group",
         "sourceTier": 1,
         "categoryHint": "Research",
-        "author": "Rong Pan, Jianqiang Wang",
-        "publishedAt": "2026-11-09T05:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
+        "author": "Tony Alicea",
+        "publishedAt": "2026-11-13T18:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 8
+        },
+        "total": 4,
+        "category": "Research",
+        "tags": [
+          "ux-research",
+          "designer-workflow"
+        ],
+        "summary": "Nielsen Norman Group piece on how UX research teams can keep pace with development teams now moving at AI speed.",
+        "whyItMatters": "Shows how researchers can adjust their cadence to AI-paced build cycles.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "2a74f2fd7ffd7d6c31ea5521b1a88263ac98e693",
+        "url": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+        "title": "Claude Fable 5.2 Official Prompting Guide",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-13T14:22:48Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 4,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 5.3,
+        "category": "Tutorials",
+        "tags": [
+          "ui-generation",
+          "prompting",
+          "agent-skills"
+        ],
+        "summary": "Nick Babich summarizes the official prompting guidance for the new Claude model, aimed at design work.",
+        "whyItMatters": "Gives prompting habits to try when generating UI with this model.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "bdea120a0c27b6ddb365708e1603ea4b8ebea82a",
+        "url": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/",
+        "canonicalUrl": "https://figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now",
+        "title": "6 easy ways to use the Figma agent right now",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-09T21:46:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -431,32 +488,69 @@
         "scores": {
           "importance": 6,
           "trend": 0,
-          "novelty": 7,
-          "credibility": 7
+          "novelty": 4,
+          "credibility": 8
         },
-        "total": 4.9,
-        "category": "Research",
+        "total": 4.3,
+        "category": "Tutorials",
         "tags": [
+          "figma",
           "ui-generation",
-          "benchmark",
           "designer-workflow"
         ],
-        "summary": "Benchmark paper that tests frontier AI agents across stages of professional design work, from brief to delivery.",
-        "whyItMatters": "Shows where agents still fall short of a full design workflow.",
+        "summary": "Figma lists six simple ways to start using its agent in design work.",
+        "whyItMatters": "A quick set of starting points for trying Figma's agent.",
         "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "0edab277d1b7c3b2294d6b8532d5eccce17225ae",
-        "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-        "canonicalUrl": "https://nngroup.com/articles/agent-harness",
-        "title": "Agent Harness: Definition",
-        "source": "Nielsen Norman Group",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Caleb Sponheim",
-        "publishedAt": "2026-11-06T18:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
+        "id": "cab6adb1a4a48053073a3bf04bdca39afc45d1b2",
+        "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+        "canonicalUrl": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+        "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+        "source": "UX Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Christine Vallaure",
+        "publishedAt": "2026-11-10T23:34:58Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "Tutorials",
+        "tags": [
+          "design-systems",
+          "ui-generation",
+          "designer-workflow"
+        ],
+        "summary": "A hands-on guide for design and product teams on prototyping with AI inside an existing design system.",
+        "whyItMatters": "Practical steps for AI prototyping that stays on your design system.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7e230adb9a8030df191e6bf04f84d82d8d8ff8c4",
+        "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
+        "canonicalUrl": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62",
+        "title": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Serhii Romanov",
+        "publishedAt": "2026-11-10T15:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -467,32 +561,67 @@
         },
         "scores": {
           "importance": 5,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 9
+          "trend": 0,
+          "novelty": 6,
+          "credibility": 6
         },
-        "total": 4.6,
-        "category": "Research",
+        "total": 4.2,
+        "category": "Tutorials",
         "tags": [
-          "ux-patterns",
-          "agents"
+          "agent-skills"
         ],
-        "summary": "NN/g defines the term agent harness, giving UX teams shared vocabulary for agent-based products.",
-        "whyItMatters": "Shared terms help you scope and critique agent product UX.",
-        "featuredSlot": "top",
+        "summary": "Walkthrough of a session-start hook that raised how often Claude Code skills fire, from 15% to 62%.",
+        "whyItMatters": "Try it if your design skills rarely get triggered.",
+        "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "7d9495d57b1b701dde58c683820360123afa3b72",
-        "url": "https://arxiv.org/abs/2611.08749",
-        "canonicalUrl": "https://arxiv.org/abs/2611.08749",
-        "title": "How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis",
-        "source": "arXiv cs.AI",
+        "id": "ebb2101084bef4927dc07212897bf39a19cb5224",
+        "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+        "canonicalUrl": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams",
+        "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+        "source": "Smashing Magazine",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Victor Yocco",
+        "publishedAt": "2026-11-12T10:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.8,
+        "category": "Tutorials",
+        "tags": [
+          "ux-patterns",
+          "ai-products"
+        ],
+        "summary": "Smashing Magazine offers a four-question audit for deciding whether a product should add an AI feature.",
+        "whyItMatters": "Gives a checklist to challenge AI feature requests.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5aea0d5ef48ff8c0898defe0c4a7e1f4679747c3",
+        "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+        "canonicalUrl": "https://figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life",
+        "title": "How 3D transforms and Figma’s agent brought a launch video to life",
+        "source": "Figma Blog",
         "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Will Tucker-Ray, Marika Swanberg, Alexander Knop, Marvin Chow, Eric Culbertson, Julian Jacobs, Pritish Kamath, et al.",
-        "publishedAt": "2026-11-09T05:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-12T14:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -504,212 +633,32 @@
         "scores": {
           "importance": 4,
           "trend": 0,
-          "novelty": 5,
-          "credibility": 6
+          "novelty": 4,
+          "credibility": 8
         },
         "total": 3.6,
-        "category": "Research",
-        "tags": [
-          "image-generation",
-          "designer-workflow"
-        ],
-        "summary": "Descriptive analysis of how viral, educational and commercial uses of LLM image tools differ, built to protect user privacy.",
-        "whyItMatters": "Gives a picture of how people actually use image generation.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "8a45f6b23574a6f38b8be9a118f6ca31f12b543f",
-        "url": "https://arxiv.org/abs/2611.09348",
-        "canonicalUrl": "https://arxiv.org/abs/2611.09348",
-        "title": "When Feedback Becomes a Backdoor: Tracing Backdoor Skill Formation in Text-Space Skill Optimization",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Louise Nayeong Koh, Yaechan Lee, Myeongjong Lee, Doyeon Kim, Juyoung Park, Seunggyu Kim, Inseo Kim, et al.",
-        "publishedAt": "2026-11-09T05:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 3,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 6
-        },
-        "total": 3.2,
-        "category": "Research",
-        "tags": [
-          "agent-skills",
-          "security"
-        ],
-        "summary": "Paper tracing how backdoors can enter agent skills during automated skill optimization.",
-        "whyItMatters": "A caution if you let tools rewrite your skill files.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "445fe8236ac019988e393c14553930a769f84510",
-        "url": "https://arxiv.org/abs/2611.09454",
-        "canonicalUrl": "https://arxiv.org/abs/2611.09454",
-        "title": "From LoRA to Language: Recovering Skill Documents from Adapters",
-        "source": "arXiv cs.AI",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": "Saranya Dintakurthy Swadha, Pavan C Shekar, Arpit Jain, Aswanth Krishnan",
-        "publishedAt": "2026-11-09T05:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 6
-        },
-        "total": 2.6,
-        "category": "Research",
-        "tags": [
-          "agent-skills"
-        ],
-        "summary": "Paper on recovering written skill documents from model adapters, relevant to how agent skills are packaged and inspected.",
-        "whyItMatters": "Niche, but touches how skill files relate to model behavior.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2445379dbd1fa57718af972e865b559ad9edc1c8",
-        "url": "https://tldr.takara.ai/p/2611.06838",
-        "canonicalUrl": "https://tldr.takara.ai/p/2611.06838",
-        "title": "Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties",
-        "source": "Hugging Face Daily Papers",
-        "sourceTier": 1,
-        "categoryHint": "Research",
-        "author": null,
-        "publishedAt": "2026-11-04T17:54:14Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 2,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 2.5,
-        "category": "Research",
-        "tags": [
-          "image-generation"
-        ],
-        "summary": "Paper proposing context-aware autoregressive image generation and reporting emerging reasoning behavior.",
-        "whyItMatters": "Background research; little direct effect on design work yet.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      }
-    ],
-    "Tutorials": [
-      {
-        "id": "fa8e611759ccc35e69d64a1357311f67f6e03b7a",
-        "url": "https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/",
-        "canonicalUrl": "https://figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers",
-        "title": "Workflow lab: Test ideas with code layers and the Figma agent",
-        "source": "Figma Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-11-04T22:12:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 1,
-          "novelty": 5,
-          "credibility": 9
-        },
-        "total": 5,
         "category": "Tutorials",
         "tags": [
           "figma",
           "ui-generation",
           "designer-workflow"
         ],
-        "summary": "Figma workflow walkthrough on testing ideas using code layers together with its agent.",
-        "whyItMatters": "Shows a hands-on way to prototype with Figma's agent.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "cabaa2ef3d0727d16e34555d93028a4a3405c660",
-        "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-        "canonicalUrl": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible",
-        "title": "Making Immersive LLM Chat Experiences More Accessible",
-        "source": "Smashing Magazine",
-        "sourceTier": 2,
-        "categoryHint": "Tutorials",
-        "author": "Eric Bailey",
-        "publishedAt": "2026-11-05T13:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 5,
-          "trend": 0,
-          "novelty": 5,
-          "credibility": 7
-        },
-        "total": 4.1,
-        "category": "Tutorials",
-        "tags": [
-          "accessibility",
-          "ux-patterns"
-        ],
-        "summary": "Smashing Magazine guide to making immersive LLM chat interfaces more accessible.",
-        "whyItMatters": "Practical accessibility guidance for chat-style AI products.",
+        "summary": "Figma walks through how 3D transforms and its agent were used to produce a product launch video.",
+        "whyItMatters": "A concrete example of using Figma's agent for motion work.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "292e967b299850818f63f9b6293acd74967d23a8",
-        "url": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
-        "canonicalUrl": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
-        "title": "GPT-6.1 Terra for UI Design",
-        "source": "UX Planet",
+        "id": "a4b3baab270e1b1d5568bac73863d0296cc0dc40",
+        "url": "https://www.designsystemscollective.com/piloter-et-collaborer-sur-un-design-system-avec-une-ia-b959ab3eb573?source=rss------ai_design-5",
+        "canonicalUrl": "https://designsystemscollective.com/piloter-et-collaborer-sur-un-design-system-avec-une-ia-b959ab3eb573?source=rss------ai_design-5",
+        "title": "Piloter et collaborer sur un design system avec une IA",
+        "source": "Medium: ai-design tag",
         "sourceTier": 3,
-        "categoryHint": "Tutorials",
-        "author": "Nick Babich",
-        "publishedAt": "2026-11-06T14:13:43Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "categoryHint": "Opinion",
+        "author": "Guillaume Caillet",
+        "publishedAt": "2026-11-13T17:30:47Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -720,31 +669,32 @@
         },
         "scores": {
           "importance": 3,
-          "trend": 1,
+          "trend": 0,
           "novelty": 3,
-          "credibility": 3
+          "credibility": 4
         },
-        "total": 2.5,
+        "total": 2.4,
         "category": "Tutorials",
         "tags": [
-          "ui-generation"
+          "design-systems",
+          "designer-workflow"
         ],
-        "summary": "Tutorial on using a GPT model for UI design.",
-        "whyItMatters": "May help compare models for UI work; check claims.",
+        "summary": "French-language article on running and collaborating on a design system with an AI.",
+        "whyItMatters": "Shows one team's way of working with AI on a design system.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "995ea7be162a0e3f2fa8ca14e13285454bb97bf6",
-        "url": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
-        "canonicalUrl": "https://uxplanet.org/how-to-become-one-of-the-top-1-most-effective-claude-code-users-7c2ebe0c2afc?source=rss----819cc2aaeee0---4",
-        "title": "How to Become One of the Top 1% Most Effective Claude Code Users",
-        "source": "UX Planet",
+        "id": "acedfa34fbffad424f81b28640f6e493c31a6084",
+        "url": "https://medium.com/@bedrockry/how-to-design-a-business-flyer-with-ai-ebdb0701a3fb?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@bedrockry/how-to-design-a-business-flyer-with-ai-ebdb0701a3fb?source=rss------ai_design-5",
+        "title": "How To Design A Business Flyer With AI",
+        "source": "Medium: ai-design tag",
         "sourceTier": 3,
-        "categoryHint": "Tutorials",
-        "author": "Nick Babich",
-        "publishedAt": "2026-11-04T13:28:42Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "categoryHint": "Opinion",
+        "author": "Bedrock Ry",
+        "publishedAt": "2026-11-13T08:29:59Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -762,27 +712,26 @@
         "total": 1.7,
         "category": "Tutorials",
         "tags": [
-          "claude-code",
-          "designer-workflow"
+          "image-generation"
         ],
-        "summary": "Guide on getting more from Claude Code, aimed at designers.",
-        "whyItMatters": "General usage tips for design-adjacent coding.",
+        "summary": "A how-to on making a business flyer with AI tools.",
+        "whyItMatters": "Basic walkthrough for non-designers.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ],
     "Tools & Releases": [
       {
-        "id": "bc4177032a04e266005389ab50fe48dec84e39b0",
-        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "canonicalUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "title": "Palette: teaching a small model to build decks in your design language",
-        "source": "Hugging Face Blog",
+        "id": "d1e623d51577606f208f1355fa038bcf1fd76c9c",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+        "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools",
+        "title": "5 new Google Flow Tools designed by visual artists",
+        "source": "Google Labs (The Keyword)",
         "sourceTier": 1,
         "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-11-03T16:35:36Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
+        "author": "Arathi Sethumadhavan",
+        "publishedAt": "2026-11-12T20:30:00Z",
+        "fetchedAt": "2026-11-16T11:09:17Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -792,106 +741,69 @@
           "crossSourceCount": 1
         },
         "scores": {
-          "importance": 6,
-          "trend": 0,
-          "novelty": 7,
-          "credibility": 8
-        },
-        "total": 5.1,
-        "category": "Tools & Releases",
-        "tags": [
-          "ui-generation",
-          "design-systems"
-        ],
-        "summary": "Hugging Face post on training a small model to produce slide decks that follow a given design language.",
-        "whyItMatters": "Points to design-system-aware generation on small models.",
-        "featuredSlot": "lead",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "ca6f08fa829e8403741135b114721d938a7d87e4",
-        "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-        "canonicalUrl": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-        "title": "Chat SDK agents can now stream generative UI with json-render",
-        "source": "Vercel Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Railly Hugo, Lahfir, Ben Sabic",
-        "publishedAt": "2026-11-06T21:00:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 6,
-          "trend": 0,
-          "novelty": 6,
-          "credibility": 9
-        },
-        "total": 5,
-        "category": "Tools & Releases",
-        "tags": [
-          "ui-generation",
-          "generative-ui",
-          "vercel"
-        ],
-        "summary": "Vercel announces that Chat SDK agents can stream generative UI using its json-render format.",
-        "whyItMatters": "A concrete path for agents to return real interface components.",
-        "featuredSlot": "top",
-        "previouslyFeatured": false
-      },
-      {
-        "id": "6ce9fe52db65d87a4bb732b47edb1211626fbc69",
-        "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
-        "canonicalUrl": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
-        "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-        "source": "NVIDIA Technical Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Olivia Stoner",
-        "publishedAt": "2026-11-06T22:20:20Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
+          "importance": 5,
           "trend": 1,
           "novelty": 5,
-          "credibility": 8
+          "credibility": 9
         },
-        "total": 4.1,
+        "total": 4.6,
         "category": "Tools & Releases",
         "tags": [
           "image-generation",
-          "flux"
+          "creative-tools"
         ],
-        "summary": "NVIDIA post on faster image generation with a FLUX model on Blackwell GPUs.",
-        "whyItMatters": "Faster image models mean shorter iteration loops for visual work.",
+        "summary": "Google Labs announces five new Flow tools that were designed by visual artists.",
+        "whyItMatters": "Worth trying if your work touches AI image and video creation.",
         "featuredSlot": "top",
         "previouslyFeatured": false
       },
       {
-        "id": "547f134dd51fb49672a006c2e436bbf18a38787e",
-        "url": "https://www.figma.com/blog/how-figma-manages-sandboxes-at-scale/",
-        "canonicalUrl": "https://figma.com/blog/how-figma-manages-sandboxes-at-scale",
-        "title": "How Figma manages sandboxes at scale",
-        "source": "Figma Blog",
+        "id": "b327c3aaa3966ffd41ad14dba9df836f62f05882",
+        "url": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
+        "title": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-12T14:13:39Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 6,
+          "credibility": 5
+        },
+        "total": 4.3,
+        "category": "Tools & Releases",
+        "tags": [
+          "agent-skills",
+          "creative-tools"
+        ],
+        "summary": "Nick Babich covers new Claude features for whiteboards, sheets and data.",
+        "whyItMatters": "New surfaces designers may use for visual thinking with Claude.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "27668d0dd263b2a5991ab3e3948d4cdcb1b89da8",
+        "url": "https://lovable.dev/blog/find-it-fix-it-ship-it",
+        "canonicalUrl": "https://lovable.dev/blog/find-it-fix-it-ship-it",
+        "title": "Find it, fix it, ship it: building secure apps on Lovable",
+        "source": "Lovable Blog",
         "sourceTier": 1,
         "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-11-04T16:23:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "Igor Andriushchenko",
+        "publishedAt": "2026-11-10T14:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -909,25 +821,25 @@
         "total": 3,
         "category": "Tools & Releases",
         "tags": [
-          "figma",
-          "infrastructure"
+          "ui-generation",
+          "lovable"
         ],
-        "summary": "Figma engineering post about running sandboxes at scale.",
-        "whyItMatters": "Hints at the infrastructure behind agent features in Figma.",
+        "summary": "Lovable describes how its platform helps users find and fix security issues in apps they build.",
+        "whyItMatters": "Relevant if you ship prototypes built with Lovable.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "7c38424a963b529cdc35d54c903171540c5d3fb3",
-        "url": "https://medium.com/@diywebai/diycanvas-from-sketch-to-live-website-without-writing-a-single-line-of-code-94a0cb047eaa?source=rss------ai_design-5",
-        "canonicalUrl": "https://medium.com/@diywebai/diycanvas-from-sketch-to-live-website-without-writing-a-single-line-of-code-94a0cb047eaa?source=rss------ai_design-5",
-        "title": "DiyCanvas: From Sketch to Live Website Without Writing a Single Line of Code",
+        "id": "e30b5fce6a579ef57d7fb0f233b50df6e6faf508",
+        "url": "https://medium.com/@pixeldojo/qwen-image-2-1-exact-type-at-native-2k-on-pixeldojo-2c3c39f5f84f?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@pixeldojo/qwen-image-2-1-exact-type-at-native-2k-on-pixeldojo-2c3c39f5f84f?source=rss------ai_design-5",
+        "title": "Qwen Image 2.1: exact type at native 2K on PixelDojo",
         "source": "Medium: ai-design tag",
         "sourceTier": 3,
         "categoryHint": "Opinion",
-        "author": "DiyWeb",
-        "publishedAt": "2026-11-03T14:41:26Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "PixelDojo",
+        "publishedAt": "2026-11-14T17:48:12Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -938,18 +850,17 @@
         },
         "scores": {
           "importance": 3,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 3
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 4
         },
-        "total": 2.3,
+        "total": 2.9,
         "category": "Tools & Releases",
         "tags": [
-          "ui-generation",
-          "sketch-to-code"
+          "image-generation"
         ],
-        "summary": "Article about a tool that turns sketches into live websites without hand-written code.",
-        "whyItMatters": "One more sketch-to-site option to evaluate.",
+        "summary": "A platform post on running Qwen Image 2.1 with accurate typography at 2K.",
+        "whyItMatters": "Relevant if you need text rendered in generated images.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
@@ -958,16 +869,160 @@
     "Business": [],
     "Opinion": [
       {
-        "id": "8d682625501f63fb4d1061bdb1fbeac07426a06c",
-        "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
-        "canonicalUrl": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
-        "title": "How we built Lovable, and why we keep rebuilding it",
-        "source": "Lovable Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": "Anton Osika",
-        "publishedAt": "2026-11-04T12:30:00Z",
-        "fetchedAt": "2026-11-09T11:13:06Z",
+        "id": "7e026260028fe763f35596ddce19958c75892ff3",
+        "url": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+        "title": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-09T22:55:33Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 4.5,
+        "category": "Opinion",
+        "tags": [
+          "ui-generation",
+          "designer-workflow"
+        ],
+        "summary": "A hands-on look at the new Claude model for UI design that weighs quality against cost.",
+        "whyItMatters": "Helps you judge whether the quality gain justifies the price.",
+        "featuredSlot": "trending",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "e7a4b9331943b7aa043fbc12bb7a4ec2cad3de33",
+        "url": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+        "title": "Can Claude Fable 5.2 Replace Product Designers?",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-10T14:15:13Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 4,
+          "novelty": 4,
+          "credibility": 5
+        },
+        "total": 4.5,
+        "category": "Opinion",
+        "tags": [
+          "designer-workflow",
+          "ui-generation"
+        ],
+        "summary": "Nick Babich asks whether the new Claude model could take over product design tasks.",
+        "whyItMatters": "Frames what the model can and cannot do in your daily design tasks.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "17e9b89832013ba39d6d037cddf54870d24ec26f",
+        "url": "https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4",
+        "title": "Why Nobody Is Talking About Claude Fable 5.2",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-11T20:10:57Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 4,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.9,
+        "category": "Opinion",
+        "tags": [
+          "ui-generation"
+        ],
+        "summary": "Nick Babich argues the new Claude model is getting less attention than it deserves for design tasks.",
+        "whyItMatters": "A second view to weigh before choosing a model for UI work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5e45f3c414b036f5e9585e40e69350960db8c886",
+        "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+        "canonicalUrl": "https://creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+        "title": "I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure",
+        "source": "Creative Bloq",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Ian Dean",
+        "publishedAt": "2026-11-15T14:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.6,
+        "category": "Opinion",
+        "tags": [
+          "adobe",
+          "ethics",
+          "image-generation"
+        ],
+        "summary": "Creative Bloq's writer says recent developments have shaken their trust in Adobe Firefly as a safe option.",
+        "whyItMatters": "Bears on which image tools you can safely use in client work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "9c4df49932a56eb9ecaedcd770dadae7521446e8",
+        "url": "https://medium.com/design-bootcamp/case-study-a-design-system-ai-can-build-from-ongoing-9da2b424d869?source=rss----48e972f5c24e---4",
+        "canonicalUrl": "https://medium.com/design-bootcamp/case-study-a-design-system-ai-can-build-from-ongoing-9da2b424d869?source=rss----48e972f5c24e---4",
+        "title": "Case Study: A Design System AI Can Build From (Ongoing)",
+        "source": "Bootcamp (UX publication)",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Temi Owoade",
+        "publishedAt": "2026-11-16T10:15:13Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -979,67 +1034,31 @@
         "scores": {
           "importance": 5,
           "trend": 0,
-          "novelty": 4,
-          "credibility": 8
-        },
-        "total": 4,
-        "category": "Opinion",
-        "tags": [
-          "ui-generation",
-          "lovable"
-        ],
-        "summary": "Lovable explains how it has rebuilt its AI app builder repeatedly as models change.",
-        "whyItMatters": "Useful view of how fast UI-generation products shift under you.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "bfcf79d47dc3abefe4ba4f5bd083dce7d3be71e3",
-        "url": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
-        "canonicalUrl": "https://figma.com/blog/in-conversation-dylan-field-and-david-friedberg",
-        "title": "In conversation: Dylan Field and David Friedberg on the human role in creating with AI",
-        "source": "Figma Blog",
-        "sourceTier": 1,
-        "categoryHint": "Tools & Releases",
-        "author": null,
-        "publishedAt": "2026-11-06T20:31:00Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 8
+          "novelty": 5,
+          "credibility": 4
         },
         "total": 3.6,
         "category": "Opinion",
         "tags": [
-          "designer-workflow",
-          "figma"
+          "design-systems",
+          "ui-generation"
         ],
-        "summary": "Figma conversation between its CEO and a guest on the human role when creating with AI.",
-        "whyItMatters": "Context on how Figma frames the designer role as tools change.",
+        "summary": "An ongoing case study of building a design system that AI tools can build from.",
+        "whyItMatters": "A worked example of AI-ready design system structure.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "26fdec23e0ba53fb58ebb2d484cd27b1ca748815",
-        "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
-        "canonicalUrl": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
-        "title": "Everyone is building AI agents. Who’s designing the stop button?",
-        "source": "UX Collective",
-        "sourceTier": 2,
+        "id": "f70cad4799368846b5dcbfc37ad792e94c210371",
+        "url": "https://medium.com/@302.AI/claude-fable-5-2-review-the-top-tier-aesthetic-model-b989beadde0f?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@302.AI/claude-fable-5-2-review-the-top-tier-aesthetic-model-b989beadde0f?source=rss------ai_design-5",
+        "title": "Claude Fable 5.2 Review: The Top Tier Aesthetic Model",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
         "categoryHint": "Opinion",
-        "author": "Michał Krztoń",
-        "publishedAt": "2026-11-03T22:40:34Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "302.AI",
+        "publishedAt": "2026-11-16T07:27:17Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1050,32 +1069,32 @@
         },
         "scores": {
           "importance": 4,
-          "trend": 1,
-          "novelty": 4,
-          "credibility": 6
+          "trend": 4,
+          "novelty": 3,
+          "credibility": 3
         },
         "total": 3.6,
         "category": "Opinion",
         "tags": [
-          "ux-patterns",
-          "agents"
+          "ui-generation",
+          "aesthetics"
         ],
-        "summary": "Essay asking who designs the stop controls for AI agents.",
-        "whyItMatters": "A prompt to design interruption and override for agent UIs.",
+        "summary": "A promotional-style review arguing the new Claude model produces strong visual aesthetics.",
+        "whyItMatters": "Treat as a vendor-adjacent opinion; test the model on your own UI tasks.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "55d36ba24ba00b2976cb2eb27f1df7290fa84476",
-        "url": "https://www.designsystemscollective.com/your-agentic-design-system-needs-product-memory-ac0037b69b23?source=rss----dbd299f90c1d---4",
-        "canonicalUrl": "https://designsystemscollective.com/your-agentic-design-system-needs-product-memory-ac0037b69b23?source=rss----dbd299f90c1d---4",
-        "title": "Your Agentic Design System Needs Product Memory",
-        "source": "Design Systems Collective",
+        "id": "4f88892275cbff68afd373e831aa08f41063acd2",
+        "url": "https://jakobnielsenphd.substack.com/p/open-closed-questions",
+        "canonicalUrl": "https://jakobnielsenphd.substack.com/p/open-closed-questions",
+        "title": "Closed vs. Open Questions in User Research: AI Makes Free-Form Answers Cheap to Count",
+        "source": "Jakob Nielsen on UX",
         "sourceTier": 2,
         "categoryHint": "Opinion",
-        "author": "Kartva",
-        "publishedAt": "2026-11-04T08:23:10Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "Jakob Nielsen",
+        "publishedAt": "2026-11-11T12:21:31Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1088,30 +1107,29 @@
           "importance": 4,
           "trend": 0,
           "novelty": 4,
-          "credibility": 5
+          "credibility": 7
         },
-        "total": 3.2,
+        "total": 3.5,
         "category": "Opinion",
         "tags": [
-          "design-systems",
-          "agents"
+          "ux-research"
         ],
-        "summary": "Essay arguing agentic design systems need product memory.",
-        "whyItMatters": "Suggests recording decisions so agents can reuse them.",
+        "summary": "Jakob Nielsen argues AI makes it cheap to count free-form answers, shifting how researchers weigh open and closed questions.",
+        "whyItMatters": "May change how you design survey and interview questions.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "02eb4e6e34d4aa926b36c36229bfa9ea535c1949",
-        "url": "https://www.designsystemscollective.com/designing-in-pairs-a-pm-claude-and-figma-0ebc8ca8f1ba?source=rss----dbd299f90c1d---4",
-        "canonicalUrl": "https://designsystemscollective.com/designing-in-pairs-a-pm-claude-and-figma-0ebc8ca8f1ba?source=rss----dbd299f90c1d---4",
-        "title": "Designing in pairs: a PM, Claude and Figma",
-        "source": "Design Systems Collective",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Muhammad Talal Saleem",
-        "publishedAt": "2026-11-04T08:29:51Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "id": "f5c0adb3a7cb7548756108bfc6c9488f4bcac9d1",
+        "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+        "canonicalUrl": "https://figma.com/blog/ai-role-in-the-creative-process",
+        "title": "AI’s role in the creative process",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-13T20:00:00Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1123,139 +1141,31 @@
         "scores": {
           "importance": 4,
           "trend": 0,
-          "novelty": 4,
-          "credibility": 5
+          "novelty": 3,
+          "credibility": 8
         },
-        "total": 3.2,
+        "total": 3.4,
         "category": "Opinion",
         "tags": [
           "designer-workflow",
-          "figma",
-          "claude"
+          "figma"
         ],
-        "summary": "Account of a design workflow where a PM, Claude and Figma work together.",
-        "whyItMatters": "A concrete example of designing in a human and AI pair.",
+        "summary": "Figma's own blog post on where AI fits in creative work, framing how designers might use it during the process.",
+        "whyItMatters": "Useful as Figma's stated stance on AI in design work.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "5a73980a44ff30ebad7d9afd75ee1240f32e27a0",
-        "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
-        "canonicalUrl": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
-        "title": "What AI has changed in Design Systems, and what is still up to us",
-        "source": "UX Collective",
+        "id": "27d03829ad08a3f27348b0bbe115fe0224a9295b",
+        "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261109",
+        "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261109",
+        "title": "UX Roundup: Human “Taste” Less Unique | World Usability Day | New Work With AI | Agent Waits | Pale Text | AI Teammates | Evidence | Proximity Compatibility Principle | Back Button",
+        "source": "Jakob Nielsen on UX",
         "sourceTier": 2,
         "categoryHint": "Opinion",
-        "author": "Anna Lefour",
-        "publishedAt": "2026-11-04T22:12:09Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 1,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 3.2,
-        "category": "Opinion",
-        "tags": [
-          "design-systems"
-        ],
-        "summary": "Essay on what AI has changed in design systems and what remains for humans.",
-        "whyItMatters": "Helps decide where to keep human ownership in a design system.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "2bb369df924597abb184f11c2e62a600269052ec",
-        "url": "https://www.designsystemscollective.com/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss----dbd299f90c1d---4",
-        "canonicalUrl": "https://designsystemscollective.com/ai-drew-the-side-panel-should-it-update-when-the-filter-changes-5ba53d2cc9d0?source=rss----dbd299f90c1d---4",
-        "title": "AI drew the side panel. Should it update when the filter changes?",
-        "source": "Design Systems Collective",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Tina Singh",
-        "publishedAt": "2026-11-06T06:47:36Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 4,
-          "credibility": 5
-        },
-        "total": 3.2,
-        "category": "Opinion",
-        "tags": [
-          "design-systems",
-          "ui-generation"
-        ],
-        "summary": "Essay on a specific interaction question raised by an AI-drawn side panel and filters.",
-        "whyItMatters": "Shows the small behavior gaps AI-generated UI leaves open.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "f0c4cb54d17621a9c1bfcaf4098c1354927b3099",
-        "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
-        "canonicalUrl": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
-        "title": "AI can generate the interface. What makes it worth caring about?",
-        "source": "UX Collective",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Dolphia",
-        "publishedAt": "2026-11-04T22:12:46Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
-        "signals": {
-          "hnPoints": null,
-          "hnComments": null,
-          "redditScore": null,
-          "githubStars": null,
-          "githubStarsDelta": null,
-          "crossSourceCount": 1
-        },
-        "scores": {
-          "importance": 4,
-          "trend": 0,
-          "novelty": 3,
-          "credibility": 5
-        },
-        "total": 2.9,
-        "category": "Opinion",
-        "tags": [
-          "ui-generation",
-          "craft"
-        ],
-        "summary": "Essay on what makes generated interfaces worth caring about.",
-        "whyItMatters": "Frames the quality bar for AI-generated UI.",
-        "featuredSlot": null,
-        "previouslyFeatured": false
-      },
-      {
-        "id": "0243822cb838a12a24c09e48e268b4a4cbd038f1",
-        "url": "https://www.designsystemscollective.com/humans-and-ai-agents-working-together-with-shared-memory-a82987d976d2?source=rss----dbd299f90c1d---4",
-        "canonicalUrl": "https://designsystemscollective.com/humans-and-ai-agents-working-together-with-shared-memory-a82987d976d2?source=rss----dbd299f90c1d---4",
-        "title": "Humans and AI agents working together with shared memory",
-        "source": "Design Systems Collective",
-        "sourceTier": 2,
-        "categoryHint": "Opinion",
-        "author": "Melina Kukkasela",
-        "publishedAt": "2026-11-04T08:24:25Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "Jakob Nielsen",
+        "publishedAt": "2026-11-09T12:21:33Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1267,31 +1177,31 @@
         "scores": {
           "importance": 3,
           "trend": 0,
-          "novelty": 3,
-          "credibility": 5
+          "novelty": 2,
+          "credibility": 7
         },
         "total": 2.6,
         "category": "Opinion",
         "tags": [
-          "agents",
-          "design-systems"
+          "designer-workflow",
+          "ux-research"
         ],
-        "summary": "Essay on humans and AI agents collaborating through shared memory.",
-        "whyItMatters": "Ideas for keeping context between designers and agents.",
+        "summary": "Another Jakob Nielsen roundup touching on taste, AI teammates and new work with AI.",
+        "whyItMatters": "Skim for quick UX and AI pointers.",
         "featuredSlot": null,
         "previouslyFeatured": false
       },
       {
-        "id": "852d1e37aa450a0773fa0905190e8b20883940ef",
-        "url": "https://www.designsystemscollective.com/the-autonomy-vs-alignment-dial-for-ai-e32cc252c9bc?source=rss----dbd299f90c1d---4",
-        "canonicalUrl": "https://designsystemscollective.com/the-autonomy-vs-alignment-dial-for-ai-e32cc252c9bc?source=rss----dbd299f90c1d---4",
-        "title": "The autonomy vs alignment dial for AI​​​​‌",
-        "source": "Design Systems Collective",
+        "id": "68f8e0cf3e932c2819777aa3edda71c827d51786",
+        "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261113",
+        "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261113",
+        "title": "UX Roundup: No More Web | Social Knowledge Work | Auto-Logout | Agents in the Field | Agentic Training Video | Unused Research | Synthetic Users | Onboarding | AI Restraint",
+        "source": "Jakob Nielsen on UX",
         "sourceTier": 2,
         "categoryHint": "Opinion",
-        "author": "Cristian Morales Achiardi",
-        "publishedAt": "2026-11-04T08:30:43Z",
-        "fetchedAt": "2026-11-09T11:13:07Z",
+        "author": "Jakob Nielsen",
+        "publishedAt": "2026-11-13T12:21:28Z",
+        "fetchedAt": "2026-11-16T11:09:18Z",
         "signals": {
           "hnPoints": null,
           "hnComments": null,
@@ -1303,25 +1213,25 @@
         "scores": {
           "importance": 3,
           "trend": 0,
-          "novelty": 3,
-          "credibility": 5
+          "novelty": 2,
+          "credibility": 7
         },
         "total": 2.6,
         "category": "Opinion",
         "tags": [
-          "agents",
-          "design-systems"
+          "ux-research",
+          "designer-workflow"
         ],
-        "summary": "Essay on balancing autonomy and alignment for AI agents.",
-        "whyItMatters": "A framing for how much freedom to give design agents.",
+        "summary": "Jakob Nielsen's roundup of short UX items covering AI, agents, synthetic users and onboarding.",
+        "whyItMatters": "Skim for quick pointers on AI in UX practice.",
         "featuredSlot": null,
         "previouslyFeatured": false
       }
     ]
   },
   "stats": {
-    "collected": 64,
-    "afterDedupe": 63,
-    "ranked": 44
+    "collected": 57,
+    "afterDedupe": 57,
+    "ranked": 34
   }
 }

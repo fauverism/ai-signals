@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>AI for UI, UX and visual design, ranked and printed every Monday: skills, UI generation, tools and how designers work with AI. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 11:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:10:28 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
+      <guid isPermaLink="false">66ed14c6418f09b7978d8f5a418f20d5f39ca484</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>News</category>
+      <description>Google announces closer integration of Adobe&apos;s creative and productivity tools with its everyday apps.</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 Official Prompting Guide</title>
+      <link>https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4</link>
+      <guid isPermaLink="false">2a74f2fd7ffd7d6c31ea5521b1a88263ac98e693</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>Nick Babich summarizes the official prompting guidance for the new Claude model, aimed at design work.</description>
+    </item>
+    <item>
+      <title>5 new Google Flow Tools designed by visual artists</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</link>
+      <guid isPermaLink="false">d1e623d51577606f208f1355fa038bcf1fd76c9c</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Google Labs announces five new Flow tools that were designed by visual artists.</description>
+    </item>
+    <item>
+      <title>6 easy ways to use the Figma agent right now</title>
+      <link>https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/</link>
+      <guid isPermaLink="false">bdea120a0c27b6ddb365708e1603ea4b8ebea82a</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>Figma lists six simple ways to start using its agent in design work.</description>
+    </item>
+    <item>
+      <title>Adobe is fully in its agent era</title>
+      <link>https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss</link>
+      <guid isPermaLink="false">1216becc72ff53326a4c33be93648524250e7e24</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>News</category>
+      <description>Fast Company reports on Adobe&apos;s push into agents across its products.</description>
+    </item>
+    <item>
+      <title>AI Prototyping inside your design system. A hands-on guide for design &amp; product teams.</title>
+      <link>https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4</link>
+      <guid isPermaLink="false">cab6adb1a4a48053073a3bf04bdca39afc45d1b2</guid>
+      <pubDate>Mon, 16 Nov 2026 11:10:28 GMT</pubDate>
+      <category>Tutorials</category>
+      <description>A hands-on guide for design and product teams on prototyping with AI inside an existing design system.</description>
+    </item>
     <item>
       <title>Palette: teaching a small model to build decks in your design language</title>
       <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
@@ -294,54 +342,6 @@
       <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
       <category>Tutorials</category>
       <description>ByteByteGo outlines how Uber built a gateway that lets AI agents reach internal tools.</description>
-    </item>
-    <item>
-      <title>Genie 4: A new generation of world simulation</title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <guid isPermaLink="false">5ef94984dce414f6cd0dec7eb033a3aff5071eaa</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>News</category>
-      <description>Google DeepMind&apos;s announcement of Genie 4, the next version of its interactive world-simulation model. Coverage elsewhere points to audio, more realistic physics and real-time steering.</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-      <guid isPermaLink="false">2812ff85caf0a240e4f7754d9708354f51179199</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Simon Willison’s notes on GPT-6.1 Terra, a new OpenAI model. Secondhand testing and commentary, not the vendor post.</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2: Unified and Efficient Multimodal Representations</title>
-      <link>https://arxiv.org/abs/2610.37364</link>
-      <guid isPermaLink="false">0a3213f89986dba3bd6c1a635159789bc78f69f2</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>Research</category>
-      <description>Preprint describing a second EmbeddingGemma model aimed at unified, efficient multimodal representations. Title only; no benchmarks are visible.</description>
-    </item>
-    <item>
-      <title>The sleep framework: A new way for LLMs to retain knowledge in continual learning</title>
-      <link>https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/</link>
-      <guid isPermaLink="false">feb4caa835f163bd378978a5179817d24a9feb99</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>Research</category>
-      <description>Google Research post introducing a sleep framework intended to help LLMs retain knowledge during continual learning. Based on the title and source.</description>
-    </item>
-    <item>
-      <title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
-      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
-      <guid isPermaLink="false">8a93bec2dc7c3bc2bd34406ffc697f94b5a16072</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>News</category>
-      <description>TechCrunch explains a claim by frontier labs that their models refuted the Exponential Time Hypothesis. Claim is as reported and unverified here.</description>
-    </item>
-    <item>
-      <title>NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards</title>
-      <link>https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography</link>
-      <guid isPermaLink="false">080ee28c5860f8deb20e8e8490b12c0cda5c6690</guid>
-      <pubDate>Wed, 28 Oct 2026 10:11:22 GMT</pubDate>
-      <category>Policy &amp; Safety</category>
-      <description>NIST report with guidelines for moving to post-quantum cryptography standards. Regulator document, not AI-specific.</description>
     </item>
   </channel>
 </rss>
