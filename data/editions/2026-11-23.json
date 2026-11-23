@@ -1,0 +1,1405 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T11:08:59Z",
+  "editorNote": "Quiet week on the big releases. Figma showed how it wants designers to brief its agent with Specs, and Nielsen Norman Group put evidence behind the question of whether AI can design from raw research. The other thread is control: Canva added an AI off switch after creative pushback, and Google moved Gemini users to shareable Skills.",
+  "lead": {
+    "id": "c325f11bc00ffc00bb7c8f8dd7816e9aaa6ea8f3",
+    "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+    "canonicalUrl": "https://figma.com/blog/workflow-lab-specs-and-the-figma-agent",
+    "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
+    "source": "Figma Blog",
+    "sourceTier": 1,
+    "categoryHint": "Tools & Releases",
+    "author": null,
+    "publishedAt": "2026-11-20T22:17:00Z",
+    "fetchedAt": "2026-11-23T11:08:15Z",
+    "signals": {
+      "hnPoints": null,
+      "hnComments": null,
+      "redditScore": null,
+      "githubStars": null,
+      "githubStarsDelta": null,
+      "crossSourceCount": 1
+    },
+    "scores": {
+      "importance": 6,
+      "trend": 1,
+      "novelty": 5,
+      "credibility": 9
+    },
+    "total": 5,
+    "category": "Tools & Releases",
+    "tags": [
+      "figma",
+      "agent-skills",
+      "designer-workflow"
+    ],
+    "summary": "Figma walks through a workflow where project context becomes a plan using Specs and its agent. It shows how the company expects designers to brief and steer the agent.",
+    "whyItMatters": "Try structuring your brief as a spec before handing work to an agent.",
+    "featuredSlot": "lead",
+    "previouslyFeatured": false
+  },
+  "top": [
+    {
+      "id": "706403dd4b30e52f16c0edc227705811b4ea5943",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "canonicalUrl": "https://nngroup.com/articles/raw-data-vs-synthesized-data",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "source": "Nielsen Norman Group",
+      "sourceTier": 1,
+      "categoryHint": "Research",
+      "author": "Megan Chan, Rachel Banawa",
+      "publishedAt": "2026-11-20T18:00:00Z",
+      "fetchedAt": "2026-11-23T11:08:15Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "total": 4.7,
+      "category": "Research",
+      "tags": [
+        "designer-workflow",
+        "ux-research"
+      ],
+      "summary": "Nielsen Norman Group tests whether AI can produce good designs starting from raw user research data. Written by named researchers, it adds evidence to a debate that is mostly opinion.",
+      "whyItMatters": "Shows where AI synthesis helps and where you still need to check it.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "7756429c4475039cc42921acb504c815e8992f49",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "canonicalUrl": "https://lovable.dev/blog/introducing-drafts",
+      "title": "Now you can explore any idea in parallel without touching what's live",
+      "source": "Lovable Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-11-16T13:30:00Z",
+      "fetchedAt": "2026-11-23T11:08:15Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "total": 4.4,
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-generation",
+        "lovable",
+        "prototyping"
+      ],
+      "summary": "Lovable adds a way to explore several ideas in parallel without changing the live version of a project. It targets the risk of breaking something while iterating.",
+      "whyItMatters": "Lets you branch design explorations without touching production.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "a75371a203f1e0ae353ef420c07adb8fb3661a15",
+      "url": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "canonicalUrl": "https://fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+      "title": "Canva added an AI ‘kill switch’ to its tools",
+      "source": "Fast Company: Design",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Jesus Diaz",
+      "publishedAt": "2026-11-21T11:30:00Z",
+      "fetchedAt": "2026-11-23T11:08:15Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.3,
+      "category": "News",
+      "tags": [
+        "canva",
+        "ai-controls",
+        "designer-workflow"
+      ],
+      "summary": "Canva has added a switch that lets users turn off AI features in its tools, according to Fast Company. It responds to creative-community pushback.",
+      "whyItMatters": "A product pattern to watch: opt-out controls for AI features.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "20688799084a464511b0e24a1dcb5417a729d5f3",
+      "url": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+      "canonicalUrl": "https://zdnet.com/business/gemini-gems-google-skills-transition",
+      "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+      "source": "ZDNET: AI",
+      "sourceTier": 2,
+      "categoryHint": "News",
+      "author": "Artie Beaty",
+      "publishedAt": "2026-11-17T19:54:04Z",
+      "fetchedAt": "2026-11-23T11:08:15Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "total": 4.2,
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-skills",
+        "google"
+      ],
+      "summary": "ZDNET explains Google's new Skills, which replace Gemini Gems and can be shared. A how-to from a named writer.",
+      "whyItMatters": "Shows packaged instructions arriving in mainstream consumer AI.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    },
+    {
+      "id": "a5b1adbe934421bacbda005193ad38ffa6b873cd",
+      "url": "https://www.figma.com/blog/1password-figma-make/",
+      "canonicalUrl": "https://figma.com/blog/1password-figma-make",
+      "title": "How 1Password uses Figma Make to design for trust and certainty",
+      "source": "Figma Blog",
+      "sourceTier": 1,
+      "categoryHint": "Tools & Releases",
+      "author": null,
+      "publishedAt": "2026-11-16T18:03:00Z",
+      "fetchedAt": "2026-11-23T11:08:15Z",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "total": 4,
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "ui-generation",
+        "case-study"
+      ],
+      "summary": "Figma profiles how the 1Password team uses Figma Make in its design work. It is a vendor-published case study focused on communicating trust in the product.",
+      "whyItMatters": "A concrete example of Make in a security-sensitive product team.",
+      "featuredSlot": "top",
+      "previouslyFeatured": false
+    }
+  ],
+  "innovations": [],
+  "trending": [],
+  "byCategory": {
+    "News": [
+      {
+        "id": "a75371a203f1e0ae353ef420c07adb8fb3661a15",
+        "url": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "canonicalUrl": "https://fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?amp%3Butm_campaign=rss+fastcompany&amp%3Butm_content=rss&amp%3Butm_medium=feed&amp%3Butm_source=rss&partner=rss",
+        "title": "Canva added an AI ‘kill switch’ to its tools",
+        "source": "Fast Company: Design",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Jesus Diaz",
+        "publishedAt": "2026-11-21T11:30:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.3,
+        "category": "News",
+        "tags": [
+          "canva",
+          "ai-controls",
+          "designer-workflow"
+        ],
+        "summary": "Canva has added a switch that lets users turn off AI features in its tools, according to Fast Company. It responds to creative-community pushback.",
+        "whyItMatters": "A product pattern to watch: opt-out controls for AI features.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0c81fa30a9f6ed1d767d19b54d14d6ce14ea7481",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "canonicalUrl": "https://theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "source": "The Verge: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "David Pierce",
+        "publishedAt": "2026-11-22T13:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 7
+        },
+        "total": 3.5,
+        "category": "News",
+        "tags": [
+          "ui-generation",
+          "vibe-coding",
+          "devices"
+        ],
+        "summary": "The Verge reports on vibe-coding spreading to consumer gadgets beyond the laptop and phone. A reported feature from a named journalist.",
+        "whyItMatters": "Signals interface design work expanding to new hardware surfaces.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "46ae6de2ccbcd3d364cf64c13378b8541cfcf5ee",
+        "url": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have",
+        "canonicalUrl": "https://creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have",
+        "title": "“It’s not meant to replace your creativity”: Adobe’s AI pitch hasn’t changed in two years, but the tools have",
+        "source": "Creative Bloq",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Natalie Fear",
+        "publishedAt": "2026-11-22T12:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 3.4,
+        "category": "News",
+        "tags": [
+          "adobe",
+          "designer-workflow"
+        ],
+        "summary": "Creative Bloq looks at how Adobe frames its AI tools for creatives and how the tools have changed since it started. Secondhand reporting by a named writer.",
+        "whyItMatters": "Useful read on how a major vendor positions AI to designers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0fb24d08627cd8ddec293d48d5356583d16e139a",
+        "url": "https://www.creativebloq.com/news/the-canva-ai-off-switch-finally-recognises-the-artist-backlash",
+        "canonicalUrl": "https://creativebloq.com/news/the-canva-ai-off-switch-finally-recognises-the-artist-backlash",
+        "title": "Canva's 'AI off switch' finally recognises the backlash from creatives",
+        "source": "Creative Bloq",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Joe Foley",
+        "publishedAt": "2026-11-20T08:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.8,
+        "category": "News",
+        "tags": [
+          "canva",
+          "ai-controls",
+          "craft"
+        ],
+        "summary": "Creative Bloq covers Canva's AI off switch as a response to creatives' backlash. It overlaps with the broader coverage of the same change.",
+        "whyItMatters": "Shows how designer sentiment is shaping tool settings.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "071caa6e23d33468345541f7e35af9fc81751835",
+        "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
+        "canonicalUrl": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents",
+        "title": "Design writing: working with AI agents",
+        "source": "Sidebar",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-11-18T07:49:32Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "News",
+        "tags": [
+          "designer-workflow",
+          "writing"
+        ],
+        "summary": "A post on working with AI agents when doing design writing.",
+        "whyItMatters": "A workflow note for content designers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "1e8d620dd91d1f007312325aa3c4ac6b7469ba73",
+        "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+        "canonicalUrl": "https://baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers",
+        "title": "‘AI’ might be the end of our careers",
+        "source": "Sidebar",
+        "sourceTier": 3,
+        "categoryHint": "News",
+        "author": null,
+        "publishedAt": "2026-11-19T09:22:01Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "News",
+        "tags": [
+          "designer-workflow",
+          "careers"
+        ],
+        "summary": "A short post worrying that AI could end design careers.",
+        "whyItMatters": "Reflects ongoing role anxiety in the field.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Research": [
+      {
+        "id": "706403dd4b30e52f16c0edc227705811b4ea5943",
+        "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "canonicalUrl": "https://nngroup.com/articles/raw-data-vs-synthesized-data",
+        "title": "Can AI Generate Good Designs from Raw User Data?",
+        "source": "Nielsen Norman Group",
+        "sourceTier": 1,
+        "categoryHint": "Research",
+        "author": "Megan Chan, Rachel Banawa",
+        "publishedAt": "2026-11-20T18:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 4.7,
+        "category": "Research",
+        "tags": [
+          "designer-workflow",
+          "ux-research"
+        ],
+        "summary": "Nielsen Norman Group tests whether AI can produce good designs starting from raw user research data. Written by named researchers, it adds evidence to a debate that is mostly opinion.",
+        "whyItMatters": "Shows where AI synthesis helps and where you still need to check it.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Tutorials": [
+      {
+        "id": "f0c70df868e9ab113e578a78ffd192f21a699bd4",
+        "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+        "canonicalUrl": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up",
+        "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+        "source": "Smashing Magazine",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Andrew Chung",
+        "publishedAt": "2026-11-17T08:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.7,
+        "category": "Tutorials",
+        "tags": [
+          "accessibility",
+          "ai-testing"
+        ],
+        "summary": "Smashing Magazine asks how accessibility testing can keep pace when AI speeds up building.",
+        "whyItMatters": "Pushes you to bake accessibility checks into AI-accelerated workflows.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c6bb11fb6df729daf769b340241d4de4539a3fd4",
+        "url": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/",
+        "canonicalUrl": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins",
+        "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Erika Gomes-Gonçalves",
+        "publishedAt": "2026-11-17T15:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 4,
+          "credibility": 6
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "agent-skills",
+          "plugins"
+        ],
+        "summary": "A tutorial on governing coding-agent skills across repositories using plugins.",
+        "whyItMatters": "Relevant if your team shares design skills across projects.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "ca1ca55b24a054bbd3b8198e42541067651d77ce",
+        "url": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
+        "title": "GPT-6.2 Astra for UI Design",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-18T13:32:21Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 4,
+          "credibility": 4
+        },
+        "total": 3.3,
+        "category": "Tutorials",
+        "tags": [
+          "ui-generation",
+          "designer-workflow"
+        ],
+        "summary": "A tutorial exploring a new GPT model for UI design tasks.",
+        "whyItMatters": "Gives a quick view of how a new model handles interface work.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "48d9a47b29ba3043004ead0d364c943e11f91a70",
+        "url": "https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/",
+        "canonicalUrl": "https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host",
+        "title": "How to Design MCP Servers That Leave Orchestration to the Host",
+        "source": "Towards Data Science",
+        "sourceTier": 2,
+        "categoryHint": "Tutorials",
+        "author": "Priyansh Bhardwaj",
+        "publishedAt": "2026-11-17T12:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "mcp",
+          "agent-skills"
+        ],
+        "summary": "A guide to designing MCP servers that leave orchestration to the host application.",
+        "whyItMatters": "Helps when building design-tool MCP servers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "375eba5493dc2341c0012a2ef80a85bc2330fea6",
+        "url": "https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4",
+        "title": "CLAUDE.md NEW Best Practices",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-18T20:47:03Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code",
+          "agent-skills"
+        ],
+        "summary": "A tutorial on best practices for CLAUDE.md files, which give coding agents persistent instructions.",
+        "whyItMatters": "Applicable if you maintain design guidance for agents.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "6e7b9fd7143103b1cf74e5bb47addf28b24d97ca",
+        "url": "https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4",
+        "title": "This Experimental Feature Is Claude Code’s BIGGEST Recent Improvement",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-20T13:13:13Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.7,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code",
+          "designer-workflow"
+        ],
+        "summary": "A tutorial on an experimental Claude Code feature for designers using it in their workflow.",
+        "whyItMatters": "Possible workflow upgrade if you design in code.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d4e864e6ea139805e1afc8cf4cd16cde8b32d0a3",
+        "url": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
+        "title": "Anthropic Just Released New Rules of Claude Code",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-17T21:01:18Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code",
+          "agent-skills"
+        ],
+        "summary": "A tutorial on new rules for using Claude Code.",
+        "whyItMatters": "Useful if your design workflow includes agent configuration.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "082325fdd16e74dadf0c6cde9cb357682d4c629b",
+        "url": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
+        "title": "Jev can 10x your Claude Code",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-17T13:57:50Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 2.1,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code"
+        ],
+        "summary": "A tutorial on a tool for boosting Claude Code productivity.",
+        "whyItMatters": "Niche workflow tip for code-based designers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "5b34f4c5dafc521ad81fba0f4fe635a2fbc16e0e",
+        "url": "https://uxplanet.org/anthropic-just-launched-claude-data-7095bbe77805?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/anthropic-just-launched-claude-data-7095bbe77805?source=rss----819cc2aaeee0---4",
+        "title": "Anthropic Just Launched Claude DATA",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-16T17:27:26Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code"
+        ],
+        "summary": "A tutorial about a Claude data feature.",
+        "whyItMatters": "Limited design relevance, noted for completeness.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7f14f65696f088f7ab2b5a19510bf6282708b8f3",
+        "url": "https://uxplanet.org/how-to-use-claude-code-effectively-and-save-tokens-d0368bc72a18?source=rss----819cc2aaeee0---4",
+        "canonicalUrl": "https://uxplanet.org/how-to-use-claude-code-effectively-and-save-tokens-d0368bc72a18?source=rss----819cc2aaeee0---4",
+        "title": "How to Use Claude Code Effectively and Save Tokens",
+        "source": "UX Planet",
+        "sourceTier": 3,
+        "categoryHint": "Tutorials",
+        "author": "Nick Babich",
+        "publishedAt": "2026-11-19T13:54:47Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 2,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 4
+        },
+        "total": 1.8,
+        "category": "Tutorials",
+        "tags": [
+          "claude-code"
+        ],
+        "summary": "A guide to using Claude Code effectively while saving tokens.",
+        "whyItMatters": "Mostly useful for cost control when prompting in code.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Tools & Releases": [
+      {
+        "id": "c325f11bc00ffc00bb7c8f8dd7816e9aaa6ea8f3",
+        "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+        "canonicalUrl": "https://figma.com/blog/workflow-lab-specs-and-the-figma-agent",
+        "title": "Workflow lab: Turning context into a plan with Specs and the Figma agent",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-20T22:17:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 6,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 5,
+        "category": "Tools & Releases",
+        "tags": [
+          "figma",
+          "agent-skills",
+          "designer-workflow"
+        ],
+        "summary": "Figma walks through a workflow where project context becomes a plan using Specs and its agent. It shows how the company expects designers to brief and steer the agent.",
+        "whyItMatters": "Try structuring your brief as a spec before handing work to an agent.",
+        "featuredSlot": "lead",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "7756429c4475039cc42921acb504c815e8992f49",
+        "url": "https://lovable.dev/blog/introducing-drafts",
+        "canonicalUrl": "https://lovable.dev/blog/introducing-drafts",
+        "title": "Now you can explore any idea in parallel without touching what's live",
+        "source": "Lovable Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-16T13:30:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 0,
+          "novelty": 5,
+          "credibility": 9
+        },
+        "total": 4.4,
+        "category": "Tools & Releases",
+        "tags": [
+          "ui-generation",
+          "lovable",
+          "prototyping"
+        ],
+        "summary": "Lovable adds a way to explore several ideas in parallel without changing the live version of a project. It targets the risk of breaking something while iterating.",
+        "whyItMatters": "Lets you branch design explorations without touching production.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "20688799084a464511b0e24a1dcb5417a729d5f3",
+        "url": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+        "canonicalUrl": "https://zdnet.com/business/gemini-gems-google-skills-transition",
+        "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+        "source": "ZDNET: AI",
+        "sourceTier": 2,
+        "categoryHint": "News",
+        "author": "Artie Beaty",
+        "publishedAt": "2026-11-17T19:54:04Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 5,
+          "credibility": 6
+        },
+        "total": 4.2,
+        "category": "Tools & Releases",
+        "tags": [
+          "agent-skills",
+          "google"
+        ],
+        "summary": "ZDNET explains Google's new Skills, which replace Gemini Gems and can be shared. A how-to from a named writer.",
+        "whyItMatters": "Shows packaged instructions arriving in mainstream consumer AI.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a5b1adbe934421bacbda005193ad38ffa6b873cd",
+        "url": "https://www.figma.com/blog/1password-figma-make/",
+        "canonicalUrl": "https://figma.com/blog/1password-figma-make",
+        "title": "How 1Password uses Figma Make to design for trust and certainty",
+        "source": "Figma Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": null,
+        "publishedAt": "2026-11-16T18:03:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 5,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 8
+        },
+        "total": 4,
+        "category": "Tools & Releases",
+        "tags": [
+          "figma",
+          "ui-generation",
+          "case-study"
+        ],
+        "summary": "Figma profiles how the 1Password team uses Figma Make in its design work. It is a vendor-published case study focused on communicating trust in the product.",
+        "whyItMatters": "A concrete example of Make in a security-sensitive product team.",
+        "featuredSlot": "top",
+        "previouslyFeatured": false
+      }
+    ],
+    "Policy & Safety": [],
+    "Business": [
+      {
+        "id": "26cc43aabbbf1b6b4120cf55efdb90a50b8a526f",
+        "url": "https://lovable.dev/blog/two-years-of-lovable",
+        "canonicalUrl": "https://lovable.dev/blog/two-years-of-lovable",
+        "title": "Two years of Lovable: more people with ideas, more power to act on them",
+        "source": "Lovable Blog",
+        "sourceTier": 1,
+        "categoryHint": "Tools & Releases",
+        "author": "Lovable",
+        "publishedAt": "2026-11-18T10:00:00Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 8
+        },
+        "total": 2.8,
+        "category": "Business",
+        "tags": [
+          "lovable",
+          "ui-generation"
+        ],
+        "summary": "Lovable reflects on two years of the product and who it has opened app building to. A company retrospective rather than a release.",
+        "whyItMatters": "Context on where prompt-to-app tools are heading.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ],
+    "Opinion": [
+      {
+        "id": "89b31e3018fddffa50d50eed29139001939e12fd",
+        "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+        "canonicalUrl": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+        "title": "The attack of the giant AI design slop monster: a survivor’s guide",
+        "source": "UX Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Tania Ostanina",
+        "publishedAt": "2026-11-22T11:36:59Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 2
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 1,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 3.2,
+        "category": "Opinion",
+        "tags": [
+          "ai-slop",
+          "designer-workflow",
+          "craft"
+        ],
+        "summary": "A designer offers a survival guide for dealing with low-quality AI-generated design work in teams. It is a practitioner opinion piece.",
+        "whyItMatters": "Practical framing for pushing back on weak AI output.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "a8983c60c67dfa262a4b62d4bb0d05336cd61ae4",
+        "url": "https://www.designsystemscollective.com/piloting-and-collaborating-on-a-design-system-with-ai-1b8eaa84ce0b?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/piloting-and-collaborating-on-a-design-system-with-ai-1b8eaa84ce0b?source=rss----dbd299f90c1d---4",
+        "title": "Piloting and collaborating on a design system with AI",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Guillaume Caillet",
+        "publishedAt": "2026-11-19T05:41:30Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "designer-workflow"
+        ],
+        "summary": "A designer describes working with AI as a pilot and collaborator on a design system.",
+        "whyItMatters": "A workflow example for system maintainers.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "c887e4e3c936d2594f37ad542fbfa586380ecfb1",
+        "url": "https://www.designsystemscollective.com/do-ai-first-products-still-need-a-design-system-7e8a05111f67?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/do-ai-first-products-still-need-a-design-system-7e8a05111f67?source=rss----dbd299f90c1d---4",
+        "title": "Do AI-first products still need a design system?",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Matt Bailey",
+        "publishedAt": "2026-11-19T05:42:25Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "ai-products"
+        ],
+        "summary": "Asks whether products built AI-first still need a design system. A practitioner opinion piece.",
+        "whyItMatters": "Useful prompt if your product is moving to conversational UI.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "d132fe198d5525f0833428022b17e47eb7ef5f99",
+        "url": "https://www.designsystemscollective.com/foundations-rules-and-context-rethinking-design-systems-for-the-ai-era-56c9a872e831?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/foundations-rules-and-context-rethinking-design-systems-for-the-ai-era-56c9a872e831?source=rss----dbd299f90c1d---4",
+        "title": "Foundations, Rules, and Context: Rethinking Design Systems for the AI Era",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Pir Ahmed",
+        "publishedAt": "2026-11-19T05:43:35Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "agent-skills"
+        ],
+        "summary": "An essay on rethinking design systems around foundations, rules and context for AI-era use.",
+        "whyItMatters": "Frames how to make a design system legible to AI tools.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "279e88817205c0fff61f9b0a39c1c6c26b844f8d",
+        "url": "https://www.designsystemscollective.com/can-ai-actually-build-a-good-design-system-i-tested-it-4846b27957c3?source=rss----dbd299f90c1d---4",
+        "canonicalUrl": "https://designsystemscollective.com/can-ai-actually-build-a-good-design-system-i-tested-it-4846b27957c3?source=rss----dbd299f90c1d---4",
+        "title": "Can AI actually build a good design system? I tested it.",
+        "source": "Design Systems Collective",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Muskaan Arai",
+        "publishedAt": "2026-11-20T13:32:34Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 5
+        },
+        "total": 2.9,
+        "category": "Opinion",
+        "tags": [
+          "design-systems",
+          "designer-workflow"
+        ],
+        "summary": "A designer tests whether AI can build a good design system and reports the results from their own trial.",
+        "whyItMatters": "Gives a first-hand data point before you try it on your own system.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "065342927a941d41f5ad4809312bd7b91bb4113e",
+        "url": "https://medium.com/design-bootcamp/chatgpt-moved-projects-under-explore-some-users-thought-their-work-was-gone-5c6b3f27c723?source=rss----48e972f5c24e---4",
+        "canonicalUrl": "https://medium.com/design-bootcamp/chatgpt-moved-projects-under-explore-some-users-thought-their-work-was-gone-5c6b3f27c723?source=rss----48e972f5c24e---4",
+        "title": "ChatGPT Moved Projects Under “Explore.” Some Users Thought Their Work Was Gone.",
+        "source": "Bootcamp (UX publication)",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Amajuoyi Udochukwu Deborah",
+        "publishedAt": "2026-11-23T08:53:08Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 4,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.8,
+        "category": "Opinion",
+        "tags": [
+          "ux-patterns",
+          "ai-products"
+        ],
+        "summary": "A UX write-up on ChatGPT moving Projects under an Explore menu and users thinking their work had vanished.",
+        "whyItMatters": "A clear case of navigation changes confusing users of AI products.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "36b6bdb41062fdad077fd1fc0da08b24341e517b",
+        "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261120",
+        "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261120",
+        "title": "UX Roundup: GPT-6.2 | Prepare with AI | Speed | Unambitious Academics | AI Permission Requests | Permissions Barrage | Recognition-Primed Decisions | Directed Editing | Misleading Defaults",
+        "source": "Jakob Nielsen on UX",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Jakob Nielsen",
+        "publishedAt": "2026-11-20T12:21:36Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 1,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.7,
+        "category": "Opinion",
+        "tags": [
+          "ux-roundup",
+          "designer-workflow"
+        ],
+        "summary": "Jakob Nielsen's weekly roundup of short UX commentary, touching AI prompts and permission requests.",
+        "whyItMatters": "Skim for quick takes on AI interaction patterns.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "44e9a0508523dc3dbd924ad8234b166710376c2f",
+        "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261116",
+        "canonicalUrl": "https://jakobnielsenphd.substack.com/p/ux-roundup-20261116",
+        "title": "UX Roundup: Death of AI–Human Synergy | AI Answers Design Briefs | Norse vs. Greek Gods | Obviousness | Accelerating Science | Toggle Groups | Inconsistency | Seamful Design | Input Format Flexibility",
+        "source": "Jakob Nielsen on UX",
+        "sourceTier": 2,
+        "categoryHint": "Opinion",
+        "author": "Jakob Nielsen",
+        "publishedAt": "2026-11-16T12:21:32Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 2,
+          "credibility": 6
+        },
+        "total": 2.5,
+        "category": "Opinion",
+        "tags": [
+          "ux-roundup",
+          "designer-workflow"
+        ],
+        "summary": "Another Jakob Nielsen roundup of short UX notes, including AI answering design briefs.",
+        "whyItMatters": "Skim for quick takes on AI and design briefs.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "f070149973ab7bddb3f9b10ba419ce14ef719796",
+        "url": "https://generativeai.pub/designed-tools-not-an-api-mirror-21-mcp-tools-in-about-9-700-tokens-dcc0bbcf549a?source=rss------ai_design-5",
+        "canonicalUrl": "https://generativeai.pub/designed-tools-not-an-api-mirror-21-mcp-tools-in-about-9-700-tokens-dcc0bbcf549a?source=rss------ai_design-5",
+        "title": "Designed tools, not an API mirror: 21 MCP tools in about 9,700 tokens",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Marcin Milewicz",
+        "publishedAt": "2026-11-19T12:31:35Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "Opinion",
+        "tags": [
+          "mcp",
+          "agent-skills"
+        ],
+        "summary": "A developer describes designing 21 MCP tools to fit in a small token budget.",
+        "whyItMatters": "Hints at how to keep design-related MCP servers lean.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      },
+      {
+        "id": "0e94e7fe53c4145121aec9bfac2dfad85b53113c",
+        "url": "https://medium.com/@darjidhruvika/the-next-great-interface-might-not-have-a-screen-ed5faa5b7f41?source=rss------ai_design-5",
+        "canonicalUrl": "https://medium.com/@darjidhruvika/the-next-great-interface-might-not-have-a-screen-ed5faa5b7f41?source=rss------ai_design-5",
+        "title": "The Next Great Interface Might Not Have a Screen",
+        "source": "Medium: ai-design tag",
+        "sourceTier": 3,
+        "categoryHint": "Opinion",
+        "author": "Dhruvika darji",
+        "publishedAt": "2026-11-23T10:12:14Z",
+        "fetchedAt": "2026-11-23T11:08:15Z",
+        "signals": {
+          "hnPoints": null,
+          "hnComments": null,
+          "redditScore": null,
+          "githubStars": null,
+          "githubStarsDelta": null,
+          "crossSourceCount": 1
+        },
+        "scores": {
+          "importance": 3,
+          "trend": 0,
+          "novelty": 3,
+          "credibility": 4
+        },
+        "total": 2.4,
+        "category": "Opinion",
+        "tags": [
+          "ai-interfaces",
+          "ux-patterns"
+        ],
+        "summary": "An essay speculating the next major interface may not involve a screen.",
+        "whyItMatters": "Food for thought on non-screen interaction design.",
+        "featuredSlot": null,
+        "previouslyFeatured": false
+      }
+    ]
+  },
+  "stats": {
+    "collected": 65,
+    "afterDedupe": 64,
+    "ranked": 35
+  }
+}

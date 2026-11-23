@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-23",
+  "batch": 1,
+  "items": [
+    {
+      "id": "c325f11bc00ffc00bb7c8f8dd7816e9aaa6ea8f3",
+      "scores": {
+        "importance": 6,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "agent-skills",
+        "designer-workflow"
+      ],
+      "summary": "Figma walks through a workflow where project context becomes a plan using Specs and its agent. It shows how the company expects designers to brief and steer the agent.",
+      "whyItMatters": "Try structuring your brief as a spec before handing work to an agent.",
+      "organization": "figma"
+    },
+    {
+      "id": "706403dd4b30e52f16c0edc227705811b4ea5943",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Research",
+      "tags": [
+        "designer-workflow",
+        "ux-research"
+      ],
+      "summary": "Nielsen Norman Group tests whether AI can produce good designs starting from raw user research data. Written by named researchers, it adds evidence to a debate that is mostly opinion.",
+      "whyItMatters": "Shows where AI synthesis helps and where you still need to check it.",
+      "organization": "nielsen norman group"
+    },
+    {
+      "id": "26cc43aabbbf1b6b4120cf55efdb90a50b8a526f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 8
+      },
+      "category": "Business",
+      "tags": [
+        "lovable",
+        "ui-generation"
+      ],
+      "summary": "Lovable reflects on two years of the product and who it has opened app building to. A company retrospective rather than a release.",
+      "whyItMatters": "Context on where prompt-to-app tools are heading.",
+      "organization": "lovable"
+    },
+    {
+      "id": "a5b1adbe934421bacbda005193ad38ffa6b873cd",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 8
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "figma",
+        "ui-generation",
+        "case-study"
+      ],
+      "summary": "Figma profiles how the 1Password team uses Figma Make in its design work. It is a vendor-published case study focused on communicating trust in the product.",
+      "whyItMatters": "A concrete example of Make in a security-sensitive product team.",
+      "organization": "figma"
+    },
+    {
+      "id": "7756429c4475039cc42921acb504c815e8992f49",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 9
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "ui-generation",
+        "lovable",
+        "prototyping"
+      ],
+      "summary": "Lovable adds a way to explore several ideas in parallel without changing the live version of a project. It targets the risk of breaking something while iterating.",
+      "whyItMatters": "Lets you branch design explorations without touching production.",
+      "organization": "lovable"
+    },
+    {
+      "id": "89b31e3018fddffa50d50eed29139001939e12fd",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-slop",
+        "designer-workflow",
+        "craft"
+      ],
+      "summary": "A designer offers a survival guide for dealing with low-quality AI-generated design work in teams. It is a practitioner opinion piece.",
+      "whyItMatters": "Practical framing for pushing back on weak AI output.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "6aeddfc1f07eabb18d64ef0c89bd45561f149da3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "craft"
+      ],
+      "summary": "An essay on what AI has displaced in design and product work while organizations focus on productivity measures. Opinion with no new data in the title.",
+      "whyItMatters": "A prompt to question which practices you are quietly losing.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "0c81fa30a9f6ed1d767d19b54d14d6ce14ea7481",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 7
+      },
+      "category": "News",
+      "tags": [
+        "ui-generation",
+        "vibe-coding",
+        "devices"
+      ],
+      "summary": "The Verge reports on vibe-coding spreading to consumer gadgets beyond the laptop and phone. A reported feature from a named journalist.",
+      "whyItMatters": "Signals interface design work expanding to new hardware surfaces.",
+      "organization": "the verge"
+    },
+    {
+      "id": "46ae6de2ccbcd3d364cf64c13378b8541cfcf5ee",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "adobe",
+        "designer-workflow"
+      ],
+      "summary": "Creative Bloq looks at how Adobe frames its AI tools for creatives and how the tools have changed since it started. Secondhand reporting by a named writer.",
+      "whyItMatters": "Useful read on how a major vendor positions AI to designers.",
+      "organization": "adobe"
+    },
+    {
+      "id": "4cc3a535ad3021a40a47f350a62c10be0514e1b6",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "prototyping",
+        "designer-workflow"
+      ],
+      "summary": "An opinion piece arguing prototypes are the strongest form of specification, especially when AI can produce them quickly.",
+      "whyItMatters": "Supports the case for prototyping over documents in AI workflows.",
+      "organization": "ux collective"
+    },
+    {
+      "id": "a75371a203f1e0ae353ef420c07adb8fb3661a15",
+      "scores": {
+        "importance": 6,
+        "trend": 0,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "canva",
+        "ai-controls",
+        "designer-workflow"
+      ],
+      "summary": "Canva has added a switch that lets users turn off AI features in its tools, according to Fast Company. It responds to creative-community pushback.",
+      "whyItMatters": "A product pattern to watch: opt-out controls for AI features.",
+      "organization": "canva"
+    },
+    {
+      "id": "279e88817205c0fff61f9b0a39c1c6c26b844f8d",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "designer-workflow"
+      ],
+      "summary": "A designer tests whether AI can build a good design system and reports the results from their own trial.",
+      "whyItMatters": "Gives a first-hand data point before you try it on your own system.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "36b6bdb41062fdad077fd1fc0da08b24341e517b",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-roundup",
+        "designer-workflow"
+      ],
+      "summary": "Jakob Nielsen's weekly roundup of short UX commentary, touching AI prompts and permission requests.",
+      "whyItMatters": "Skim for quick takes on AI interaction patterns.",
+      "organization": "jakob nielsen"
+    },
+    {
+      "id": "0fb24d08627cd8ddec293d48d5356583d16e139a",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "News",
+      "tags": [
+        "canva",
+        "ai-controls",
+        "craft"
+      ],
+      "summary": "Creative Bloq covers Canva's AI off switch as a response to creatives' backlash. It overlaps with the broader coverage of the same change.",
+      "whyItMatters": "Shows how designer sentiment is shaping tool settings.",
+      "organization": "canva"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "253a177be96f562cbb44b189621ec9c9e8c76673",
+      "reason": "off-beat"
+    },
+    {
+      "id": "324f6fffadec3e1cf5d2e4f6ab92cb8fac90e6ee",
+      "reason": "off-beat"
+    },
+    {
+      "id": "be4691731e33021c8f55f2b0733c57eae694d367",
+      "reason": "off-beat"
+    },
+    {
+      "id": "c56d7a1954e33ad035f442112828a4bc9d550315",
+      "reason": "off-beat"
+    },
+    {
+      "id": "e1b0c4ede4d1eb3f69193195ce39e3b721bfae4e",
+      "reason": "off-beat"
+    },
+    {
+      "id": "d4ff4fecb54e243cec76446ca0023f9a6e7ad5c8",
+      "reason": "off-beat"
+    },
+    {
+      "id": "c6e2ba1d92d0ebfb9c67a2609cf84b42fc52837e",
+      "reason": "off-beat"
+    },
+    {
+      "id": "fcb6d503f9cf902b2780d83260f225a3de8c3849",
+      "reason": "off-beat"
+    },
+    {
+      "id": "6849da9b6fac0460bf1c2d9d0786d2af75347a11",
+      "reason": "off-beat"
+    },
+    {
+      "id": "41dc972095bf5b591ad17d3133955d46907234f1",
+      "reason": "off-beat"
+    },
+    {
+      "id": "28c15187583fd978f4d2ea6d6dabec75469a76d9",
+      "reason": "off-beat"
+    },
+    {
+      "id": "8bd079b9197c08d5dee32f714d040ae7653bc27e",
+      "reason": "off-beat"
+    },
+    {
+      "id": "ed56fabcf1f396c4182585481a1bb4ab292dc3cc",
+      "reason": "off-beat"
+    },
+    {
+      "id": "bdb3191c0416b74603da42a923b19370d68098eb",
+      "reason": "off-beat"
+    },
+    {
+      "id": "8c5ac6b624a57d8a2777ad91ed9bbacba5b69e39",
+      "reason": "off-beat"
+    },
+    {
+      "id": "a4b10a52e45d9cc98b717d78d132b60e0a90d7a4",
+      "reason": "off-beat"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

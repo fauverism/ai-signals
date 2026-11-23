@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-23",
+  "batch": 2,
+  "items": [
+    {
+      "id": "d132fe198d5525f0833428022b17e47eb7ef5f99",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "agent-skills"
+      ],
+      "summary": "An essay on rethinking design systems around foundations, rules and context for AI-era use.",
+      "whyItMatters": "Frames how to make a design system legible to AI tools.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "c887e4e3c936d2594f37ad542fbfa586380ecfb1",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "ai-products"
+      ],
+      "summary": "Asks whether products built AI-first still need a design system. A practitioner opinion piece.",
+      "whyItMatters": "Useful prompt if your product is moving to conversational UI.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "a8983c60c67dfa262a4b62d4bb0d05336cd61ae4",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 5
+      },
+      "category": "Opinion",
+      "tags": [
+        "design-systems",
+        "designer-workflow"
+      ],
+      "summary": "A designer describes working with AI as a pilot and collaborator on a design system.",
+      "whyItMatters": "A workflow example for system maintainers.",
+      "organization": "design systems collective"
+    },
+    {
+      "id": "20688799084a464511b0e24a1dcb5417a729d5f3",
+      "scores": {
+        "importance": 5,
+        "trend": 1,
+        "novelty": 5,
+        "credibility": 6
+      },
+      "category": "Tools & Releases",
+      "tags": [
+        "agent-skills",
+        "google"
+      ],
+      "summary": "ZDNET explains Google's new Skills, which replace Gemini Gems and can be shared. A how-to from a named writer.",
+      "whyItMatters": "Shows packaged instructions arriving in mainstream consumer AI.",
+      "organization": "google"
+    },
+    {
+      "id": "c6bb11fb6df729daf769b340241d4de4539a3fd4",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "agent-skills",
+        "plugins"
+      ],
+      "summary": "A tutorial on governing coding-agent skills across repositories using plugins.",
+      "whyItMatters": "Relevant if your team shares design skills across projects.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "48d9a47b29ba3043004ead0d364c943e11f91a70",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "mcp",
+        "agent-skills"
+      ],
+      "summary": "A guide to designing MCP servers that leave orchestration to the host application.",
+      "whyItMatters": "Helps when building design-tool MCP servers.",
+      "organization": "towards data science"
+    },
+    {
+      "id": "f0c70df868e9ab113e578a78ffd192f21a699bd4",
+      "scores": {
+        "importance": 5,
+        "trend": 0,
+        "novelty": 4,
+        "credibility": 6
+      },
+      "category": "Tutorials",
+      "tags": [
+        "accessibility",
+        "ai-testing"
+      ],
+      "summary": "Smashing Magazine asks how accessibility testing can keep pace when AI speeds up building.",
+      "whyItMatters": "Pushes you to bake accessibility checks into AI-accelerated workflows.",
+      "organization": "smashing magazine"
+    },
+    {
+      "id": "44e9a0508523dc3dbd924ad8234b166710376c2f",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 6
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-roundup",
+        "designer-workflow"
+      ],
+      "summary": "Another Jakob Nielsen roundup of short UX notes, including AI answering design briefs.",
+      "whyItMatters": "Skim for quick takes on AI and design briefs.",
+      "organization": "jakob nielsen"
+    },
+    {
+      "id": "0e94e7fe53c4145121aec9bfac2dfad85b53113c",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ai-interfaces",
+        "ux-patterns"
+      ],
+      "summary": "An essay speculating the next major interface may not involve a screen.",
+      "whyItMatters": "Food for thought on non-screen interaction design.",
+      "organization": "medium"
+    },
+    {
+      "id": "065342927a941d41f5ad4809312bd7b91bb4113e",
+      "scores": {
+        "importance": 4,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "ux-patterns",
+        "ai-products"
+      ],
+      "summary": "A UX write-up on ChatGPT moving Projects under an Explore menu and users thinking their work had vanished.",
+      "whyItMatters": "A clear case of navigation changes confusing users of AI products.",
+      "organization": "openai"
+    },
+    {
+      "id": "b072b4cfcd76d32a41de55376c662987c6a6ad4a",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "designer-workflow",
+        "ethics"
+      ],
+      "summary": "A piece arguing that being able to build something quickly with AI does not mean it should be built.",
+      "whyItMatters": "Reminds you to keep product judgment in fast AI workflows.",
+      "organization": "medium"
+    },
+    {
+      "id": "6e7b9fd7143103b1cf74e5bb47addf28b24d97ca",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "designer-workflow"
+      ],
+      "summary": "A tutorial on an experimental Claude Code feature for designers using it in their workflow.",
+      "whyItMatters": "Possible workflow upgrade if you design in code.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "7f14f65696f088f7ab2b5a19510bf6282708b8f3",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code"
+      ],
+      "summary": "A guide to using Claude Code effectively while saving tokens.",
+      "whyItMatters": "Mostly useful for cost control when prompting in code.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "f070149973ab7bddb3f9b10ba419ce14ef719796",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Opinion",
+      "tags": [
+        "mcp",
+        "agent-skills"
+      ],
+      "summary": "A developer describes designing 21 MCP tools to fit in a small token budget.",
+      "whyItMatters": "Hints at how to keep design-related MCP servers lean.",
+      "organization": "medium"
+    },
+    {
+      "id": "1e8d620dd91d1f007312325aa3c4ac6b7469ba73",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow",
+        "careers"
+      ],
+      "summary": "A short post worrying that AI could end design careers.",
+      "whyItMatters": "Reflects ongoing role anxiety in the field.",
+      "organization": "sidebar"
+    },
+    {
+      "id": "375eba5493dc2341c0012a2ef80a85bc2330fea6",
+      "scores": {
+        "importance": 3,
+        "trend": 1,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "agent-skills"
+      ],
+      "summary": "A tutorial on best practices for CLAUDE.md files, which give coding agents persistent instructions.",
+      "whyItMatters": "Applicable if you maintain design guidance for agents.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "ca1ca55b24a054bbd3b8198e42541067651d77ce",
+      "scores": {
+        "importance": 4,
+        "trend": 1,
+        "novelty": 4,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "ui-generation",
+        "designer-workflow"
+      ],
+      "summary": "A tutorial exploring a new GPT model for UI design tasks.",
+      "whyItMatters": "Gives a quick view of how a new model handles interface work.",
+      "organization": "openai"
+    },
+    {
+      "id": "071caa6e23d33468345541f7e35af9fc81751835",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "News",
+      "tags": [
+        "designer-workflow",
+        "writing"
+      ],
+      "summary": "A post on working with AI agents when doing design writing.",
+      "whyItMatters": "A workflow note for content designers.",
+      "organization": "sidebar"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "a0ed0e6ba42a055ec2d4e9ba91c6d66301861d31",
+      "reason": "off-beat"
+    },
+    {
+      "id": "72e9a6084382b3a094a108a52e3c1bbbd61cb8b3",
+      "reason": "roundup, off-beat"
+    },
+    {
+      "id": "65e65803bc3a37aad15d54c3112880472211a55d",
+      "reason": "off-beat"
+    },
+    {
+      "id": "ea1bd15d2eacce43a2b9066a1d1f958a46b7c6bb",
+      "reason": "event promo"
+    },
+    {
+      "id": "0db154ae9b6e664ebff99fa63280fb0439c9d955",
+      "reason": "off-beat"
+    },
+    {
+      "id": "7f9b278015e4c446c86a15ef448d6a367bb7382f",
+      "reason": "off-beat"
+    },
+    {
+      "id": "7f53d90bd8c923c48ea97e10a49eeb4025da8266",
+      "reason": "off-beat"
+    },
+    {
+      "id": "03aedabe3c7f543d9d13bf6ea589d19e3d0f2db7",
+      "reason": "off-beat"
+    },
+    {
+      "id": "fbdbc74cbdb0715e5acc01acebd929a8ef9a99d0",
+      "reason": "off-beat"
+    },
+    {
+      "id": "7c38e37a490428ddaecd8571a0c156b6bd2237f2",
+      "reason": "off-beat"
+    },
+    {
+      "id": "129281d8d90c47b7b88b3cf4bed4774ea815b7f0",
+      "reason": "off-beat"
+    },
+    {
+      "id": "65790a1790219a6b36630f18780796f380bd6225",
+      "reason": "off-beat"
+    }
+  ],
+  "clusterLabels": [],
+  "fetches": []
+}

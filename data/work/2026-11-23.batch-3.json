@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-23",
+  "batch": 3,
+  "of": 3,
+  "clusters": [],
+  "items": [
+    {
+      "id": "d4e864e6ea139805e1afc8cf4cd16cde8b32d0a3",
+      "title": "Anthropic Just Released New Rules of Claude Code",
+      "source": "UX Planet",
+      "sourceTier": 3,
+      "url": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
+      "author": "Nick Babich",
+      "publishedAt": "2026-11-17T21:01:18Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "082325fdd16e74dadf0c6cde9cb357682d4c629b",
+      "title": "Jev can 10x your Claude Code",
+      "source": "UX Planet",
+      "sourceTier": 3,
+      "url": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
+      "author": "Nick Babich",
+      "publishedAt": "2026-11-17T13:57:50Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 1,
+      "trendBaseline": 1,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    },
+    {
+      "id": "5b34f4c5dafc521ad81fba0f4fe635a2fbc16e0e",
+      "title": "Anthropic Just Launched Claude DATA",
+      "source": "UX Planet",
+      "sourceTier": 3,
+      "url": "https://uxplanet.org/anthropic-just-launched-claude-data-7095bbe77805?source=rss----819cc2aaeee0---4",
+      "author": "Nick Babich",
+      "publishedAt": "2026-11-16T17:27:26Z",
+      "categoryHint": "Tutorials",
+      "signals": {
+        "hnPoints": null,
+        "hnComments": null,
+        "redditScore": null,
+        "githubStars": null,
+        "githubStarsDelta": null,
+        "crossSourceCount": 1
+      },
+      "trendDelta": 0,
+      "trendBaseline": 0,
+      "previouslyFeatured": false,
+      "clusterId": null,
+      "clusterLabel": null
+    }
+  ]
+}

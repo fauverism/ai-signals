@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-23",
+  "batch": 3,
+  "items": [
+    {
+      "id": "d4e864e6ea139805e1afc8cf4cd16cde8b32d0a3",
+      "scores": {
+        "importance": 3,
+        "trend": 0,
+        "novelty": 3,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code",
+        "agent-skills"
+      ],
+      "summary": "A tutorial on new rules for using Claude Code.",
+      "whyItMatters": "Useful if your design workflow includes agent configuration.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "082325fdd16e74dadf0c6cde9cb357682d4c629b",
+      "scores": {
+        "importance": 2,
+        "trend": 1,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code"
+      ],
+      "summary": "A tutorial on a tool for boosting Claude Code productivity.",
+      "whyItMatters": "Niche workflow tip for code-based designers.",
+      "organization": "anthropic"
+    },
+    {
+      "id": "5b34f4c5dafc521ad81fba0f4fe635a2fbc16e0e",
+      "scores": {
+        "importance": 2,
+        "trend": 0,
+        "novelty": 2,
+        "credibility": 4
+      },
+      "category": "Tutorials",
+      "tags": [
+        "claude-code"
+      ],
+      "summary": "A tutorial about a Claude data feature.",
+      "whyItMatters": "Limited design relevance, noted for completeness.",
+      "organization": "anthropic"
+    }
+  ],
+  "skipped": [],
+  "clusterLabels": [],
+  "fetches": []
+}

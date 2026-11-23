@@ -5,8 +5,56 @@
     <link>https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/</link>
     <description>AI for UI, UX and visual design, ranked and printed every Monday: skills, UI generation, tools and how designers work with AI. Every link goes to the original publisher.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:08:59 GMT</lastBuildDate>
     <atom:link href="https://ai-signals-eedv30cvd-fauverisms-projects.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Workflow lab: Turning context into a plan with Specs and the Figma agent</title>
+      <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
+      <guid isPermaLink="false">c325f11bc00ffc00bb7c8f8dd7816e9aaa6ea8f3</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Figma walks through a workflow where project context becomes a plan using Specs and its agent. It shows how the company expects designers to brief and steer the agent.</description>
+    </item>
+    <item>
+      <title>Can AI Generate Good Designs from Raw User Data?</title>
+      <link>https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
+      <guid isPermaLink="false">706403dd4b30e52f16c0edc227705811b4ea5943</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>Research</category>
+      <description>Nielsen Norman Group tests whether AI can produce good designs starting from raw user research data. Written by named researchers, it adds evidence to a debate that is mostly opinion.</description>
+    </item>
+    <item>
+      <title>Now you can explore any idea in parallel without touching what&apos;s live</title>
+      <link>https://lovable.dev/blog/introducing-drafts</link>
+      <guid isPermaLink="false">7756429c4475039cc42921acb504c815e8992f49</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Lovable adds a way to explore several ideas in parallel without changing the live version of a project. It targets the risk of breaking something while iterating.</description>
+    </item>
+    <item>
+      <title>Canva added an AI ‘kill switch’ to its tools</title>
+      <link>https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools?partner=rss&amp;amp;utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=rss+fastcompany&amp;amp;utm_content=rss</link>
+      <guid isPermaLink="false">a75371a203f1e0ae353ef420c07adb8fb3661a15</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>News</category>
+      <description>Canva has added a switch that lets users turn off AI features in its tools, according to Fast Company. It responds to creative-community pushback.</description>
+    </item>
+    <item>
+      <title>Goodbye, Gemini Gems: How to use Google’s new Skills – and share them</title>
+      <link>https://www.zdnet.com/business/gemini-gems-google-skills-transition/</link>
+      <guid isPermaLink="false">20688799084a464511b0e24a1dcb5417a729d5f3</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>ZDNET explains Google&apos;s new Skills, which replace Gemini Gems and can be shared. A how-to from a named writer.</description>
+    </item>
+    <item>
+      <title>How 1Password uses Figma Make to design for trust and certainty</title>
+      <link>https://www.figma.com/blog/1password-figma-make/</link>
+      <guid isPermaLink="false">a5b1adbe934421bacbda005193ad38ffa6b873cd</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:59 GMT</pubDate>
+      <category>Tools &amp; Releases</category>
+      <description>Figma profiles how the 1Password team uses Figma Make in its design work. It is a vendor-published case study focused on communicating trust in the product.</description>
+    </item>
     <item>
       <title>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
       <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
@@ -294,54 +342,6 @@
       <pubDate>Fri, 30 Oct 2026 10:11:43 GMT</pubDate>
       <category>Policy &amp; Safety</category>
       <description>WIRED reports a defense contractor gave a personal AI agent access to a secure Pentagon system.</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon: Our next frontier model</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="false">34b0bf3f94c3851e6957dd11bedc60679d6c4b34</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Google DeepMind announces Gemini 4 Carbon, a new frontier model it positions as a step up in cybersecurity work. Access appears limited at launch.</description>
-    </item>
-    <item>
-      <title>PyTorch 2.15 Release Blog</title>
-      <link>https://pytorch.org/blog/pytorch-2-15-release-blog/</link>
-      <guid isPermaLink="false">9d04b7a7d60f7eeeca49e04cab684781a1ffdb0a</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>PyTorch publishes release notes for version 2.15.</description>
-    </item>
-    <item>
-      <title>Anthropic Files Its S-1</title>
-      <link>https://thezvi.substack.com/p/anthropic-files-its-s-1</link>
-      <guid isPermaLink="false">6950fc9975df2b731e265ca462eb6992ca209823</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Business</category>
-      <description>Zvi comments on Anthropic filing an S-1.</description>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <guid isPermaLink="false">7ae8eb20550eee7692436f1c407fce5b64ca68f4</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>Hugging Face post on NVIDIA Nemotron 3.5 Transcribe and the Granary v2 dataset for promptable multilingual transcription.</description>
-    </item>
-    <item>
-      <title>Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms</title>
-      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
-      <guid isPermaLink="false">5e4098babe95c0f83287cf6fe541c954ab163391</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tools &amp; Releases</category>
-      <description>TechCrunch reports Chrome autofill can now draw on Gmail content to complete forms.</description>
-    </item>
-    <item>
-      <title>How Uber Built A Gateway For AI Agents To Access Tools</title>
-      <link>https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents</link>
-      <guid isPermaLink="false">ccdcae5827c6090af8d2291439604f37d1d5961a</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:56 GMT</pubDate>
-      <category>Tutorials</category>
-      <description>ByteByteGo outlines how Uber built a gateway that lets AI agents reach internal tools.</description>
     </item>
   </channel>
 </rss>
