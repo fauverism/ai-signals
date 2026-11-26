@@ -21,8 +21,7 @@
     "weekly:start": "node scripts/weekly.js start",
     "weekly:publish": "node scripts/weekly.js publish",
     "weekly:summary": "node scripts/weekly.js summary",
-    "weekly:fail": "node scripts/weekly.js fail",
-    "newsletter": "node scripts/newsletter.js"
+    "weekly:fail": "node scripts/weekly.js fail"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",

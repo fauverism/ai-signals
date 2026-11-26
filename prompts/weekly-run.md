@@ -109,18 +109,6 @@ Lead: <the lead headline>
 Source errors: none   (or: Source errors (<k>): <id> (<reason>), …)
 ```
 
-## 7. Newsletter draft
-
-Only after step 5 succeeded and pushed (including "Nothing to commit"). Never when the run failed.
-
-```
-npm run newsletter
-```
-
-It turns `data/latest.json` into the weekly Markdown email (title, date, editor's note, lead, top 5, innovations, footer links) and saves it in Buttondown as a **draft**. A re-run for the same edition updates that draft instead of adding another. **Never send, schedule or publish anything:** the person reviews and sends from Buttondown, and the script has no way to do it. Needs `BUTTONDOWN_API_KEY` in the environment; never print it.
-
-The edition is already live, so a newsletter problem is **not** a run failure: don't run `weekly:fail`, don't write a failed.md. Retry once; if it still fails, carry on to step 6 and keep the five-line summary as is. (The error is printed in the command output.)
-
 ## Failing
 
 When something fails and you can't repair it within the limits above:
@@ -148,6 +136,5 @@ Re-running this file on the same day is safe. `weekly:start` pulls the earlier e
 | `data/work/D.dropped.json` | featured items whose link failed the check; `rank --assemble` leaves them out |
 | `data/logs/D.json` | the collection log (which sources errored) |
 | `data/logs/D-check.json` | the last gate report |
-| `data/work/D.newsletter.md` | the email's Markdown, written only by `npm run newsletter -- --dry-run` |
 | `data/logs/D-failed.md` | why a run stopped (never pushed) |
 | `data/work/weekly-run.json` | the run's date and status (never pushed) |

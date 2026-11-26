@@ -4,8 +4,7 @@ Last Week in AI Design (repo: ai-signals) is a **weekly** digest, published ever
 Monday, of AI news for **UI, UX and visual design**: agent skills, UI generation,
 design tools, and how designers are using AI. It collects the past seven days,
 ranks links by **importance**, **trend momentum** and **novelty**, then features
-the best ones on a static site. A weekly email draft is created in Buttondown for
-the owner to review and send. The beat is defined in
+the best ones on a static site. There is no newsletter. The beat is defined in
 `prompts/editorial-rubric.md` ("The beat").
 
 These rules apply to every session. Follow them unless the user explicitly
@@ -74,9 +73,8 @@ written to JSON files so they are reviewable and reproducible.
 
 - **Never commit secrets**, tokens or keys, including in `/data`, logs, fixtures
   or examples.
-- `BUTTONDOWN_API_KEY` comes from the environment only. Scripts must fail
-  clearly if it is missing and must never print it.
-- The API key must never reach `/site`.
+- Keys and tokens come from the environment only. Scripts must fail clearly if
+  one is missing and must never print it. They must never reach `/site`.
 - `.env` files stay gitignored. Redact secrets and tokens from `/data/logs`.
 
 ## Folder map
@@ -104,7 +102,7 @@ directories without updating this file.
 4. Claude scores, summarizes, clusters, and writes the editor's note
    (per `/prompts`)
 5. Validate against `/schemas`; write the edition to `/data/editions`
-6. Site reads editions as static JSON; newsletter sent via Buttondown
+6. Site reads editions as static JSON
 
 Each step is re-runnable and idempotent for a given edition date. The
 scheduled task runs `prompts/weekly-run.md` every Monday morning (US Eastern).

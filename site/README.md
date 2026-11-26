@@ -8,7 +8,7 @@ The deployed site: plain HTML, CSS and vanilla JavaScript, no build step. Must m
 | `archive.html`, `js/archive.js`, `js/search.js` | Every edition newest first, plus search over the last 30 editions' titles, summaries and tags. The search index loads the first time the box is used; typing is debounced 150 ms; no library. |
 | `about.html` | The four scores and their weights in plain language, with a worked example. A test fails if its numbers drift from the code. |
 | `methodology.html` | How stories are collected, featured and limited. |
-| `config.js` | The newsletter's username, headline, subline, tags and confirmation wording, and the site URL. |
+| `config.js` | The site URL and the tagline for the share image. |
 | `css/site.css` | Design tokens (palette, type scale, 4px spacing steps) and components. |
 | `js/lib.js`, `js/theme.js` | DOM and date helpers; the theme toggle (saved in `localStorage` inside try/catch). |
 | `fonts/` | Libre Caslon Text, Abril Fatface and UnifrakturCook as woff2 (SIL OFL 1.1, from Google Fonts), self-hosted; see `fonts/NOTICE.md`. |
